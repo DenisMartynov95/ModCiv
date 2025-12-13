@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/23/2014 2:03:37 PM -->
+<GameData>
+	<Resources>
+		<Delete Type="RESOURCE_PERFUME"/>
+		<Row>
+			<Type>RESOURCE_PERFUME</Type>
+			<Happiness>2</Happiness>
+			<TechCityTrade>TECH_COMBUSTION</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_PERFUME</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_PERFUME_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_PERFUME_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<IconString>[ICON_RES_PERFUME]</IconString>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Delete ResourceType="RESOURCE_PERFUME"/>
+		<Row>
+			<ResourceType>RESOURCE_PERFUME</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_PERFUME</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>9</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_PERFUME">
+			<Text>Perfume</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PERFUME_HELP">
+			<Text>Perfume is produced by the Perfumery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PERFUME_PEDIA">
+			<Text>Perfume is a mixture of fragrant essential oils or aroma compounds, fixatives and solvents used to give something "a pleasant scent." Perfumes have been known to exist in some of the earliest human civilizations, either through ancient texts or from archaeological digs. Modern perfumery began in the late 19th century with the commercial synthesis of aroma compounds such as vanillin or coumarin, which allowed for the composition of perfumes with smells previously unattainable solely from natural aromatics alone.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

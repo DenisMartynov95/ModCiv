@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <PlayerColors>
+        <Row>
+            <Type>PLAYERCOLOR_MYCENAE</Type>
+            <PrimaryColor>COLOR_PLAYER_MYCENAE_ICON</PrimaryColor>
+            <SecondaryColor>COLOR_PLAYER_MYCENAE_BACKGROUND</SecondaryColor>
+            <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+        </Row>
+        <Row>
+            <Type>PLAYERCOLOR_AMAZONS</Type>
+            <PrimaryColor>COLOR_PLAYER_AMAZONS_ICON</PrimaryColor>
+            <SecondaryColor>COLOR_PLAYER_AMAZONS_BACKGROUND</SecondaryColor>
+            <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+        </Row>
+        <Row>
+            <Type>PLAYERCOLOR_ATHENIAN</Type>
+            <PrimaryColor>COLOR_PLAYER_ATHENIAN_ICON</PrimaryColor>
+            <SecondaryColor>COLOR_PLAYER_ATHENIAN_BACKGROUND</SecondaryColor>
+            <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+        </Row>
+        <Row>
+            <Type>PLAYERCOLOR_SPARTAN</Type>
+            <PrimaryColor>COLOR_PLAYER_SPARTAN_ICON</PrimaryColor>
+            <SecondaryColor>COLOR_PLAYER_SPARTAN_BACKGROUND</SecondaryColor>
+            <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+        </Row>
+        <Row>
+            <Type>PLAYERCOLOR_MINOAN</Type>
+            <PrimaryColor>COLOR_PLAYER_MINOAN_ICON</PrimaryColor>
+            <SecondaryColor>COLOR_PLAYER_MINOAN_BACKGROUND</SecondaryColor>
+            <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+        </Row>
+        <Row>
+            <Type>PLAYERCOLOR_TROJAN</Type>
+            <PrimaryColor>COLOR_PLAYER_TROJAN_ICON</PrimaryColor>
+            <SecondaryColor>COLOR_PLAYER_TROJAN_BACKGROUND</SecondaryColor>
+            <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+        </Row>
+    </PlayerColors>
+</GameData>

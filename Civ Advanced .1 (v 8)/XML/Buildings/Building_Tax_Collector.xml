@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/28/2014 12:51:39 PM -->
+<GameData>
+	<BuildingClasses>
+		<Delete Type="BUILDINGCLASS_MARKET"/>
+		<Delete Type="BUILDINGCLASS_BANK"/>
+		<Row>
+			<Type>BUILDINGCLASS_TAX_COLLECTOR</Type>
+			<DefaultBuilding>BUILDING_TAX_COLLECTOR</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TAX_COLLECTOR</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MARKET</Type>
+			<DefaultBuilding>BUILDING_MARKET</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MARKET</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_BANK</Type>
+			<DefaultBuilding>BUILDING_BANK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BANK</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TAX_COLLECTOR</Type>
+			<BuildingClass>BUILDINGCLASS_TAX_COLLECTOR</BuildingClass>
+			<Cost>145</Cost>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+			<FreeStartEra>ERA_RENAISSANCE</FreeStartEra>
+			<Description>TXT_KEY_BUILDING_TAX_COLLECTOR</Description>
+			<Civilopedia>TXT_KEY_BUILDING_TAX_COLLECTOR_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TAX_COLLECTOR_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_TAX_COLLECTOR_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>35</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_TAX_COLLECTOR</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAX_COLLECTOR</BuildingType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAX_COLLECTOR</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_TAX_COLLECTOR</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_TAX_COLLECTOR</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_MARKET</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_TAX_COLLECTOR</BuildingClassType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAZAAR</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_TAX_COLLECTOR</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_TAX_COLLECTOR">
+			<Text>Tax Collector</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TAX_COLLECTOR_HELP">
+			<Text>+1 [ICON_GOLD] Gold for every 4 [ICON_CITIZEN] Citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TAX_COLLECTOR_STRATEGY">
+			<Text>The Tax Collector is a Ancient Era building which increases [ICON_GOLD] Gold output the bigger the City gets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TAX_COLLECTOR_PEDIA">
+			<Text>The first known system of taxation was in Ancient Egypt around 3000–2800 BC in the first dynasty of the Old Kingdom. Citizens were required to pay a tenth of their income or produced goods also called a tithe to their lord or the Pharaoh. Those unable to pay were forced into labour until their debt was paid also know as a corvée. Most ancient civilizations had very similar systems.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

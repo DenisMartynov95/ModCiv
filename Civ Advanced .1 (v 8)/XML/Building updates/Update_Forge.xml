@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/24/2014 1:07:19 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Set Cost="160"/>
+			<Where Type="BUILDING_FORGE"/>
+		</Update>
+		<Update>
+			<Set SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="1"/>
+			<Where Type="BUILDING_FORGE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2"/>
+			<Where Type="BUILDING_FORGE"/>
+		</Update>
+	</Buildings>
+	<Building_LocalResourceAnds>
+		<Delete BuildingType="BUILDING_FORGE" />
+	</Building_LocalResourceAnds>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_FORGE</BuildingType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FORGE</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FORGE</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_FORGE</BuildingType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FORGE</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_FORGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_FORGE_HELP" />
+			<Set Text="+15% [ICON_PRODUCTION] production for land units. Each source of [ICON_RES_IRON] Iron, [ICON_RES_COPPER] Copper and [ICON_RES_ALUMINUM] Aluminum worked by this City produces +1 [ICON_PRODUCTION] Production." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_FORGE_STRATEGY"/>
+			<Set Text="The Forge can only be constructed in a city with an improved source of [ICON_RES_IRON] Iron, [ICON_RES_ALUMINUM] Aluminum or [ICON_RES_COPPER] Copper nearby. It increases the speed at which the city produces land units."/>
+		</Update>
+	</Language_en_US>
+	
+</GameData>

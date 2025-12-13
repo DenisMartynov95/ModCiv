@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/22/2014 3:39:30 PM -->
+<GameData>
+
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_STONE_WORKS_STRATEGY" />
+			<Set Text="The Stone Works increases a City's [ICON_PRODUCTION] Production from [ICON_RES_STONE] Stone, [ICON_RES_MARBLE] Marble and [ICON_RES_CLAY] Clay. It requires an improved source of any near your City to be built." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP" />
+			<Set Text="Each source of [ICON_RES_STONE] Stone, [ICON_RES_MARBLE] Marble and [ICON_RES_CLAY] Clay worked by this City produces +1 [ICON_PRODUCTION] Production." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_UNIVERSITY_STRATEGY" />
+			<Set Text="The University increases the [ICON_RESEARCH] Science output of the city, and it gets bonus [ICON_RESEARCH] Science from jungle tiles and sources of [ICON_RES_URANIUM] Uranium worked nearby. The city must already have a Library (or Paper Maker) in order to construct a University." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_MINT_STRATEGY" />
+			<Set Text="The Mint increases the amount of [ICON_GOLD] from worked sources of [ICON_RES_GOLD] Gold, [ICON_RES_SILVER] Silver and [ICON_RES_COPPER] Copper. The City must have at least one of these resources mined nearby to build the Mint." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_LABORATORY_STRATEGY" />
+			<Set Text="The Research Laboratory is a late-game building which greatly increases the [ICON_RESEARCH] Science output of a city. It also gets bonus [ICON_RESEARCH] Science from each sources of [ICON_RES_GEMS] Gems worked by the City. The city must already possess a Public School to construct the Research Laboratory." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_CIRCUS_STRATEGY" />
+			<Set Text="The Circus increases the [ICON_HAPPINESS_1] Happiness of your empire but requires ether an improved source of [ICON_RES_IVORY] Ivory or [ICON_RES_HORSE] Horse near your City to be built. It also increases the [ICON_GOLD] Gold income of those resources." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_LABORATORY_HELP"/>
+			<Set Text="Each source of [ICON_RES_GEMS] Gems worked by this City produces +1 [ICON_RESEARCH] Science."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_CIRCUS_HELP" />
+			<Set Text="Each source of [ICON_RES_IVORY] Ivory worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Each source of [ICON_RES_HORSE] Horses worked by this City produces +1 [ICON_GOLD] Gold" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_MINT_HELP" />
+			<Set Text="Each source of [ICON_RES_GOLD] Gold, [ICON_RES_COPPER] Copper and [ICON_RES_SILVER] Silver worked by this City produces +1 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have at least one of these resources mined nearby. " />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP" />
+			<Set Text="Each source of [ICON_RES_URANIUM] Uranium worked by this City produces +2 [ICON_RESEARCH] Science.[NEWLINE][NEWLINE] Each Jungle tile worked by this City produces +2 [ICON_RESEARCH] Science." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_WAT_HELP" />
+			<Set Text="Each source of [ICON_RES_URANIUM] Uranium worked by this City produces +2 [ICON_RESEARCH] Science.[NEWLINE][NEWLINE] Each Jungle tile worked by this City produces +2 [ICON_RESEARCH] Science." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_GRANARY_HELP" />
+			<Set Text="Each source of [ICON_RES_DEER] Deer, [ICON_RES_WHEAT] Wheat, [ICON_RES_RICE] Rice, [ICON_RES_MAIZE] Maize and [ICON_RES_BANANA] Banana worked by this City produces +1 [ICON_FOOD] Food." />
+		</Update>
+	</Language_en_US>
+  
+</GameData>

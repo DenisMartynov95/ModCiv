@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/8/2014 3:34:21 PM -->
+<GameData>
+	<Resources>
+		<Delete Type="RESOURCE_LEATHER"/>
+		<Delete Type="RESOURCE_HIDE"/>
+		<Row>
+			<Type>RESOURCE_LEATHER</Type>
+			<TechCityTrade>TECH_COMBUSTION</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_LEATHER</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_LEATHER_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_LEATHER_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<IconString>[ICON_RES_LEATHER]</IconString>
+			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Delete ResourceType="RESOURCE_LEATHER"/>
+		<Delete ResourceType="RESOURCE_HIDE"/>
+		<Row>
+			<ResourceType>RESOURCE_LEATHER</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_LEATHER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>7</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_LEATHER</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_LEATHER">
+			<Text>Leather</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LEATHER_HELP">
+			<Text>Leather is produced by the Tannery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LEATHER_PEDIA">
+			<Text>Leather is a durable and flexible material created by the tanning of animal rawhide and skin, often cattle hide. It can be produced through manufacturing processes ranging from cottage industry to heavy industry. Leather is used for various purposes including clothing (eg. shoes, hats, jackets, trousers and belts), bookbinding, leather wallpaper, and as a furniture covering.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/21/2014 10:47:11 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Set GoldMaintenance="5"/>
+			<Where Type="BUILDING_MEDICAL_LAB"/>
+		</Update>
+		<Update>
+			<Set Cost="600"/>
+			<Where Type="BUILDING_MEDICAL_LAB"/>
+		</Update>
+		<Update>
+			<Set FoodKept="0"/>
+			<Where Type="BUILDING_MEDICAL_LAB"/>
+		</Update>
+	</Buildings>
+	<Building_ClassesNeededInCity>
+		<Delete BuildingType="BUILDING_MEDICAL_LAB"/>
+		<Row>
+			<BuildingType>BUILDING_MEDICAL_LAB</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_TREATMENT_PLANT</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_MEDICAL_LAB</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_MEDICAL_LAB_STRATEGY"/>
+			<Set Text="The Medical Lab adds more [ICON_FOOD] Food as the City gets larger. The City must have a Treatment Plant before a Medical Lab can be built."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_MEDICAL_LAB_HELP"/>
+			<Set Text="+1 [ICON_FOOD] Food for every 4 [ICON_CITIZEN] Citizens."/>
+		</Update>
+	</Language_en_US>
+</GameData>

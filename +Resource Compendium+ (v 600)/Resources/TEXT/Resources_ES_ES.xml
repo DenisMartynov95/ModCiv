@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_ES_ES>
+<!--===============================================================-->
+<!--===== Luxury Resource Changes =================================-->
+<!--===============================================================-->
+<!--Cinnamon (Spices)-->
+		<Replace Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>Canela</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES">
+			<Text>Canela</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES_TEXT">
+			<Text>La canela se obtiene de la corteza interna de los árboles de Cinnamomum y se utiliza comúnmente como una especia aromática para alimentos salados. Las especias son sustancias de origen vegetal utilizadas para preservar y mejorar el sabor, color o textura de los alimentos. Además de mejorar los alimentos, algunas especias tienen beneficios medicinales, significados religiosos o son útiles en la conservación de alimentos. Generalmente, las especias deben secarse y molerse antes de aplicarse a los alimentos; esto las distingue de hierbas como la salvia o el orégano, que son verdes y pueden utilizarse frescas o secas.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Luxury Resources ====================================-->
+<!--===============================================================-->
+<!--Amber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER">
+			<Text>Ámbar</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER_PEDIA">
+			<Text>El ámbar es resina de árbol fosilizada, apreciada por su color y belleza natural desde los tiempos neolíticos. Muy valorada desde la antigüedad hasta el presente como gema, el ámbar se utiliza para hacer una variedad de objetos decorativos. El ámbar también se usa como ingrediente en perfumes, como agente curativo en la medicina popular y como joyería. Debido a que se origina como una resina de árbol blanda y pegajosa, el ámbar a veces contiene material animal y vegetal como inclusiones.</Text>
+		</Replace>
+<!--Coffee-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE">
+			<Text>Café</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE_PEDIA">
+			<Text>El café es una bebida preparada a partir de las semillas tostadas de varias especies de arbustos perennes pertenecientes al género Coffea. La evidencia más antigua de consumo de café o conocimiento del árbol de café aparece a mediados del siglo XV en los monasterios de Arabia. Allí fue donde las semillas de café se tostaron y prepararon por primera vez, de una manera similar a como se hace hoy en día. Eventualmente, a través del comercio, el café llegó a los puertos venecianos en Italia y, desde allí, se introdujo al resto de Europa.</Text>
+		</Replace>
+<!--Coral-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL">
+			<Text>Coral</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL_PEDIA">
+			<Text>El coral es una estructura ramificada similar a un esqueleto construida por pequeños animales marinos conocidos como pólipos. El coral rojo, también conocido como coral precioso, es una de las gemas más antiguas y ha sido cosechado desde la antigüedad para su uso decorativo. Pertenece a una pequeña clase de gemas orgánicas que no son realmente piedras, que incluye materiales como perlas, ámbar, marfil y azabache. Históricamente, el coral precioso no solo fue una forma altamente valorada de ornamentación, sino también una sustancia a la que se le atribuían propiedades sagradas misteriosas. Hoy en día, leyes y organizaciones ayudan a proteger los arrecifes de coral, ya que sus poblaciones están amenazadas por la sobreexplotación, la pesca excesiva y el cambio climático.</Text>
+		</Replace>
+<!--Jade-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE">
+			<Text>Jade</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE_PEDIA">
+			<Text>El jade es una piedra ornamental y el nombre que se da a dos tipos de roca metamórfica, nefrita y jadeíta. Entre los artefactos de jade más antiguos excavados en sitios prehistóricos se encuentran simples adornos con formas de cuentas, botones y tubos. Además, el jade se utilizó para cabezas de hacha, cuchillos y otras armas, que podían moldearse delicadamente. A medida que las tecnologías de trabajo del metal estuvieron disponibles, la belleza del jade lo convirtió en un material valioso para adornos y objetos decorativos. En la historia china, el jade fue considerado la "gema imperial" con un valor superior al del oro o la plata.</Text>
+		</Replace>
+<!--Lapis Lazuli-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS">
+			<Text>Lapis Lazuli</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS_PEDIA">
+			<Text>El lapislázuli es una piedra semipreciosa azul profundo que ha sido apreciada desde la antigüedad por su intenso color. Ha sido extraído durante más de 6,000 años en Afganistán y fue la fuente de lapislázuli para las civilizaciones antiguas egipcias y mesopotámicas, así como para los griegos y romanos posteriores. Además de los depósitos afganos, el lapislázuli se puede encontrar en otras partes del mundo, como Rusia, Chile, Canadá, India, Italia y Estados Unidos. El lapislázuli toma un excelente pulido y fue valorado para fabricar joyas, esculturas, jarrones y otros ornamentos; especialmente en el antiguo Egipto. También se molía y procesaba para fabricar el pigmento más buscado, ultramarino, que valía más que el oro. Durante el Renacimiento, este valioso pigmento se usaba con moderación y, a menudo, se reservaba para colorear las vestiduras de María y otras figuras religiosas importantes.</Text>
+		</Replace>
+<!--Olives-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES">
+			<Text>Aceitunas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES_PEDIA">
+			<Text>La aceituna es una especie de árbol pequeño de la familia Oleaceae, nativo de las áreas costeras del este de la cuenca mediterránea, así como del norte de Irak y del norte de Irán, al sur del Mar Caspio. Su fruto, también llamado aceituna, tiene una gran importancia agrícola en la región mediterránea como fuente de aceite de oliva. La aceituna ha sido símbolo de paz, sabiduría, gloria, fertilidad, poder y pureza. El aceite de oliva ha sido considerado sagrado durante mucho tiempo y, aún hoy en día, se sigue utilizando en muchas ceremonias religiosas.</Text>
+		</Replace>
+<!--Poppies-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES">
+			<Text>Amapola</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES_PEDIA">
+			<Text>Una amapola es una planta con flores de la subfamilia Papaveroideae de la familia Papaveraceae. Las amapolas son plantas herbáceas, a menudo cultivadas por sus coloridas flores. Una especie de amapola, Papaver somniferum, es la fuente de la droga narcótica opio, que contiene potentes alcaloides medicinales como la morfina y se ha utilizado desde la antigüedad como analgésico y narcótico medicinal y recreativo. También produce semillas comestibles. Tras la guerra de trincheras en los campos de amapolas de Flandes, Bélgica, durante la Primera Guerra Mundial, las amapolas se han convertido en un símbolo de recuerdo de los soldados que han muerto durante la guerra.</Text>
+		</Replace>
+<!--Roses-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES">
+			<Text>Rosas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES_PEDIA">
+			<Text>
+				Las rosas son una de las flores más icónicas y cultivadas del mundo, con una historia que abarca miles de años. Originarias de Asia, las rosas fueron domesticadas por primera vez en China y posteriormente se extendieron a Persia, Grecia y Roma. Se cultivaban por su fragancia, belleza y propiedades medicinales. En la antigua Roma, las rosas estaban asociadas con el lujo y se utilizaban en banquetes, perfumes e incluso como moneda. Durante la Edad Media, los monasterios y las propiedades nobles mantenían jardines de rosas tanto con fines decorativos como terapéuticos.
+				[NEWLINE][NEWLINE]El simbolismo de las rosas quedó profundamente ligado a la historia europea, especialmente durante la Guerra de las Rosas en Inglaterra. En la era moderna, las rosas son un símbolo universal de amor y belleza y siguen siendo una parte fundamental de la industria floral. Además, el aceite y el agua de rosas todavía se emplean en perfumería, cosmética y gastronomía, lo que resalta su valor cultural y económico perdurable.
+			</Text>
+		</Replace>
+<!--Seals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS">
+			<Text>Focas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_PEDIA">
+			<Text>
+				Las focas son el nombre común para una variedad de criaturas árticas semiacuáticas conocidas como pinnípedos. Los pinnípedos han sido cazados por los inuit por sus pieles, su grasa y su carne durante más de 4,000 años. La caza de focas, la práctica de cazar focas, aún se practica hoy en día en países como Canadá y Groenlandia.
+				[NEWLINE][NEWLINE]Las prácticas modernas de caza de focas son objeto de controversia, siendo criticadas por grupos de derechos de los animales y organizaciones antifur, que han organizado protestas y boicots a la industria de piel de focas. La viabilidad económica de la caza de focas se ha puesto en duda por los movimientos populares para evitar productos de foca en la moda y el consumo. La reducción de la demanda de productos de foca ha tenido un fuerte efecto negativo en los inuit y su capacidad para contribuir a un mercado mundial globalizado.
+			</Text>
+		</Replace>
+<!--Tea-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA">
+			<Text>Té</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA_PEDIA">
+			<Text>El té es una bebida aromática que generalmente se prepara vertiendo agua caliente sobre hojas curadas de la planta del té. El consumo de té probablemente comenzó en China, durante la dinastía Shang, cuando inicialmente se utilizaba con fines medicinales y se combinaba con otras hierbas. Fue introducido por primera vez a sacerdotes y comerciantes portugueses en China durante el siglo XVI y, más tarde, se popularizó en Gran Bretaña durante el siglo XVII, lo que eventualmente llevó a Gran Bretaña a competir con el monopolio chino sobre él.</Text>
+		</Replace>
+<!--Tobacco-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO">
+			<Text>Tabaco</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO_PEDIA">
+			<Text>El tabaco es un producto procesado a partir de las hojas secas de plantas del género Nicotiana. Se utiliza de forma recreativa en puros, cigarrillos, rapé, tabaco de pipa, tabaco para mascar y shisha aromatizada. Muchas tribus nativas americanas han cultivado y utilizado tradicionalmente el tabaco, con algunos sitios de cultivo en México que datan del 1400-1000 a.C. Las tribus del este de América del Norte llevaban grandes cantidades de tabaco en bolsas como un artículo de comercio ampliamente aceptado y a menudo lo fumaban en pipas de la paz, ya sea en ceremonias sagradas definidas o para sellar un acuerdo. Tras la llegada de los europeos, el tabaco se hizo cada vez más popular como artículo de comercio y creció hasta convertirse en su propia industria.</Text>
+		</Replace>
+<!--Lavender-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER">
+			<Text>Lavanda</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER_PEDIA">
+			<Text>
+				La lavanda (Lavandula angustifolia) es una hierba fragante originaria de la región mediterránea. Se cultiva ampliamente por sus flores aromáticas, que se utilizan en perfumes, aceites y como hierba culinaria. La lavanda ha sido durante siglos un símbolo de belleza y limpieza, utilizada en todo, desde los baños romanos hasta la aromaterapia moderna. Su aceite esencial es conocido por sus propiedades calmantes y se utiliza para tratar el estrés, la ansiedad y los trastornos del sueño.
+				[NEWLINE][NEWLINE]La lavanda prospera en suelos bien drenados y en climas soleados, lo que la convierte en una opción popular tanto para la horticultura comercial como doméstica. También es conocida por su papel en el paisajismo, añadiendo color y fragancia a los jardines. Más allá de sus usos medicinales y ornamentales, la lavanda es un recurso económico importante, contribuyendo a las economías de países como Francia, Bulgaria y el Reino Unido. Hoy en día, es un ingrediente esencial en la medicina herbaria, productos de belleza naturales y en la cocina.
+			</Text>
+		</Replace>
+<!--Tulips-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS">
+			<Text>Tulipanes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS_PEDIA">
+			<Text>Los tulipanes, cultivados por primera vez en Turquía y Asia Central, llegaron a Europa en el siglo XVI, donde se convirtieron en símbolo de lujo y belleza. Su popularidad alcanzó su punto máximo durante la "Fiebre de los Tulipanes" en los Países Bajos del siglo XVII, un temprano ejemplo de burbuja especulativa. Hoy en día, los tulipanes son apreciados por sus colores vibrantes y elegantes flores, ampliamente cultivados en los Países Bajos y celebrados en festivales de primavera en todo el mundo.</Text>
+		</Replace>
+		<!--TULIP FARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM">
+			<Text>Granja de tulipanes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM_PEDIA">
+			<Text>
+				Las granjas de tulipanes son coloridas plantaciones agrícolas dedicadas al cultivo de tulipanes, una flor históricamente asociada con la riqueza, la belleza y el comercio. Originarios de Asia Central y ampliamente cultivados en los Países Bajos, los tulipanes se convirtieron en una mercancía importante durante la «fiebre de los tulipanes» del siglo XVII. Estas granjas generan Cultura y Oro, atraen turismo y simbolizan la estética refinada, especialmente en terrenos fértiles o cerca de la costa.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_TULIPFARM">
+			<Text>Establecer una [LINK=IMPROVEMENT_GAIA_TULIPFARM]granja de tulipanes[\LINK]</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Bonus Resources =====================================-->
+<!--===============================================================-->
+<!--Berries-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES">
+			<Text>Bayas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES_PEDIA">
+			<Text>Una baya es un fruto pequeño, carnoso y, a menudo, comestible. Por lo general, las bayas son jugosas, redondeadas, de colores brillantes, dulces, ácidas o agrias, y no tienen una piedra o hueso, aunque pueden tener muchas pepitas o semillas. Algunos ejemplos comunes son los arándanos, fresas, frambuesas, moras, grosellas negras y rojas, entre otras. Las bayas han sido un recurso alimenticio valioso para los humanos desde antes del inicio de la agricultura y fueron un elemento básico estacional para los primeros cazadores-recolectores durante miles de años. Con el tiempo, los humanos aprendieron a almacenar bayas para su uso en invierno. También comenzaron a cultivarse en Europa y otros países. Algunas especies de moras y frambuesas del género Rubus han sido cultivadas desde el siglo XVII, mientras que los arándanos y arándanos rojos del género Vaccinium se han cultivado en los Estados Unidos durante más de un siglo.</Text>
+		</Replace>
+<!--Cactus-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS">
+			<Text>Cactus</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS_PEDIA">
+			<Text>Un cactus es un miembro de la familia de plantas Cactaceae, una familia que comprende alrededor de 127 géneros con unas 1750 especies conocidas del orden Caryophyllales. La palabra cactus deriva, a través del latín, del griego antiguo κάκτος (káktos), un nombre originalmente utilizado por Teofrasto para una planta espinosa cuya identidad ahora no es cierta. Los cactus se presentan en una amplia gama de formas y tamaños. Aunque algunas especies viven en ambientes bastante húmedos, la mayoría de los cactus habitan en hábitats sujetos al menos a cierta sequía. Muchos viven en entornos extremadamente secos, incluso en el desierto de Atacama, uno de los lugares más secos de la Tierra. Debido a esto, los cactus muestran muchas adaptaciones para conservar agua. Por ejemplo, casi todos los cactus son suculentas, lo que significa que tienen partes gruesas y carnosas adaptadas para almacenar agua. A diferencia de muchas otras suculentas, el tallo es la única parte de la mayoría de los cactus donde tiene lugar este proceso vital. La mayoría de las especies de cactus han perdido hojas verdaderas, reteniendo solo espinas, que son hojas altamente modificadas. Además de defenderse de los herbívoros, las espinas ayudan a evitar la pérdida de agua al reducir el flujo de aire cerca del cactus y proporcionar algo de sombra. En ausencia de hojas verdaderas, los tallos agrandados de los cactus llevan a cabo la fotosíntesis. Los cactus son nativos de las Américas, desde la Patagonia en el sur hasta partes del oeste de Canadá en el norte, excepto por Rhipsalis baccifera, que también crece en África y Sri Lanka.</Text>
+		</Replace>
+<!--Coconuts-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS">
+			<Text>Coco</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_PEDIA">
+			<Text>Los cocos son conocidos por su versatilidad de usos, que van desde alimentos hasta cosméticos. La pulpa interna de la semilla madura, así como la leche de coco extraída de ella, forman una parte regular de las dietas de muchas personas en los trópicos y subtrópicos. Las cáscaras duras, las cáscaras fibrosas y las largas hojas pinnadas se pueden utilizar como material para fabricar una variedad de productos para muebles y decoración. El coco también tiene un significado cultural y religioso en ciertas sociedades, particularmente en la India, donde se utiliza en rituales hindúes.</Text>
+		</Replace>
+<!--Flax-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX">
+			<Text>Lino</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX_PEDIA">
+			<Text>
+				El lino, también conocido como linaza o lino común, es una planta con flores, Linum usitatissimum, de la familia Linaceae. Se cultiva como cultivo alimenticio y textil en regiones del mundo con climas templados. Los textiles hechos de lino se conocen en inglés como "linen" y se utilizan tradicionalmente para sábanas, ropa interior y manteles. Su aceite se conoce como aceite de linaza. Además de referirse a la planta, la palabra "lino" puede referirse a las fibras no hiladas de la planta de lino. La especie de planta solo se conoce como planta cultivada y parece haber sido domesticada una sola vez a partir de la especie silvestre Linum bienne, llamada lino pálido.
+				[NEWLINE][NEWLINE]El lino se cultivó extensamente en el antiguo Egipto, donde las paredes de los templos tenían pinturas de lino floreciente, y las momias fueron embalsamadas utilizando lino. Los sacerdotes egipcios solo usaban lino, ya que se consideraba un símbolo de pureza. Los fenicios comerciaron con lino egipcio en todo el Mediterráneo, y los romanos lo utilizaron para sus velas. A medida que el Imperio Romano declinó, también lo hizo la producción de lino. Pero con leyes diseñadas para publicitar la higiene de los textiles de lino y la salud del aceite de linaza, Carlomagno revivió el cultivo en el siglo VIII. Finalmente, Flandes se convirtió en el principal centro de la industria del lino europeo en la Edad Media. En América del Norte, los colonos introdujeron el lino y prosperó allí, pero a principios del siglo XX, el algodón barato y el aumento de los salarios agrícolas hicieron que la producción de lino se concentrara en el norte de Rusia, que llegó a proporcionar el 90% de la producción mundial. Desde entonces, el lino ha perdido su importancia como cultivo comercial debido a la fácil disponibilidad de fibras más duraderas.
+			</Text>
+		</Replace>
+<!--Lakefish-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH">
+			<Text>Pez de lago</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH_PEDIA">
+			<Text>Los peces de lago son especies de agua dulce que habitan en lagos, estanques y embalses. Incluyen una variedad de tipos como truchas, percas, lubinas y lucios. Los peces de lago han desempeñado un papel importante en la dieta y la cultura humanas durante milenios, proporcionando una fuente confiable de proteínas. Algunas especies también son apreciadas por la pesca deportiva y las industrias de acuicultura en todo el mundo.</Text>
+		</Replace>
+<!--Maize-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE">
+			<Text>Maíz</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE_PEDIA">
+			<Text>El maíz, también conocido como choclo, es un grano de cereal domesticado por primera vez por los pueblos indígenas del sur de México hace unos 10,000 años. El maíz se cultiva ampliamente en todo el mundo y cada año se produce un peso mayor de maíz que de cualquier otro grano.</Text>
+		</Replace>
+<!--Rice-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE">
+			<Text>Arroz</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE_PEDIA">
+			<Text>El arroz es el alimento básico más consumido por una gran parte de la población humana mundial, especialmente en Asia. Es el producto agrícola con la tercera mayor producción mundial, después de la caña de azúcar y el maíz. Dado que porciones considerables de los cultivos de caña de azúcar y maíz se utilizan para fines distintos al consumo humano, el arroz es el grano más importante con respecto a la nutrición humana y la ingesta calórica, proporcionando más de una quinta parte de las calorías consumidas mundialmente por los humanos. El cultivo del arroz es adecuado para países y regiones con bajos costos laborales y alta pluviosidad, ya que es laborioso de cultivar y requiere abundante agua. Sin embargo, el arroz puede cultivarse prácticamente en cualquier lugar, incluso en colinas empinadas o áreas montañosas con el uso de sistemas de terrazas para controlar el agua. Aunque sus especies parentales son nativas de Asia y ciertas partes de África, siglos de comercio y exportación lo han convertido en algo común en muchas culturas de todo el mundo.</Text>
+		</Replace>
+<!--Rubber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER">
+			<Text>Caucho</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_PEDIA">
+			<Text>El caucho fue utilizado por primera vez por las culturas indígenas de Mesoamérica. La evidencia arqueológica más temprana del uso de látex natural del árbol Hevea proviene de la cultura olmeca, en la que el caucho se usó por primera vez para hacer pelotas para el juego de pelota mesoamericano. Más tarde, el caucho fue utilizado por las culturas maya y azteca, además de fabricar pelotas, los aztecas usaron caucho para otros propósitos, como fabricar recipientes y hacer textiles impermeables al impregnarlos con la savia de látex. El caucho natural se utiliza extensamente en muchas aplicaciones y productos, ya sea solo o en combinación con otros materiales. En la mayoría de sus formas útiles, tiene una gran capacidad de estiramiento y alta elasticidad, y es extremadamente impermeable.</Text>
+		</Replace>
+<!--Timber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER">
+			<Text>Madera</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_PEDIA">
+			<Text>La madera es un material apto para la construcción y otros usos. Se extrae de árboles en bosques templados y tropicales, que pueden ser caducifolios o perennes. La madera es valorada por su resistencia, durabilidad y versatilidad. Se emplea en la construcción, la fabricación de barcos, muebles, herramientas, suelos, instrumentos musicales y barriles. Además, la madera sirve como fuente de combustible y materia prima para la fabricación de carbón vegetal.</Text>
+		</Replace>
+<!--Tin-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN">
+			<Text>Estaño</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN_PEDIA">
+			<Text>El estaño es un metal obtenido principalmente del mineral casiterita. La extracción y el uso del estaño se remontan a los inicios de la Edad de Bronce alrededor del 3000 a.C., donde era muy buscado. Cuando se combina con cobre, crea una aleación más fuerte y mucho más útil, el bronce, compuesto por 1/8 de estaño y 7/8 de cobre. Hoy en día, el estaño es un ingrediente principal utilizado en soldaduras. También se utiliza como recubrimiento para ayudar a otros metales a resistir la corrosión y, debido a su baja toxicidad, esto incluye el recubrimiento de latas para envases de alimentos.</Text>
+		</Replace>
+<!--KELP-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP">
+			<Text>Kelp</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP_PEDIA">
+			<Text>
+				El alga kelp es un alga marina de rápido crecimiento que habita en océanos poco profundos y ricos en nutrientes, formando vastos bosques submarinos a lo largo de las costas. Aunque parece una planta, el kelp es un tipo de alga parda grande que prospera en aguas frías entre 6 y 14 °C.
+				[NEWLINE][NEWLINE]Los bosques de kelp brindan alimento y refugio a muchas formas de vida marina y desempeñan un papel vital en los ecosistemas costeros. Algunas especies pueden crecer hasta medio metro por día, alcanzando longitudes superiores a los 30 metros. Utilizado por los humanos como alimento, fertilizante y en productos industriales, el kelp es un símbolo de abundancia natural y resiliencia marina.
+			</Text>
+		</Replace>
+		<!--KELPFARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM">
+			<Text>Granja de Kelp</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM_PEDIA">
+			<Text>
+				El cultivo de algas marinas o kelp es la práctica de cultivar y cosechar algas. En su forma más simple, consiste en la gestión de lotes naturales. En su forma más avanzada, implica el control total del ciclo de vida de las algas. Las siete especies de algas más cultivadas son Eucheuma spp., Kappaphycus alvarezii, Gracilaria spp., Saccharina japonica, Undaria pinnatifida, Pyropia spp. y Sargassum fusiforme. Los mayores productores de algas marinas son China, Indonesia y Filipinas. Otros productores notables incluyen Corea del Sur, Corea del Norte, Japón, Malasia y Zanzíbar (Tanzania). El cultivo de algas marinas se ha desarrollado frecuentemente como una alternativa económica para mejorar las condiciones económicas y reducir la presión pesquera en pesquerías sobreexplotadas.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAFARM">
+			<Text>Construir una [LINK=IMPROVEMENT_GAIA_SEAFARM]Granja de Kelp[\LINK]</Text>
+		</Replace>
+<!--MINERALS-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS">
+			<Text>Minerales del Fondo Marino</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS_PEDIA">
+			<Text>
+				Los minerales del lecho marino se encuentran a profundidades entre 600 y 7000 metros y se dividen en tres tipos principales:
+				[NEWLINE][NEWLINE]1) Nódulos polimetálicos, que se forman en las llanuras abisales a 4–6 km de profundidad, crecen lentamente alrededor de un núcleo, como un diente de tiburón. Son ricos en manganeso, cobalto, níquel, cobre y tierras raras. Se encuentran en la zona Clarion-Clipperton (Pacífico) y cerca de las Islas Cook.
+				[NEWLINE][NEWLINE]2) Los depósitos de sulfuros se forman cerca de respiraderos hidrotermales entre 1 y 4 km de profundidad, comúnmente en dorsales oceánicas y arcos de islas. Contienen metales valiosos como cobre, oro, plomo y plata, y se encuentran cerca de Papúa Nueva Guinea, Tonga y la Dorsal Mesoatlántica.
+				[NEWLINE][NEWLINE]3) Las costras ricas en cobalto crecen sobre montes submarinos y dorsales entre 600 y 7000 m. Forman capas delgadas sobre las rocas y son ricas en cobalto, níquel, platino y tierras raras. Se encuentran en todos los océanos, incluso cerca de Micronesia y Kiribati.
+			</Text>
+		</Replace>
+		<!--DEEP SEA MINE-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE">
+			<Text>Mina Submarina</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE_PEDIA">
+			<Text>
+				La minería en aguas profundas es un campo en crecimiento dentro de la minería experimental del fondo marino, que implica la extracción de minerales y depósitos de los fondos oceánicos en profundidades de entre 200 y 6500 metros. Hasta 2021, la mayoría de los esfuerzos mineros marinos están restringidos a aguas costeras poco profundas, donde la arena, el estaño y los diamantes son más accesibles. Existen tres tipos principales de minería en aguas profundas: la minería de nódulos polimetálicos, la minería de sulfuros polimetálicos y la minería de costras de ferromanganeso ricas en cobalto. La mayoría de los sitios de minería en aguas profundas propuestos se encuentran cerca de nódulos polimetálicos o de fuentes hidrotermales activas e inactivas. Estos sitios contienen metales valiosos como plata, oro, cobre, manganeso, cobalto y zinc. La extracción se realiza mediante bombas hidráulicas o sistemas de cubos que transportan el mineral a la superficie para su procesamiento.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAMINE">
+			<Text>Construir una [LINK=IMPROVEMENT_GAIA_SEAMINE]Mina Submarina[\LINK]</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW City-State Resources ================================-->
+<!--===============================================================-->
+<!--Carpets-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS">
+			<Text>Alfombras</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_PEDIA">
+			<Text>Las alfombras, hechas a mano o manufacturadas, han adornado hogares durante siglos, simbolizando comodidad y artesanía. Antaño exclusivas de la realeza, ahora decoran espacios en todo el mundo, combinando el patrimonio artístico con el uso práctico.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_HELP">
+			<Text>Las alfombras solo están disponibles a través de una ciudad-estado mercantil.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_D_FOR_CARPETS">
+			<Text>Elemento ficticio para alfombras</Text>
+		</Replace>
+<!--Furniture-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE">
+			<Text>Muebles</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_PEDIA">
+			<Text>
+				Los muebles han sido una parte fundamental de la civilización humana desde la antigüedad, con los primeros ejemplos que datan del período Neolítico. Los antiguos egipcios, griegos y romanos fabricaron muebles de madera sofisticados, a menudo adornados con incrustaciones de marfil y oro. Estas primeras piezas simbolizaban el estatus y la refinación, siendo los hogares más ricos los que encargaban diseños elaborados.
+				[NEWLINE][NEWLINE]Durante el Renacimiento, la fabricación de muebles floreció como una disciplina artística, con los artesanos europeos introduciendo nuevas técnicas y materiales. La Revolución Industrial revolucionó posteriormente la producción, haciendo que los muebles fueran más accesibles para la población general. Hoy en día, los muebles siguen siendo una necesidad funcional y una forma de expresión artística, coexistiendo la artesanía tradicional y la fabricación moderna en los mercados globales.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_HELP">
+			<Text>Los muebles están disponibles solo a través de un Estado-Ciudad mercantil.</Text>
+		</Replace>
+<!--Glassware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE">
+			<Text>Vidrio</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_PEDIA">
+			<Text>El vidrio es un material sólido, típicamente transparente y frágil, que ha sido utilizado durante siglos en ventanas y recipientes para beber. La historia de la creación del vidrio se remonta al año 3500 a.C. en Mesopotamia. El término vidrio se desarrolló en el Imperio Romano tardío. Fue en el centro de fabricación de vidrio romano en Tréveris, ahora en la Alemania moderna, donde se originó el término latino tardío "glesum", probablemente de una palabra germánica para una sustancia transparente y lustrosa. El centro de la fabricación de vidrio de lujo desde el siglo XIV fue la isla de Murano, que desarrolló muchas técnicas nuevas y se convirtió en el centro de un lucrativo comercio de exportación de vajillas, espejos y otros artículos. Lo que hacía que el vidrio veneciano de Murano fuera significativamente diferente era que los guijarros de cuarzo locales eran casi pura sílice y se molían hasta convertirlos en una arena clara y fina que se combinaba con sosa obtenida del Levante, para lo cual los venecianos tenían el monopolio exclusivo.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_HELP">
+			<Text>El vidrio solo está disponible a través de un Estado-Ciudad mercantil.</Text>
+		</Replace>
+<!--Lacquerware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE">
+			<Text>Objetos de laca</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_PEDIA">
+			<Text>Los objetos de laca son artículos decorativos recubiertos con capas de laca, una resina natural extraída de los árboles. Estos artículos suelen estar hechos de madera o metal y presentan diseños intrincados, a veces adornados con incrustaciones de oro, plata o nácar. La laca proporciona un acabado brillante y duradero que protege el objeto mientras mejora su atractivo estético. Los objetos de laca han sido un emblema del arte en Asia Oriental y Sudeste Asiático durante siglos, valorados por su belleza y artesanía.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_HELP">
+			<Text>Los objetos de laca solo están disponibles a través de una Ciudad-Estado mercantil.</Text>
+		</Replace>
+<!--Mosaic Tiles-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES">
+			<Text>Azulejos de mosaico</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_PEDIA">
+			<Text>Los azulejos de mosaico son una forma de arte decorativo antiguo, creada al ensamblar pequeñas piezas de piedra, vidrio o cerámica de colores para formar patrones o imágenes intrincados. Popularizados por civilizaciones antiguas como los romanos y los bizantinos, los mosaicos adornaban paredes, suelos y techos de palacios, templos y edificios públicos. Simbolizan habilidad artística y patrimonio cultural, combinando funcionalidad y belleza. Hoy en día, los mosaicos siguen siendo una artesanía apreciada, aportando elegancia a la arquitectura y el diseño modernos.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_HELP">
+			<Text>Los azulejos de mosaico solo están disponibles a través de una ciudad-estado mercantil.</Text>
+		</Replace>
+<!--Perfume-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME">
+			<Text>Perfume</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_PEDIA">
+			<Text>
+				La fabricación de perfumes ha existido desde las primeras civilizaciones, con los mesopotámicos y egipcios siendo pioneros en el uso de aceites y resinas aromáticas. La realeza egipcia utilizaba perfumes ampliamente en rituales, mientras que los griegos y romanos expandieron la práctica, incorporando ingredientes exóticos de sus imperios. La técnica de extraer aceites esenciales de flores, particularmente de rosas, fue perfeccionada en Persia y más tarde se extendió a Arabia, India y Europa.
+				[NEWLINE][NEWLINE]Durante el Renacimiento, la producción de perfumes floreció en Francia, especialmente en la ciudad de Grasse, que se convirtió en el centro de la perfumería europea. El auge de la química moderna en el siglo XIX condujo a la creación de fragancias sintéticas, revolucionando la industria. Hoy en día, los perfumes siguen siendo un producto de lujo, combinando arte y ciencia, y algunas de las marcas más famosas del mundo continúan tradiciones que datan de miles de años.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_HELP">
+			<Text>El perfume está disponible solo a través de un Estado-Ciudad mercantil.</Text>
+		</Replace>
+<!--Obsidian-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN">
+			<Text>Obsidiana</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_PEDIA">
+			<Text>
+				La obsidiana es un vidrio volcánico natural que se forma cuando la lava se enfría rápidamente sin tiempo suficiente para la cristalización. Su fractura concoidea permite obtener filos extremadamente afilados, lo que la convirtió en uno de los materiales más eficaces para fabricar herramientas y armas en la prehistoria. Desde América hasta el Medio Oriente, las civilizaciones antiguas valoraban la obsidiana no solo por su utilidad, sino también por su distintivo brillo negro, lo que la hacía un recurso preciado en el comercio y las ceremonias rituales.
+				[NEWLINE][NEWLINE]Las propiedades únicas de la obsidiana permitieron su uso incluso más allá de la Edad de Piedra. Los sacerdotes aztecas la utilizaban para cuchillos rituales en sacrificios, y algunas culturas la empleaban en la fabricación de espejos y joyas. Hoy en día, su filo excepcional la hace ideal para instrumentos quirúrgicos especializados. Aunque las herramientas metálicas reemplazaron gradualmente a la obsidiana en la mayoría de los usos prácticos, sigue siendo un símbolo del ingenio humano temprano y de la conexión entre la geología y la civilización.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_HELP">
+			<Text>La obsidiana solo está disponible al construir un [COLOR_YELLOW]Taller de Tallado[ENDCOLOR].</Text>
+		</Replace>
+	</Language_ES_ES>
+</GameData>

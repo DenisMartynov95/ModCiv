@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/24/2014 9:32:31 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_RACE_TRACK</Type>
+			<DefaultBuilding>BUILDING_RACE_TRACK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RACE_TRACK</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_RACE_TRACK</Type>
+			<BuildingClass>BUILDINGCLASS_RACE_TRACK</BuildingClass>
+			<FreeStartEra>ERA_FUTURE</FreeStartEra>
+			<Cost>330</Cost>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+			<Description>TXT_KEY_BUILDING_RACE_TRACK</Description>
+			<Civilopedia>TXT_KEY_BUILDING_RACE_TRACK_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_RACE_TRACK_STRATEGY</Strategy>
+			<ArtDefineTag>THEATRE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<Happiness>1</Happiness>
+			<HurryCostModifier>15</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>20</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_RACE_TRACK</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_RACE_TRACK</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_RACE_TRACK</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_RACE_TRACK</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_RACE_TRACK</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_RACE_TRACK">
+			<Text>Race Track</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RACE_TRACK_STRATEGY">
+			<Text>The Race Track is a Renaissance Era building which increases a City's [ICON_HAPPINESS_1] Happiness and requires 1 source of [ICON_RES_HORSE] Horses. The City must first have a Colosseum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RACE_TRACK_PEDIA">
+			<Text>A Race Track is a facility built for racing of animals, vehicles, or athletes. A race track also may feature grandstands or concourses. A racetrack is a permanent facility or building. Racing facilities existed during the Middle Ages, and there are records of a public racecourse being opened at Newmarket in London in 1174, but racing facilities existed much earlier and were built by the ancient Romans and Greeks.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

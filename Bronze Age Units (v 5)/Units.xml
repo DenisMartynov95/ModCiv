@@ -1,0 +1,411 @@
+
+<GameData>
+<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_LIGHTSPEARSMAN</Type>
+			<Description>TXT_KEY_UNIT_LIGHTSPEARSMAN</Description>
+			<DefaultUnit>UNIT_LIGHTSPEARSMAN</DefaultUnit>
+		</Row>
+	<Row>
+		<Type>UNITCLASS_BRONZESWORDSMAN</Type>
+		<Description>TXT_KEY_UNIT_BRONZESWORDSMAN</Description>
+		<DefaultUnit>UNIT_BRONZESWORDSMAN</DefaultUnit>
+	</Row>
+		<Row>
+			<Type>UNITCLASS_LIGHTPIKEMAN</Type>
+			<Description>TXT_KEY_UNIT_LIGHTPIKEMAN</Description>
+			<DefaultUnit>UNIT_LIGHTPIKEMAN</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_GREATZERO</Type>
+			<Description>Horse Bowman</Description>
+			<DefaultUnit>UNIT_GREATZERO</DefaultUnit>
+		</Row>
+</UnitClasses>
+
+<Units>
+		<Row>
+			<Class>UNITCLASS_LIGHTSPEARSMAN</Class>
+			<Type>UNIT_LIGHTSPEARSMAN</Type>
+			<Combat>9</Combat>
+			<Cost>50</Cost>
+			<FaithCost>80</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LIGHTSPEARSMAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_LIGHTSPEARSMAN_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_LIGHTSPEARSMAN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_CIVIL_SERVICE</ObsoleteTech>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_HORSEMAN</GoodyHutUpgradeUnitClass>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_LIGHTSPEARSMAN</UnitArtInfo>
+			<UnitFlagIconOffset>9</UnitFlagIconOffset>
+			<IconAtlas>LIGHTSPEARMAN_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<MoveRate>HEAVY_BIPED</MoveRate>
+		</Row>
+	<Row>
+		<Class>UNITCLASS_BRONZESWORDSMAN</Class>
+		<Type>UNIT_BRONZESWORDSMAN</Type>
+		<PrereqTech>TECH_MASONRY</PrereqTech>
+		<Combat>11</Combat>
+		<Cost>80</Cost>
+		<FaithCost>170</FaithCost>
+		<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+		<Moves>2</Moves>
+		<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+		<Domain>DOMAIN_LAND</Domain>
+		<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+		<Description>TXT_KEY_UNIT_BRONZESWORDSMAN</Description>
+		<Strategy>TXT_KEY_UNIT_BRONZESWORDSMAN_STRATEGY</Strategy>
+		<Help>TXT_KEY_UNIT_HELP_BRONZESWORDSMAN</Help>
+		<MilitarySupport>true</MilitarySupport>
+		<MilitaryProduction>true</MilitaryProduction>
+		<Pillage>true</Pillage>
+		<ObsoleteTech>TECH_GUNPOWDER</ObsoleteTech>
+		<GoodyHutUpgradeUnitClass>UNITCLASS_LONGSWORDSMAN</GoodyHutUpgradeUnitClass>
+		<AdvancedStartCost>15</AdvancedStartCost>
+		<XPValueAttack>3</XPValueAttack>
+		<XPValueDefense>3</XPValueDefense>
+		<UnitArtInfo>ART_DEF_UNIT_BRONZESWORDSMAN</UnitArtInfo>
+		<UnitFlagIconOffset>14</UnitFlagIconOffset>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+		<PortraitIndex>10</PortraitIndex>
+	</Row>
+		<Row>
+			<Class>UNITCLASS_LIGHTPIKEMAN</Class>
+			<Type>UNIT_LIGHTPIKEMAN</Type>
+			<Combat>12</Combat>
+			<Cost>80</Cost>
+			<FaithCost>90</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LIGHTPIKEMAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_LIGHTPIKEMAN_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_LIGHTPIKEMAN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>NULL</ObsoleteTech>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_LANCER</GoodyHutUpgradeUnitClass>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_LIGHTPIKEMAN</UnitArtInfo>
+			<UnitFlagIconOffset>32</UnitFlagIconOffset>
+			<IconAtlas>LIGHTPIKEMAN_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<MoveRate>HEAVY_BIPED</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_GREATZERO</Class>
+			<Type>UNIT_GREATZERO</Type>
+			<Combat>6</Combat>
+			<RangedCombat>6</RangedCombat>
+			<Range>1</Range>
+			<Cost>62</Cost>
+			<Moves>4</Moves>
+			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>Horse Bowman</Description>
+			<Civilopedia>The horse bowman is a ranged skirmisher unit.</Civilopedia>
+			<Strategy>Build horse bowman for fast ranged attacks.</Strategy>
+			<Help>The horse bowman is a fast ranged unit that can also melee.</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_GUNPOWDER</ObsoleteTech>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<CombatLimit>99</CombatLimit>
+			<RangedCombatLimit>99</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<NoMaintenance>1</NoMaintenance>
+			<MoveRate>GREAT_PERSON</MoveRate>
+			<UnitArtInfo>ART_DEF_UNIT_GREATZERO</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>7</UnitFlagIconOffset>
+			<IconAtlas>HORSEBOWMAN_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+    		</Row>
+		<Update>
+			<Set PrereqTech ="TECH_METAL_CASTING"/>
+			<Where Type ="UNIT_PIKEMAN"/>
+		</Update>
+</Units>
+
+
+
+
+
+
+<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+	<Row>
+		<UnitType>UNIT_BRONZESWORDSMAN</UnitType>
+		<UnitAIType>UNITAI_ATTACK</UnitAIType>
+	</Row>
+		<Row>
+			<UnitType>UNIT_LIGHTPIKEMAN</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LIGHTPIKEMAN</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREATZERO</UnitType>
+			<UnitAIType>UNITAI_RANGED</UnitAIType>
+		</Row>
+</Unit_AITypes>
+
+<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
+			<UnitClassType>UNITCLASS_HORSEMAN</UnitClassType>
+		</Row>
+	<Row>
+		<UnitType>UNIT_BRONZESWORDSMAN</UnitType>
+		<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+	</Row>
+		<Row>
+			<UnitType>UNIT_LIGHTPIKEMAN</UnitType>
+			<UnitClassType>UNITCLASS_LANCER</UnitClassType>
+		</Row>
+</Unit_ClassUpgrades>
+
+<Unit_Flavors>
+	<Row>
+		<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
+		<FlavorType>FLAVOR_RECON</FlavorType>
+		<Flavor>4</Flavor>
+	</Row>
+		<Row>
+			<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	<Row>
+		<UnitType>UNIT_BRONZESWORDSMAN</UnitType>
+		<FlavorType>FLAVOR_OFFENSE</FlavorType>
+		<Flavor>15</Flavor>
+	</Row>
+	<Row>
+		<UnitType>UNIT_LIGHTPIKEMAN</UnitType>
+		<FlavorType>FLAVOR_RECON</FlavorType>
+		<Flavor>4</Flavor>
+	</Row>
+		<Row>
+			<UnitType>UNIT_LIGHTPIKEMAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREATZERO</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+</Unit_Flavors>
+
+<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_LIGHTSPEARSMAN</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_LIGHTPIKEMAN</UnitClassType>
+			<UnitType/>
+		</Row>
+</Civilization_UnitClassOverrides>
+
+<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LIGHTSPEARSMAN">
+			<Text>Light Spearman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LIGHTSPEARSMAN">
+			<Text>Ancient Era melee unit specializing in quick raids on enemy territory. They are able skirmishers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIGHTSPEARSMAN_TEXT">
+			<Text>Wearing no armor at all the the Light Spearman is unburdened to sprint through the wilderness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LIGHTSPEARSMAN_TEXT">
+			<Text>Armed with little more than a pointy stick and brute force, The Light Spearman rely on speed and surprise to overtake their foes.</Text>
+		</Row>
+	<Row Tag="TXT_KEY_UNIT_BRONZESWORDSMAN">
+		<Text>Bronze Swordsman</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_BRONZESWORDSMAN_STRATEGY">
+		<Text>The Bronze Swordsman is a strong Ancient era melee unit that doesn't require iron. It upgrades to Longswordsman.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_HELP_BRONZESWORDSMAN">
+		<Text>These Ancient warriors fight hard when iron resources are scarce. They may be weaker than the classical age swordsman but doesn't require iron.</Text>
+	</Row>
+		<Row Tag="TXT_KEY_UNIT_LIGHTPIKEMAN">
+			<Text>Light Pikeman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LIGHTPIKEMAN">
+			<Text>Medieval Era melee unit specializing in quick raids on enemy territory. They are able skirmishers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIGHTPIKEMAN_TEXT">
+			<Text>Wearing no armor at all the the Light Pikeman is unburdened to outflank their opponents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LIGHTPIKEMAN_TEXT">
+			<Text>Armed with little more than a pointy stick and brute force, The Light Pikeman rely on speed to overtake their foes.</Text>
+	</Row>
+</Language_en_US>
+
+	<IconTextureAtlases>
+			<Row>
+				<Atlas>LIGHTSPEARMAN_ATLAS</Atlas>
+				<IconSize>256</IconSize>
+				<Filename>LightPikeman256.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTSPEARMAN_ATLAS</Atlas>
+				<IconSize>128</IconSize>
+				<Filename>LightPikeman128.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTSPEARMAN_ATLAS</Atlas>
+				<IconSize>80</IconSize>
+				<Filename>LightPikeman80.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTSPEARMAN_ATLAS</Atlas>
+				<IconSize>64</IconSize>
+				<Filename>LightPikeman64.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTSPEARMAN_ATLAS</Atlas>
+				<IconSize>45</IconSize>
+				<Filename>LightPikeman45.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTSPEARMAN_ATLAS</Atlas>
+				<IconSize>32</IconSize>
+				<Filename>LightPikeman32.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTPIKEMAN_ATLAS</Atlas>
+				<IconSize>256</IconSize>
+				<Filename>PikemanX256.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTPIKEMAN_ATLAS</Atlas>
+				<IconSize>128</IconSize>
+				<Filename>PikemanX128.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTPIKEMAN_ATLAS</Atlas>
+				<IconSize>80</IconSize>
+				<Filename>PikemanX80.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTPIKEMAN_ATLAS</Atlas>
+				<IconSize>64</IconSize>
+				<Filename>PikemanX64.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTPIKEMAN_ATLAS</Atlas>
+				<IconSize>45</IconSize>
+				<Filename>PikemanX45.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>LIGHTPIKEMAN_ATLAS</Atlas>
+				<IconSize>32</IconSize>
+				<Filename>PikemanX32.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>HORSEBOWMAN_ATLAS</Atlas>
+				<IconSize>256</IconSize>
+				<Filename>GreatZERO256.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>HORSEBOWMAN_ATLAS</Atlas>
+				<IconSize>128</IconSize>
+				<Filename>GreatZERO128.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>HORSEBOWMAN_ATLAS</Atlas>
+				<IconSize>80</IconSize>
+				<Filename>GreatZERO80.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>HORSEBOWMAN_ATLAS</Atlas>
+				<IconSize>64</IconSize>
+				<Filename>GreatZERO64.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>HORSEBOWMAN_ATLAS</Atlas>
+				<IconSize>45</IconSize>
+				<Filename>GreatZERO45.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+			<Row>
+				<Atlas>HORSEBOWMAN_ATLAS</Atlas>
+				<IconSize>32</IconSize>
+				<Filename>GreatZERO32.dds</Filename>
+				<IconsPerRow>1</IconsPerRow>
+				<IconsPerColumn>1</IconsPerColumn>
+			</Row>
+	</IconTextureAtlases>
+</GameData>

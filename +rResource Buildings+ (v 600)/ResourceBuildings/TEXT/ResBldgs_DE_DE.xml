@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_DE_DE>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--STONEWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_STONE_WORKS_HELP">
+			<Text>Jede Quelle von [ICON_RES_GAIA_JADE] Jade, [ICON_RES_GAIA_LAPIS] Lapislazuli, [ICON_RES_MARBLE] Marmor und [ICON_RES_STONE] Stein, die von dieser Stadt bearbeitet wird, erzeugt +1 [ICON_PRODUCTION] Produktion.[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen mit einem Steinbruch verbessert haben.</Text>
+		</Replace>
+<!--WORKSHOP-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP">
+			<Text>Jede Quelle von [ICON_RES_GAIA_TIMBER] Holz, die von dieser Stadt genutzt wird, erzeugt +1 [ICON_PRODUCTION] Produktion.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Produktion für jedes bewirtschaftete Waldfeld (+2 [ICON_PRODUCTION], wenn das Feld [ICON_RES_GAIA_TIMBER] Holz besitzt).</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP2">
+			<Text>Jede genutzte [ICON_RES_GAIA_TIMBER] Holz-Ressource in dieser Stadt gewährt +1 [ICON_PRODUCTION] Produktion. Interne [ICON_INTERNATIONAL_TRADE] Handelsrouten aus dieser Stadt erzeugen +2 [ICON_PRODUCTION] Produktion.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP2">
+			<Text>+1 [ICON_PRODUCTION] Produktion für jedes genutzte Wald-Gelände (+2 [ICON_PRODUCTION], wenn es [ICON_RES_GAIA_TIMBER] Holz enthält). Interne [ICON_INTERNATIONAL_TRADE] Handelsrouten aus dieser Stadt erzeugen +2 [ICON_PRODUCTION] Produktion.</Text>
+		</Replace>
+<!--FACTORY-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_FACTORY_HELP">
+			<Text>
+				+2 [ICON_PRODUCTION] Produktion von [ICON_RES_GAIA_RUBBER] Kautschuk-Ressourcen.
+				[NEWLINE][NEWLINE]Benötigt 1 [ICON_RES_COAL] Kohle.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW  Resource Buildings =================================-->
+<!--===============================================================-->
+<!--AGRIBUSINESS-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS">
+			<Text>Agrarindustrie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_HELP">
+			<Text>+1 [ICON_PRODUCTION] Produktion und [ICON_GOLD] Gold durch Weideland, [ICON_RES_GAIA_MAIZE] Mais, [ICON_RES_GAIA_RICE] Reis und [ICON_RES_WHEAT] Weizen, das von der Stadt bearbeitet wird.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_PEDIA">
+			<Text>Agrarindustrie ist das Geschäft mit der landwirtschaftlichen Produktion. Der Begriff wurde 1957 von Goldberg und Davis geprägt. Er umfasst die Bereiche Agrarchemie, Züchtung, Pflanzenproduktion (Ackerbau und Vertragsanbau), Vertrieb, Landmaschinen, Verarbeitung und Saatgutversorgung sowie Marketing und Einzelhandel. Alle Akteure der Wertschöpfungskette von Lebensmitteln und Fasern und die Institutionen, die sie beeinflussen, sind Teil des Agrarindustriesystems. Innerhalb der Agrarindustrie wird der Begriff „Agribusiness” einfach als ein Portmanteau von Landwirtschaft und Wirtschaft verwendet und bezieht sich auf das Spektrum der Aktivitäten und Disziplinen, die die moderne Lebensmittelproduktion umfasst. Weltweit gibt es akademische Abschlüsse in und Abteilungen für Agribusiness, Agribusiness-Fachverbände, Agribusiness-Publikationen und so weiter. Beispiele für Agribusiness sind Saatgut- und Agrarchemieproduzenten wie Dow AgroSciences, DuPont, Monsanto und Syngenta; AB Agri (Teil von Associated British Foods) Tierfutter, Biokraftstoffe und Mikro-Inhaltsstoffe; ADM, Getreidetransport und -verarbeitung; John Deere, Landmaschinenhersteller; Ocean Spray, Bauerngenossenschaft; und Purina Farms, Agrartourismusbetrieb.</Text>
+		</Replace>
+<!--CHOCOLATIER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER">
+			<Text>Chocolaterie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_PEDIA">
+			<Text>Schokolade ist ein für gewöhnlich süßes, meist braunes Lebensmittel aus gerösteten und gemahlenen Kakaosamen. Sie wird in flüssiger Form, als Paste oder in Tafeln hergestellt oder als geschmacksgebende Zutat in anderen Süßspeisen verwendet. Kakao wird von vielen Kulturen seit mindestens dreitausend Jahren in Mexiko und Mittelamerika angebaut. Ein Chocolatier ist eine Person, die Süßwaren aus Schokolade herstellt. Chocolatiers unterscheiden sich von Schokoladenherstellern, die Schokolade aus Kakaobohnen und anderen Zutaten herstellen.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_HELP">
+			<Text>Jedes Feld mit [ICON_RES_COCOA] Kakao, [ICON_RES_SUGAR] Zucker und [ICON_RES_SPICES] Zimt, das von der Stadt bearbeitet wird, gibt zusätzlich +1 [ICON_FOOD] Nahrung und +1 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen ausgebaut haben, um damit verbessert zu werden.</Text>
+		</Replace>
+<!--FISHPOND-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND">
+			<Text>Fischteich</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_PEDIA">
+			<Text>Ein Fischteich ist ein kontrollierter Teich, ein künstlicher See oder ein Stausee, der mit Fischen besetzt ist und für die Fischzucht oder zur Erholung und Zierde verwendet wird. Im mittelalterlichen Europa war es typisch, dass Klöster und Burgen (kleine, teilweise autarke Gemeinschaften) Fischteiche hatten. [NEWLINE][NEWLINE]Die Hawaiianer praktizierten Aquakultur durch die Entwicklung von Fischteichen (Hawaiianisch: loko iʻa), die fortschrittlichste Fischwirtschaft unter den ursprünglichen Völkern des Pazifiks. Diese Fischteiche waren typischerweise flache Bereiche eines Riffs, umgeben von einer niedrigen Lavasteinmauer (loko kuapa), die vom Ufer aus gebaut wurde. Mehrere Arten essbarer Fische (wie Mullet) gedeihen in solchen Teichen, und die Hawaiianer entwickelten Methoden, um sie leicht zu fangen.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_HELP">
+			<Text>Jedes Feld mit [ICON_RES_FISH] Fischen und [ICON_RES_GAIA_LAKEFISH] See-Fischen, das von der Stadt bearbeitet wird, gibt zusätzlich +1 [ICON_FOOD] Nahrung.[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen ausgebaut haben.</Text>
+		</Replace>
+<!--HERBALIST-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST">
+			<Text>Kräuterladen</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Produktion durch Plantagen.
+				[NEWLINE][NEWLINE]Jedes Feld mit [ICON_RES_GAIA_CACTUS] Kaktus und [ICON_RES_GAIA_POPPIES] Mohn, das von der Stadt bearbeitet wird, gibt zusätzlich +1 [ICON_RESEARCH] Forschung.
+				[NEWLINE][NEWLINE]Benötigt eine [COLOR_CYAN]Plantage[ENDCOLOR], die von der Stadt bearbeitet werden kann.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_PEDIA">
+			<Text>Kräuterkunde ist die Verwendung von Pflanzen zu medizinischen Zwecken und die Erforschung dieser Anwendung. Pflanzen waren während eines Großteils der Menschheitsgeschichte die Grundlage für medizinische Behandlungen und diese traditionelle Medizin wird auch heute noch weitgehend praktiziert. Die moderne Medizin erkennt die Kräuterkunde als eine Form der alternativen Medizin an, da sie sich nicht strikt auf Erkenntnisse stützt, die mit der wissenschaftlichen Methode gewonnen wurden. Die moderne Medizin nutzt jedoch viele pflanzliche Wirkstoffe als Grundlage für evidenzbasierte Arzneimittel und die Phytotherapie arbeitet daran, moderne Standards der Wirksamkeitsprüfung auf Kräuter und Arzneimittel anzuwenden, die aus natürlichen Quellen stammen.</Text>
+		</Replace>
+<!--JEWELER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER">
+			<Text>Juwelier</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_PEDIA">
+			<Text>Schmuck besteht aus kleinen dekorativen Gegenständen, die zur persönlichen Verschönerung getragen werden, wie Broschen, Ringe, Halsketten, Ohrringe und Armbänder. Schmuck kann am Körper oder an der Kleidung befestigt werden und der Begriff beschränkt sich auf dauerhafte Verzierungen, mit Ausnahme von z. B. Blumen. Seit vielen Jahrhunderten ist Metall, oft in Kombination mit Edelsteinen, das übliche Material für Schmuck, aber auch andere Materialien wie Muscheln und andere pflanzliche Stoffe können verwendet werden. Er gehört zu den ältesten archäologischen Artefakten, wobei 100.000 Jahre alte Perlen aus Nassarius-Muscheln als der älteste bekannte Schmuck gelten. Die Grundformen des Schmucks variieren von Kultur zu Kultur, sind aber oft sehr langlebig; in den europäischen Kulturen haben sich die oben genannten häufigsten Schmuckformen seit der Antike erhalten, während andere Formen wie Nasen- oder Knöchelschmuck, die in anderen Kulturen eine wichtige Rolle spielen, weit weniger verbreitet sind. Historisch gesehen stammt der größte Einfluss auf Schmuck in Bezug auf Design und Stil aus Asien.[NEWLINE][NEWLINE]Schmuck kann aus einer Vielzahl von Materialien hergestellt werden. Edelsteine und ähnliche Materialien wie Bernstein und Korallen, Edelmetalle, Perlen und Muscheln wurden häufig verwendet und Emaille war oft von Bedeutung. In den meisten Kulturen kann Schmuck als Statussymbol verstanden werden wegen seiner materiellen Eigenschaften, seiner Muster oder wegen bedeutungsvoller Symbole. Schmuck wurde hergestellt, um fast jeden Körperteil zu schmücken, von Haarnadeln bis zu Zehenringen. Die Tragegewohnheiten von Schmuck zwischen den Geschlechtern und von Kindern und älteren Menschen können zwischen den Kulturen stark variieren, aber erwachsene Frauen sind die beständigsten Schmuckträgerinnen; in der modernen europäischen Kultur ist der Anteil erwachsener Männer im Vergleich zu anderen Kulturen und anderen Epochen der europäischen Kultur relativ gering.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_HELP">
+			<Text>
+				+5% [ICON_GOLD] Gold in dieser Stadt.
+				[NEWLINE][NEWLINE]Jedes Feld mit [ICON_RES_GAIA_CORAL] Korallen, [ICON_RES_GEMS] Edelsteinen, [ICON_RES_PEARLS] Perlen und [ICON_RES_GAIA_AMBER] Bernstein, das von dieser Stadt bearbeitet wird, erzeugt +1 [ICON_GOLD] Gold und +1 [ICON_CULTURE] Kultur.
+				[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen haben, um damit verbessert zu werden.
+			</Text>
+		</Replace>
+<!--PERFUMERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY">
+			<Text>Parfümerie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_HELP">
+			<Text>
+				+5% [ICON_CULTURE] Kultur in dieser Stadt.
+				[NEWLINE][NEWLINE]Jede durch diese Stadt genutzte Quelle von [ICON_RES_GAIA_ROSES] Rosen, [ICON_RES_GAIA_LAVENDER] Lavendel und [ICON_RES_GAIA_BERRIES] Beeren liefert zusätzlich +1 [ICON_CULTURE] Kultur und +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen verbessert haben.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_PEDIA">
+			<Text>Parfüm ist eine Mischung aus duftenden ätherischen Ölen oder Aromastoffen, Fixier- und Lösungsmitteln, die verwendet wird, um dem menschlichen Körper, Tieren, Lebensmitteln, Gegenständen und Wohnräumen einen angenehmen Duft zu verleihen. Die Existenz von Parfüms ist bereits in einigen der frühesten menschlichen Zivilisationen bekannt, entweder durch alte Texte oder durch archäologische Ausgrabungen. Die moderne Parfümerie begann im späten 19. Jahrhundert mit der kommerziellen Synthese von Aromastoffen wie Vanillin oder Cumarin, die die Komposition von Parfüms mit Düften ermöglichte, die zuvor nur aus natürlichen Aromastoffen gewonnen werden konnten.</Text>
+		</Replace>
+<!--SEAWEED MARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET">
+			<Text>Seetangmarkt</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP">
+			<Text>
+				Jede von dieser Stadt genutzte Quelle von [ICON_RES_GAIA_KELP] Seetang erzeugt zusätzlich +1 [ICON_FOOD] Nahrung und +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]Die Stadt muss eine verbesserte [ICON_RES_GAIA_KELP] Seetang-Ressource in der Nähe haben.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP2">
+			<Text>
+				Jede von dieser Stadt genutzte Quelle von [ICON_RES_GAIA_KELP] Seetang erzeugt zusätzlich +1 [ICON_FOOD] Nahrung und +1 [ICON_GOLD] Gold. Interne [ICON_INTERNATIONAL_TRADE] Handelsrouten von dieser Stadt erzeugen +2 [ICON_FOOD] Nahrung.
+				[NEWLINE][NEWLINE]Die Stadt muss eine verbesserte [ICON_RES_GAIA_KELP] Seetang-Ressource in der Nähe haben.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_PEDIA">
+			<Text>
+				Über Jahrhunderte hinweg ernteten Küstengemeinden in Asien, Europa und auf den Pazifikinseln Seetang nicht nur als Nahrungsmittel, sondern auch für medizinische, landwirtschaftliche und industrielle Zwecke. In Ländern wie Japan, Korea und Irland wurde Seetang auf offenen Märkten verkauft und war ein fester Bestandteil der lokalen Wirtschaft.
+				[NEWLINE][NEWLINE]Mit dem wachsenden globalen Interesse an nachhaltigen Meeresressourcen gewann Seetang als ökologisch und wirtschaftlich wertvolle Kulturpflanze an Bedeutung. Von traditionellen Tangfeldern bis zu moderner Aquakultur hat der Anbau und Handel essbarer Algen lokale Märkte in lebendige Zentren des Küstenhandels und der Innovation verwandelt.
+			</Text>
+		</Replace>
+<!--SMELTER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER">
+			<Text>Schmelzwerk</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_HELP">
+			<Text>Jede Quelle von [ICON_RES_GAIA_TIN] Zinn, die von dieser Stadt bearbeitet wird, gibt +1 [ICON_PRODUCTION] Produktion.[NEWLINE][NEWLINE]Ermöglicht die Verlagerung von [ICON_PRODUCTION] Produktion aus dieser Stadt entlang von Handelswegen innerhalb Ihrer Zivilisation.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_PEDIA">
+			<Text>Schmelzwerke ermöglichen es, aus der Erde geförderte Erze zu schmelzen und Metall zu gewinnen. Das Schmelzen ist eine Form der extraktiven Metallurgie; sein Hauptzweck ist die Gewinnung eines Grundmetalls aus seinem Erz. Dazu gehört die Gewinnung von Silber, Eisen, Kupfer und anderen Metallen aus ihren Erzen. Das Schmelzen nutzt Wärme und ein chemisches Reduktionsmittel, um das Erz zu zersetzen, wobei andere Elemente als Gase oder Schlacke abgetrennt werden und nur das Metall übrig bleibt.</Text>
+		</Replace>
+<!--SUPERMARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET">
+			<Text>Supermarkt</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_HELP">
+			<Text>
+				Jedes Feld mit [ICON_RES_CITRUS] Zitrusfrüchten, [ICON_RES_SALT] Salz, [ICON_RES_TRUFFLES] Trüffeln und [ICON_RES_GAIA_OLIVES] Oliven, das von der Stadt bearbeitet wird, gibt +1 [ICON_FOOD] Nahrung und +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen ausgebaut haben.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_PEDIA">
+			<Text>Ein Supermarkt (von lateinisch super, „über“ und lateinisch mercatus „Handel“; englisch super market), in der ehemaligen DDR auch Kaufhalle genannt, ist eine Form des Einzelhandels mit großen Verkaufsflächen, auf denen Handelswaren zur Selbstbedienung für Kunden angeboten werden.</Text>
+		</Replace>
+<!--TANNERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY">
+			<Text>Gerberei</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Produktion aus Lagern.
+				[NEWLINE][NEWLINE]Jedes Feld mit [ICON_RES_FUR] Fellen und [ICON_RES_GAIA_SEALS] Robben, das von der Stadt bearbeitet wird, gibt zusätzlich +2 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]Benötigt ausgebautes [COLOR_CYAN]Robbenfeld[ENDCOLOR] oder ein [COLOR_CYAN]Lager[ENDCOLOR], das die Stadt bearbeiten kann.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_PEDIA">
+			<Text>Unter Gerben versteht man die Behandlung von Tierhäuten zur Herstellung von Leder, das haltbarer und weniger anfällig für Zersetzung ist. Traditionell wurde beim Gerben Tannin verwendet, eine saure chemische Verbindung, von der das Gerbverfahren seinen Namen hat (Tannin wiederum ist nach einem alten deutschen Wort für Eichen oder Tannen benannt, von denen die Verbindung abgeleitet wurde). Während der Gerbung kann es zu einer Färbung kommen. Eine Gerberei ist die Bezeichnung für einen Ort, an dem die Häute verarbeitet werden.</Text>
+		</Replace>
+<!--TEAHOUSE-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE">
+			<Text>Teehaus</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_HELP">
+			<Text>
+				Jedes Feld mit [ICON_RES_GAIA_TEA] Tee, [ICON_RES_GAIA_COFFEE] Kaffee und [ICON_RES_GAIA_TOBACCO] Tabak, das von der Stadt bearbeitet wird, gibt zusätzlich +1 [ICON_CULTURE] Kultur und +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen haben.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_PEDIA">
+			<Text>Ein Teehaus ist eine Einrichtung, in der hauptsächlich Tee und andere leichte Erfrischungen serviert werden. Obwohl die Funktion je nach Kultur sehr unterschiedlich ist, dienen Teehäuser oft als Zentren der sozialen Interaktion. In einigen Kulturen gibt es eine Vielzahl unterschiedlicher Teehäuser oder -salons, die alle unter den englischen Begriff „Teehaus“ oder „Teezimmer“ fallen.</Text>
+		</Replace>
+<!--TEXTILEMILL-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL">
+			<Text>Textilfabrik</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_HELP">
+			<Text>
+				Jedes Feld mit [ICON_RES_COTTON] Baumwolle, [ICON_RES_SHEEP] Schafen, [ICON_RES_SILK] Seide und [ICON_RES_DYE] Färbemittel, das von der Stadt bearbeitet wird, gibt zusätzlich +1 [ICON_GOLD] Gold und +1 [ICON_PRODUCTION] Produktion.
+				[NEWLINE][NEWLINE]Die Stadt muss mindestens eine dieser Ressourcen haben.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_PEDIA">
+			<Text>Eine Textilfabrik ist ein Gebäude oder ein Gebäudekomplex für die Verarbeitung von Faserarten (Wolle, Baumwolle, Seide usw.) zu Garn, dann zu Stoffen und schließlich zu Textilien. Diese werden dann zu Kleidung oder anderen Gegenständen verarbeitet.</Text>
+		</Replace>
+	</Language_DE_DE>
+</GameData>

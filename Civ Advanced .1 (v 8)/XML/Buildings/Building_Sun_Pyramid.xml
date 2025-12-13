@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/18/2014 7:33:40 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SUN_PYRAMID</Type>
+			<BuildingClass>BUILDINGCLASS_RELALT</BuildingClass>
+			<Cost>280</Cost>
+			<GoldMaintenance>5</GoldMaintenance>
+			<PrereqTech>TECH_ENGINEERING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SUN_PYRAMID</Description>
+			<Civilopedia>TXT_KEY_BUILDINGS_SUN_PYRAMID_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SUN_PYRAMID_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SUN_PYRAMID_HELP</Help>
+			<ConquestProb>80</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Happiness>1</Happiness>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>10</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<Building_DomainProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+	</Building_DomainProductionModifiers>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_AZTEC</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MAYA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IROQUOIS</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ZULU</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_INCA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_SUN_PYRAMID</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SUN_PYRAMID">
+			<Text>Sun Pyramid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUN_PYRAMID_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production towards land units and +10 XP for all land units trained in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUN_PYRAMID_STRATEGY">
+			<Text>The Sun Pyramid is a Classical era building which increases a City's [ICON_PEACE] Faith, [ICON_CULTURE] Culture and [ICON_HAPPINESS_1] Happiness by a small amount. It also increases the training speed and starting experience of Land units trained in this City. It may only be built by American Civs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDINGS_SUN_PYRAMID_PEDIA">
+			<Text>The Pyramid of the Sun is the largest building in Teotihuacan and one of the largest in Mesoamerica. Found along the Avenue of the Dead, in between the Pyramid of the Moon and the Ciudadela, and in the shadow of the massive mountain Cerro Gordo, the pyramid is part of a large complex in the heart of the city.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c8a31ef8-8b84-4b2b-b0cf-8912f900f6aa" version="8">
+  <Properties>
+    <Name>Civ Advanced .1</Name>
+    <Stability>Beta</Stability>
+    <Teaser>The Advances Civ Mod expands on the Civ V themes by adding additional buildings to the Economic, Scientific, Happiness, Product</Teaser>
+    <Description>The Advances Civ Mod expands on the Civ V themes by adding additional buildings to the Economic, Scientific, Happiness, Production and Growth building chains and adds new resource improvement buildings.
+Some new resources have been added as well as resource generating buildings and some tile improving buildings too.
+Some technologies and standard buildings have been edited to better fit into this mod.
+This mod requires both G&amp;K and BNW expansions and should be compatible with most other mods, even mods that add new resources. But mods that add new resources already added in this one will probably clash badly.
+
+Resource generator script written by Deep_Blue
+http://forums.civfanatics.com/showthread.php?t=401894
+
+Culture screen Override script written by KyteM
+http://forums.civfanatics.com/showthread.php?t=523258
+
+Contains part or all of some mods made by Barathor, thecrazyscotsman, davey_henninger, BlouBlou, SushiSquid, Skaz881, Glacierheart, cryptlc, Horem
+http://steamcommunity.com/profiles/76561198030721933/myworkshopfiles/?appid=8930
+http://steamcommunity.com/id/thecrazyscotsman/myworkshopfiles/?appid=8930
+http://steamcommunity.com/profiles/76561197961670922/myworkshopfiles/?appid=8930
+http://steamcommunity.com/profiles/76561198046958746/myworkshopfiles/?appid=8930
+http://forums.civfanatics.com/downloads.php?do=file&amp;id=22621</Description>
+    <Authors>Hugh</Authors>
+    <SpecialThanks>Barathor thecrazyscotsman BlouBlou SushiSquid Skaz881 Glacierheart cryptlc Horem davey_henninger</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="C8A84C827CD4FFABD2B4B5700239C32B" import="1">Art/appleicon256.dds</File>
+    <File md5="6C759AD988F29CE2BD497E923B5F4649" import="1">Art/appleicon45.dds</File>
+    <File md5="581D9A9273FCA89FFF3C937A77CF695F" import="1">Art/appleicon64.dds</File>
+    <File md5="19CCEE3E2857AC73A79F74CF99CE1E5E" import="1">Art/appleicon80.dds</File>
+    <File md5="600275985333A14C950F70223AB0C99A" import="1">Art/clayicon256.dds</File>
+    <File md5="9842AEBEBB58A432879D18C21E3099F2" import="1">Art/clayicon45.dds</File>
+    <File md5="02370EC96380812396524D2103ADBB83" import="1">Art/clayicon64.dds</File>
+    <File md5="642D58C9904916189BAAED135955ABFC" import="1">Art/clayicon80.dds</File>
+    <File md5="B69324B762ED679E2AD54887B013F3C2" import="1">Art/Clay/Anc_Clay_Quarry.fxsxml</File>
+    <File md5="0EA40CE2D5E7FA3F76DAA5C290563F5E" import="1">Art/Clay/Anc_Clay_Quarry.gr2</File>
+    <File md5="1206F23D254A156B731C19DFF8D9067D" import="1">Art/Clay/Clay.fxsxml</File>
+    <File md5="E598659DECBED0609DD6CBF9D3FEE23A" import="1">Art/Clay/Clay.gr2</File>
+    <File md5="0AFB081506C19BF0E3B558F99FBC2E39" import="1">Art/Clay/clay_decal_diff.dds</File>
+    <File md5="F014C393061261DF3986B969BDB769C5" import="1">Art/Clay/clay_ore_diff.dds</File>
+    <File md5="5367558F0475039310F2CB7DC4A8CEDF" import="1">Art/Clay/clay_quarry_rock_d.dds</File>
+    <File md5="657E4BF6600D266BB88557773F020EA3" import="1">Art/Clay/HB_Anc_Clay_Quarry.fxsxml</File>
+    <File md5="0ECCD2C414CB84C3DF4647F40D747F0F" import="1">Art/Clay/HB_Anc_Clay_Quarry.gr2</File>
+    <File md5="729D253FC4CCCD10CBCEE971382B02D9" import="1">Art/Clay/HB_IND_Clay_Quarry.fxsxml</File>
+    <File md5="78986A69D98ABA9C10DE588C246FE2BA" import="1">Art/Clay/HB_IND_Clay_Quarry.gr2</File>
+    <File md5="D2F62775DA9A35415FAF8877E2D3AA24" import="1">Art/Clay/IND_Clay_Quarry.fxsxml</File>
+    <File md5="94982DC4AFED986E37A0D450C476A43D" import="1">Art/Clay/IND_Clay_Quarry.gr2</File>
+    <File md5="836D9CD8E919084C48C01D237FAAF4E0" import="1">Art/Clay/PL_Anc_Clay_Quarry.fxsxml</File>
+    <File md5="8655ED7A908103D6FEBB90ECAB747BEA" import="1">Art/Clay/PL_Anc_Clay_Quarry.gr2</File>
+    <File md5="EF9B2D72113CCDDC19FB3DA4E4296E80" import="1">Art/Clay/pl_clay_quarry_rock_d.dds</File>
+    <File md5="4AAEBF0D52316E1D71C44F5BA1290D9D" import="1">Art/Clay/PL_IND_Clay_Quarry.fxsxml</File>
+    <File md5="8B344EC3540CABE18EB9DC8A7C45D811" import="1">Art/Clay/PL_IND_Clay_Quarry.gr2</File>
+    <File md5="EAC06311F604CFEB9D10BF6F30B21D24" import="1">Art/Clay/sv_clay.dds</File>
+    <File md5="A101B4803D8EC81B128BCB4C6780AA61" import="1">Art/Corn/corn_decal.fxsxml</File>
+    <File md5="B0638507D6F1B3296FF246E82BEC2AA4" import="1">Art/Corn/corn_decal.gr2</File>
+    <File md5="E9CD4F370F7149D9BC1E7D0BC578D07D" import="1">Art/Corn/corn_random_d.dds</File>
+    <File md5="FEF77C744BC5AF4D7D4878DD1AC91E65" import="1">Art/Corn/corn_random_h.dds</File>
+    <File md5="0CE4B7130CC2223B179D2B66DD5A22BB" import="1">Art/Corn/corn_wisps_diff.dds</File>
+    <File md5="C6C29B2152F8153720D023772B7B629D" import="1">Art/Corn/corn_wisps_sref.dds</File>
+    <File md5="AA2628D7B073742E41CA3CA8447A0FE8" import="1">Art/Corn/sv_corn.dds</File>
+    <File md5="75AFD78CE14EAF2EDB685F3E7747126E" import="1">Art/fonticons_newluxuries.dds</File>
+    <File md5="51DC67899AE0FEBFB906DC214482BF0A" import="1">Art/FontIcons_NewLuxuries.ggxml</File>
+    <File md5="28E26DEC4FDA434001319AC7342C82E9" import="1">Art/Luxury Apple/apple.fxsxml</File>
+    <File md5="2C290799E13420E1CDDA06578BBE1D79" import="1">Art/Luxury Apple/apple.gr2</File>
+    <File md5="FC7EC77CAAF6C98A41C5F3EB4F526772" import="1">Art/Luxury Apple/apple_trees_diff.dds</File>
+    <File md5="93CB610E7CBD6D119543C99F82131742" import="1">Art/Luxury Apple/apple_trees_pil_diff.dds</File>
+    <File md5="565F4676F6A3E84C9875739536A56069" import="1">Art/Luxury Apple/apple_trees_sref.dds</File>
+    <File md5="36BB5D1D1E8919A94A4E8548204422FE" import="1">Art/Luxury Apple/plantation_ind_apple.fxsxml</File>
+    <File md5="411F1D82DABD0AE99CB16B396D6EECA3" import="1">Art/Luxury Apple/plantation_ind_apple.gr2</File>
+    <File md5="CD2A0FE52606F8012104D8D0A9CB49C6" import="1">Art/Luxury Apple/plantation_ind_apple_hb.fxsxml</File>
+    <File md5="FC2A9F581BABDBC8858A00295318ED4D" import="1">Art/Luxury Apple/plantation_ind_apple_hb.gr2</File>
+    <File md5="2C18289D6E988E50B4B7B7107C4FC149" import="1">Art/Luxury Apple/plantation_ind_apple_pil.fxsxml</File>
+    <File md5="1DDA5B8C502279817FB4D1B34EC75D72" import="1">Art/Luxury Apple/plantation_ind_apple_pil.gr2</File>
+    <File md5="35D69F1553C6912834274CCA7275314F" import="1">Art/Luxury Apple/plantation_mid_apple.fxsxml</File>
+    <File md5="402948D60D0DFAC66578020E6DE9FD73" import="1">Art/Luxury Apple/plantation_mid_apple.gr2</File>
+    <File md5="5A6534B78EDE07169AD0BE9C5BFED8BB" import="1">Art/Luxury Apple/plantation_mid_apple_hb.fxsxml</File>
+    <File md5="75B86A4142482C71878212D52632DB9D" import="1">Art/Luxury Apple/plantation_mid_apple_hb.gr2</File>
+    <File md5="D4376472DA3260E2A6C9CB2DE4DBA60A" import="1">Art/Luxury Apple/plantation_mid_apple_pil.fxsxml</File>
+    <File md5="6EABCF81F875105031A0EEEE8A8E0E14" import="1">Art/Luxury Apple/plantation_mid_apple_pil.gr2</File>
+    <File md5="9420EA15BF0C35409B4E066CD75CBE3F" import="1">Art/Luxury Apple/sv_apple.dds</File>
+    <File md5="00FD92D81D9CB18293848EB53BB68E84" import="1">Art/Luxury Cocoa/cocoa.fxsxml</File>
+    <File md5="7A69391153F6B0A5362F5B9366E9356C" import="1">Art/Luxury Cocoa/cocoa.gr2</File>
+    <File md5="4EEA67AE22A8E833212FE108B29100B7" import="1">Art/Luxury Cocoa/cocoa_trees_diff.dds</File>
+    <File md5="25EC1F24AC2BFACCDD3F88646235CE3C" import="1">Art/Luxury Cocoa/cocoa_trees_sref.dds</File>
+    <File md5="6410EA7914078A27E8CC42F1B9F902F8" import="1">Art/Luxury Cocoa/pil_cocoa_trees_diff.dds</File>
+    <File md5="E56B46E7C3E9B2441C04C897E39A5B5C" import="1">Art/Luxury Cocoa/plantation_ind_cocoa.fxsxml</File>
+    <File md5="7E317D28695AAAFEDD5CE597F2E3E0CE" import="1">Art/Luxury Cocoa/plantation_ind_cocoa.gr2</File>
+    <File md5="D73F93C6194700CC4582CEA1C6079C10" import="1">Art/Luxury Cocoa/plantation_ind_cocoa_hb.fxsxml</File>
+    <File md5="DE8C7455FCF9834D299478ED75E57F64" import="1">Art/Luxury Cocoa/plantation_ind_cocoa_hb.gr2</File>
+    <File md5="2740CD7687A0E486DA90DBA8D8CD910D" import="1">Art/Luxury Cocoa/plantation_ind_cocoa_pil.fxsxml</File>
+    <File md5="846A2BEEF190050C0D45BB5A01FACAC1" import="1">Art/Luxury Cocoa/plantation_ind_cocoa_pil.gr2</File>
+    <File md5="1D6721C9BCC3411E685043186ED22124" import="1">Art/Luxury Cocoa/plantation_mid_cocoa.fxsxml</File>
+    <File md5="A44ACB96CACAEE7D4EA45B6FE07E7350" import="1">Art/Luxury Cocoa/plantation_mid_cocoa.gr2</File>
+    <File md5="64C5EFA28881692B4DF7626A555C121D" import="1">Art/Luxury Cocoa/plantation_mid_cocoa_hb.fxsxml</File>
+    <File md5="C8C6F27439A9FEEEE3FDE6BEFE30BF96" import="1">Art/Luxury Cocoa/plantation_mid_cocoa_hb.gr2</File>
+    <File md5="B6C79D20C720E18062E7EA9894D44451" import="1">Art/Luxury Cocoa/plantation_mid_cocoa_pil.fxsxml</File>
+    <File md5="934ABF22A410AB86DDFFD301CD370F34" import="1">Art/Luxury Cocoa/plantation_mid_cocoa_pil.gr2</File>
+    <File md5="B410AB7D2900AB0C86AB021071F8CC0A" import="1">Art/Luxury Cocoa/sv_cocoa.dds</File>
+    <File md5="BBA2CED9FB2A1F8502FA3323B43CE3F4" import="1">Art/Luxury Coffee/coffee_diff.dds</File>
+    <File md5="DFA1DFEEBAB00C9F1643D57E0E38BFF7" import="1">Art/Luxury Coffee/coffee_vineyard_diff.dds</File>
+    <File md5="9E3ACF035B444A3EC62437A4A12B2641" import="1">Art/Luxury Coffee/hb_plantation_ind_coffee.fxsxml</File>
+    <File md5="11EBAC3C409792122333FA7DC49DCA1B" import="1">Art/Luxury Coffee/hb_plantation_ind_coffee.gr2</File>
+    <File md5="F4A4E0272BB4C84E2E400302DB661CD1" import="1">Art/Luxury Coffee/hb_plantation_mid_coffee.fxsxml</File>
+    <File md5="232FDD31F9D29B36E32619D79DE82F16" import="1">Art/Luxury Coffee/hb_plantation_mid_coffee.gr2</File>
+    <File md5="F282FB6792392C3DC30A4F4AB711936A" import="1">Art/Luxury Coffee/plantation_ind_coffee.fxsxml</File>
+    <File md5="EDC9886CB2F38AE8D1367B96D7964BB3" import="1">Art/Luxury Coffee/plantation_ind_coffee.gr2</File>
+    <File md5="D7B08012E2875AFF0ADA4BC2034FE60F" import="1">Art/Luxury Coffee/plantation_mid_coffee.fxsxml</File>
+    <File md5="A14F286D2798437C888689C7CF771027" import="1">Art/Luxury Coffee/plantation_mid_coffee.gr2</File>
+    <File md5="ECF5DB61DFDE7CFE0AC52D6B74DFDD41" import="1">Art/Luxury Coffee/pl_coffee_diff.dds</File>
+    <File md5="774E1DE446E7FDC86E7778BF078DA884" import="1">Art/Luxury Coffee/pl_plantation_ind_coffee.fxsxml</File>
+    <File md5="560F6B234978677166054C25CA74F6DB" import="1">Art/Luxury Coffee/pl_plantation_ind_coffee.gr2</File>
+    <File md5="008EF0EAE6D077ADC63CC2F4A551207B" import="1">Art/Luxury Coffee/pl_plantation_mid_coffee.fxsxml</File>
+    <File md5="1C3EF459E36D128BBB0A7233E9BFF97D" import="1">Art/Luxury Coffee/pl_plantation_mid_coffee.gr2</File>
+    <File md5="0FDB69EC78A6B30EE74E622569AE65F0" import="1">Art/Luxury Coffee/resource_coffee.fxsxml</File>
+    <File md5="0E0AD7F18B45FF68D25752AD1A880EA5" import="1">Art/Luxury Coffee/resource_coffee.gr2</File>
+    <File md5="AC1351336843C9C834A4D8FCA1D7CD35" import="1">Art/Luxury Coffee/sv_coffee.dds</File>
+    <File md5="0DAD2C23B15251E76BB786D5D2135795" import="1">Art/Luxury Olives/olive.fxsxml</File>
+    <File md5="A158848F582A1790C935786E20E2BC7B" import="1">Art/Luxury Olives/olive.gr2</File>
+    <File md5="5FE25879D2520832E56E69AE6C562C04" import="1">Art/Luxury Olives/olive_trees_diff.dds</File>
+    <File md5="D9BB5E8260EF847DBEF9370EC510571D" import="1">Art/Luxury Olives/olive_trees_sref.dds</File>
+    <File md5="696B5ADC18F6760C2BFE50FDCEB2BCBD" import="1">Art/Luxury Olives/pil_olive_trees_diff.dds</File>
+    <File md5="DCC6311389204966859C5067A9E41796" import="1">Art/Luxury Olives/plantation_ind_olive.fxsxml</File>
+    <File md5="9BAC5D0EF28FBCA72AC7422E370EBC1B" import="1">Art/Luxury Olives/plantation_ind_olive.gr2</File>
+    <File md5="BBFA52863550BE179A40370261BA6D4C" import="1">Art/Luxury Olives/plantation_ind_olive_hb.fxsxml</File>
+    <File md5="0FA08D3AAD1EE5E4EE333BEFBC6CC4E2" import="1">Art/Luxury Olives/plantation_ind_olive_hb.gr2</File>
+    <File md5="F37DF6ACCD5EB81C813CFDC3EA5F1215" import="1">Art/Luxury Olives/plantation_ind_olive_pil.fxsxml</File>
+    <File md5="610D8FDEB75EC2C92C9607F540288B86" import="1">Art/Luxury Olives/plantation_ind_olive_pil.gr2</File>
+    <File md5="8C3079FECB81606498F772642D31CE4D" import="1">Art/Luxury Olives/plantation_mid_olive.fxsxml</File>
+    <File md5="06B91EA5F531D381CDC309249EB99D60" import="1">Art/Luxury Olives/plantation_mid_olive.gr2</File>
+    <File md5="A54B5578958DC9DCFAA3421406F7996C" import="1">Art/Luxury Olives/plantation_mid_olive_hb.fxsxml</File>
+    <File md5="31D68A28D72B03E6FC9B1CC048AD1235" import="1">Art/Luxury Olives/plantation_mid_olive_hb.gr2</File>
+    <File md5="ADAED74AB5F202B732DFE223665C81CF" import="1">Art/Luxury Olives/plantation_mid_olive_pil.fxsxml</File>
+    <File md5="33B572C0676E163B403739B88B391A4E" import="1">Art/Luxury Olives/plantation_mid_olive_pil.gr2</File>
+    <File md5="5B833D1724A528917290D267A6EC074F" import="1">Art/Luxury Olives/sv_olive.dds</File>
+    <File md5="FDABF0E49F32085F9B9CDFE551CDA557" import="1">Art/Luxury Peach/peach.fxsxml</File>
+    <File md5="9E48854E22C87090F7090281F0ABC2C8" import="1">Art/Luxury Peach/peach.gr2</File>
+    <File md5="AF550DDDECF1EB79EF3A2CECB491F961" import="1">Art/Luxury Peach/peach_trees_diff.dds</File>
+    <File md5="B55137EAC1C75EC29BB47F5CD477498E" import="1">Art/Luxury Peach/peach_trees_pil_diff.dds</File>
+    <File md5="82FF482B2588881E8417195888F6E23C" import="1">Art/Luxury Peach/peach_trees_sref.dds</File>
+    <File md5="C05A83DB0B2A9236FB5C9E2902944640" import="1">Art/Luxury Peach/plantation_ind_peach.fxsxml</File>
+    <File md5="12FABF2411B5A76B2251C9B878EAC11D" import="1">Art/Luxury Peach/plantation_ind_peach.gr2</File>
+    <File md5="299D3775853D7E52762C3C8F48492AD0" import="1">Art/Luxury Peach/plantation_ind_peach_hb.fxsxml</File>
+    <File md5="696178ACEA4FD76DB533A04F4BBB8F6E" import="1">Art/Luxury Peach/plantation_ind_peach_hb.gr2</File>
+    <File md5="95D2AA96F08655FCF806EA996F51B36B" import="1">Art/Luxury Peach/plantation_ind_peach_pil.fxsxml</File>
+    <File md5="4CB2E327028F3EE7010F49287C63FD2F" import="1">Art/Luxury Peach/plantation_ind_peach_pil.gr2</File>
+    <File md5="16608ECCA2FF338385E05921D869A617" import="1">Art/Luxury Peach/plantation_mid_peach.fxsxml</File>
+    <File md5="D33259A7A1B12E2C808EA0603A1C6760" import="1">Art/Luxury Peach/plantation_mid_peach.gr2</File>
+    <File md5="CEC10872909C059864D2D037BA35B816" import="1">Art/Luxury Peach/plantation_mid_peach_hb.fxsxml</File>
+    <File md5="FB7A2385C432810E22AD19ECED313371" import="1">Art/Luxury Peach/plantation_mid_peach_hb.gr2</File>
+    <File md5="F616493BF501A872D978954E0736FECC" import="1">Art/Luxury Peach/plantation_mid_peach_pil.fxsxml</File>
+    <File md5="948BD395A5FA394C13C3F4EA6C751268" import="1">Art/Luxury Peach/plantation_mid_peach_pil.gr2</File>
+    <File md5="D29A2F69010719DF77AAA839AEC1DF4C" import="1">Art/Luxury Peach/sv_peach.dds</File>
+    <File md5="C8E89831317D8F6AFEFFCD6E5F5E2A0E" import="1">Art/Luxury Tea/hb_plantation_ind_tea.fxsxml</File>
+    <File md5="A946699A2D65B6025683865A70713A74" import="1">Art/Luxury Tea/hb_plantation_ind_tea.gr2</File>
+    <File md5="A708B523B13F1A67306A04012A157479" import="1">Art/Luxury Tea/hb_plantation_mid_tea.fxsxml</File>
+    <File md5="25DDEFE256B52C1B52A267A8C0EF76D2" import="1">Art/Luxury Tea/hb_plantation_mid_tea.gr2</File>
+    <File md5="0D47BE61F62C3129DDF5E057B8CBEE19" import="1">Art/Luxury Tea/plantation_ind_tea.fxsxml</File>
+    <File md5="59DBB686A4E562A57704300EE419148A" import="1">Art/Luxury Tea/plantation_ind_tea.gr2</File>
+    <File md5="3F2154C0C03F2EE40E5C8F5952DCCF9F" import="1">Art/Luxury Tea/plantation_mid_tea.fxsxml</File>
+    <File md5="AA752A5F3CEA74D6FC55F02332B09F2B" import="1">Art/Luxury Tea/plantation_mid_tea.gr2</File>
+    <File md5="0102C8B1889B12FD021A874A84583E95" import="1">Art/Luxury Tea/pl_plantation_ind_tea.fxsxml</File>
+    <File md5="CF676AA4D936E0CABDA3FEF304F5E7D3" import="1">Art/Luxury Tea/pl_plantation_ind_tea.gr2</File>
+    <File md5="322DE1FF7CE00093ABCE954AECD40431" import="1">Art/Luxury Tea/pl_plantation_mid_tea.fxsxml</File>
+    <File md5="58348106DD0F88EE0EC2B0A97603E2B0" import="1">Art/Luxury Tea/pl_plantation_mid_tea.gr2</File>
+    <File md5="8F593C6FA8073AED9DFDBD8B11ECD563" import="1">Art/Luxury Tea/pl_tea_diff.dds</File>
+    <File md5="6CD98BD4A90F50D4B2E776F9D43B04FA" import="1">Art/Luxury Tea/resource_tea.fxsxml</File>
+    <File md5="00D12FD03500EB6CBDFB89F9CBC98004" import="1">Art/Luxury Tea/resource_tea.gr2</File>
+    <File md5="577CE479F35CC349697A3973B27FAA13" import="1">Art/Luxury Tea/sv_tea.dds</File>
+    <File md5="810B57D57C16FFF33B830074C266208C" import="1">Art/Luxury Tea/tea_diff.dds</File>
+    <File md5="8261FEC2C4A460886246E4C9B864056D" import="1">Art/Luxury Tobacco/hb_plantation_ind_tobacco.fxsxml</File>
+    <File md5="AB901C646A3D06790D20CF0B9374A910" import="1">Art/Luxury Tobacco/hb_plantation_ind_tobacco.gr2</File>
+    <File md5="F37CA5B96F1EF6030CFA247D45B21443" import="1">Art/Luxury Tobacco/hb_plantation_mid_tobacco.fxsxml</File>
+    <File md5="2A6D3AED0E009C393DD3B8F0382CCA57" import="1">Art/Luxury Tobacco/hb_plantation_mid_tobacco.gr2</File>
+    <File md5="2FA4F804D1286AF73068C16B2F55FB08" import="1">Art/Luxury Tobacco/plantation_ind_tobacco.fxsxml</File>
+    <File md5="5CD66D5BB9E4B1DD21118A9D2F4B953F" import="1">Art/Luxury Tobacco/plantation_ind_tobacco.gr2</File>
+    <File md5="B9FEBD71F29EDC2A527C77006BABAAAF" import="1">Art/Luxury Tobacco/plantation_mid_tobacco.fxsxml</File>
+    <File md5="5C731CBB41B66C7E14C7EDF9BC101292" import="1">Art/Luxury Tobacco/plantation_mid_tobacco.gr2</File>
+    <File md5="67A69243A06C10305EB36113C5D4C4F5" import="1">Art/Luxury Tobacco/pl_plantation_ind_tobacco.fxsxml</File>
+    <File md5="19970DA6F93D674B799F44934F953DD4" import="1">Art/Luxury Tobacco/pl_plantation_ind_tobacco.gr2</File>
+    <File md5="0B0164F1CC3E7B4430FA47937DC9806A" import="1">Art/Luxury Tobacco/pl_plantation_mid_tobacco.fxsxml</File>
+    <File md5="1189D9C0B5DA0A9C3889F51863E55C97" import="1">Art/Luxury Tobacco/pl_plantation_mid_tobacco.gr2</File>
+    <File md5="DA8408660B1CD74801D7F8CC2B0B4166" import="1">Art/Luxury Tobacco/pl_tobacco_diff.dds</File>
+    <File md5="39B5BB9B82EF081F68FC04C4C12CE1A2" import="1">Art/Luxury Tobacco/resource_tobacco.fxsxml</File>
+    <File md5="0288D68DB9F56BE9986C229E04A839BC" import="1">Art/Luxury Tobacco/resource_tobacco.gr2</File>
+    <File md5="EB8B7CC0C6161DD79C214CB757A3CC56" import="1">Art/Luxury Tobacco/sv_tobacco.dds</File>
+    <File md5="0A0B31996D508E6A8246D65F0868697C" import="1">Art/Luxury Tobacco/tobacco_diff.dds</File>
+    <File md5="46F2B1292CE6D32003016F9292E0407C" import="1">Art/Luxury Tobacco/tobacco_sref.dds</File>
+    <File md5="B11C0F5C5D0924289C99514754E1FA2A" import="1">Art/mod_atlas_128.dds</File>
+    <File md5="FD9EACA036DE8C827DB52447D9B14BA2" import="1">Art/mod_atlas_256.dds</File>
+    <File md5="ADECE01C468BF9235A0D295D66B61E9A" import="1">Art/mod_atlas_45.dds</File>
+    <File md5="CCB866401508521EBC4F40372BAB5615" import="1">Art/mod_atlas_64.dds</File>
+    <File md5="57239471DDB567132724E9B827D2D9E1" import="1">Art/mod_atlas_80.dds</File>
+    <File md5="0665AB6BB155FEC53FE65A4674D28316" import="1">Art/NewLuxuries_ResourceAtlas256.dds</File>
+    <File md5="AC5AF0967A13FB98157FC6188293F5DB" import="1">Art/NewLuxuries_ResourceAtlas45.dds</File>
+    <File md5="B4B27766A6756167FE271C511DEFE93C" import="1">Art/NewLuxuries_ResourceAtlas64.dds</File>
+    <File md5="DBC7CC382E23F6DDD4AF05AE732FF45A" import="1">Art/NewLuxuries_ResourceAtlas80.dds</File>
+    <File md5="C6BEEDF3B84DCE8823D02622DABCF671" import="1">Art/peachicon256.dds</File>
+    <File md5="43A9301BEACBC35B5558961EF362A7EE" import="1">Art/Peachicon45.dds</File>
+    <File md5="4A2FD56FD00822F58BFA3852933A4D95" import="1">Art/peachicon64.dds</File>
+    <File md5="6D982D4C4723A24B35E71A075A5B9176" import="1">Art/peachicon80.dds</File>
+    <File md5="85C2EE8E68BEABE66A55952F3D595E03" import="1">Art/Rice/Rice_decal.fxsxml</File>
+    <File md5="52E5E0292F09CECBB0622293C2A099A7" import="1">Art/Rice/Rice_decal.gr2</File>
+    <File md5="2B0188FBDA22929E5D9F6878CC7CCD15" import="1">Art/Rice/rice_random_d.dds</File>
+    <File md5="E3B569B5D3798F1B62CB7B12C95B797B" import="1">Art/Rice/rice_random_h.dds</File>
+    <File md5="4F7C93C8B309C9AB381779050BD704A1" import="1">Art/Rice/rice_wisps_diff.dds</File>
+    <File md5="C6C29B2152F8153720D023772B7B629D" import="1">Art/Rice/rice_wisps_sref.dds</File>
+    <File md5="7D9062F866599A9E7DF7863C1F98D298" import="1">Art/Rice/sv_rice.dds</File>
+    <File md5="3A8C891D2435AA40AF8BE6D9E76334BC" import="0">Lua/AddNewResource.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="61411BBD937E359F8D486D02C34C7742" import="0">Lua/CulturePerPop.lua</File>
+    <File md5="3D15E1A0985E31857CA0FAC2506A8B0A" import="0">Lua/CharFurForest.lua</File>
+    <File md5="06C9F79D1612B570ED6B56B3B06C5707" import="1">Lua/ResGenerator.lua</File>
+    <File md5="A06D9B16B093446E4F1831385C7943BC" import="1">Lua/ResGeneratorFunctions.lua</File>
+    <File md5="761DFFE4309CC6660D2264F46B67E733" import="1">Lua/SaveUtils.lua</File>
+    <File md5="311691E83B88594791E8D48E46B067DC" import="0">SQL/Resources_ArtDefines.sql</File>
+    <File md5="34B4D10E870A7D7A78FC53D0E43573A8" import="0">XML/Bonus/Bonus_Maize.xml</File>
+    <File md5="6F7364D552FB183376F0EF6F7F7BADDB" import="0">XML/Bonus/Bonus_Rice.xml</File>
+    <File md5="64009CF8CE3CB94F563431111E7A653C" import="0">XML/Bonus/Bonus_Potato.xml</File>
+    <File md5="049937FEE4C24543DA585702B374F905" import="0">XML/Bonus/Bonus_Pig.xml</File>
+    <File md5="CA4057B129CE89917836DC494AD7CD3B" import="0">XML/Bonus/Bonus_Clay.xml</File>
+    <File md5="E1CB7D77158603725E38E850A136182F" import="0">XML/Building updates/Update_Aqueduct.xml</File>
+    <File md5="ED50DF957AD49E40B73FD8B035E3EF19" import="0">XML/Building updates/Update_Forge.xml</File>
+    <File md5="C76F8008AD2A49AB6768762DAF4C8684" import="0">XML/Building updates/Update_Hospital.xml</File>
+    <File md5="E55B168828ABE14853E4B39BB9D68125" import="0">XML/Building updates/Update_Hydro_Plant.xml</File>
+    <File md5="7F4F7601044B3D7DC5E8B480AC7E0735" import="0">XML/Building updates/Update_Medical_Lab.xml</File>
+    <File md5="A11D02DAF29990433840C6B1D881AEBB" import="0">XML/Building updates/Update_Nuclear_Plant.xml</File>
+    <File md5="40710D7B5AC3F7B5E78698CCAD9856F1" import="0">XML/Building updates/Update_Solar_Plant.xml</File>
+    <File md5="A1AAC1996FCF102FD542AC2450AE165C" import="0">XML/Building updates/Update_Windmill.xml</File>
+    <File md5="D666D584C046C4F3D1682B1F458434E2" import="0">XML/Building updates/Update_Zoo.xml</File>
+    <File md5="F817D6C2CE3ED0C0AD128E720CF565C5" import="0">XML/Building.xml</File>
+    <File md5="5CD8D3ACBAC358AB1B6EEB12653743EF" import="0">XML/Buildings/Building_Aquifer.xml</File>
+    <File md5="E54F9343A876D89DB0E2D03E9FC7D9FB" import="0">XML/Buildings/Building_Brewery.xml</File>
+    <File md5="A4AF43706B3BB8471D7360EDE8789C7A" import="0">XML/Buildings/Building_Cannery.xml</File>
+    <File md5="A521D77F70115078168820F649316F0C" import="0">XML/Buildings/Building_Carpentry.xml</File>
+    <File md5="C35FF468840227DFFE7567D37C045134" import="0">XML/Buildings/Building_Car_Factory.xml</File>
+    <File md5="00CDA23A224B28B616E8209ABEE3404D" import="0">XML/Buildings/Building_CathedralAlt.xml</File>
+    <File md5="53263991D90635EC84F3C4DBB167BAA0" import="0">XML/Buildings/Building_Coal_Plant.xml</File>
+    <File md5="E882E9CD2EFC15D8DF695AFC3F5BD5ED" import="0">XML/Buildings/Building_Copper_Network.xml</File>
+    <File md5="BE5F7970E5664EF005EB5A4E485131FD" import="0">XML/Buildings/Building_Desalination_Plant.xml</File>
+    <File md5="6F604ACC3F0BFC9E36B69DDF1D754A36" import="0">XML/Buildings/Building_Electrical_Grid.xml</File>
+    <File md5="DDFC8C7A839280A3B91F071899C5FEDA" import="0">XML/Buildings/Building_Fiber_Optics.xml</File>
+    <File md5="14E3A1A87DF8EF5C31A1DA680534E05A" import="0">XML/Buildings/Building_Fish_Hatchery.xml</File>
+    <File md5="32A2D762FE9698C46E4DFD6DD29B91E6" import="0">XML/Buildings/Building_Fusion_Plant.xml</File>
+    <File md5="44C4599EDE0E8F9664C66B119241A3DF" import="0">XML/Buildings/Building_Geothermal_Plant.xml</File>
+    <File md5="B04D51D2DCC552AB3E24CD016B0B0D8F" import="0">XML/Buildings/Building_Mandir.xml</File>
+    <File md5="761B9A5C355717545F397392FC1DF290" import="0">XML/Buildings/Building_Merchants_Guild.xml</File>
+    <File md5="96C5BEAA1F427643884E76BFAE4A3139" import="0">XML/Buildings/Building_MosqueAlt.xml</File>
+    <File md5="8ECEDBA567E734715722DC5FF57FD30A" import="0">XML/Buildings/Building_Oil_Plant.xml</File>
+    <File md5="77C37207B0022A408EEF461AEBD2ABFA" import="0">XML/Buildings/Building_Oil_Refinery.xml</File>
+    <File md5="222E8963258AEE3773FF90CB396542B9" import="0">XML/Buildings/Building_PagodaAlt.xml</File>
+    <File md5="5DCBDC54E571CA3A0E1B69DE35949FC7" import="0">XML/Buildings/Building_Particle_accelerator.xml</File>
+    <File md5="3B82D300A4B2E7C4184A6C5C062D7C3F" import="0">XML/Buildings/Building_Perfumery.xml</File>
+    <File md5="A809963CE9752C3A206ED7B4D69FD862" import="0">XML/Buildings/Building_Qanat.xml</File>
+    <File md5="C012940AF9B5932A79CAF5B528CF3211" import="0">XML/Buildings/Building_Race_Track.xml</File>
+    <File md5="0DD44557E2CA47C2DD3D931F3F84D25D" import="0">XML/Buildings/Building_Saltern.xml</File>
+    <File md5="8DDAAC60E469928DE238DA52D61325C6" import="0">XML/Buildings/Building_Sewer.xml</File>
+    <File md5="ACE8288FEB643E6653796C170DFA5424" import="0">XML/Buildings/Building_Soft_Drink_Factory.xml</File>
+    <File md5="1596C21A3EA7C49C7E46C07E7C790AF3" import="0">XML/Buildings/Building_Steel_Mill.xml</File>
+    <File md5="97BD89B40F2EADA931FDCF8AEB9314F3" import="0">XML/Buildings/Building_Sun_Pyramid.xml</File>
+    <File md5="8BAF1EAF0FE88C2990CE8A66FADFC943" import="0">XML/Buildings/Building_Supercomputer.xml</File>
+    <File md5="41CE18ABBD00E060B5CACDD05F6D85CE" import="0">XML/Buildings/Building_Supermarket.xml</File>
+    <File md5="18F84DB4580FDBF7E5D5F03A389D511A" import="0">XML/Buildings/Building_Tannery.xml</File>
+    <File md5="18BFBA07DD9FE05BEC31E73F4FBD339B" import="0">XML/Buildings/Building_Tax_Collector.xml</File>
+    <File md5="262B5EFD0C915F2B1CDD189DFEF4AA19" import="0">XML/Buildings/Building_Textile_Mill.xml</File>
+    <File md5="0E87161E294E3DD7BC05F542D8B9565C" import="0">XML/Buildings/Building_Tidal_Plant.xml</File>
+    <File md5="A70847BEC2CDBA04B41D5D9F06D6420B" import="0">XML/Buildings/Building_Trade_Company.xml</File>
+    <File md5="64CDCC27BD179BF5AE9298F630FEE931" import="0">XML/Buildings/Building_Treatment_Plant.xml</File>
+    <File md5="DA6F3BFDDB55159DE34DDE07C76C5EBA" import="0">XML/Buildings/Building_Wind_Farm.xml</File>
+    <File md5="9101B43176EDC751A8DFF79D1C960F88" import="0">XML/Buildings/Building_CULTURE_PER_POP.xml</File>
+    <File md5="E0FFC9643858621BB91295F6DECD2D92" import="0">XML/Buildings/Building_Sculptors_Guild.xml</File>
+    <File md5="D11668B1BA74C1FAA7F93B53BDBF1894" import="0">XML/Buildings/Building_Jeweler.xml</File>
+    <File md5="F85DE2D19DEE9C3F2C1F09B5F38C0F84" import="0">XML/Buildings/Building_Biofuel_Plant.xml</File>
+    <File md5="3A603CEB4A3D6772CEB374A4EBA54B98" import="0">XML/Buildings/Building_Horse_Breeder.xml</File>
+    <File md5="F4A1DD10584B368502B6AB0AD33235E3" import="0">XML/Buildings/Building_Charcoal_Furnace.xml</File>
+    <File md5="C48CDE9CB0B99121B57232F2C8DA4E02" import="0">XML/Buildings/Building_Iron_Mine.xml</File>
+    <File md5="92D0822DE92EC44704E5FABFF430E701" import="0">XML/Buildings/Building_Breeder_Reactor.xml</File>
+    <File md5="6A65C94F607C21D41FD7607660CEA5CD" import="0">XML/Buildings/Building_Candy_Factory.xml</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">XML/CultureOverview.xml</File>
+    <File md5="F29EDADA71BC161F20ABF7299C1DAC18" import="0">XML/Krakatoa_Fix.xml</File>
+    <File md5="3F1AC5C085579013DAC4C901B898F737" import="0">XML/Luxuries/Luxury_Altjewelery.xml</File>
+    <File md5="4E5A60FDA9F84751743EBD25F88BEE75" import="0">XML/Luxuries/Luxury_Candy.xml</File>
+    <File md5="6FF7153DA1A043634CEF4BF7B2B5C3E6" import="0">XML/Luxuries/Luxury_Peach.xml</File>
+    <File md5="5CF6A1136B765662455EEA316CC7237C" import="0">XML/Luxuries/Luxury_Mango.xml</File>
+    <File md5="124A1290E69C99E77EF7AD90B195ECFA" import="0">XML/Luxuries/Luxury_Soybean.xml</File>
+    <File md5="80C1A5358F048855973B6CCF569FEA0D" import="0">XML/Luxuries/Luxury_Apples.xml</File>
+    <File md5="FFF2902B035D2CE11D1B86E50FCAFBC4" import="0">XML/Luxuries/Luxury_Nuts.xml</File>
+    <File md5="A2FA52FF250DEFC6DFECEFF1717B5C56" import="0">XML/Luxuries/Luxury_Olives.xml</File>
+    <File md5="F823E29DBC4AB31E51487C8EE0B2F478" import="0">XML/Luxuries/Luxury_Chilli.xml</File>
+    <File md5="6DB4690987C668E6145189BC2B064683" import="0">XML/Luxuries/Luxury_Media_Devices.xml</File>
+    <File md5="DC74645BBD05AEDD490927956973F7C3" import="0">XML/Luxuries/Luxury_Black_Pepper.xml</File>
+    <File md5="E80D9F6EE5655372E69D9E56E422AB0C" import="0">XML/Luxuries/Luxury_Glass.xml</File>
+    <File md5="1393C55C7A78FA3B8FAC051B07BBCC8E" import="0">XML/Luxuries/Luxury_Sculptures.xml</File>
+    <File md5="5B40E154E1DF6414E8FE86F747BBE222" import="0">XML/Luxuries/Luxury_Beer.xml</File>
+    <File md5="EFFCC68A016FC5616C9192AE16488C82" import="0">XML/Luxuries/Luxury_Cars.xml</File>
+    <File md5="E2B2618A44AC2CE6E2495F39FFCC3883" import="0">XML/Luxuries/Luxury_Coffee.xml</File>
+    <File md5="B45DC9E769F28FABC3F79953B096A042" import="0">XML/Luxuries/Luxury_Leather.xml</File>
+    <File md5="BF07898BEA71C8477EA19D3FAB2E9C52" import="0">XML/Luxuries/Luxury_Perfume.xml</File>
+    <File md5="B73CC01C37E584F94AC4CD6E9C683261" import="0">XML/Luxuries/Luxury_Soft_Drink.xml</File>
+    <File md5="B1E614017A5664E2CCD2D4B04AF11CD5" import="0">XML/Luxuries/Luxury_Tea.xml</File>
+    <File md5="042D21F906EFF215C78248623185F0BB" import="0">XML/Luxuries/Luxury_Tobacco.xml</File>
+    <File md5="0792ABC886A3CB8008797A6DA9EE1817" import="0">XML/ModIconAtlas.xml</File>
+    <File md5="A010E5A59CD54285696C9310855990CB" import="0">XML/NewLuxuries_Art_Icons.xml</File>
+    <File md5="7D691D4DEA62AA25BC8807DBDD159518" import="0">XML/NewLuxuries_Art_Terrain.xml</File>
+    <File md5="B0AD21090985C12F519C7A9C80A54A8C" import="0">XML/Resource_Yield.xml</File>
+    <File md5="F0EEAD0593584887A73F571205AEF73E" import="0">XML/Strategic/Strategic_Silica.xml</File>
+    <File md5="FFBD6BA830642DAB6BC1FB8E7536F8F9" import="0">XML/Technology/Update_Submarine.xml</File>
+    <File md5="564778E1F36F6847A12CEB57219BE6C6" import="0">XML/Technology/Update_Tech.xml</File>
+    <File md5="0364D76C4DBB9C81580756CBC5B26CC8" import="0">XML/Text.xml</File>
+    <File md5="6B7F0440BA32C872F7260E6C41A5CB51" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Resources_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/NewLuxuries_Art_Terrain.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Bonus/Bonus_Clay.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Bonus/Bonus_Maize.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Bonus/Bonus_Rice.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Aqueduct.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Forge.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Hospital.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Hydro_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Medical_Lab.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Nuclear_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Solar_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Windmill.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building updates/Update_Zoo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Aquifer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Biofuel_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Breeder_Reactor.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Brewery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Candy_Factory.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Cannery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Car_Factory.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Carpentry.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_CathedralAlt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Charcoal_Furnace.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Coal_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Copper_Network.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_CULTURE_PER_POP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Desalination_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Electrical_Grid.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Fiber_Optics.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Fish_Hatchery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Fusion_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Geothermal_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Horse_Breeder.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Iron_Mine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Jeweler.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Mandir.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Merchants_Guild.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_MosqueAlt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Oil_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Oil_Refinery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_PagodaAlt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Particle_accelerator.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Perfumery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Qanat.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Race_Track.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Saltern.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Sculptors_Guild.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Sewer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Soft_Drink_Factory.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Steel_Mill.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Sun_Pyramid.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Supercomputer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Supermarket.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Tannery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Tax_Collector.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Textile_Mill.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Tidal_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Trade_Company.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Treatment_Plant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Building_Wind_Farm.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Altjewelery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Apples.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Beer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Candy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Cars.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Coffee.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Leather.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Olives.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Peach.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Perfume.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Sculptures.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Soft_Drink.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Tea.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Luxuries/Luxury_Tobacco.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technology/Update_Submarine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technology/Update_Tech.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Krakatoa_Fix.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ModIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewLuxuries_Art_Icons.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resource_Yield.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AddNewResource.lua">
+      <Name>Add_Resource</Name>
+      <Description>Add_Resource</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CulturePerPop.lua">
+      <Name>Cultureperpop</Name>
+      <Description>Gives culture per pop using existing table</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CharFurForest.lua">
+      <Name>ForestCheck</Name>
+      <Description>ForestCheck</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

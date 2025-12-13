@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_RU_RU>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--STONEWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_STONE_WORKS_HELP">
+			<Text>Каждый источник [ICON_RES_GAIA_JADE] нефрита, [ICON_RES_GAIA_LAPIS] лазурита, [ICON_RES_MARBLE] мрамора и [ICON_RES_STONE] камня, обрабатываемый этим городом, дает +1 [ICON_PRODUCTION] продукции.[NEWLINE][NEWLINE]Город должен иметь хотя бы один из этих ресурсов, улучшенный с помощью каменоломни.</Text>
+		</Replace>
+<!--WORKSHOP-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP">
+			<Text>Каждый источник [ICON_RES_GAIA_TIMBER] Древесины, обрабатываемый этим городом, дает +1 [ICON_PRODUCTION] Производства.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Производство за каждую обрабатываемую клетку леса (+2 [ICON_PRODUCTION], если на клетке есть [ICON_RES_GAIA_TIMBER] Древесина).</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP2">
+			<Text>Каждый разрабатываемый ресурс [ICON_RES_GAIA_TIMBER] Древесины в этом городе даёт +1 [ICON_PRODUCTION] Производства. Внутренние [ICON_INTERNATIONAL_TRADE] торговые пути из этого города приносят +2 [ICON_PRODUCTION] Производства.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP2">
+			<Text>+1 [ICON_PRODUCTION] Производства за каждую обрабатываемую клетку Леса (+2 [ICON_PRODUCTION], если на клетке есть [ICON_RES_GAIA_TIMBER] Древесина). Внутренние [ICON_INTERNATIONAL_TRADE] торговые пути из этого города приносят +2 [ICON_PRODUCTION] Производства.</Text>
+		</Replace>
+<!--FACTORY-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_FACTORY_HELP">
+			<Text>
+				+2 [ICON_PRODUCTION] Производства от ресурсов [ICON_RES_GAIA_RUBBER] Резины.
+				[NEWLINE][NEWLINE]Требуется 1 [ICON_RES_COAL] Угля.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Resource Buildings ==================================-->
+<!--===============================================================-->
+<!--AGRIBUSINESS-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS">
+			<Text>Агробизнес</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_HELP">
+			<Text>+1 [ICON_PRODUCTION] продукции и [ICON_GOLD] золота за пастбища, [ICON_RES_GAIA_MAIZE] кукурузу, [ICON_RES_GAIA_RICE] рис и [ICON_RES_WHEAT] пшеницу, обрабатываемые этим городом.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_PEDIA">
+			<Text>Агробизнес — это сфера деятельности, связанная с сельскохозяйственным производством. Этот термин был введен в 1957 году Гольдбергом и Дэвисом. Он охватывает агрохимию, селекцию, производство сельскохозяйственных культур (земледелие и контрактное сельское хозяйство), дистрибуцию, производство сельхозтехники, переработку и поставку семян, а также маркетинг и розничную продажу. Все участники цепочки создания стоимости продуктов питания и волокон, а также учреждения, которые на них влияют, являются частью системы агробизнеса.</Text>
+		</Replace>
+<!--CHOCOLATIER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER">
+			<Text>Шоколатье</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_HELP">
+			<Text>Каждый источник [ICON_RES_COCOA] какао, [ICON_RES_SUGAR] сахара и [ICON_RES_SPICES] корицы, обрабатываемый этим городом, дает дополнительно +1 [ICON_FOOD] пищи и +1 [ICON_GOLD] золота.[NEWLINE][NEWLINE]Город должен иметь хотя бы один из этих ресурсов, улучшенный для использования.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_PEDIA">
+			<Text>Шоколад — это сладкое лакомство, обычно коричневого цвета, изготовленное из семян какао, обжаренных и измельчённых. Он используется как в чистом виде, так и в качестве ингредиента для приготовления других сладких продуктов. Шоколатье — это специалист, занимающийся изготовлением кондитерских изделий из шоколада.</Text>
+		</Replace>
+<!--FISHPOND-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND">
+			<Text>Рыбный пруд</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_HELP">
+			<Text>Каждый источник [ICON_RES_FISH] рыбы и [ICON_RES_GAIA_LAKEFISH] озёрной рыбы, обрабатываемый этим городом, дает дополнительно +1 [ICON_FOOD] пищи.[NEWLINE][NEWLINE]Город должен иметь хотя бы один из этих ресурсов, улучшенный для использования.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_PEDIA">
+			<Text>Рыбный пруд — это искусственный водоём, предназначенный для разведения рыбы, отдыха или декоративных целей. В средневековой Европе монастыри и замки часто имели рыбные пруды.</Text>
+		</Replace>
+<!--HERBALIST-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST">
+			<Text>Травник</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_HELP">
+			<Text>+1 [ICON_PRODUCTION] продукции за плантации.[NEWLINE][NEWLINE]Каждый источник [ICON_RES_GAIA_CACTUS] кактуса и [ICON_RES_GAIA_POPPIES] мака, обрабатываемый этим городом, дает дополнительно +1 [ICON_RESEARCH] науки.[NEWLINE][NEWLINE]Требуется [COLOR_CYAN]плантация[ENDCOLOR], доступная для обработки.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_PEDIA">
+			<Text>Травничество — это использование растений в медицинских целях и изучение их свойств. Хотя современная медицина рассматривает травничество как альтернативную медицину, она всё же применяет многие растительные соединения для разработки лекарств.</Text>
+		</Replace>
+<!--JEWELER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER">
+			<Text>Ювелир</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_HELP">
+			<Text>
+				+5% [ICON_GOLD] Золота в этом городе.
+				[NEWLINE][NEWLINE]Каждый источник [ICON_RES_GAIA_CORAL] кораллов, [ICON_RES_GEMS] драгоценных камней, [ICON_RES_PEARLS] жемчуга и [ICON_RES_GAIA_AMBER] янтаря, обрабатываемый этим городом, дает +1 [ICON_GOLD] золота и +1 [ICON_CULTURE] культуры.
+				[NEWLINE][NEWLINE]Город должен иметь хотя бы один из этих ресурсов, улучшенный для использования.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_PEDIA">
+			<Text>Ювелирные изделия — это декоративные предметы, используемые для украшения тела или одежды, такие как кольца, ожерелья, браслеты, броши и серьги. Они изготавливаются из различных материалов, включая металлы и драгоценные камни.</Text>
+		</Replace>
+<!--PERFUMERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY">
+			<Text>Парфюмерия</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_HELP">
+			<Text>
+				+5% [ICON_CULTURE] Культуры в этом городе.
+				[NEWLINE][NEWLINE]Каждый источник [ICON_RES_GAIA_ROSES] роз, [ICON_RES_GAIA_LAVENDER] Лаванда и [ICON_RES_GAIA_BERRIES] ягод, обрабатываемый этим городом, дает дополнительно +1 [ICON_CULTURE] Культуру и +1 [ICON_GOLD] Золото.
+				[NEWLINE][NEWLINE]Город должен улучшить хотя бы один из этих ресурсов.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_PEDIA">
+			<Text>Парфюмерия — это смесь ароматических масел, растворителей и других ингредиентов, используемая для придания приятного запаха телу, одежде или окружающей среде.</Text>
+		</Replace>
+<!--SEAWEED MARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET">
+			<Text>Рынок Водорослей</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP">
+			<Text>
+				Каждый источник [ICON_RES_GAIA_KELP] водорослей, обрабатываемый этим городом, приносит дополнительно +1 [ICON_FOOD] пищи и +1 [ICON_GOLD] золота.
+				[NEWLINE][NEWLINE]Город должен иметь улучшенный ресурс [ICON_RES_GAIA_KELP] водорослей поблизости.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP2">
+			<Text>
+				Каждый источник [ICON_RES_GAIA_KELP] водорослей, обрабатываемый этим городом, приносит дополнительно +1 [ICON_FOOD] пищи и +1 [ICON_GOLD] золота. Внутренние [ICON_INTERNATIONAL_TRADE] торговые пути из этого города приносят +2 [ICON_FOOD] пищи.
+				[NEWLINE][NEWLINE]Город должен иметь улучшенный ресурс [ICON_RES_GAIA_KELP] водорослей поблизости.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_PEDIA">
+			<Text>
+				На протяжении веков прибрежные общины Азии, Европы и островов Тихого океана собирали водоросли не только в качестве пищи, но и для медицинских, сельскохозяйственных и промышленных нужд. В Японии, Корее и Ирландии водоросли продавались на открытых рынках и стали неотъемлемой частью местной экономики.
+				[NEWLINE][NEWLINE]С ростом глобального интереса к устойчивым морским ресурсам водоросли вновь стали важной культурой с экологическим и экономическим потенциалом. От традиционных участков ламинарии до современных аквакультурных хозяйств, выращивание и торговля съедобными водорослями превратили местные рынки в оживленные центры прибрежной торговли и инноваций.
+			</Text>
+		</Replace>
+<!--SMELTER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER">
+			<Text>Плавильня</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_HELP">
+			<Text>Каждый источник [ICON_RES_GAIA_TIN] олова, обрабатываемый этим городом, дает дополнительно +1 [ICON_PRODUCTION] продукции.[NEWLINE][NEWLINE]Позволяет перераспределять [ICON_PRODUCTION] продукцию из этого города через торговые пути внутри вашей цивилизации.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_PEDIA">
+			<Text>Плавильня — это место, где руду переплавляют в металл. Плавка — это процесс извлечения металлов из руды с использованием тепла и химического восстановителя, который разлагает руду, удаляя нежелательные элементы в виде газа или шлака, оставляя только металлическую основу. Этот процесс имеет древние корни и был ключевым этапом в технологическом развитии человеческой цивилизации.</Text>
+		</Replace>
+<!--SUPERMARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET">
+			<Text>Супермаркет</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_HELP">
+			<Text>Каждый источник [ICON_RES_CITRUS] цитрусовых, [ICON_RES_SALT] соли, [ICON_RES_TRUFFLES] трюфелей и [ICON_RES_GAIA_OLIVES] оливок, обрабатываемый этим городом, дает дополнительно +1 [ICON_FOOD] пищи и +1 [ICON_GOLD] золота.[NEWLINE][NEWLINE]Город должен иметь хотя бы один из этих ресурсов, улучшенный для использования.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_PEDIA">
+			<Text>Супермаркет — это торговое заведение, в котором продается широкий ассортимент продуктов питания и товаров первой необходимости. Супермаркеты как формат торговли начали появляться в первой половине XX века, став значимым шагом в эволюции розничной торговли благодаря упрощению логистики и увеличению ассортимента товаров.</Text>
+		</Replace>
+<!--TANNERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY">
+			<Text>Кожевня</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_HELP">
+			<Text>+1 [ICON_PRODUCTION] продукции за лагеря.[NEWLINE][NEWLINE]Каждый источник [ICON_RES_FUR] меха и [ICON_RES_GAIA_SEALS] тюленей, обрабатываемый этим городом, дает дополнительно +2 [ICON_GOLD] золота.[NEWLINE][NEWLINE]Требуется улучшенный [COLOR_CYAN]лагерь[ENDCOLOR] или [COLOR_CYAN]тюлени[ENDCOLOR], доступные для обработки.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_PEDIA">
+			<Text>Кожевня — это предприятие, на котором шкуры животных обрабатывают для получения кожи. Этот процесс включает в себя использование танинов — кислотных соединений, которые делают кожу более прочной и устойчивой к разложению. Традиционно танины извлекались из древесины дуба и других растений.</Text>
+		</Replace>
+<!--TEA HOUSE-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE">
+			<Text>Чайный домик</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_HELP">
+			<Text>
+				Каждый источник [ICON_RES_GAIA_TEA] чая, [ICON_RES_GAIA_COFFEE] кофе и [ICON_RES_GAIA_TOBACCO] табака, обрабатываемый этим городом, дает дополнительно +1 [ICON_CULTURE] культуры и +1 [ICON_GOLD] золота.
+				[NEWLINE][NEWLINE]Город должен иметь хотя бы один из этих ресурсов, обработанный поблизости.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_PEDIA">
+			<Text>Чайный домик или чайная комната — это заведение, где подают чай и легкие закуски. В зависимости от культуры такие заведения могут играть важную социальную роль. В некоторых культурах чайные домики служат центром общения и культурных мероприятий.</Text>
+		</Replace>
+<!--TEXTILEMILL-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL">
+			<Text>Текстильная фабрика</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_HELP">
+			<Text>
+				Каждый источник [ICON_RES_COTTON] хлопка, [ICON_RES_SHEEP] овец, [ICON_RES_SILK] шелка и [ICON_RES_DYE] красителей, обрабатываемый этим городом, дает дополнительно +1 [ICON_GOLD] золота и +1 [ICON_PRODUCTION] продукции.
+				[NEWLINE][NEWLINE]Город должен иметь хотя бы один из этих ресурсов, обработанный поблизости.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_PEDIA">
+			<Text>Текстильная фабрика — это предприятие, на котором из волокон, таких как хлопок или шерсть, производятся ткани и текстильные изделия.</Text>
+		</Replace>
+	</Language_RU_RU>
+</GameData>

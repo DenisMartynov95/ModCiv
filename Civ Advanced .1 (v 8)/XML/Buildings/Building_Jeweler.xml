@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2014 2:25:32 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_JEWELER</Type>
+			<DefaultBuilding>BUILDING_JEWELER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_JEWELER</Description>
+			<MaxPlayerInstances>2</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_JEWELER</Type>
+			<BuildingClass>BUILDINGCLASS_JEWELER</BuildingClass>
+			<Cost>170</Cost>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_JEWELER</Description>
+			<Civilopedia>TXT_KEY_BUILDING_JEWELER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_JEWELER_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_JEWELER_HELP</Help>
+			<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>10</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<ResourceType>RESOURCE_ALTJEWELERY</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELER</BuildingType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_JEWELER">
+			<Text>Jeweler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JEWELER_HELP">
+			<Text>+ 1 [ICON_RES_ALTJEWELERY] Jewelery luxury. Each source of [ICON_RES_GEMS] Gems, [ICON_RES_SILVER] Silver and [ICON_RES_GOLD] Gold worked by this City produces +1 [ICON_GOLD] Gold. Improved trade route [ICON_GOLD] income to and from this City. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JEWELER_STRATEGY">
+			<Text>The Jeweler is an Ancient era building which grants 1 source of [ICON_RES_ALTJEWELERY] Jewelery and increases a City's [ICON_GOLD] Gold income from [ICON_RES_GEMS] Gems, [ICON_RES_SILVER] Silver and [ICON_RES_GOLD] Gold and trade. It requires an improved source of any near your City to be built. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JEWELER_PEDIA">
+			<Text>A jeweler is a person who renders original jewelry creations and usually constructs them as well. By profession this person would be trained in design and metalsmithing. Historically jewelry designers originated as goldsmiths in Ancient Egypt (although jewelry existed much earlier) and became more dominant through ancient Greek and Levant cultures. In Ancient Macedonia from Thessaloniki, the art of milling and rolling 24K Gold rose to the highest form and ignited the origins of what later 18th century jewelers such as the family of Fortunato Pio Castellani used in Italian archaeological jewelry.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

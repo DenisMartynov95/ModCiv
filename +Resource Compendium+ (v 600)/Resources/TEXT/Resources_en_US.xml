@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_en_US>
+<!--===============================================================-->
+<!--===== Luxury Resource Changes =================================-->
+<!--===============================================================-->
+<!--Cinnamon (Spices)-->
+		<Replace Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>Cinnamon</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES">
+			<Text>Cinnamon</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES_TEXT">
+			<Text>
+				Cinnamon, obtained from the inner bark of trees in the genus Cinnamomum, has been prized for its sweet, warm flavor and rich aroma for thousands of years. Used in both sweet and savory dishes, it has been a key ingredient in cuisines from Asia to Europe. Beyond its culinary role, cinnamon has been used in traditional medicine for its supposed ability to aid digestion, improve circulation, and reduce inflammation. Ancient Egyptian, Greek, and Chinese texts all reference cinnamon’s value in both health and ritual practices.
+				[NEWLINE][NEWLINE]Cinnamon was once one of the most coveted and expensive spices, fueling the spice trade that linked Asia, the Middle East, and Europe. In the Middle Ages, Venetian and Arab merchants controlled its distribution, keeping its origins a secret to maintain high prices. By the 16th century, Portuguese, Dutch, and British traders fought for control of cinnamon-producing regions, particularly in Sri Lanka. Today, cinnamon remains a globally used spice, valued for its versatility and deep historical significance.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Luxury Resources ====================================-->
+<!--===============================================================-->
+<!--Amber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER">
+			<Text>Amber</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER_PEDIA">
+			<Text>
+				Amber is fossilized tree resin, which has been appreciated for its color and natural beauty since Neolithic times. Much valued from antiquity to the present as a gemstone, amber is made into a variety of decorative objects. It has been used as an ingredient in perfumes, as a healing agent in folk medicine, and as jewelry. Because it originates as a soft, sticky tree resin, amber sometimes contains animal and plant material as inclusions, making it valuable for scientific study.
+				[NEWLINE][NEWLINE]In ancient trade, amber was considered as precious as gold and was transported along the Amber Road, connecting the Baltic region to the Mediterranean. The Romans and Greeks crafted intricate amber artifacts, often associating it with divine properties. During the Middle Ages, amber was a sought-after luxury in Europe, used for rosaries and amulets. Today, it remains a prized material for jewelry and historical collections, preserving remnants of prehistoric life within its golden depths.
+			</Text>
+		</Replace>
+<!--Coffee-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE">
+			<Text>Coffee</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE_PEDIA">
+			<Text>
+				Coffee is a brewed beverage prepared from the roasted seeds of several species of evergreen shrubs belonging to the genus Coffea. The earliest credible evidence of coffee drinking or knowledge of the coffee tree appears in the middle of the 15th century in the monasteries of Arabia. It was there that coffee seeds were first roasted and brewed in a manner similar to modern methods. Through trade, coffee spread to Venetian ports in Italy, and from there, it was introduced to the rest of Europe.
+				[NEWLINE][NEWLINE]By the 17th century, coffeehouses, known as "penny universities," became cultural hubs in England, fostering discussions on politics, science, and literature. The colonial expansion of European powers led to the establishment of vast coffee plantations in the Americas, Africa, and Southeast Asia. Today, coffee remains one of the most traded commodities in the world, supporting economies across multiple continents and playing a crucial role in global culture.
+			</Text>
+		</Replace>
+<!--Coral-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL">
+			<Text>Coral</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL_PEDIA">
+			<Text>
+				Coral is a branching skeleton-like structure built by small marine animals known as polyps. Red coral, also known as precious coral, is one of the most ancient of gems and has been harvested since antiquity for decorative use. It belongs to a small class of organic gemstones, which includes materials such as pearl, amber, ivory, and jet. Historically, precious coral was not only a highly prized form of ornamentation but was also believed to possess mysterious sacred properties.
+				[NEWLINE][NEWLINE]Throughout history, coral was used for jewelry, talismans, and religious artifacts. In Ancient Rome, coral amulets were worn to ward off evil spirits, while in the Middle Ages, it was thought to have healing properties. The coral trade flourished in the Mediterranean, with Italy and Spain becoming major centers of production. However, overharvesting and environmental changes have led to the decline of coral populations, prompting conservation efforts to protect these delicate marine ecosystems.
+			</Text>
+		</Replace>
+<!--Jade-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE">
+			<Text>Jade</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE_PEDIA">
+			<Text>
+				Jade is an ornamental stone and the name given to two types of metamorphic rock: nephrite and jadeite. Among the earliest known jade artifacts excavated from prehistoric sites are simple ornaments such as beads and buttons. Additionally, jade was used for adze heads, knives, and other weapons, which could be delicately shaped and polished. As metalworking technologies advanced, jade became increasingly valued for its aesthetic appeal, leading to the creation of intricate carvings and jewelry.
+				[NEWLINE][NEWLINE]In Chinese history, jade was considered the "imperial gem," surpassing gold and silver in status. It was associated with purity, longevity, and the Confucian ideals of virtue. The Olmecs, Maya, and Aztecs of Mesoamerica also revered jade, using it for masks, jewelry, and ceremonial objects. Today, jade remains a highly prized gemstone, with collectors and artisans continuing to honor its rich cultural legacy.
+			</Text>
+		</Replace>
+<!--Lapis Lazuli-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS">
+			<Text>Lapis Lazuli</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS_PEDIA">
+			<Text>
+				Lapis lazuli is a deep blue semi-precious stone that has been prized since antiquity for its intense color. It has been mined for over 6,000 years in Afghanistan and was a primary source of lapis for ancient Egyptian and Mesopotamian civilizations, as well as for later Greek and Roman cultures. Lapis lazuli takes an excellent polish and was highly valued for making jewelry, carvings, vases, and other decorative items.
+				[NEWLINE][NEWLINE]One of its most valuable uses was as a pigment. Ground lapis lazuli was processed to create ultramarine, one of the most expensive and sought-after pigments during the Renaissance. This vivid blue pigment was reserved for important works of art, often depicting religious figures. The trade of lapis lazuli extended along the Silk Road, influencing artistic traditions across multiple civilizations. Today, it remains a cherished gemstone in jewelry and art.
+			</Text>
+		</Replace>
+<!--Olives-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES">
+			<Text>Olives</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES_PEDIA">
+			<Text>
+				The olive tree (Olea europaea) is one of the oldest cultivated plants in human history, with evidence of its domestication dating back over 6,000 years in the Eastern Mediterranean. Its fruit, the olive, has played a central role in Mediterranean agriculture and cuisine, primarily as the source of olive oil. Ancient civilizations, including the Greeks, Romans, and Phoenicians, valued olives not only for their nutritional benefits but also for their symbolic significance in peace, wisdom, and prosperity.
+				[NEWLINE][NEWLINE]Trade networks centered around olives and olive oil flourished in antiquity, with olive oil becoming a valuable commodity across Europe, North Africa, and the Middle East. The spread of olive cultivation followed the expansion of empires, particularly the Romans, who introduced the tree to many parts of their territory. Today, olives remain a staple of Mediterranean diets, and olive oil is a cornerstone of global cuisine, prized for its health benefits and culinary versatility.
+			</Text>
+		</Replace>
+<!--Poppies-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES">
+			<Text>Poppies</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES_PEDIA">
+			<Text>
+				Poppies, known for their vibrant flowers, have deep cultural and historical significance. The opium poppy (Papaver somniferum) has been cultivated for thousands of years for its medicinal and psychoactive properties. Ancient civilizations, including the Sumerians and Egyptians, used opium-derived substances for pain relief and rituals. By the 19th century, the opium trade became a major geopolitical issue, culminating in the Opium Wars between Britain and China.
+				[NEWLINE][NEWLINE]Beyond its medicinal and economic impact, the poppy became a symbol of remembrance after World War I, inspired by the poem In Flanders Fields. The bright red flowers were among the first plants to bloom on battlefields, symbolizing resilience and sacrifice. Today, poppies continue to be associated with war remembrance and are also cultivated for their edible seeds, used in baking and culinary traditions around the world.
+			</Text>
+		</Replace>
+<!--Roses-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES">
+			<Text>Roses</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES_PEDIA">
+			<Text>
+				Roses are among the most iconic and widely cultivated flowers, with a history spanning thousands of years. Originating in Asia, roses were first domesticated in China and later spread to Persia, Greece, and Rome. They were cultivated for their fragrance, beauty, and medicinal properties. In ancient Rome, roses were associated with luxury and were used in feasts, perfumes, and even as currency. During the Middle Ages, monasteries and noble estates maintained rose gardens for both decorative and therapeutic purposes.
+				[NEWLINE][NEWLINE]The symbolism of roses became deeply intertwined with European history, particularly during the Wars of the Roses in England. In the modern era, roses are a universal symbol of love and beauty and remain a crucial part of the floral industry. Additionally, rose oil and rose water are still used in perfumes, cosmetics, and culinary traditions, highlighting their enduring cultural and economic value.
+			</Text>
+		</Replace>
+<!--Seals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS">
+			<Text>Seals</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_PEDIA">
+			<Text>
+				Seals are semi-aquatic marine mammals that have played a crucial role in the lives of Arctic and coastal communities for thousands of years. Indigenous peoples, such as the Inuit and Sami, have relied on seals for food, clothing, and tools, making use of every part of the animal. Seal pelts were essential for insulation against extreme cold, while seal blubber was rendered into oil for lamps and waterproofing.
+				[NEWLINE][NEWLINE]The seal trade became a major industry in the 18th and 19th centuries, particularly in the North Atlantic, where European and American whalers hunted them in large numbers. However, overhunting led to severe population declines, prompting conservation efforts in the 20th century. Today, while traditional seal hunting continues in some indigenous communities, international restrictions aim to balance cultural heritage with ecological sustainability.
+			</Text>
+		</Replace>
+<!--Tea-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA">
+			<Text>Tea</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA_PEDIA">
+			<Text>
+				Tea is an aromatic beverage prepared by steeping the cured leaves of the Camellia sinensis plant in hot water. Its origins trace back to ancient China, where it was first consumed for its medicinal properties during the Shang Dynasty. By the Tang Dynasty, tea had become a staple of Chinese culture, spreading to Japan and Korea through Buddhist monks. The Portuguese were among the first Europeans to encounter tea in the 16th century, introducing it to the West.
+				[NEWLINE][NEWLINE]In the 17th and 18th centuries, tea became a highly sought-after commodity, fueling the global tea trade. The British East India Company played a central role in monopolizing tea imports, leading to significant historical events such as the Boston Tea Party. To reduce reliance on Chinese tea, Britain expanded tea cultivation to its colonies in India and Sri Lanka. Today, tea remains the second-most-consumed beverage in the world after water, with deep cultural significance across Asia, Europe, and beyond.
+			</Text>
+		</Replace>
+<!--Tobacco-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO">
+			<Text>Tobacco</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO_PEDIA">
+			<Text>
+				Tobacco is a plant from the genus Nicotiana, known for its leaves that are dried and processed for smoking, chewing, and snuff. Native American tribes have cultivated and used tobacco for thousands of years in spiritual and medicinal practices. It was commonly used in peace ceremonies and as a form of currency among indigenous groups. Early European explorers, such as Christopher Columbus, encountered tobacco in the Americas and quickly adopted its use.
+				[NEWLINE][NEWLINE]The tobacco trade became one of the most lucrative industries of the colonial era. European powers established plantations in the Caribbean, North America, and South America, leading to the widespread use of slave labor. By the 19th and 20th centuries, tobacco consumption had become a global phenomenon, with cigarettes dominating the market. Despite its economic significance, modern health concerns regarding tobacco use have led to widespread regulations and declining consumption in many regions.
+			</Text>
+		</Replace>
+<!--Lavender-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER">
+			<Text>Lavender</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER_PEDIA">
+			<Text>
+				Lavender (Lavandula angustifolia) is a fragrant herb native to the Mediterranean region. It is widely cultivated for its aromatic flowers, which are used in perfumes, oils, and as a culinary herb. Lavender has been a symbol of beauty and cleanliness for centuries and has been used in everything from Roman bathhouses to modern-day aromatherapy. Its essential oil is known for its calming properties and is used to treat stress, anxiety, and sleep disorders.
+				[NEWLINE][NEWLINE]Lavender thrives in well-drained soil and a sunny climate, making it a popular choice for both commercial and home gardening. It is also known for its role in landscaping, adding color and fragrance to gardens. Beyond its medicinal and ornamental uses, lavender is an important economic resource, contributing to the economies of countries such as France, Bulgaria, and the United Kingdom. Today, it is a staple in herbal medicine, natural beauty products, and culinary dishes.
+			</Text>
+		</Replace>
+<!--Tulips-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS">
+			<Text>Tulips</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS_PEDIA">
+			<Text>
+				Tulips, first cultivated in Turkey and Central Asia, were brought to Europe in the 16th century, where they became symbols of luxury and beauty. Their popularity surged during the Dutch "Tulip Mania" of the 17th century—an early example of a speculative bubble. Today, tulips are cherished for their vibrant colors and elegant blooms. Extensively cultivated in the Netherlands and celebrated in spring festivals around the world, they represent renewal and refined aesthetics.
+			</Text>
+		</Replace>
+		<!--TULIP FARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM">
+			<Text>Tulip Farm</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM_PEDIA">
+			<Text>
+				Tulip Farms are vibrant agricultural plantations dedicated to cultivating tulips, a flower historically associated with wealth, beauty, and trade. Originating in Central Asia and widely cultivated in the Netherlands, tulips became a major commodity during the 17th-century "Tulip Mania" era. These farms provide Culture and Gold as they attract tourism and symbolize refined aesthetics, especially when established on fertile or coastal land.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_TULIPFARM">
+			<Text>Establish a [LINK=IMPROVEMENT_GAIA_TULIPFARM]Tulip Farm[\LINK]</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Bonus Resources =====================================-->
+<!--===============================================================-->
+<!--Berries-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES">
+			<Text>Berries</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES_PEDIA">
+			<Text>
+				Berries have been gathered and consumed since prehistoric times, providing early humans with essential nutrients and natural sweetness. Found in diverse environments, berries such as strawberries, blueberries, and raspberries have been central to indigenous diets and traditional medicine across various cultures. Many civilizations, from the Romans to Native American tribes, recognized their medicinal properties and cultivated them for consumption and trade.
+				[NEWLINE][NEWLINE]Beyond their role as food, berries have deep cultural and symbolic significance. In European folklore, they were associated with protection and prosperity, while in many Asian traditions, they symbolized vitality and longevity. Today, berries remain highly valued for their antioxidant properties and are a staple in global cuisine, featured in desserts, beverages, and health supplements.
+			</Text>
+		</Replace>
+<!--Cactus-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS">
+			<Text>Cacti</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS_PEDIA">
+			<Text>
+				Cacti are resilient desert plants known for their ability to thrive in extreme conditions by storing water in their thick, spiny stems. Indigenous cultures across the Americas have used cacti for food, medicine, and building materials for thousands of years. Some species, like the prickly pear, provided nourishment, while others, like peyote, held spiritual significance in rituals.
+				[NEWLINE][NEWLINE]In addition to their practical uses, cacti have become symbols of endurance and survival, playing a key role in desert ecosystems by preventing erosion and supporting wildlife. Today, they are widely cultivated for ornamental purposes and continue to be utilized in sustainable agriculture, with growing recognition of their potential for climate-resilient farming.
+			</Text>
+		</Replace>
+<!--Coconuts-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS">
+			<Text>Coconuts</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_PEDIA">
+			<Text>
+				Coconuts have been vital to coastal and island communities for millennia, providing a versatile source of food, drink, and materials. The fruit's flesh, milk, and oil are integral to many cuisines, while its husks and shells are used for crafts, fuel, and construction. The coconut palm thrives in tropical climates and has been referred to as the "Tree of Life" due to its numerous applications.
+				[NEWLINE][NEWLINE]The global coconut trade expanded during the colonial era, with European and Asian powers establishing plantations across the Pacific and Indian Oceans. Coconuts played a key role in early maritime trade, sustaining explorers and traders on long voyages. Today, they continue to be an important economic resource, supporting industries ranging from cosmetics to renewable energy.
+			</Text>
+		</Replace>
+<!--Flax-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX">
+			<Text>Flax</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX_PEDIA">
+			<Text>
+				Flax is one of the oldest cultivated crops, dating back at least 9,000 years to the Fertile Crescent. Ancient Egyptians and Mesopotamians prized flax for its fibers, which were woven into linen for clothing, sails, and ceremonial use. The plant's seeds, known as flaxseeds, were also used for food and medicinal purposes, offering a rich source of nutrients.
+				[NEWLINE][NEWLINE]Throughout history, flax has played a crucial role in textile production, with linen becoming a valuable trade good in Europe and Asia. By the Industrial Revolution, flax processing became more efficient, increasing its availability. Today, flax remains important in sustainable agriculture, with its fibers used in eco-friendly fabrics and its seeds recognized for their health benefits.
+			</Text>
+		</Replace>
+<!--Lake Fish-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH">
+			<Text>Lake Fish</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH_PEDIA">
+			<Text>
+				Lake fish, including species like trout, perch, and pike, have been essential to human survival and trade for thousands of years. Freshwater fishing has long supported communities across the world, from ancient civilizations along the Nile and Great Lakes to medieval European and Asian markets. Many cultures developed specialized fishing techniques, including nets, traps, and ice fishing.
+				[NEWLINE][NEWLINE]Beyond their economic value, lake fish play a crucial role in maintaining aquatic ecosystems, regulating populations of smaller organisms and contributing to biodiversity. With growing concerns about overfishing and environmental changes, sustainable fishery practices have become increasingly important to preserve freshwater food sources for future generations.
+			</Text>
+		</Replace>
+<!--Maize-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE">
+			<Text>Maize</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE_PEDIA">
+			<Text>
+				Maize, also known as corn, was first domesticated in Mesoamerica over 10,000 years ago. It became the foundation of agriculture, sustaining populations, economies, and entire industries. Maize is used both as food, such as tortillas and polenta, and as livestock feed and a raw material for biofuels. Thanks to its ability to grow in diverse climates, it is one of the most widely cultivated crops in the world.
+				[NEWLINE][NEWLINE]Maize is known for its versatility and cultural significance, ensuring its enduring importance. It symbolizes sustenance and innovation in world history, playing a key role in both traditional and modern economies. Through trade and colonization, maize spread across the world, becoming a crucial component of agriculture in many regions.
+			</Text>
+		</Replace>
+<!--Rice-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE">
+			<Text>Rice</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE_PEDIA">
+			<Text>
+				Rice is a staple crop for billions of people, cultivated for over 10,000 years. It thrives in wet environments, including terraced fields and floodplains, providing a vital source of nutrition. Rice is an integral part of Asian cuisine and plays a significant role in diets worldwide. Due to its adaptability to various climates, rice sustains economies and cultures across the globe.
+				[NEWLINE][NEWLINE]Rice symbolizes abundance and resilience. It holds a central place in festivals, traditions, and trade, remaining one of the most important agricultural products. Many nations rely on rice cultivation, making it a critical element in both agriculture and the global economy.
+			</Text>
+		</Replace>
+<!--Rubber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER">
+			<Text>Rubber</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_PEDIA">
+			<Text>
+				Rubber was first used by indigenous Mesoamerican civilizations, such as the Olmecs and Maya, for waterproofing, tools, and even sports equipment. The discovery of vulcanization in the 19th century revolutionized rubber use, making it a key material for industrial applications, including tires, machinery, and medical devices.
+				[NEWLINE][NEWLINE]During the colonial period, European powers established rubber plantations in Southeast Asia and Africa, fueling economic expansion. However, the industry also led to exploitation of indigenous labor. Today, synthetic and natural rubber remain critical to global trade, with sustainable production methods becoming increasingly important.
+			</Text>
+		</Replace>
+<!--Timber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER">
+			<Text>Timber</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_PEDIA">
+			<Text>
+				Timber has been one of the most essential resources in human history, providing materials for shelter, tools, and transportation. Early civilizations relied on wood for construction, from Mesopotamian temples to Viking ships. The demand for timber grew with urban expansion, leading to deforestation in many regions.
+				[NEWLINE][NEWLINE]In addition to its industrial uses, timber has been central to art, craftsmanship, and furniture-making. The introduction of sustainable forestry practices in the modern era aims to balance economic demands with environmental conservation, ensuring that timber remains a renewable resource for future generations.
+			</Text>
+		</Replace>
+<!--Tin-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN">
+			<Text>Tin</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN_PEDIA">
+			<Text>
+				Tin was a fundamental resource in early metallurgy, combining with copper to create bronze, which revolutionized tool-making and weaponry in the Bronze Age. The earliest known tin mining sites date back to ancient Anatolia and Britain, where it became a key commodity in long-distance trade networks.
+				[NEWLINE][NEWLINE]As ironworking replaced bronze, tin found new applications in alloys and coatings. By the Industrial Revolution, it became essential in manufacturing, particularly in tin-plated food preservation. Today, tin remains vital in electronics, soldering, and specialized alloys, underscoring its continued importance in technology and industry.
+			</Text>
+		</Replace>
+<!--Kelp-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP">
+			<Text>Kelp</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP_PEDIA">
+			<Text>
+				Kelp is a fast-growing seaweed found in shallow, nutrient-rich oceans, forming vast underwater forests along coastlines. Though it resembles a plant, kelp is a type of large brown algae that thrives in cool waters between 6 and 14 °C.
+				[NEWLINE][NEWLINE]Kelp forests provide food and shelter for a wide variety of marine life and play a vital role in coastal ecosystems. Some species can grow up to half a meter per day, reaching lengths of over 30 meters. Used by humans for food, fertilizer, and even industrial products, kelp is a symbol of both natural abundance and marine resilience.
+			</Text>
+		</Replace>
+		<!--KELPFARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM">
+			<Text>Kelpfarm</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM_PEDIA">
+			<Text>
+				Seaweed farming or kelp farming is the practice of cultivating and harvesting seaweed. In its simplest form, it consists of the management of naturally found batches. In its most advanced form, it consists of fully controlling the life cycle of the algae. The top seven most cultivated seaweed taxa are Eucheuma spp., Kappaphycus alvarezii, Gracilaria spp., Saccharina japonica, Undaria pinnatifida, Pyropia spp., and Sargassum fusiforme. Eucheuma and K. alvarezii are farmed for carrageenan (a gelling agent); Gracilaria is farmed for agar; while the rest are farmed for food.[1] The largest seaweed-producing countries are China, Indonesia, and the Philippines. Other notable producers include South Korea, North Korea, Japan, Malaysia, and Zanzibar (Tanzania). Seaweed farming has frequently been developed as an alternative to improve economic conditions and to reduce fishing pressure and overexploited fisheries.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAFARM">
+			<Text>Establish a [LINK=IMPROVEMENT_GAIA_SEAFARM]Kelpfarm[\LINK]</Text>
+		</Replace>
+<!--Seabed Minerals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS">
+			<Text>Seabed Minerals</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS_PEDIA">
+			<Text>
+				Seabed minerals are found at depths ranging from 600 to 7000 meters and fall into three main types:
+				[NEWLINE][NEWLINE]1) Polymetallic nodules, formed on abyssal plains 4–6 km deep, grow slowly around a central nucleus like a shark’s tooth. They are rich in manganese, cobalt, nickel, copper, and rare earths. Major deposits are located in the Clarion Clipperton Zone (Pacific) and near the Cook Islands.
+				[NEWLINE][NEWLINE]2) Seabed sulfide deposits form near hydrothermal vents at depths of 1–4 km, often along mid-ocean ridges and island arcs. They contain valuable metals such as copper, gold, lead, and silver. These are found near Papua New Guinea, Tonga, and the Mid-Atlantic Ridge.
+				[NEWLINE][NEWLINE]3) Cobalt-rich crusts grow on seamounts and ridges between 600–7000 m deep. Forming thin layers over rock surfaces, they are rich in cobalt, nickel, platinum, and rare earth elements, and are widespread across all oceans, including near Micronesia and Kiribati.
+			</Text>
+		</Replace>
+		<!--DEEP SEA MINE-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE">
+			<Text>Deep Sea Mine</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE_PEDIA">
+			<Text>
+				Deep sea mining is a growing subfield of experimental seabed mining that involves the retrieval of minerals and deposits from the ocean floor found at depths of 200 metres (660 ft), up to 6500 meters (21,325.46ft). As of 2021, the majority of marine mining efforts are limited to shallow coastal waters only, where sand, tin and diamonds are more readily accessible. There are three types of deep sea mining that have generated great interest: polymetallic nodule mining, polymetallic sulphide mining, and the mining of cobalt-rich ferromanganese crusts. The majority of proposed deep sea mining sites are near of polymetallic nodules or active and extinct hydrothermal vents at 1,400 to 3,700 metres (4,600 to 12,100 ft) below the ocean’s surface. The vents create globular or massive sulfide deposits, which contain valuable metals such as silver, gold, copper, manganese, cobalt, and zinc. The deposits are mined using either hydraulic pumps or bucket systems that take ore to the surface to be processed.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAMINE">
+			<Text>Establish a [LINK=IMPROVEMENT_GAIA_SEAMINE]Deep Sea Mine[\LINK]</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW City-State Resources ================================-->
+<!--===============================================================-->
+<!--Carpets-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS">
+			<Text>Carpets</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_PEDIA">
+			<Text>
+				Carpet weaving is an ancient craft, with some of the earliest known examples dating back over 2,500 years in Persia and Central Asia. Initially a luxury item reserved for royalty and religious institutions, carpets became widely valued for their intricate designs and craftsmanship. Many cultures, including the Ottomans, Safavids, and Mughals, refined the art, producing carpets that became treasured trade goods.
+				[NEWLINE][NEWLINE]The Silk Road played a crucial role in spreading carpet-making techniques across continents, leading to the development of distinct regional styles in Europe, the Middle East, and Asia. Over time, carpets evolved from purely decorative pieces to essential household items, symbolizing warmth and hospitality. Today, traditional handwoven carpets remain a highly sought-after art form, while machine-made carpets continue to dominate global markets.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_HELP">
+			<Text>Carpets are only available through a Mercantile City-State.</Text>
+		</Replace>
+<!--Furniture-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE">
+			<Text>Furniture</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_PEDIA">
+			<Text>
+				Furniture has been a fundamental part of human civilization since antiquity, with early examples dating back to the Neolithic period. The ancient Egyptians, Greeks, and Romans crafted sophisticated wooden furniture, often adorned with inlays of ivory and gold. These early pieces symbolized status and refinement, with the wealthiest households commissioning elaborate designs.
+				[NEWLINE][NEWLINE]During the Renaissance, furniture-making flourished as an artistic discipline, with European craftsmen introducing new techniques and materials. The Industrial Revolution later revolutionized production, making furniture more accessible to the general population. Today, furniture remains both a functional necessity and a form of artistic expression, with traditional handcraftsmanship and modern manufacturing coexisting in global markets.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_HELP">
+			<Text>Furniture is only available through a Mercantile City-State.</Text>
+		</Replace>
+<!--Glassware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE">
+			<Text>Glassware</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_PEDIA">
+			<Text>
+				The art of glassmaking dates back to ancient Mesopotamia and Egypt, where early artisans crafted small vessels and decorative items. By the time of the Roman Empire, glassblowing had been developed, leading to an expansion of glass production and its widespread use across Europe and the Mediterranean. Roman glassware was highly prized, used for everything from drinking vessels to windows in wealthy households.
+				[NEWLINE][NEWLINE]During the Middle Ages, Venetian craftsmen on the island of Murano perfected glassblowing techniques, creating the world-renowned Murano glass. Their innovations in colored glass, mirrors, and intricate designs set the standard for luxury glassware. Today, fine glassware continues to be a symbol of refinement and craftsmanship, with artisans around the world preserving centuries-old techniques while incorporating modern innovations.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_HELP">
+			<Text>Glassware is only available through a Mercantile City-State.</Text>
+		</Replace>
+<!--Lacquerware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE">
+			<Text>Lacquerware</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_PEDIA">
+			<Text>
+				Lacquerware originated in China and Japan over 3,000 years ago, using tree sap to create a hard, glossy coating on wood, metal, and ceramic objects. The process required great skill and patience, as each layer of lacquer had to be carefully applied and dried. These objects, often adorned with gold, silver, or mother-of-pearl inlays, were valued for their durability and intricate artistry.
+				[NEWLINE][NEWLINE]Lacquerware became highly sought after in trade, reaching as far as Persia and Europe via the Silk Road. During the Edo period in Japan, specialized schools of lacquer artisans flourished, refining the craft further. Today, lacquerware remains a treasured form of decorative art, with traditional methods still practiced alongside contemporary innovations.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_HELP">
+			<Text>Lacquerware is only available through a Mercantile City-State.</Text>
+		</Replace>
+<!--Mosaic Tiles-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES">
+			<Text>Mosaic Tiles</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_PEDIA">
+			<Text>
+				Mosaics have been a key artistic form for thousands of years, first appearing in Mesopotamian and Greek civilizations. These decorative works, created by arranging small colored stones, glass, or ceramics, became widespread during the Roman and Byzantine periods. Mosaics adorned the floors, walls, and ceilings of palaces, temples, and public buildings, showcasing religious themes and elaborate geometric designs.
+				[NEWLINE][NEWLINE]Byzantine artisans refined mosaic techniques, incorporating gold and vibrant colors into religious artworks. In the Islamic world, mosaic tiles became a major architectural element, particularly in mosques and palaces. Today, mosaic craftsmanship continues to thrive, blending traditional methods with modern design aesthetics in both art and architecture.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_HELP">
+			<Text>Mosaic Tiles are only available through a Mercantile City-State.</Text>
+		</Replace>
+<!--Perfume-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME">
+			<Text>Perfume</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_PEDIA">
+			<Text>
+				Perfume-making has existed since the earliest civilizations, with Mesopotamians and Egyptians pioneering the use of fragrant oils and resins. Ancient Egyptian royalty used perfumes extensively in rituals, while the Greeks and Romans expanded the practice, incorporating exotic ingredients from across their empires. The technique of extracting essential oils from flowers, particularly roses, was perfected in Persia and later spread to Arabia, India, and Europe.
+				[NEWLINE][NEWLINE]During the Renaissance, perfume production flourished in France, particularly in the city of Grasse, which became the center of European perfumery. The rise of modern chemistry in the 19th century led to synthetic fragrances, revolutionizing the industry. Today, perfumes remain a luxury product, blending artistry and science, with some of the world's most famous brands continuing traditions that date back thousands of years.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_HELP">
+			<Text>Perfume is only available through a Mercantile City-State.</Text>
+		</Replace>
+<!--Obsidian-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN">
+			<Text>Obsidian</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_PEDIA">
+			<Text>
+				Obsidian is a naturally occurring volcanic glass that forms when lava cools rapidly, preventing crystallization. Its conchoidal fracture allows it to break into extremely sharp edges, making it one of the most effective materials for crafting tools and weapons in prehistoric times. From the Americas to the Middle East, early civilizations valued obsidian not only for its utility but also for its distinctive glossy appearance, which made it a prized material in trade and ceremonial use.
+				[NEWLINE][NEWLINE]The unique properties of obsidian led to its continued use even beyond the Stone Age. Aztec priests wielded obsidian blades for ritual sacrifices, while some cultures fashioned it into mirrors and jewelry. Today, its exceptional sharpness makes it ideal for specialized surgical instruments. Although metal tools eventually replaced obsidian in most practical applications, it remains a symbol of early human ingenuity and the deep connection between geology and civilization.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_HELP">
+			<Text>Obsidian is only available through the construction of a [COLOR_YELLOW]Knapping Works[ENDCOLOR].</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

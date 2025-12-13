@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/18/2014 10:53:03 PM -->
+
+	<GameData>
+		<BuildingClasses>
+			<Row>
+				<Type>BUILDINGCLASS_OIL_REFINERY</Type>
+				<DefaultBuilding>BUILDING_OIL_REFINERY</DefaultBuilding>
+				<Description>TXT_KEY_BUILDING_OIL_REFINERY</Description>
+			</Row>
+		</BuildingClasses>
+		<Buildings>
+			<Row>
+				<Type>BUILDING_OIL_REFINERY</Type>
+				<BuildingClass>BUILDINGCLASS_OIL_REFINERY</BuildingClass>
+				<Cost>600</Cost>
+				<PrereqTech>TECH_ELECTRONICS</PrereqTech>
+				<Description>TXT_KEY_BUILDING_OIL_REFINERY</Description>
+				<Civilopedia>TXT_KEY_BUILDING_OIL_REFINERY_PEDIA</Civilopedia>
+				<Strategy>TXT_KEY_BUILDING_OIL_REFINERY_STRATEGY</Strategy>
+				<Help>TXT_KEY_BUILDING_OIL_REFINERY_HELP</Help>
+				<MinAreaSize>-1</MinAreaSize>
+				<ConquestProb>66</ConquestProb>
+				<HurryCostModifier>0</HurryCostModifier>
+				<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+				<PortraitIndex>23</PortraitIndex>
+			</Row>
+		</Buildings>
+		<Building_LocalResourceOrs>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<ResourceType>RESOURCE_OIL</ResourceType>
+			</Row>
+		</Building_LocalResourceOrs>
+		<Building_Flavors>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<FlavorType>FLAVOR_NAVAL</FlavorType>
+				<Flavor>15</Flavor>
+			</Row>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+				<Flavor>20</Flavor>
+			</Row>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>20</Flavor>
+			</Row>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			</Building_Flavors>
+		<Building_DomainProductionModifiers>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<DomainType>DOMAIN_SEA</DomainType>
+				<Modifier>15</Modifier>
+			</Row>
+     		<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<DomainType>DOMAIN_AIR</DomainType>
+				<Modifier>15</Modifier>
+			</Row>
+		</Building_DomainProductionModifiers>
+		<Building_UnitCombatProductionModifiers>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+				<Modifier>15</Modifier>
+			</Row>
+		</Building_UnitCombatProductionModifiers>
+		<Building_YieldChanges>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<YieldType>YIELD_PRODUCTION</YieldType>
+				<Yield>1</Yield>
+			</Row>
+		</Building_YieldChanges>
+		<Building_ResourceYieldChanges>
+			<Row>
+				<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+				<ResourceType>RESOURCE_OIL</ResourceType>
+				<YieldType>YIELD_GOLD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+		</Building_ResourceYieldChanges>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY">
+				<Text>Oil Refinery</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_HELP">
+				<Text>Each source of [ICON_RES_OIL] Oil worked by this City produces +2 [ICON_GOLD] Gold. +15% [ICON_PRODUCTION] Production towards Air, Sea and Armoured units.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_STRATEGY">
+				<Text>The Oil Refinery is a Modern era building which gives a mild bonus to [ICON_GOLD] Gold income from each source of [ICON_RES_OIL] Oil worked and improves [ICON_PRODUCTION] Production of Armour, Air and Naval units. it requires an improved source near your City to be built.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_PEDIA">
+				<Text>An oil refinery is an industrial process plant where crude oil is processed and refined into more useful products such as petroleum naphtha, gasoline, diesel fuel, asphalt base, heating oil, kerosene and liquefied petroleum gas. Oil refineries are typically large, sprawling industrial complexes with extensive piping running throughout, carrying streams of fluids between large chemical processing units.[NEWLINE][NEWLINE]--Wikipedia</Text>
+			</Row>
+		</Language_en_US>
+	</GameData>

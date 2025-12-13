@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MERC_FUN_MESSAGE_1">
+			<Text>Mercenary Contract Has Expired!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MERC_FUN_MESSAGE_2">
+			<Text>Unit:  {1_UnitName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MERC_FUN_MESSAGE_3">
+			<Text>Gold needed to renew this contract:  {1_GoldNeeded} [ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MERC_FUN_MESSAGE_4">
+			<Text>Gold on hand:  {1_GoldOnHand} [ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MERC_FUN_MESSAGE_5">
+			<Text>{1_MercMessage}</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_MERC_FUN_BUTTON_OK">
+			<Text>OK!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MERC_FUN_BUTTON_OK_TT">
+			<Text>Left click to dismiss the popup...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERC_FUN_REHIRE_BUTTON">
+			<Text>Rehire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MERC_FUN_DISBAND_BUTTON">
+			<Text>Disband</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERC_FUN_REHIRE_BUTTON_TT">
+			<Text>Selecting this button will rehire these Mercenaries for another contract, and deduct funds from your treasury to pay for them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MERC_FUN_DISBAND_BUTTON_TT">
+			<Text>Selecting this button will allow this unit to disband, removing it from your army.</Text>
+		</Row>
+  </Language_en_US>
+
+</GameData>

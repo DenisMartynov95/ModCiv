@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e2df592c-d2ed-4905-98e9-41f12f3070c9" version="600">
+  <Properties>
+    <Name>+Strategic Buildings+</Name>
+    <Teaser>[COLOR_GREEN]Adds 3 Strategic Buildings for Coal, Oil and Uranium[ENDCOLOR]</Teaser>
+    <Description>[h1]Adds 3 additional Strategic Buildings and 1 World Wonder. [b]Works as a Standalone![/b][/h1]
+[h1]All of these features are an integral part of [url=steamcommunity.com/sharedfiles/filedetails/?id=2280231911]Core Mod[/url].[/h1]
+[quote]
+[h2][b]Refined Coal Facility[/b][/h2]
+Provides [b]1 Coal[/b], as well as [b]+1 Production[/b] and [b]+1 Gold[/b] from worked Coal resources.
+Limited to [b]3 Cities per empire[/b]. [b]Cannot be captured[/b].
+
+[h2][b]Oil Refinery[/b][/h2]
+Provides [b]1 Oil[/b] and [b]+2 Gold[/b] from worked Oil resources.
+[b]Limited to 4 Cities per empire[/b]. [b]Cannot be captured[/b].
+
+[h2][b]Nuclear Reprocessing Plant[/b][/h2]
+Provides 5 [b]Uranium[/b] and [b]+3 Production[/b] from worked Uranium resources.
+Requires a [b]Nuclear Plant[/b] in the city and is limited to [b]2 Buildings per empire[/b]. [b]Cannot be captured[/b].
+
+[h2][b]Shandan Horse Farm - World Wonder[/b][/h2]
+Provides [b]2 Horses[/b] and [b]+1 Production[/b] from worked Horse resources.
+Requires the [b]Stables[/b] building. [b]Cannot be captured[/b].
+
+[h2][b]Ironworks[/b]*[/h2]
+Now also provides [b]3 Iron[/b].
+
+[h2][b]Recycling Center[/b]*[/h2]
+Now also grants [b]+2 Production[/b] in the City and [b]+2 Science[/b] from worked Aluminum resources.
+[b]Cannot be captured.[/b]
+
+[hr][/hr]*[i]Changes to existing Buildings can be disabled by deleting the [b]StrategicBldgs_Update.sql[/b] file.[/i]
+[/quote]
+[quote][h3]LANGUAGE SUPPORT[/h3]
+Fully localized in: [b]English[/b], [b]French[/b], [b]German[/b], [b]Spanish[/b], [b]Korean[/b], and [b]Russian[/b].
+[/quote]
+[img=https://imgur.com/rwYP22S.gif[/img]
+
+[quote][h3]CREDITS AND THANKS[/h3]
+Concept, coding, research, and overall design by [b]Gaia[/b]. Artwork by [b]Manitorio[/b].  
+A huge thank you to everyone who contributed--through translations, feedback, suggestions, or bug reports--your support has been invaluable!
+[/quote]
+
+[quote][h3]DISCLAIMER[/h3]
+Sid Meier's Civilization V, Civilization, Civ, Firaxis Games, 2K Games, and Take-Two Interactive Software are trademarks of Take-Two Interactive Software, Inc. This mod is not affiliated with, endorsed by, or sponsored by Take-Two, Firaxis, or any of their subsidiaries.
+
+This is a fan-made project. It is provided "as is" with no warranties, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Use at your own risk.
+
+Redistribution, re-hosting, or inclusion of this mod or its components in other works is prohibited without written permission from the authors. All rights to third-party content remain with their respective owners.
+[/quote]</Description>
+    <Authors>Gaia</Authors>
+    <SpecialThanks>Manitorio</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="74B5D8FE5F848F37E17C804F2FBD20D7" import="1">StrategicBuildings/ART/GAIA_ShandanHorseFarm.dds</File>
+    <File md5="31AB90892EC636FB36847BA5C0136098" import="1">StrategicBuildings/ART/GAIA_StratResBldgs_080.dds</File>
+    <File md5="C38FCC586D7B49530FD88AB4451F5705" import="1">StrategicBuildings/ART/GAIA_StratResBldgs_045.dds</File>
+    <File md5="9D6C3720E4642B3C238413AFC3E1D649" import="1">StrategicBuildings/ART/GAIA_StratResBldgs_064.dds</File>
+    <File md5="1A1EF8CA667A28109F2A8D2E5FF7D9CF" import="1">StrategicBuildings/ART/GAIA_StratResBldgs_128.dds</File>
+    <File md5="BE8F3E9F789F7924255C80114897F4AF" import="1">StrategicBuildings/ART/GAIA_StratResBldgs_256.dds</File>
+    <File md5="314A5F542BCD52EECD53A5CFE0C4D3F4" import="0">ShandanHorsesFun.lua</File>
+    <File md5="7505F1E32AC03D52A633917AA9075C57" import="0">StrategicBuildings_ModInfo.txt</File>
+    <File md5="AFB7E1C8869FA564D45D85EDE737AA5F" import="0">StrategicBuildings/DB/StrategicBldgs_Update.sql</File>
+    <File md5="A39B8E06702225D1A96403219054D8B1" import="0">StrategicBuildings/DB/StrategicBldgs_New.sql</File>
+    <File md5="602F3523E0AF191DB005F9F504F4FC1E" import="0">StrategicBuildings/TEXT/StrategicBldgs_DE_DE.xml</File>
+    <File md5="16EFDDC1BBCF71AFEF525FAE31E2663A" import="0">StrategicBuildings/TEXT/StrategicBldgs_en_US.xml</File>
+    <File md5="95015F096553EB3B1682272D5E242994" import="0">StrategicBuildings/TEXT/StrategicBldgs_ES_ES.xml</File>
+    <File md5="F82C1F3532CA83CCCE53CDDAF07CFC84" import="0">StrategicBuildings/TEXT/StrategicBldgs_FR_FR.xml</File>
+    <File md5="2AFEA79C63DCD45B782954C69A9BEB79" import="0">StrategicBuildings/TEXT/StrategicBldgs_KO_KR.xml</File>
+    <File md5="35C12973D8F40DB230CA0CAB842BB1BF" import="0">StrategicBuildings/TEXT/StrategicBldgs_RU_RU.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>StrategicBuildings/DB/StrategicBldgs_New.sql</UpdateDatabase>
+      <UpdateDatabase>StrategicBuildings/TEXT/StrategicBldgs_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>StrategicBuildings/TEXT/StrategicBldgs_DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>StrategicBuildings/TEXT/StrategicBldgs_ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>StrategicBuildings/TEXT/StrategicBldgs_FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>StrategicBuildings/TEXT/StrategicBldgs_KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>StrategicBuildings/TEXT/StrategicBldgs_RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>StrategicBuildings/DB/StrategicBldgs_Update.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="ShandanHorsesFun.lua">
+      <Name>ShandanHorses</Name>
+      <Description>ShandanHorses</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

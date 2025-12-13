@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2ec434a2-8ca7-4ffe-b8b1-f736f1f728cd" version="2">
+  <Properties>
+    <Name>Ancient Mediterranean Civs - Greek Epic</Name>
+    <Teaser>The mod adds Ancient Mediterranean Civs - Greek Epic to CiV</Teaser>
+    <Description>The mod adds the following ancient civs:[NEWLINE][COLOR_POSITIVE_TEXT]Amazons, Athenians, Minoans, Mycenaeans, Spartans and Trojans[NEWLINE][ENDCOLOR][NEWLINE]It does NOT contain any 3D animated model[NEWLINE][NEWLINE]Visit mod homepage for screenshots and infos[NEWLINE][COLOR_WARNING_TEXT]http://forums.civfanatics.com/showthread.php?t=442905[ENDCOLOR]</Description>
+    <Authors>Numitor and Ambrox62</Authors>
+    <SpecialThanks>Rob (R8XFT), PAVLOS_GR300 and Manifold for text contribution</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=442905</Homepage>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="2F9AC94AD2354F789209F92F61739095" import="1">Art/Buildings/p3_building_atlas128.dds</File>
+    <File md5="5F33EEF1E7E65EC7C459A2992F6AE5C4" import="1">Art/Buildings/p3_building_atlas256.dds</File>
+    <File md5="FE0A2EEC84BA6574ED067164D3F43B04" import="1">Art/Buildings/p3_building_atlas45.dds</File>
+    <File md5="DEEB4C617A1470DADF70FDC025ACCF6C" import="1">Art/Buildings/p3_building_atlas64.dds</File>
+    <File md5="36F5A1E094C817DA3E6674EE346D21FF" import="1">Art/Civilizations/p3_civsymb_color_atlas128.dds</File>
+    <File md5="11B40243A8E254E7E861C758A57A4079" import="1">Art/Civilizations/p3_civsymb_color_atlas256.dds</File>
+    <File md5="2B6F81EF89EA7BF6409C3DAA2A3A20B9" import="1">Art/Civilizations/p3_civsymb_color_atlas32.dds</File>
+    <File md5="CCA14DC0727DF1A6801AECFF8D5D5DC1" import="1">Art/Civilizations/p3_civsymb_color_atlas45.dds</File>
+    <File md5="17022BF20775DAE6FE8EEFB6A587346B" import="1">Art/Civilizations/p3_civsymb_color_atlas64.dds</File>
+    <File md5="23A74A0AC623CDA96A181F841500A9FC" import="1">Art/Civilizations/p3_civsymb_color_atlas80.dds</File>
+    <File md5="A47956E49A5057391BF9B47011787BFF" import="1">Art/Civilizations/p3_civsymb_white_atlas128.dds</File>
+    <File md5="D9313D754AA13D9F86EAFA94B87A4787" import="1">Art/Civilizations/p3_civsymb_white_atlas16.dds</File>
+    <File md5="01738699CE595B08F592E49777B8B933" import="1">Art/Civilizations/p3_civsymb_white_atlas24.dds</File>
+    <File md5="55596F53B6982FAA9B09918EBD066613" import="1">Art/Civilizations/p3_civsymb_white_atlas32.dds</File>
+    <File md5="93FF956982529F299FD9E2A3D95E3263" import="1">Art/Civilizations/p3_civsymb_white_atlas48.dds</File>
+    <File md5="E2E9E4EFC38C0836DC894EA59169FC71" import="1">Art/Civilizations/p3_civsymb_white_atlas64.dds</File>
+    <File md5="35219140B85AF36FC1B0ACD1B7FEC00C" import="1">Art/Leaders/p3_leader_atlas128.dds</File>
+    <File md5="43EE36B8B666D1E565DDA18F7452A498" import="1">Art/Leaders/p3_leader_atlas256.dds</File>
+    <File md5="C54112A2C29A2309271AD825E967D76B" import="1">Art/Leaders/p3_leader_atlas64.dds</File>
+    <File md5="018ED1B084A28457E4F8BCFF33A8DE51" import="1">Art/Scenes/amazons_diplo.dds</File>
+    <File md5="E96B53AD6732F0AC3238D77EE1AA1AA5" import="1">Art/Scenes/amazons_dom.dds</File>
+    <File md5="BA87D9678FA928F666E079E80ECA144D" import="1">Art/Scenes/amazons_map.dds</File>
+    <File md5="C32CBF2953F8BEB81E421CF10BE5AC49" import="1">Art/Scenes/amazons_scene.xml</File>
+    <File md5="901700C3839AECB0DAC7F2156F5DA004" import="1">Art/Scenes/athenian_diplo.dds</File>
+    <File md5="5A25DB78D0DE35FBBD1E40767182B9DE" import="1">Art/Scenes/athenian_dom.dds</File>
+    <File md5="53FC27B1B476D65682D4EE4177729753" import="1">Art/Scenes/athenian_map.dds</File>
+    <File md5="2086FFD2CE9A722973E7E3F4B469404C" import="1">Art/Scenes/athenian_scene.xml</File>
+    <File md5="D519E34BEAEC970C03CC4804643AF0C8" import="1">Art/Scenes/minoan_diplo.dds</File>
+    <File md5="9C26E81B5EFDE7EDEFC0D591ED55CBC3" import="1">Art/Scenes/minoan_dom.dds</File>
+    <File md5="E7FB52B341BDFF4ECBD146B5FF127098" import="1">Art/Scenes/minoan_map.dds</File>
+    <File md5="2EEDDD23983BA7C754D0E765AEB67892" import="1">Art/Scenes/minoan_scene.xml</File>
+    <File md5="C23CC995E2EB323467DD694548A32499" import="1">Art/Scenes/mycenae_diplo.dds</File>
+    <File md5="1D5D5DB22E86468EAF638E5170E0D882" import="1">Art/Scenes/mycenae_dom.dds</File>
+    <File md5="353B239B450FC22AE04DC0C2A4113542" import="1">Art/Scenes/mycenae_map.dds</File>
+    <File md5="B94B29A5E50C430CFA3E0DE2DBE4E5E4" import="1">Art/Scenes/mycenae_scene.xml</File>
+    <File md5="841F9EBA17B0664182FAF56E51ABC687" import="1">Art/Scenes/spartan_diplo.dds</File>
+    <File md5="976975E83BCA4895A08AA3F83F5983DD" import="1">Art/Scenes/spartan_dom.dds</File>
+    <File md5="8A69FAC9CC6ECEECE5DC85C6313E0C5D" import="1">Art/Scenes/spartan_map.dds</File>
+    <File md5="29325EFE541D0A95ADD9549C62DAC7BF" import="1">Art/Scenes/spartan_scene.xml</File>
+    <File md5="291F957E0BB67045E60194692C81A527" import="1">Art/Scenes/trojan_diplo.dds</File>
+    <File md5="1922D4F2DEE5A3578072C9496C4CB17E" import="1">Art/Scenes/trojan_dom.dds</File>
+    <File md5="9E0387C8C2FDB13E92AE30AFC1F257F2" import="1">Art/Scenes/trojan_map.dds</File>
+    <File md5="5639E195FE2B9B8C08A91E8DC1D1F48F" import="1">Art/Scenes/trojan_scene.xml</File>
+    <File md5="CF1A8526ECC243B2A71CB642CEA1AD5E" import="1">Art/Units/p3_unitflag_atlas_white.dds</File>
+    <File md5="4ABD2D9767A4EA8151FE1BDD6D0CA8E7" import="1">Art/Units/p3_unit_atlas128.dds</File>
+    <File md5="4E8259BC91991D37707E225D3B804A11" import="1">Art/Units/p3_unit_atlas256.dds</File>
+    <File md5="C0586BB002EB4DC6AB35ABB815B2231D" import="1">Art/Units/p3_unit_atlas45.dds</File>
+    <File md5="16ACF5213FD93A5E90C75E298633A7F2" import="1">Art/Units/p3_unit_atlas64.dds</File>
+    <File md5="A331556A250B70B0AED19138314BAD2E" import="1">Art/Units/p3_unit_atlas80.dds</File>
+    <File md5="9BABB159F0951D7D08FC5EE4DEF00D58" import="0">XML/Buildings/P3_Buildings.xml</File>
+    <File md5="D802051572115EF233FB6EC3ADC97CCC" import="0">XML/Civilizations/P3_Civilizations.xml</File>
+    <File md5="F2CA46F2C6DFC3E1AB8262297CDD5E17" import="0">XML/Civilizations/P3_Traits.xml</File>
+    <File md5="39B167F6DA3DA5866B57B52817973C1D" import="0">XML/Diplomacy/P3_Diplomacy_Responses.xml</File>
+    <File md5="A0501443633D04EA7E98544C12AC39AC" import="0">XML/GameInfo/P3_IconTextureAtlases.xml</File>
+    <File md5="007684923202F2DE060AF966CCBCBD6E" import="0">XML/Interface/P3_Colors.xml</File>
+    <File md5="ECD3615D41C4091D45D7F22E0F76C749" import="0">XML/Interface/P3_PlayerColors.xml</File>
+    <File md5="0899270980BE86B5A40820C57FEE33E7" import="0">XML/Leaders/P3_Leader_Agamemnon.xml</File>
+    <File md5="9C7F72A5EBAD20E298C9C82A83E1E319" import="0">XML/Leaders/P3_Leader_Leonidas.xml</File>
+    <File md5="3070A52830AC830E4DE3D7B0EBCFAA17" import="0">XML/Leaders/P3_Leader_Pasiphae.xml</File>
+    <File md5="AD594A833892A19792B2E6988BD2D57F" import="0">XML/Leaders/P3_Leader_Penthesilea.xml</File>
+    <File md5="291CE6432407AEE727A448CD375C62F8" import="0">XML/Leaders/P3_Leader_Pericles.xml</File>
+    <File md5="350AF52B8A5431D36660172D7019138F" import="0">XML/Leaders/P3_Leader_Priamos.xml</File>
+    <File md5="70E173D4A896C1C7B6D7B4969EA495AA" import="0">XML/Text/P3_text_EN_US.xml</File>
+    <File md5="95DBEDA66AD9561FE4EC6AEB777F7227" import="0">XML/Units/P3_UnitPromotions.xml</File>
+    <File md5="90967D2A340B70B74C3A51F33EBBF3B0" import="0">XML/Units/P3_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/P3_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/P3_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/P3_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/P3_Diplomacy_Responses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/P3_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/P3_Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/P3_PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/P3_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/P3_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/P3_text_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/P3_Leader_Agamemnon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/P3_Leader_Penthesilea.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/P3_Leader_Leonidas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/P3_Leader_Pasiphae.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/P3_Leader_Pericles.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/P3_Leader_Priamos.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

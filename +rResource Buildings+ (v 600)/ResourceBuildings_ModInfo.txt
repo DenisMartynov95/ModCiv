@@ -1,0 +1,31 @@
+[h1]Adds 11 [b]Resource Buildings[/b]. Requires [url=steamcommunity.com/sharedfiles/filedetails/?id=3369727466]Resource Compendium[/url].[/h1]
+[quote][b]Fishpond*[/b]: + 1 Food from [b]Fish[/b] and [b][img=https://imgur.com/HKRamPY.jpg]Lake Fish[/img][/b].  [b]Smelter[/b]: +1 Production from [b][img=https://imgur.com/tzILTUJ.jpg]Tin[/img][/b].
+[b]Chocolatier[/b]: +1 Food and Gold from [b]Cocoa[/b], [b]Sugar[/b] and [b]Cinnamon[/b].
+[b]Jeweler[/b]: +1 Culture and Gold from [b]Gems[/b], [b]Pearls[/b], [b][img=https://imgur.com/pPp0Ec2.jpg]Amber[/img][/b] and [b][img=https://imgur.com/eFs1Dlw.jpg]Coral[/img][/b].
+[b]Perfumery[/b]: +1 Culture and Gold from [img=https://imgur.com/lo1PJ3Z.jpg][b]Lavender[/b][/img] and [b][img=https://imgur.com/1M2tdhi.jpg]Perfume[/img][/b].
+[b]Supermarket[/b]: +1 Food and Gold from [b]Citrus[/b], [b]Salt[/b], [b]Truffles[/b] and [b][img=https://imgur.com/KOjecC8.jpg]Olives[/img][/b].
+[b]Teahouse[/b]: +1 Culture and Gold from [img=https://imgur.com/25sfK2n.jpg][b]Tea[/b][/img], [b][img=https://imgur.com/K4h5tUj.jpg]Coffee[/img][/b] and [b][img=https://imgur.com/dFUXx4q.jpg]Tobacco[/img][/b].
+[b]Tannery[/b]: +1 Production from all [b]Camps[/b], +2 Gold from [b]Furs[/b] and [b][img=https://imgur.com/A1kzCMY.jpg]Seals[/img][/b].
+[b]Herbalist[/b]: +1 Production from all [b]Plantations[/b], and +1 Science from [b][img=https://imgur.com/aHkpoaZ.jpg]Poppy[/img][/b] and [b][img=https://imgur.com/Pb8qxsu.jpg]Cactus[/img][/b].
+[b]Textile Mill[/b]: +1 Production and Gold from [b]Sheep[/b], [b]Silk[/b], [b]Cotton[/b] and [b]Dye[/b].
+[b]Agribusiness[/b]: +1 Production and Gold from [b]Pastures[/b], [b]Wheat[/b], [b][img=https://imgur.com/AEUHXFu.jpg]Rice[/img][/b] and [b][img=https://imgur.com/xa2Ipph.jpg]Maize[/img][/b].
+[b]StoneWorks[/b]: +1 Production from [img=https://imgur.com/ZS8kmym.jpg]Jade[/img] and [img=https://imgur.com/zMBJON1.jpg]Lapis Lazuli[/img]. No Plains restriction removed.
+[b]Workshop/Longhouse[/b]: +1 Production from [img=https://imgur.com/zoz4pHY.jpg]Timber[/img]. [b]Factory[/b]: +2 Production from [img=https://imgur.com/PTLo2aL.jpg]Rubber[/img]
+[/quote][h1]*Compatible with [url=steamcommunity.com/sharedfiles/filedetails/?id=3033310149]Aquatic Resources[/url] and [url=steamcommunity.com/sharedfiles/filedetails/?id=3377566114]Fisherman[/url].[/h1]
+[quote][h3]LANGUAGE SUPPORT[/h3]
+Fully localized in: [b]English[/b], [b]French[/b], [b]German[/b], [b]Spanish[/b], [b]Korean[/b], and [b]Russian[/b].
+[/quote]
+[img=https://imgur.com/rwYP22S.gif[/img]
+
+[quote][h3]CREDITS AND THANKS[/h3]
+Concept, coding, research, and overall design by [b]Gaia[/b]. Artwork by [b]Manitorio[/b].  
+A huge thank you to everyone who contributed--through translations, feedback, suggestions, or bug reports--your support has been invaluable!
+[/quote]
+
+[quote][h3]DISCLAIMER[/h3]
+Sid Meier's Civilization V, Civilization, Civ, Firaxis Games, 2K Games, and Take-Two Interactive Software are trademarks of Take-Two Interactive Software, Inc. This mod is not affiliated with, endorsed by, or sponsored by Take-Two, Firaxis, or any of their subsidiaries.
+
+This is a fan-made project. It is provided "as is" with no warranties, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Use at your own risk.
+
+Redistribution, re-hosting, or inclusion of this mod or its components in other works is prohibited without written permission from the authors. All rights to third-party content remain with their respective owners.
+[/quote]

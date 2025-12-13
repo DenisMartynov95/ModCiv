@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/4/2014 8:50:56 PM -->
+
+<GameData>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_STONE_WORKS</BuildingType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MINT</BuildingType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_CIRCUS</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Buildings>
+		<Update>
+			<Set GreatWorkSlotType="GREAT_WORK_SLOT_ART_ARTIFACT" GreatWorkCount="1"/>
+			<Where Type="BUILDING_GRAND_TEMPLE"/>
+		</Update>
+	
+		<Update>
+			<Where Type="BUILDING_STONE_WORKS" />
+			<Set ProhibitedCityTerrain="NULL" />
+		</Update>
+		<Update>
+			<Set Cost="110"/>
+			<Where Type="BUILDING_MINT"/>
+		</Update>
+		<Update>
+			<Set Cost="100"/>
+			<Where Type="BUILDING_MARKET"/>
+		</Update>
+		<Update>
+			<Set Cost="110"/>
+			<Where Type="BUILDING_BAZAAR"/>
+		</Update>
+		<Update>
+			<Set Cost="100"/>
+			<Where Type="BUILDING_CIRCUS"/>
+		</Update>
+	</Buildings>
+	
+</GameData>
+		

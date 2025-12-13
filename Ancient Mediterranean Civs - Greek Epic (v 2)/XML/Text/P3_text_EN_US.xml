@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- ------------------- -->
+		<!--     Mycenaeans    -->
+		<!-- ------------------- -->
+		<!-- Civilization tags -->
+        <Row Tag="TXT_KEY_CIV_MYCENAE_DESC">
+            <Text>Mycenaean Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MYCENAE_SHORT_DESC">
+            <Text>Mycenae</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MYCENAE_ADJECTIVE">
+            <Text>Mycenaean</Text>
+        </Row>
+		<Row Tag="TXT_KEY_CIV5_MYCENAE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MYCENAE_TEXT_1">
+			<Text>The Mycenaean civilization flourished during the period roughly between 1600 BC, when Helladic culture in mainland Greece was transformed under influences from Minoan Crete, and 1100 BC, when it perished with the collapse of Bronze-Age civilization in the eastern Mediterranean. The collapse is commonly attributed to the Dorian invasion, although other theories describing natural disasters and climate change have been advanced as well.[NEWLINE][NEWLINE]Quite unlike the Minoans, whose society benefited from trade, the Mycenaeans advanced through conquest. Mycenaean civilization was dominated by a warrior aristocracy. Around 1400 BC, the Mycenaeans extended their control to Crete. Not only did the Mycenaeans defeat the Minoans, but according to later Hellenic legend they defeated Troy, presented in epic as a city-state that rivaled Mycenae in power.[NEWLINE][NEWLINE]The Mycenaeans buried their nobles in beehive tombs (tholos tombs), large circular burial chambers with a high vaulted roof and a straight entry passage lined with stone. They often buried daggers or some other form of military equipment with the deceased. The nobility were frequently buried with gold masks, tiaras, armor, and jeweled weapons. Mycenaeans were buried in a sitting position, and some of the nobility underwent mummification, whereas Homer's Achilles and Patroclus were not buried but cremated, in Iron-Age fashion, and honoured with gold urns instead of gold masks.[NEWLINE][NEWLINE]Around 1100 BC, the Mycenaean civilization collapsed. Numerous cities were sacked, and the region entered what historians describe as a dark age for its lack of inscriptions, with some Mycenaeans fleeing to Cyprus as well as other Greek islands and coastal parts of Anatolia. During this period, Greece experienced decreasing population and the limited literacy, connected with bureaucrats of palace culture, disappeared.[NEWLINE][NEWLINE]Mycenaean artifacts have been found well outside the limits of the Mycenean world: namely Mycenaean swords are known from as far away as Georgia in the Caucasus, an amber object inscribed with Linear B symbols has been found in Bavaria, Germany, and Mycenaean bronze double axes and other objects dating from 13th century BC have been found in Ireland and in Wessex and Cornwall in England.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MYCENAE_DAWN_OF_MAN">
+			<Text>
+			Praises upon you, oh prudent and mythical Agamemnon, King of Mycenae, you are by far the foremost of the Achaeans. From your well-built palace one can see across the Argolid to the Saronic Gulf, able to rule in southern Greece with its bordering Sea - and the Lands around. Your prudent Leadership may lead all your friends, leaders and Argive counsellors against all your enemies. Zeus, son of Cronos, will promise you that you'll lay waste to well-built cities around. That's what delights all-powerful Zeus, irresistible. But come, mighty king, let all follow what you propose - build up your land, train dauntless warriors and a mighty fleet. Will you sail away your dear native land, for you're going to capture Troy?  Son of Atreus, great lord!  First of all, trust your people bravery: every Mycenaean is a soldier, an warlike man. Achaeans, young and old, all will know this.[NEWLINE][NEWLINE]The son of crooked-minded Cronos gave you a two-edged gift - he gave you honour to govern all men with your sceptre, but did he gave the strongest power as well, courage?  My righteous king, the road lies there in front of you. Will all the long-haired Achaeans demolish your enemies?  Will they live and build and fight to your goal? For the gods are with you.  Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<!-- Leader tags -->
+		<Row Tag="TXT_KEY_LEADER_AGAMEMNON">
+			<Text>Agamemnon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGAMEMNON_NAME">
+			<Text>Agamemnon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGAMEMNON_SUBTITLE">
+			<Text>Leader of Mycenaeans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGAMEMNON_TITLES_1">
+			<Text>Ruler of Achaeans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGAMEMNON_LIVED">
+			<Text>13th century BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGAMEMNON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AGAMEMNON_TEXT_1">
+			<Text>According to Greek mythology, Agamemnon was the son of King Atreus of Mycenae and Queen Aerope, the brother of Menelaus and the husband of Clytemnestra.[NEWLINE][NEWLINE]Atreus murdered the children of his twin brother Thyestes and fed them to him after discovering Thyestes' adultery with his wife Aerope. Thyestes fathered Aegisthus with his own daughter, and this son vowed gruesome revenge on Atreus' children. Aegisthus successfully murdered Atreus and restored his father to the throne. Aegisthus took possession of the throne of Mycenae and ruled jointly with Thyestes.[NEWLINE][NEWLINE]During this period Agamemnon and his brother Menelaus, took refuge with Tyndareus, King of Sparta. There they respectively married Tyndareus' daughters Clytemnestra and Helen. Menelaus succeeded Tyndareus in Sparta, while Agamemnon, with his brother's assistance, drove out Aegisthus and Thyestes to recover his father's kingdom. He extended his dominion by conquest and became the most powerful prince in Greece.[NEWLINE][NEWLINE]When Helen, the wife of Menelaus, was abducted by Paris of Troy, Agamemnon was the commander of the Greeks in the ensuing Trojan War. During the fighting, Agamemnon killed Antiphus and 15 other Trojan soldiers. The Iliad tells the story of the quarrel between Agamemnon and Achilles in the final year of the war. Agamemnon took an attractive slave, Briseis, one of the spoils of war, from Achilles. Achilles, the greatest warrior of the age, withdrew from battle in revenge and nearly cost the Greek armies the war.[NEWLINE][NEWLINE]Although not the equal of Achilles in bravery, Agamemnon was a representative of kingly authority. As commander-in-chief, he summoned the princes to the council and led the army in battle. He took the field himself, and performed many heroic deeds until he was wounded and forced to withdraw to his tent. His chief fault was his overwhelming haughtiness; an over-exalted opinion of his position that led him to insult Chryses and Achilles, thereby bringing great disaster upon the Greeks.[NEWLINE][NEWLINE]According to the Odyssey account, upon Agamemnon's return from Troy he was murdered by Aegisthus, the lover of his wife Clytemnestra. In some later versions Clytemnestra herself does the killing, or they do it together, in his own home.</Text>
+		</Row>
+		<!-- Trait tags -->
+		<Row Tag="TXT_KEY_TRAIT_LEADER_AGAMEMNON_SHORT">
+			<Text>Achaean Princedom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEADER_AGAMEMNON">
+			<Text>City-State [ICON_INFLUENCE] Influence degrades at half and recovers at twice the normal rate.</Text>
+		</Row>
+		<!-- Diplo tags -->
+		<Row Tag="TXT_KEY_LEADER_AGAMEMNON_FIRSTGREETING_1">
+			<Text>I am Agamemnon, son of fiery Atreus, tamer of horses. A prudent man, one to whom people have given their trust, who has so many things to think about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGAMEMNON_FIRSTGREETING_2">
+			<Text>Greetings stranger, the hero of whom you talk is Agamemnon, son of Atreus, a good king and a brave soldier. It’s Agamemnon, who is by far the foremost of the Achaeans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGAMEMNON_FIRSTGREETING_3">
+			<Text>Hear me, you stranger, I am Agamemnon - by far the foremost of the Achaeans. Quarreling is dear to our heart, and wars and battles; but if you are very strong indeed, that is a god's gift.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGAMEMNON_DEFEATED_1">
+			<Text>We cannot all be Kings; it is not well that there should be many masters; one man must be supreme- one King to whom the son of scheming Zeus has given the sceptre of sovereignty over us all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGAMEMNON_DEFEATED_2">
+			<Text>You are steeped in insolence and lust of gain. With what heart can any of the beaten cities do your bidding, either on foray or in open fighting?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AGAMEMNON_DEFEATED_3">
+			<Text>There is no king here so hateful to me as you are, for you are ever quarrelsome and ill affected. What though you be brave? Was it not heaven that made you so?</Text>
+		</Row>
+		<!-- Building tags -->
+		<Row Tag="TXT_KEY_BUILDING_CYCLOPEAN_WALLS">
+			<Text>Cyclopean Walls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CYCLOPEAN_WALLS_HELP">
+			<Text>Cyclopean Walls increase a city's Defense Strength by 50% more than normal Walls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CYCLOPEAN_WALLS_STRATEGY">
+			<Text>Cyclopean Walls are the Mycenaean unique building. Cyclopean Walls increase a city's Defense Strength, making the city more difficult to capture, and are quite useful for cities located along a civilization's frontier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CYCLOPEAN_WALLS_HEADING">
+			<Text>Cyclopean Walls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CYCLOPEAN_WALLS_TEXT">
+			<Text>The principal Mycenaean towns were well fortified. The town could be situated on an acropolis as in Athens or Tiryns, against a large hill as in Mycenae, or on the coastal plain, like Gla or Pylos. Besides the citadels, there are also isolated forts that undoubtedly served to militarily control territory. Mycenaean walls were often made in a fashion called cyclopean, which means that they were constructed of large, unworked boulders up to eight meters thick, loosely fitted without the clay mortar of the day. Different types of entrances or exits can be seen: monumental gates, access ramps, hidden doors, and vaulted galleries for escaping in case of a siege.</Text>
+		</Row>
+		<!-- Unit tags -->
+        <Row Tag="TXT_KEY_UNIT_HEQETAI">
+            <Text>Heqetai</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_HEQETAI_HELP">
+            <Text>Ancient Era Unit which specializes in defeating Mounted Units. Only the Mycenaeans may build it. This Unit has a higher [ICON_STRENGTH] Combat Strength than the Spearman which it replaces.</Text>
+        </Row>
+		<Row Tag="TXT_KEY_UNIT_HEQETAI_STRATEGY">
+			<Text>The Heqetai is the Mycenaean unique unit, replacing the Spearman. It is far more powerful than the Spearman. The Heqetai is deadly against mounted opponents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HEQETAI_HEADING">
+			<Text>Heqetai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HEQETAI_TEXT">
+			<Text>By the thirteenth century B.C., the Mycenaeans were organized into social classes under a supreme ruler. The Heqetai, "followers" of the king, were at the top of the military ranking. They were a warrior caste wearing protective armor, all bronze or linen tunics of several layers reinforced with bronze. When these warriors died, they were buried with their most treasured possessions, arms, daggers and swords. In the Linear B tablets, Heqetai are distinguished by the use of the patronymic following their names, an otherwise rare way of identifying an individual in the tablets.</Text>
+		</Row>
+		<!--  City tags -->
+		<Row Tag="TXT_MYCENAE_CITY_MYCENAE">
+			<Text>Mycenae</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_TIRYNS">
+			<Text>Tiryns</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_ARGOS">
+			<Text>Argos</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_DENDRA">
+			<Text>Dendra</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_MIDEA">
+			<Text>Midea</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_ASINE">
+			<Text>Asine</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_LERNA">
+			<Text>Lerna</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_CORINTH">
+			<Text>Corinth</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_MEGARA">
+			<Text>Megara</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_CLEONAE">
+			<Text>Cleonae</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_ORNEAE">
+			<Text>Orneae</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_SIKYON">
+			<Text>Sikyon</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_HYPERESIA">
+			<Text>Hyperesia</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_GONOESSA">
+			<Text>Gonoessa</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_PELLENE">
+			<Text>Pellene</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_AIGIO">
+			<Text>Aigio</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_HELIKE">
+			<Text>Helike</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_ARAETHYREA">
+			<Text>Araethyrea</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_HERMIONE">
+			<Text>Hermione</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_TROEZEN">
+			<Text>Troezen</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_EPIDAVROS">
+			<Text>Epidavros</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_AEGINA">
+			<Text>Aegina</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_EIONAE">
+			<Text>Eionae</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_MASES">
+			<Text>Mases</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_NEMEA">
+			<Text>Nemea</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_PATRAE">
+			<Text>Patrae</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_NAUPLION">
+			<Text>Nauplion</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_DALAMANARA">
+			<Text>Dalamanara</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_MAGOULA">
+			<Text>Magoula</Text>
+		</Row>
+		<Row Tag="TXT_MYCENAE_CITY_BERBASTI">
+			<Text>Berbasti</Text>
+		</Row>
+		<!-- ------------------- -->
+		<!--     Amazons    -->
+		<!-- ------------------- -->
+		<!-- Civilization tags -->
+        <Row Tag="TXT_KEY_CIV_AMAZONS_DESC">
+            <Text>Amazonian Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_AMAZONS_SHORT_DESC">
+            <Text>Amazons</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_AMAZONS_ADJECTIVE">
+            <Text>Amazonian</Text>
+        </Row>
+		<Row Tag="TXT_KEY_CIV5_AMAZONS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_AMAZONS_TEXT_1">
+			<Text>The Amazons are a nation of all-female warriors in Classical antiquity and Greek mythology. Notable queens of the Amazons are Penthesilea, who participated in the Trojan War, and her sister Hippolyta, whose magical girdle, given to her by her father Ares, was the object of one of the labours of Hercules.[NEWLINE][NEWLINE]Amazons were said to have lived in Pontus, which is part of modern day Turkey near the shore of the Euxine Sea (the Black Sea). There they formed an independent kingdom and were supposed to have founded many towns, amongst them Smyrna, Ephesus, Sinope, and Paphos. According to the dramatist Aeschylus, in the distant past they had lived in Scythia, at the "Palus Maeotis", but later moved to Themiscyra on the River Thermodon. Herodotus called them Androktones ("killers of men"), and he stated that in the Scythian language they were called "Oiorpata", which he asserted had this meaning.[NEWLINE][NEWLINE]According to the myth, no men were permitted to have sexual encounters or reside in Amazons' country; but once a year, in order to prevent their race from dying out, they visited the Gargareans, a neighbouring tribe. The male children who were the result of these visits were either killed, sent back to their fathers or exposed in the wilderness to fend for themselves; the females were kept and brought up by their mothers, and trained in agricultural pursuits, hunting, and the art of war. In other versions when the Amazons went to war they would not kill all the men. Some they would take as slaves, and once or twice a year they would have sex with their slaves.[NEWLINE][NEWLINE]The Amazons appear in Greek art of the Archaic period, depicted in battle with Greek warriors in "amazonomachies", and in connection with several Greek legends. They have become associated with various historical peoples throughout the Roman Empire period and Late Antiquity. In Roman historiography, there are various accounts of Amazons' raids in Asia Minor. From the Early Modern period, their name has become a term for woman warriors in general.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_AMAZONS_DAWN_OF_MAN">
+			<Text>
+			Praises upon you, oh mythical Penthesilea, Queen of the daughters of Ares. You are the mailed maiden, peerless amid all the Amazons, tireless War-god's child. Rule well your lovely cities all across the lands around Themiscyra, send ships and goods along the river Thermodon and all across the Amazonian Sea. But don't forget to defend your land. Once the day the Amazons come on against their foes, the Goddess and your prudent leadership may lead the Amazons, men's peers in war, against all your enemies. Do delight Cybele and Ephesia, grow and defend your cities within all the fertile lands you own. Now come, comeliness Queen, let all War-god's childs follow your like, build up your land, train dauntless warrior princesses and some mighty ships to rule the sea. Let the world listen to your voice and admire your exaggerated beauty.[NEWLINE][NEWLINE]Queen Penthesilea, will you bring wealth, power and grace to the daughters of Ares?  The childs of Zeus will look at you. My elected Queen, the way lies open there, just in front of you. Will all the graceful Amazons live, build and fight to your goal?  Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<!-- Leader tags -->
+		<Row Tag="TXT_KEY_LEADER_PENTHESILEA">
+			<Text>Penthesilea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PENTHESILEA_NAME">
+			<Text>Penthesilea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PENTHESILEA_SUBTITLE">
+			<Text>Leader of Amazons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PENTHESILEA_TITLES_1">
+			<Text>Queen of Amazons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PENTHESILEA_LIVED">
+			<Text>13th century BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PENTHESILEA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PENTHESILEA_TEXT_1">
+			<Text>Penthesilea was an Amazonian queen in Greek mythology, the daughter of Ares and Otrera, and the sister of Hippolyta, Antiope and Melanippe.[NEWLINE][NEWLINE]According to Posthomerica, an epic poem by Quintus of Smyrna, Penthesilea arrives in Troy the night before the fighting is due to recommence for the first time after Hector's death and funeral. She came to Troy for two reasons: firstly, to prove to others that her people, the Amazons, are great warriors and can share the hardships of war and, secondly, to appease the Gods after she accidentally killed her sister, Hippolyta, while hunting. She arrived with twelve companions and promised the Trojans that she would kill Achilles.[NEWLINE][NEWLINE]On her first, and only, day of fighting, Penthesilea kills many men and clashes with Telamonian Ajax, although there is no clear victor, before she comes face to face with Achilles, who had been summoned by Telamonian Ajax. Prior to Achilles' entrance, Penthesilea had tried to fight Telamonian Ajax but he had merely laughed off her attempts, thinking her unfit to face him. Achilles eventually kills her, needing only one blow to her breastplate to knock her over and leave her begging for her life. He is unmoved by her pleas, however, and kills her. He mocks her corpse until he removes her helmet. At this point, Achilles is so moved by Penthesilea's beauty that he feels intense pity and sadness because he wishes that he could have married her.[NEWLINE][NEWLINE]The Greek Thersites jeered at Achilles's treatment of Penthesilea's body, whereupon Achilles killed him. Thersites' cousin Diomedes, enraged at Achilles' action, harnessed Penthesilea's corpse behind his chariot, dragged it and cast it into the Scamander river, whence, however, it was retrieved and given decent burial, whether by Achilles or by the Trojans is not known from our fragmentary sources.</Text>
+		</Row>
+		<!-- Trait tags -->
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PENTHESILEA_SHORT">
+			<Text>Swift Maidens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PENTHESILEA">
+			<Text>Ranged units have [ICON_RANGE_STRENGTH] Ranged Combat Strength increased by 25% in rough terrain.</Text>
+		</Row>
+		<!-- Diplo tags -->
+		<Row Tag="TXT_KEY_LEADER_PENTHESILEA_FIRSTGREETING_1">
+			<Text>Greetings stranger, I am Penthesilea, Queen of the daughters of Ares. May the day the Amazons, men's peers in war, come on against you stay far away for ever.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PENTHESILEA_FIRSTGREETING_2">
+			<Text>Greeting you, stranger, I am Penthesilea - peerless amid all the Amazons, tireless War-god's child, the mailed maiden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PENTHESILEA_FIRSTGREETING_3">
+			<Text>May the Goddess Cybele bless you, stranger. I am Penthesilea, Queen of the Amazons - daughters of Ares, women who are the peer of men.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PENTHESILEA_DEFEATED_1">
+			<Text>So that death-ravening spear of you pierced me. Now I fall down into the dust of earth, the arms of death, in grace and comeliness fell, for naught of shame. Dishonour my fair form.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PENTHESILEA_DEFEATED_2">
+			<Text>You slaughter me, oh what a hero. Finally I fall down into the dust of earth, like my loyal cities fell. I am flying into the arms of death, the beloved goddess will revenge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PENTHESILEA_DEFEATED_3">
+			<Text>Now hold your peace, and listen to better men than yourself. You are a coward and no soldier; you are nobody either in fight or council - you killed a woman, a daughter of Ares.</Text>
+		</Row>
+		<!-- Building tags -->
+		<Row Tag="TXT_KEY_BUILDING_AMAZONS">
+			<Text>Nymphaion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMAZONS_HELP">
+			<Text>City must have a Monument.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMAZONS_STRATEGY">
+			<Text>Nymphaion is the Amazonian unique building, replacing the Temple. It increases the [ICON_CULTURE] Culture of a city, speeding the growth of the city's territory and the civilization's acquisition of Social Policies. It also increases the city's output of [ICON_HAPPINESS_1] Happiness and has a reduced Maintenance cost. The city must contain a Monument before the Nymphaion can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMAZONS_HEADING">
+			<Text>Nymphaion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMAZONS_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!-- Unit tags -->
+        <Row Tag="TXT_KEY_UNIT_WILY_HUNTRESS">
+            <Text>Huntress</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_WILY_HUNTRESS_HELP">
+            <Text>Ancient era ranged unit that can strike foes from afar. It has a chance to withdraw before an enemy melee attack can occur, unlike the Archer which it replaces.</Text>
+        </Row>
+		<Row Tag="TXT_KEY_UNIT_WILY_HUNTRESS_STRATEGY">
+			<Text>One of the first available ranged units, the Huntress is the Amazonian Unique Unit, replacing the Archer. It is no more powerful than an Archer and is even more fragile if subjected to a melee attack. However it possesses a promotion that gives it a good chance to withdraw to the rear before an enemy melee attack can occur.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WILY_HUNTRESS_HEADING">
+			<Text>Huntress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WILY_HUNTRESS_TEXT">
+			<Text>Amazons were fierce fighters and, according to Herodotus, they could not marry until they had killed an enemy in battle. An easy way to accomplish such task was archery. Young women were initiated to hunting and war using bow as primary weapon, developing their agility and military skill.</Text>
+		</Row>
+		<!-- Promotion tags -->
+        <Row Tag="TXT_KEY_PROMOTION_MELEE_ELUSION">
+            <Text>Melee Elusion</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_MELEE_ELUSION_HELP">
+            <Text>40% withdrawal chance before a melee attack</Text>
+        </Row>
+		<!--  City tags -->
+		<Row Tag="TXT_AMAZONS_CITY_THEMISCYRA">
+			<Text>Themiscyra</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_EPHESOS">
+			<Text>Ephesos</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_SMYRNA">
+			<Text>Smyrna</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_SINOPE">
+			<Text>Sinope</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_MYTILENE">
+			<Text>Mytilene</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_AMASTRIS">
+			<Text>Amastris</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_CLETE">
+			<Text>Clete</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_IPHITO">
+			<Text>Iphito</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_PRIENE">
+			<Text>Priene</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_AEGEA">
+			<Text>Aegea</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_CYNNA">
+			<Text>Cynna</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_MELANIPPE">
+			<Text>Melanippe</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_ORITHYIA">
+			<Text>Orithyia</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_SISYRBE">
+			<Text>Sisyrbe</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_AINIPPE">
+			<Text>Ainippe</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_GRYNE">
+			<Text>Gryne</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_PITANE">
+			<Text>Pitane</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_ANTIANEIRA">
+			<Text>Antianeira</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_MYRLEIA">
+			<Text>Myrleia</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_CYME">
+			<Text>Cyme</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_THERMODOSA">
+			<Text>Thermodosa</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_BREMUSA">
+			<Text>Bremusa</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_DERIMACHEIA">
+			<Text>Derimacheia</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_POLEMUSA">
+			<Text>Polemusa</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_CLONIE">
+			<Text>Clonie</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_HARMOTHOE">
+			<Text>Harmothoe</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_TECMESSA">
+			<Text>Tecmessa</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_ERIBOEA">
+			<Text>Eriboea</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_XANTHE">
+			<Text>Xanthe</Text>
+		</Row>
+		<Row Tag="TXT_AMAZONS_CITY_POLYDORA">
+			<Text>Polydora</Text>
+		</Row>
+		<!-- ------------------- -->
+		<!--      Athenians       -->
+		<!-- ------------------- -->
+		<!-- Civilization tags -->
+        <Row Tag="TXT_KEY_CIV_ATHENIAN_DESC">
+            <Text>Athenian Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ATHENIAN_SHORT_DESC">
+            <Text>Athens</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_ATHENIAN_ADJECTIVE">
+            <Text>Athenian</Text>
+        </Row>
+		<Row Tag="TXT_KEY_CIV5_ATHENIAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ATHENIAN_TEXT_1">
+			<Text>The "Golden Age of Athens" refers to the Greek city-state of Athens in the period of roughly 480-404 BC, a period of Athenian political hegemony, economic growth and cultural flourishing. The period began in 480 BC when an Athenian-led coalition of city-states, known as the Delian League, defeated the Persians at Salamis.[NEWLINE][NEWLINE]As the fifth century wore on, what started as an alliance of independent city-states gradually became an Athenian empire. Eventually, Athens abandoned the pretense of parity among its allies and relocated the Delian League treasury from Delos to Athens, where it funded the building of the Athenian Acropolis. With its enemies under its feet and its political fortunes guided by statesman and orator Pericles, Athens produced some of the most influential and enduring cultural artifacts of the Western tradition. The playwrights Aeschylus, Sophocles and Euripides all lived and worked in fifth century Athens, as did the historians Herodotus and Thucydides, the physician Hippocrates, and the philosopher Socrates.[NEWLINE][NEWLINE]During the golden age, Athenian military and external affairs were mostly run by the ten "strategoi" who were elected each year by the ten clans of citizens, and whose supreme command was rotated daily. These "strategoi" had duties which included planning military expeditions, receiving envoys of other states and directing diplomatic affairs. During the time of the ascendancy of Ephialtes as leader of the democratic faction, Pericles was his deputy. When Ephialtes was assassinated by personal enemies, Pericles stepped in and was elected strategos in 445 BC, a post he held continuously until his death in 429 BC, always by election of the Athenian Assembly.[NEWLINE][NEWLINE]The Athenian sovereign people governed themselves, without intermediaries, deciding matters of state in the Assembly. Citizens were free and only owed obedience to their laws and respect to their gods. They achieved equality of speech in the Assembly: the word of a poor person had the same worth as that of a rich person. The censorial classes did not disappear, but their power was more limited; they shared the fiscal and military offices but they did not have the power of distributing privileges.[NEWLINE][NEWLINE]Although the "Golden Age" brought to the Athenians a splendour and a standard of living never previously experienced, the discontent within the Delian League was ever increasing. The foreign affairs policies adopted by Athens did not reap the best results; members of the Delian League were increasingly dissatisfied. Athens was the city-state that dominated and subjugated the rest of Greece and these oppressed citizens wanted their independence.[NEWLINE][NEWLINE]Taking advantage of the general dissent of the Greek city-states, the Peloponnesian League, leaded by Sparta, began to confront Athens on the battlefield. The year 431 BC started a such irreparable series of damages that the city of Athens finally lost its independence in 338 BC, when Philip II of Macedonia conquered the rest of Greece.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ATHENIAN_DAWN_OF_MAN">
+			<Text>
+			May the blessings of Athena be upon you, Pericles, son of Xanthippus! You are the leader of Athens, a prominent and most influential statesman, one among the first people to become a leader through democratic election. Your people lived in a powerful and glorious city-state, the educational and cultural centre of the ancient Greek world. They built the Acropolis and wrote literary and artistic works which have endured the test of time. Despite hostilies with other city-states, such as Sparta, in the 5th century BC, you were able to put your differences aside and work together to defeat your much larger neighbour, Persia, on land and sea.[NEWLINE][NEWLINE]Pericles, your people stand ready to spread the great Greek culture to millions.  Are you ready to accept your destiny, Pericles?  Will you build a civilization that will stand the test of time? 
+			</Text>
+		</Row>
+		<!-- Leader tags -->
+		<Row Tag="TXT_KEY_LEADER_PERICLES">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PERICLES_NAME">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PERICLES_SUBTITLE">
+			<Text>Leader of Athenians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PERICLES_TITLES_1">
+			<Text>First Citizen of Athens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PERICLES_LIVED">
+			<Text>495 - 429 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PERICLES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PERICLES_TEXT_1">
+			<Text>Pericles was a prominent and influential statesman, orator, and general of Athens during the city's Golden Age, specifically the time between the Persian and Peloponnesian wars. He was descended, through his mother, from the powerful and historically influential Alcmaeonid family.[NEWLINE][NEWLINE]Pericles had such a profound influence on Athenian society that Thucydides, his contemporary historian, acclaimed him as "the first citizen of Athens". Pericles turned the Delian League into an Athenian empire and led his countrymen during the first two years of the Peloponnesian War. The period during which he led Athens, roughly from 461 to 429 BC, is sometimes known as the "Age of Pericles", though the period thus denoted can include times as early as the Persian Wars, or as late as the next century.[NEWLINE][NEWLINE]Pericles promoted the arts and literature; this was a chief reason Athens holds the reputation of being the educational and cultural centre of the ancient Greek world. He started an ambitious project that generated most of the surviving structures on the Acropolis,including the Parthenon. This project beautified the city, exhibited its glory, and gave work to the people. Furthermore, Pericles fostered Athenian democracy to such an extent that critics call him a populist.</Text>
+		</Row>
+		<!-- Trait tags -->
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PERICLES_SHORT">
+			<Text>Delian League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PERICLES">
+			<Text>+1 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route.[NEWLINE]Pay only half the usual cost for naval unit maintenance.</Text>
+		</Row>
+		<!-- Diplo tags -->
+		<Row Tag="TXT_KEY_LEADER_PERICLES_FIRSTGREETING_1">
+			<Text>I am Pericles, leader of Athens. Does your puny civilization wish to join the Delian League?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PERICLES_FIRSTGREETING_2">
+			<Text>Greetings! I am Pericles of Athens. Remember that just because you do not take an interest in politics doesn't mean politics won't take an interest in you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PERICLES_FIRSTGREETING_3">
+			<Text>I, Pericles, greet you. We Atheneans believe that freedom is the sure possession of those alone who have the courage to defend it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PERICLES_DEFEATED_1">
+			<Text>What you leave behind is not what is engraved on stone monuments, but what is woven into the lives of others.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PERICLES_DEFEATED_2">
+			<Text>Grief is felt not so much for the want of what we have never known, as for the loss of that to which we have been long accustomed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PERICLES_DEFEATED_3">
+			<Text>Those who can truly be accounted brave are those who best know the meaning of what is sweet in life and what is terrible, and then go out, undeterred, to meet what is to come.</Text>
+		</Row>
+		<!-- Building tags -->
+		<Row Tag="TXT_KEY_BUILDING_ATHENIAN">
+			<Text>League Harbour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ATHENIAN_HELP">
+			<Text>Forms a [ICON_CONNECTED] Trade Route with the [ICON_CAPITAL] Capital over water. +1 [ICON_PRODUCTION] Production from Sea Resources worked by this City.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ATHENIAN_STRATEGY">
+			<Text>The League Harbour allows "water routes" between cities, increases the [ICON_PRODUCTION] Production output of an improved sea resource and increases the [ICON_CULTURE] Culture of a city. League Harbour is cheaper and can be built earlier than normal Harbor which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ATHENIAN_HEADING">
+			<Text>League Harbour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ATHENIAN_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!-- Unit tags -->
+        <Row Tag="TXT_KEY_UNIT_ATHENIAN">
+            <Text>Phalanx</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_ATHENIAN_HELP">
+            <Text>Ancient Era Unit which specializes in defeating Mounted Units. Only the Athenians may build it. This Unit is not slowed by rough terrain compared to the Spearman which it replaces.</Text>
+        </Row>
+		<Row Tag="TXT_KEY_UNIT_ATHENIAN_STRATEGY">
+			<Text>The Phalanx is the Athenian unique unit, replacing the Spearman. It is not slowed by rough terrain. The Phalanx is very strong against mounted opponents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_ATHENIAN_HEADING">
+			<Text>Phalanx</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_ATHENIAN_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!--  City tags -->
+		<Row Tag="TXT_ATHENIAN_CITY_ATHENAE">
+			<Text>Athenae</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_ELEUSIS">
+			<Text>Eleusis</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_SALAMIS">
+			<Text>Salamis</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_APHIDNAE">
+			<Text>Aphidnae</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_MARATHON">
+			<Text>Marathon</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_OROPOS">
+			<Text>Oropos</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_SOUNION">
+			<Text>Sounion</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_LAURION">
+			<Text>Laurion</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_DELPHI">
+			<Text>Delphi</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_THEBES">
+			<Text>Thebes</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_ANTICYRA">
+			<Text>Anticyra</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_DAULIS">
+			<Text>Daulis</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_PANOPEUS">
+			<Text>Panopeus</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_HYAMPOLIS">
+			<Text>Hyampolis</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_CHALCIS">
+			<Text>Chalcis</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_ERETRIA">
+			<Text>Eretria</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_HISTIAEA">
+			<Text>Histiaea</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_CARYSTUS">
+			<Text>Carystus</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_STYRA">
+			<Text>Styra</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_PLATAEA">
+			<Text>Plataea</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_HYRIA">
+			<Text>Hyria</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_AULIS">
+			<Text>Aulis</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_THESPIAE">
+			<Text>Thespiae</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_GRAIA">
+			<Text>Graia</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_ERYTHRES">
+			<Text>Erythres</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_OCALEA">
+			<Text>Ocalea</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_THISBE">
+			<Text>Thisbe</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_CORONEA">
+			<Text>Coronea</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_HALIARTUS">
+			<Text>Haliartus</Text>
+		</Row>
+		<Row Tag="TXT_ATHENIAN_CITY_TANAGRA">
+			<Text>Tanagra</Text>
+		</Row>
+		<!-- ------------------- -->
+		<!--      Spartans        -->
+		<!-- ------------------- -->
+		<!-- Civilization tags -->
+        <Row Tag="TXT_KEY_CIV_SPARTAN_DESC">
+            <Text>Spartan Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SPARTAN_SHORT_DESC">
+            <Text>Sparta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_SPARTAN_ADJECTIVE">
+            <Text>Spartan</Text>
+        </Row>
+		<Row Tag="TXT_KEY_CIV5_SPARTAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SPARTAN_TEXT_1">
+			<Text>Sparta was a prominent city-state in ancient Greece, situated on the banks of the River Eurotas in Laconia, in south-eastern Peloponnese. It emerged as a political entity around the 10th century BC, when the invading Dorians subjugated the local, non-Dorian population. From c. 650 BC it rose to become the dominant military land-power in ancient Greece.[NEWLINE][NEWLINE]Sparta was unique in ancient Greece for its social system and constitution, which completely focused on military training and excellence. Its inhabitants were classified as Spartiates - Spartan citizens who enjoyed full rights, Mothakes - non-Spartan free men raised as Spartans, Perioikoi - freedmen, and Helots - state-owned serfs, enslaved non-Spartan local population. Spartiates underwent the rigorous "agoge" training and education regimen, and Spartan phalanxes were widely considered to be among the best in battle. Spartan women enjoyed considerably more rights and equality to men than elsewhere in the classical world.[NEWLINE][NEWLINE]Given its military pre-eminence, Sparta was recognized as the overall leader of the combined Greek forces during the Greco-Persian Wars. Between 431 and 404 BC, Sparta was the principal enemy of Athens during the Peloponnesian War, from which it emerged victorious, though at great cost. Sparta's defeat by Thebes in the Battle of Leuctra in 371 BC ended Sparta's prominent role in Greece. However, it maintained its political independence until the Roman conquest of Greece in 146 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SPARTAN_DAWN_OF_MAN">
+			<Text>
+			"With Your Shield Or On It", oh brave Leonidas! You come from the Agiadon dynasty and your ancestor Hercules is proud of you. You are the ruler of Sparta known all around the world for its fearless hoplites! Your beatiful city stands strong in the Peloponnesus as the example of the perfect order and patriotism. Spartan kids are trained to fight after the age of seven so they will be one day the best troops of the world. Your great army is feared even by the elites of every nation and they hide even when they hear your name. Sparta never builds walls because the courage of its soldiers are its walls. Now form up your ranks: every civilian is ready to take up the hoplon and the dory and it is up to you to lead these heroes to victory.[NEWLINE][NEWLINE]Leonidas, may the Gods give blessings to your troops as long as they will fight with honor.  Can your name be remembered by every generation as the great leader who gave everlasting glory to his people?  Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<!-- Leader tags -->
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS">
+			<Text>Leonidas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEONIDAS_NAME">
+			<Text>Leonidas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEONIDAS_SUBTITLE">
+			<Text>Leader of Spartans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEONIDAS_TITLES_1">
+			<Text>Thermopylae Hero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEONIDAS_LIVED">
+			<Text>540 - 480 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEONIDAS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEONIDAS_TEXT_1">
+			<Text>Leonidas was a hero-king of Sparta, the 17th of the Agiad line, one of the sons of King Anaxandridas II of Sparta, who was believed in mythology to be a descendant of Heracles, possessing much of the latter's strength and bravery.[NEWLINE][NEWLINE]Leonidas was the third son of Anaxandridas' first wife, and because he was not heir to the throne, he was not exempt from attending the "agoge", the public school that the sons of all Spartans had to complete in order to qualify for citizenship. Leonidas was thus one of the few Spartan kings to have ever undergone the notoriously harsh training of Spartan youth.[NEWLINE][NEWLINE]Leonidas was elected to lead the combined Greek forces determined to resist the Persian invasion in 481 BC. This was not simply a tribute to Sparta's military prowess: the probability that the coalition wanted Leonidas personally for his capability as a military leader is underlined by the fact that just two years after his death, the coalition preferred Athenian leadership to the leadership of Leonidas' successor.[NEWLINE][NEWLINE]In August 480 BC, Leonidas went out to meet Xerxes' army at Thermopylae with a small force of 300 men, where he was joined by forces from other Greek city-states, who put themselves under his command to form an army of seven thousand Greeks. They faced a Persian army who had invaded from the north of Greece, ranging from 50,000 to 200,000 men. Xerxes waited four days to attack, hoping the Greeks would disperse. Finally, on the fifth day the Persians attacked. Leonidas and his men repulsed the Persians' frontal attacks for the fifth and sixth days, killing roughly 20,000 of the enemy troops and losing about 2,500 of their own. The Persian elite unit known to the Greeks as "the Immortals" was held back, and two of Xerxes' brothers, Abrocomes and Hyperanthes, died in battle.[NEWLINE][NEWLINE]On the seventh day, a Malian Greek traitor named Ephialtes led the Persian general Hydarnes by a mountain track to the rear of the Greeks. At that point Leonidas sent away all Greek troops and remained in the pass with his 300 Spartans, 900 Helots, and 700 Thespians who refused to leave. Another 400 Thebans were kept with Leonidas as hostages. The Thespians stayed entirely of their own will, declaring that they would not abandon Leonidas and his followers. Leonidas sent away the remainder of his men because he cared about their safety. The King would have thought it wise to preserve those Greek troops for future battles against the Persians, but he knew that the Spartans could never abandon their post on the battlefield.[NEWLINE][NEWLINE]Of the small Greek force, attacked from both sides, all were killed except for the Thebans, who surrendered. Leonidas was killed, but the Spartans retrieved his body and protected it. Xerxes' orders were to have Leonidas' head cut off and put on a stake and his body crucified, but this was considered sacrilegious by Spartans.</Text>
+		</Row>
+		<!-- Trait tags -->
+		<Row Tag="TXT_KEY_TRAIT_LEADER_LEONIDAS_SHORT">
+			<Text>Agoge Regimen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEADER_LEONIDAS">
+			<Text>All land military units have +10% Defense and heal +1 HP per turn outside of friendly territory.</Text>
+		</Row>
+		<!-- Diplo tags -->
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING_1">
+			<Text>I am Leonidas of Sparta. Deal fair with me and my people and I will spare you the sting of my powerful blade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING_2">
+			<Text>Leonidas greets you, stranger. Stay on my good side as my people are skilled in the art of war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING_3">
+			<Text>Behold! I am Leonidas; approach with care, for when the wrath of Sparta is aroused, we cannot be defeated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_DEFEATED_1">
+			<Text>You proved to be a better warrior than us. All the Spartans must die with honor to not see defeat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_DEFEATED_2">
+			<Text>The Great Sparta has been defeated but its warrior spirit will never die. Be afraid: Spartans never surrender!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_DEFEATED_3">
+			<Text>Your troops have defeated our armies with ingenious tricks because in a fair fight they would never win ...</Text>
+		</Row>
+		<!-- Building tags -->
+		<Row Tag="TXT_KEY_BUILDING_SPARTAN">
+			<Text>Gymnasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SPARTAN_HELP">
+			<Text>+30 XP for Land Units, +15 XP for Naval and Air Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SPARTAN_STRATEGY">
+			<Text>Gymnasion provides experience for military units constructed in the city. This experience is double for Land Units and can be used to give the units Promotions, making them more effective in battle. Gymnasion also increases the city's output of [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SPARTAN_HEADING">
+			<Text>Gymnasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SPARTAN_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!-- Unit tags -->
+        <Row Tag="TXT_KEY_UNIT_SPARTAN">
+            <Text>Spartiates</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_SPARTAN_HELP">
+            <Text>Ancient Era Unit which specializes in defeating Mounted Units. Only the Spartans may build it. This Unit has +15% [ICON_STRENGTH] Combat Strength when adjacent to a friendly Unit, unlike the Spearman which it replaces.</Text>
+        </Row>
+		<Row Tag="TXT_KEY_UNIT_SPARTAN_STRATEGY">
+			<Text>The Spartiates is the Spartan unique unit, replacing the Spearman. It receives a [ICON_STRENGTH] Combat Strength bonus when adjacent to a friendly Unit. The Spartiates is very strong against mounted opponents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SPARTAN_HEADING">
+			<Text>Spartiates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SPARTAN_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!-- Promotion tags -->
+        <Row Tag="TXT_KEY_PROMOTION_AGOGE">
+            <Text>Agoge Regimen</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_AGOGE_HELP">
+            <Text>+10% Defense and +1 HP healed per turn outside of friendly territory</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_SPARTIATES">
+            <Text>Discipline</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_SPARTIATES_HELP">
+            <Text>+15% [ICON_STRENGTH] Combat Strength when adjacent to a friendly Unit</Text>
+        </Row>
+		<!--  City tags -->
+		<Row Tag="TXT_SPARTAN_CITY_SPARTA">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_AMYCLAE">
+			<Text>Amyclae</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_BRASIAE">
+			<Text>Brasiae</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_THERAPNE">
+			<Text>Therapne</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_HELOS">
+			<Text>Helos</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_LAAS">
+			<Text>Laas</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_OETYLOS">
+			<Text>Oetylos</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_PHARIS">
+			<Text>Pharis</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_AUGEAE">
+			<Text>Augeae</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_PELLANA">
+			<Text>Pellana</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_SELLASIA">
+			<Text>Sellasia</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_BELEMINA">
+			<Text>Belemina</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_AEGYS">
+			<Text>Aegys</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_TEGEA">
+			<Text>Tegea</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_MANTINEA">
+			<Text>Mantinea</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_MESSENE">
+			<Text>Messene</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_PYLOS">
+			<Text>Pylos</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_PHIGALIA">
+			<Text>Phigalia</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_GERENIA">
+			<Text>Gerenia</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_OECHALIA">
+			<Text>Oechalia</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_SAMIKON">
+			<Text>Samikon</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_ORESTHASIUM">
+			<Text>Oresthasium</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_THRYUM">
+			<Text>Thryum</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_AIPY">
+			<Text>Aipy</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_CYPARISSEIS">
+			<Text>Cyparisseis</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_AMPHIGENEA">
+			<Text>Amphigenea</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_PTELEUM">
+			<Text>Pteleum</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_DORIUM">
+			<Text>Dorium</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_STRATIE">
+			<Text>Stratie</Text>
+		</Row>
+		<Row Tag="TXT_SPARTAN_CITY_ENISPE">
+			<Text>Enispe</Text>
+		</Row>
+		<!-- ------------------- -->
+		<!--        Minoans        -->
+		<!-- ------------------- -->
+		<!-- Civilization tags -->
+        <Row Tag="TXT_KEY_CIV_MINOAN_DESC">
+            <Text>Minoan Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MINOAN_SHORT_DESC">
+            <Text>Minoans</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_MINOAN_ADJECTIVE">
+            <Text>Minoan</Text>
+        </Row>
+		<Row Tag="TXT_KEY_CIV5_MINOAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MINOAN_TEXT_1">
+			<Text>The Minoan civilization was a Bronze Age civilization that arose on the island of Crete and flourished from approximately the 27th century BC to the 15th century BC. It was rediscovered at the beginning of the 20th century through the work of the British archaeologist Arthur Evans. The early inhabitants of Crete settled as early as 128,000 BC, during the Middle Paleolithic age. However, it was not until 5000 BC that the first signs of advanced agriculture appeared.[NEWLINE][NEWLINE]What the Minoans called themselves is unknown. The term "Minoan" was coined by Arthur Evans after the mythic "king" Minos. Minos was associated in Greek myth with the labyrinth, which Evans identified with the site at Knossos. Minoan palaces, called "anaktora", are the best known building types to have been excavated on the island. They are monumental buildings serving administrative purposes as evidenced by the large archives unearthed by archaeologists. Each of the palaces excavated to date has its own unique features, but they also share features which set them apart from other structures. The palaces were often multi-storied, with interior and exterior staircases, light wells, massive columns, storage magazines and courtyards.[NEWLINE][NEWLINE]It seems that the Minoan people were not Indo-European, and that they were even related to the pre-Greek dwellers of the Greek mainland and Western Anatolia, the so-called Pelasgians. However the Minoan civilization was much more advanced and sophisticated than the contemporary Helladic civilization during the bronze-age. The Minoan script, called Linear A, has not yet been deciphered, but it seems that it represented an Aegean language, unrelated to any Indo-European language. For many centuries Minoan Crete remained free from any invaders and managed to develop a self-based civilization which was probably the most advanced in the Mediterannean area during the bronze-age.[NEWLINE][NEWLINE]Around 1450 BC, Minoan culture experienced a turning point due to a natural catastrophe, possibly an earthquake. An eruption of the Thera volcano has been linked to this downfall, but its dating and implications remain controversial. Several important palaces were destroyed. The palace in Knossos seems to have remained largely intact. This resulted in the Dynasty in Knossos being able to spread its influence over large parts of Crete, until it was overrun by Mycenaean Greeks.[NEWLINE][NEWLINE]The Myceneans occupied the Minoan palaces by around 1420 BC, or 1375 BC according to other sources. The Myceneans generally tended to adapt, rather than destroy, Minoan culture, religion and art, and they continued to operate the economic system and bureaucracy of the Minoans. After about a century of partial recovery, in the 13th century BC most Cretan cities and palaces went into decline. Knossos remained an administrative center until 1200 BC. The last of the Minoan sites was the defensive mountain site of Karfi, a refuge site which displays vestiges of Minoan civilization almost into the Iron Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MINOAN_DAWN_OF_MAN">
+			<Text>
+			Divine Pasiphae, daughter of the Sun, queen of Crete and wife of Minos, none of your rivals have survived your envy. Minoan people live in peace and safety, spread over a fertile and gracious island in the deep ocean. Being surrounded by the sea, makes walls protecting cities redundant, while trade routes reach from Sicily to Colchis and Egypt. Even in war, when your warriors grab their battle axe and mount their ships, the Minoans have made a name for themselves, especially when they conquered Athens. But when your son suffered Poseidon´s curse he turned into a beast, the Minotaur, half man and half bull. Now he dwells in the Labyrinth and every seven years the defeated Athenians must send seven younglings and seven virgins as a cruel tribute to his appetite. The love to bulls is the greatest passion of the people of Crete. As a game and for honor young men and women leap acrobatically along bulls.[NEWLINE][NEWLINE]Oh radiant Pasiphae, will you be able to keep the illiterate savages from the mainland away from Crete?  Will your empire survive volcanic eruptions and earthquakes?  Can you build a civilisation that will stand the test of time?
+			</Text>
+		</Row>
+		<!-- Leader tags -->
+		<Row Tag="TXT_KEY_LEADER_PASIPHAE">
+			<Text>Pasiphae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PASIPHAE_NAME">
+			<Text>Pasiphae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PASIPHAE_SUBTITLE">
+			<Text>Leader of Minoans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PASIPHAE_TITLES_1">
+			<Text>Daughter of Helios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PASIPHAE_LIVED">
+			<Text>15th century BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PASIPHAE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PASIPHAE_TEXT_1">
+			<Text>Pasiphae was an immortal daughter of the sun-god Helios. Like her two siblings, Aeetes and Kirke, she possessed the "pharmakeia", the powers of witchcraft. Pasiphae wed King Minos of Crete, and bore him a number of sons and daughters.[NEWLINE][NEWLINE]Poseidon gave a wonderfully beautiful bull to Minos with the expectation that Minos would sacrifice it to him. This bull indeed certified that Minos was the rightful king of Crete. Rather than sacrifice the bull to Poseidon, Minos kept it for himself. To punish him, Poseidon made Pasiphae fall madly in love with the bull.[NEWLINE][NEWLINE]The Queen conscripted the great artisan Daedalus to assist her in the endeavour, and he built for her a hollow wooden cow, wrapped in a bovine skin and endowed with mechanical life. Hiding herself inside this contraption she conceived and bore a hybrid child, the bull-headed Minotauros.[NEWLINE][NEWLINE]Pasiphae's husband Minos also proved unfaithful. When the Queen learned of his indiscretions she cast a spell on him which caused him to ejaculate poisoned creatures and so destroy his lovers. Pasiphae herself, being an immortal, was alone immune. Minos was eventually cured by the Athenian girl Procris who devised a remedy for his strange afflication.[NEWLINE][NEWLINE]In mainland Greece, Pasiphaë was worshipped as an oracular goddess at Thalamae, one of the original "koine" of Sparta. The geographer Pausanias describes the shrine as small, situated near a clear stream, and flanked by bronze statues of Helios and Pasiphaë. His account also equates Pasiphaë with Ino and the lunar goddess Selene.</Text>
+		</Row>
+		<!-- Trait tags -->
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PASIPHAE_SHORT">
+			<Text>Breath of Minos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PASIPHAE">
+			<Text>Naval military units have +1 [ICON_MOVES] Movement and +1 Sight.[NEWLINE]Embarked units can enter Ocean and have +1 [ICON_MOVES] Movement.</Text>
+		</Row>
+		<!-- Diplo tags -->
+		<Row Tag="TXT_KEY_LEADER_PASIPHAE_FIRSTGREETING_1">
+			<Text>The gods be praised! In their ineffable wisdom, they have pre-ordained this meeting. I am Pasiphae, and I greet you in the name of Minos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PASIPHAE_FIRSTGREETING_2">
+			<Text>Hail! I, Pasiphae, stand before you! I look forward to a strong trade partnership with your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PASIPHAE_FIRSTGREETING_3">
+			<Text>I am Pasiphae, Queen of the Minoans. The richness of my court is matched only by the embarrassment of your backwardness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PASIPHAE_DEFEATED_1">
+			<Text>Oh, unworthy stranger, you overwhelmed my brave people, you washed them away like a monstrous wave. Now I feel indignant ... I will leave this mirthless world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PASIPHAE_DEFEATED_2">
+			<Text>You feel strong now, puny warrior? You kicked my sweet bum, but that’s not a heroic deed - I am just a poor woman. Might this have been your last hurrah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PASIPHAE_DEFEATED_3">
+			<Text>Shame on you, deceitful hero. Do you really call this heroic, pushing a unblamable woman off of her throne?</Text>
+		</Row>
+		<!-- Building tags -->
+		<Row Tag="TXT_KEY_BUILDING_MINOAN">
+			<Text>Anaktora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MINOAN_HELP">
+			<Text>Provides +2 [ICON_FOOD] Food, +2 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MINOAN_STRATEGY">
+			<Text>The Anaktora increases the food intake of a city, speeding up the city's growth. It also increases the city's output of [ICON_CULTURE] Culture and [ICON_HAPPINESS_1] Happiness, replacing the Granary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MINOAN_HEADING">
+			<Text>Anaktora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MINOAN_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!-- Unit tags -->
+        <Row Tag="TXT_KEY_UNIT_MINOAN">
+            <Text>Minotauros</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_MINOAN_HELP">
+            <Text>Strong, front-line land Unit of the Classical Era. Only the Minoans may build it. This Unit doesn't receive combat penalty for attacking from the Sea or over a River and doesn't require [ICON_RES_IRON] Iron to be built, unlike the Swordsman which it replaces.</Text>
+        </Row>
+		<Row Tag="TXT_KEY_UNIT_MINOAN_STRATEGY">
+			<Text>The Minotauros is the Minoan unique unit, replacing the Swordsman. As powerful as the Swordsman, the Minotauros doesn't receive combat penalty for attacking from the Sea or over a River and doesn't require [ICON_RES_IRON] Iron to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_MINOAN_HEADING">
+			<Text>Minotauros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_MINOAN_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!-- Promotion tags -->
+        <Row Tag="TXT_KEY_PROMOTION_MINOTAUROS">
+            <Text>Amphibious</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_MINOTAUROS_HELP">
+            <Text>Eliminates combat penalty for attacking from the sea or over a river</Text>
+        </Row>
+		<!--  City tags -->
+		<Row Tag="TXT_MINOAN_CITY_KNOSSOS">
+			<Text>Knossos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_PHAISTOS">
+			<Text>Phaistos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_MALIA">
+			<Text>Malia</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_ZAKROS">
+			<Text>Zakros</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_GOURNIA">
+			<Text>Gournia</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_KYDONIA">
+			<Text>Kydonia</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_GORTYS">
+			<Text>Gortys</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_HAGIA_TRIADA">
+			<Text>Hagia Triada</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_KOMMOS">
+			<Text>Kommos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_AMNISOS">
+			<Text>Amnisos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_MYRTOS">
+			<Text>Myrtos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_ARCHANES">
+			<Text>Archanes</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_IERAPYTNA">
+			<Text>Ierapytna</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_RHYTION">
+			<Text>Rhytion</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_MILATOS">
+			<Text>Milatos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_LYKASTOS">
+			<Text>Lykastos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_LYKTOS">
+			<Text>Lyktos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_TYLISSOS">
+			<Text>Tylissos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_UTANA">
+			<Text>Utana</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_ROUSSOLAKKOS">
+			<Text>Roussolakkos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_MONASTIRAKI">
+			<Text>Monastiraki</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_PALAIKASTRO">
+			<Text>Palaikastro</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_MOCHLOS">
+			<Text>Mochlos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_PETSOFAS">
+			<Text>Petsofas</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_KARFI">
+			<Text>Karfi</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_PSEIRA">
+			<Text>Pseira</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_VASILIKI">
+			<Text>Vasiliki</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_ZOMINTHOS">
+			<Text>Zominthos</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_NIROU">
+			<Text>Nirou</Text>
+		</Row>
+		<Row Tag="TXT_MINOAN_CITY_RITHYMNA">
+			<Text>Rithymna</Text>
+		</Row>
+		<!-- ------------------- -->
+		<!--        Trojans         -->
+		<!-- ------------------- -->
+		<!-- Civilization tags -->
+        <Row Tag="TXT_KEY_CIV_TROJAN_DESC">
+            <Text>Trojan Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_TROJAN_SHORT_DESC">
+            <Text>Troy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_TROJAN_ADJECTIVE">
+            <Text>Trojan</Text>
+        </Row>
+		<Row Tag="TXT_KEY_CIV5_TROJAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TROJAN_TEXT_1">
+			<Text>Troy was a city, both factual and legendary, located in northwest Anatolia in what is now Turkey, southeast of the Dardanelles and beside Mount Ida. It is best known for being the focus of the Trojan War described in the Greek Epic Cycle and especially in the Iliad, one of the two epic poems attributed to Homer.[NEWLINE][NEWLINE]In 1865, English archaeologist Frank Calvert excavated trial trenches in a field he had bought from a local farmer at Hisarlık, and in 1868, Heinrich Schliemann, wealthy German businessman and archaeologist, also began excavating in the area after a chance meeting with Calvert. These excavations revealed several cities built in succession, and Troy VII, which has been dated to the mid- to late-13th century BC and appears to have been destroyed by war, is the most often cited candidate for the Troy of Homer.[NEWLINE][NEWLINE]In the Iliad, the Achaeans set up their camp near the mouth of the River Scamander, where they had beached their ships. The city of Troy itself stood on a hill, across the plain of Scamander, where the battles of the Trojan War took place. The site of the ancient city is some 5 km from the coast today, but the ancient mouths of Scamander, some 3,000 years ago, were about that distance inland, pouring into a large bay that formed a natural harbour that has since been filled with alluvial material. Recent geological findings have permitted the reconstruction of how the original Trojan coastline would have looked, and the results largely confirm the accuracy of the Homeric geography of Troy.[NEWLINE][NEWLINE]Besides the Iliad, there are references to Troy in the other major work attributed to Homer, the Odyssey, as well as in other ancient Greek literature. The Homeric legend of Troy was elaborated by the Roman poet Virgil in his Aeneid. The Greeks and Romans took for a fact the historicity of the Trojan War and the identity of Homeric Troy with the site in Anatolia. Alexander the Great, for example, visited the site in 334 BC and made sacrifices at tombs there associated with the Homeric heroes Achilles and Patroclus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TROJAN_DAWN_OF_MAN">
+			<Text>
+			Praises upon You, oh mythical Priamos, Son of Laomedon, King of horse-taming Trojans, whom all respect and honour. Your unconquerable palace behind the Gates of Troy let you rule over the windy Troas and the fertile Dardana as well. Descendant of Dardanus, your sagacious leadership makes your people - traders, horse breeders, warriors and peasants - stand against all your enemies. Mighty Gods make sure your land will growth, and they promise your people will love you, as long your rule is sagacious. Are your mighty troups going to fight it out with their long spears over the goal you want? Or will all swear an oath of friendship, a binding one - you will live in fertile Troy, where horses breed - and your neighbours live peacefull in her own lands? But come, mighty Priamos, let all follow what You propose - build up your fertile lands, train dauntless riders and a mighty fleet.[NEWLINE][NEWLINE]Oh rightguided King, the road lies there in front of you.  Will all the the Trojans and Danaans resist your enemies?  Will they live and build and fight to your goal?  Can you build a civilization that will stand the test of time? 
+			</Text>
+		</Row>
+		<!-- Leader tags -->
+		<Row Tag="TXT_KEY_LEADER_PRIAMOS">
+			<Text>Priamos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PRIAMOS_NAME">
+			<Text>Priamos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PRIAMOS_SUBTITLE">
+			<Text>Leader of Trojans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PRIAMOS_TITLES_1">
+			<Text>King of Troy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PRIAMOS_LIVED">
+			<Text>13th century BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PRIAMOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PRIAMOS_TEXT_1">
+			<Text>Priamos, youngest son of Laomedon, was the king of Troy during the Trojan War. Modern scholars derive his name from the Luwian compound "Priimuua", which means "exceptionally courageous". According to Greek legend, Priamos was originally called Podarces and he kept himself from being killed by Heracles by giving him a golden veil embroidered by his sister, Hesione. After this, Podarces changed his name to Priamos.[NEWLINE][NEWLINE]Priamos had a number of wives; his first was Arisbe, who had given birth to his son Aesacus, who met his death before the Trojan War. Priamos later divorced her in favor of Hecuba, daughter of the Phrygian king Dymas. By his various wives and concubines Priamos was the father of fifty sons and many daughters. Hector was Priamos's eldest son by Hecuba, and heir to the Trojan throne. Paris, another son, was the cause of the Trojan War. Other children of Priamos and Hecuba include the prophetic Helenus and Cassandra.[NEWLINE][NEWLINE]In the Iliad, when Hector is killed by Achilles, the Greek warrior treats the body with disrespect and refuses to give it back. Zeus sends the god Hermes to escort King Priamos into the Greek camp. Priamos tearfully pleads with Achilles to take pity on a father bereft of his son and return Hector’s body. He invokes the memory of Achilles’ own father, Peleus. Deeply moved, Achilles relents and returns Hector’s corpse to the Trojans. Both sides agree to a temporary truce, and Achilles gives Priamos leave to hold a proper funeral for Hector complete with funeral games. He promises that no Greek will engage in combat for 11 days, but on the 12th day of peace, the mighty war between the Greeks and the Trojans would resume.[NEWLINE][NEWLINE]Priamos is killed during the Sack of Troy by Achilles' son Neoptolemus. His death is graphically related in Book II of Virgil's Aeneid. In Virgil's description, Neoptolemus first kills Priamos' son Polites in front of his father as he seeks sanctuary on the altar of Zeus. Priamos rebukes Neoptolemus, throwing a spear at him, harmlessly hitting his shield. Neoptolemus then drags Priamos to the altar and there kills him too.</Text>
+		</Row>
+		<!-- Trait tags -->
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PRIAMOS_SHORT">
+			<Text>Dardanus Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEADER_PRIAMOS">
+			<Text>[ICON_GOLDEN_AGE] Golden Ages last 25% longer. During a Golden Age, units receive +1 [ICON_MOVES] Movement and a +20% [ICON_STRENGTH] Combat Strength bonus.</Text>
+		</Row>
+		<!-- Diplo tags -->
+		<Row Tag="TXT_KEY_LEADER_PRIAMOS_FIRSTGREETING_1">
+			<Text>Greetings Stranger. I am Priamos, descendant of Dardanus, King of horse-taming Trojans, whom all respect and honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRIAMOS_FIRSTGREETING_2">
+			<Text>May the Gods bless you, Stranger. I am Priamos, son of Laomedon. Let us swear an oath of peace, a binding one: we will live in fertile Troy, you in your own far away lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRIAMOS_FIRSTGREETING_3">
+			<Text>Hear me, I am Priamos, King of Troy. Zeus and other immortal Gods know what we do; may our friendship delight them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRIAMOS_DEFEATED_1">
+			<Text>Father Zeus, ruling from Mount Ida, mighty, all-powerful, why, oh why you let me be killed and send down to Hades’ house?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRIAMOS_DEFEATED_2">
+			<Text>Hear me, war-loving King: Zeus and other immortal Gods chose badly which of us is fated to end up dead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRIAMOS_DEFEATED_3">
+			<Text>Kill me here, war-loving King. I have no wish to come back to Troy to see with my own eyes my dear sons die. </Text>
+		</Row>
+		<!-- Building tags -->
+		<Row Tag="TXT_KEY_BUILDING_CYBELE_TEMPLE">
+			<Text>Temple of Cybele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CYBELE_TEMPLE_HELP">
+			<Text>City must have a Monument.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CYBELE_TEMPLE_STRATEGY">
+			<Text>Temple of Cybele is the Trojan unique building, replacing the Temple. It increases the [ICON_CULTURE] Culture of a city, speeding the growth of the city's territory and the civilization's acquisition of Social Policies. It also increases the city's output of [ICON_HAPPINESS_1] Happiness. The city must contain a Monument before the Temple of Cybele can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CYBELE_TEMPLE_HEADING">
+			<Text>Temple of Cybele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CYBELE_TEMPLE_TEXT">
+			<Text>Cybele was the Trojan deification of the Earth Mother. As with Greek Gaia, or her Minoan equivalent Rhea, Cybele embodies the fertile Earth, a goddess of caverns and mountains, walls and fortresses, nature and wild animals. Cybele was originally worshiped in the mountains of Phrygia, where she was known as "Mountain Mother". In her typical form, she wears a long belted dress, a polos (a high cylindrical headdress), and a veil covering the whole body. The later version of Cybele was established by a pupil of Phidias, the sculptor Agoracritus, and became the image most widely adopted by Cybele's expanding following, both in the Aegean world and at Rome.</Text>
+		</Row>
+		<!-- Unit tags -->
+        <Row Tag="TXT_KEY_UNIT_TROJAN">
+            <Text>Ares Equestrian</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_TROJAN_HELP">
+            <Text>Fast and powerful early game Mounted Unit. Weak to Spearmen. Only the Trojans may build it. This Unit is faster, has a higher [ICON_STRENGTH] Combat Strength and helps produce Great Generals more quickly than the Horseman which it replaces.</Text>
+        </Row>
+		<Row Tag="TXT_KEY_UNIT_TROJAN_STRATEGY">
+			<Text>Ares Equestrians are Trojan unique units, replacing the Horseman. Ares Equestrians are faster and more powerful than the Horseman unit, making them the most dangerous cavalry units until the arrival of the Knight. Ares Equestrians help generate Great Generals more rapidly than other units. In addition, they can move after attacking. Ares Equestrians are mounted, and still vulnerable to Spearmen and Pikemen attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_TROJAN_HEADING">
+			<Text>Ares Equestrian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_TROJAN_TEXT">
+			<Text>***</Text>
+		</Row>
+		<!--  City tags -->
+		<Row Tag="TXT_TROJAN_CITY_TROY">
+			<Text>Troy</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_DARDANIA">
+			<Text>Dardania</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_THYMBRA">
+			<Text>Thymbra</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_PERCOTE">
+			<Text>Percote</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_RHOITEION">
+			<Text>Rhoiteion</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ABYDOS">
+			<Text>Abydos</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_PEDASUS">
+			<Text>Pedasus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ZELEIA">
+			<Text>Zeleia</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_LYRNESSUS">
+			<Text>Lyrnessus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_CYZICUS">
+			<Text>Cyzicus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ANTANDRUS">
+			<Text>Antandrus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ASSOS">
+			<Text>Assos</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_LARISA">
+			<Text>Larisa</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ADRESTEIA">
+			<Text>Adresteia</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_PITYEIA">
+			<Text>Pityeia</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_APAESUS">
+			<Text>Apaesus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_PRACTIUS">
+			<Text>Practius</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ASCANIA">
+			<Text>Ascania</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ARISBE">
+			<Text>Arisbe</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_KOLONAE">
+			<Text>Kolonae</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ASPONEUS">
+			<Text>Asponeus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_GARGARA">
+			<Text>Gargara</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ASTYRA">
+			<Text>Astyra</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_CYTORUS">
+			<Text>Cytorus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_SESAMUS">
+			<Text>Sesamus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_CROMNA">
+			<Text>Cromna</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_AEGIALUS">
+			<Text>Aegialus</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ERYTHINI">
+			<Text>Erythini</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ALYBE">
+			<Text>Alybe</Text>
+		</Row>
+		<Row Tag="TXT_TROJAN_CITY_ARCTACIA">
+			<Text>Arctacia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

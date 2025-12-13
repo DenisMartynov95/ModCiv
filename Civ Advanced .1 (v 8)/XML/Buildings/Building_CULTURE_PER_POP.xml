@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2014 9:59:19 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_CULTURE_PER_POP</Type>
+			<DefaultBuilding>BUILDING_CULTURE_PER_POP</DefaultBuilding>
+			<Description>TXT_KEY_CULTURE_PER_POP</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_CULTURE_PER_POP</Type>
+			<BuildingClass>BUILDINGCLASS_CULTURE_PER_POP</BuildingClass>
+			<Cost>-1</Cost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_CULTURE_PER_POP</Description>
+			<Help>TXT_KEY_CULTURE_PER_POP</Help>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CULTURE_PER_POP</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CULTURE_PER_POP">
+			<Text>Culture per pop</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

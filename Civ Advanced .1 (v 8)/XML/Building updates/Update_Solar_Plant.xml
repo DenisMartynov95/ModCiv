@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/22/2014 10:05:27 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Set Cost="600"/>
+			<Where Type="BUILDING_SOLAR_PLANT"/>
+		</Update>
+		<Update>
+			<Set MutuallyExclusiveGroup="5"/>
+			<Where Type="BUILDING_SOLAR_PLANT"/>
+		</Update>
+	</Buildings>
+	<Building_ClassesNeededInCity>
+		<Delete BuildingType="BUILDING_SOLAR_PLANT"/>
+	</Building_ClassesNeededInCity>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>0</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>0</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_TerrainYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_TerrainYieldChanges>
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM </ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_SOLAR_PLANT_STRATEGY"/>
+			<Set Text="The Solar Plant adds [ICON_PRODUCTION] Production to each Desert tile worked by the city greatly improving [ICON_PRODUCTION] Production in Desert Cities. It can only be built near a Desert, no other Tile improving Power Plant can be present and it requires 1 [ICON_RES_ALUMINUM] Aluminum."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_SOLAR_PLANT_HELP"/>
+			<Set Text="+1 [ICON_PRODUCTION] Production for each Desert tile worked by this City. This building requires 1 [ICON_RES_ALUMINUM] Aluminum. The City can only have 1 Tile improving Power Plant in it at a time."/>
+		</Update>
+	</Language_en_US>
+</GameData>

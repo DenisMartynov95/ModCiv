@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_FR_FR>
+<!--===============================================================-->
+<!--===== Luxury Resource Changes =================================-->
+<!--===============================================================-->
+<!--Cinnamon (Spices)-->
+		<Replace Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>Cannelle</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES">
+			<Text>Cannelle</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES_TEXT">
+			<Text>La cannelle est extraite de l'écorce intérieure des arbres du genre Cinnamomum et est couramment utilisée comme épice aromatique pour les plats salés. Les épices sont des substances d'origine végétale utilisées pour conserver et améliorer la saveur, la couleur ou la texture des aliments. En plus d'améliorer les aliments, certaines épices ont des avantages médicinaux, une signification religieuse ou sont utiles pour la conservation des aliments. En général, les épices doivent être séchées et moulues avant d'être utilisées sur les aliments ; cela les distingue des herbes comme la sauge ou l'origan, qui sont vertes et feuillues et peuvent être utilisées fraîches ou séchées.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Luxury Resources ====================================-->
+<!--===============================================================-->
+<!--Amber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER">
+			<Text>Ambre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER_PEDIA">
+			<Text>L'ambre est une résine d'arbre fossilisée, appréciée depuis le néolithique pour sa couleur et sa beauté naturelle. De l'Antiquité à nos jours, l'ambre est apprécié en tant que pierre précieuse et transformé en une multitude d'objets de décoration. L'ambre est utilisé comme ingrédient dans les parfums, comme remède dans la médecine populaire et comme bijou. Comme l'ambre est à l'origine une résine d'arbre molle et collante, onil y cajonutient parfois des lainclusions de matière animale ou végétale.</Text>
+		</Replace>
+<!--Coffee-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE">
+			<Text>Café</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE_PEDIA">
+			<Text>Le café est une boisson obtenue par l'infusion de graines grillées provenant de différentes espèces d'arbustes à feuilles persistantes du genre Coffea. Les premières preuves fiables de la consommation de café ou de la connaissance du caféier remontent au milieu du 15e siècle. C'est là que les premières graines de café étaientont alorsété déjà torréfiées et infusées, de manière similaire à ce que l'on prépare aujourd'hui. Par le biais du commerce, le café s'est finalement répandu jusqu'aux ports vénitiens en Italie, àd'où partir desquels il a été introduit dans toute l'Europe.</Text>
+		</Replace>
+<!--Coral-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL">
+			<Text>Coraux</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL_PEDIA">
+			<Text>Les coraux sont des structures ramifiées et squelettiques formées par des polypes, de petits animaux marins. Le corail rouge, également appelé corail noble, est l'une des plus anciennes pierres précieuses et est récolté depuis l'Antiquité à des fins décoratives.  Il fait partie d'une petite classe de pierres précieuses organiques qui ne sont pas vraiment des pierres, comme les perles, l'ambre, l'ivoire ou le jais.  Dans le passé, le corail noble n'était pas seulement une pierre précieuse très appréciée, mais aussi une substance à laquelle on attribuait de mystérieuses propriétés sacrées.  Il n'était pas seulement utilisé comme porte-bonheur, mais on lui attribuait également de nombreuses propriétés médicinales.  Aujourd'hui, des lois et des organisations contribuent à la protection des récifs coralliens, car leurs populations sont menacées par la surpêche et le changement climatique.</Text>
+		</Replace>
+<!--Jade-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE">
+			<Text>Jade</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE_PEDIA">
+			<Text>Le jade est une pierre ornementale et le nom donné à la néphrite et à la jadéite, deux types de roches métamorphiques. Parmi les premiers artefacts en jade connus, mis au jour sur des sites préhistoriques, figurent des ornements simples en forme de perles, de boutons et de tubes. En outre, le jade a été utilisé pour fabriquer des têtes de hache, des couteaux et d'autres armes qui pouvaient être façonnés très finement. Lorsque les techniques de travail du métal sont devenues disponibles, la beauté du jade en a fait un matériau précieux pour les ornements et les bijoux. Dans l'histoire chinoise, le jade était considéré comme une "pierre précieuse impériale" et avait une valeur plus élevée que l'or ou l'argent.</Text>
+		</Replace>
+<!--Lapis Lazuli-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS">
+			<Text>Lapis-lazuli</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS_PEDIA">
+			<Text>Le lapis-lazuli est une pierre semi-précieuse d'un bleu profond, appréciée depuis l'Antiquité pour sa couleur intense.  Exploité en Afghanistan depuis plus de 6 000 ans, il a été la source de lapis des civilisations de l'Égypte ancienne et de la Mésopotamie, ainsi que des Grecs et des Romains plus tard.  Outre les gisements afghans, on trouve du lapis-lazuli dans d'autres parties du monde, comme la Russie, le Chili, le Canada, l'Inde, l'Italie et les États-Unis.  Le lapis-lazuli se polit parfaitement et était apprécié pour la fabrication de bijoux, de sculptures, de vases et d'autres ornements, notamment dans l'Égypte ancienne.  Il était également broyé et traité pour produire le pigment le plus recherché, l'outremer, qui valait plus que l'or.  À la Renaissance, ce précieux pigment était utilisé avec parcimonie et souvent réservé à la coloration des robes de Marie et d'autres figures religieuses importantes.</Text>
+		</Replace>
+<!--Olives-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES">
+			<Text>Olives</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES_PEDIA">
+			<Text>L'olivier est une petite espèce d'arbre de la famille des oléacées, originaire des régions côtières de l'est du bassin méditerranéen ainsi que du nord de l'Irak et du nord de l'Iran, au sud de la mer Caspienne. Son fruit, l'également appelé olive, est d'une grande importance agricole dans le bassin méditerranéen en tdants laque confectionsource d'huile d'olive. L'olive est considérée comme un symbole de paix, de sagesse, de gloire, de fertilité, de force et de pureté. L'huile d'olive est depuis longtemps considérée comme sacrée et, aujourd'hui encore, elle est utilisée dans de nombreuses cérémonies religieuses.</Text>
+		</Replace>
+<!--Poppies-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES">
+			<Text>Pavot</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES_PEDIA">
+			<Text>Le pavot est une plante à fleurs de la sous-famille des papavéroïdes de la famille des pavots. Le pavot est une plante herbacée souvent cultivée pour ses fleurs colorées. Le pavot Papaver somniferum est utilisé dans la productionsource d'une drogue narcotique, l'opium, qui contient de puissants alcaloïdes médicinaux comme la morphine et qui est utilisée depuis l'Antiquité comme médicament analgésique et narcotique, maiset aussi comme drogue récréative. Elle produit également des graines comestibles. Après les combats de tranchées dans les champs de pavot des Flandres en Belgique pendant la Première Guerre mondiale, le pavot est devenu un symbole de la mémoire des soldats morts à la guerre.</Text>
+		</Replace>
+<!--Roses-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES">
+			<Text>Roses</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES_PEDIA">
+			<Text>
+				Les roses comptent parmi les fleurs les plus emblématiques et les plus cultivées, avec une histoire remontant à des milliers d'années. Originaires d’Asie, elles ont d’abord été domestiquées en Chine avant de se répandre en Perse, en Grèce et à Rome. Elles étaient cultivées pour leur parfum, leur beauté et leurs propriétés médicinales. Dans la Rome antique, les roses étaient associées au luxe et utilisées lors de festins, en parfumerie et même comme monnaie. Au Moyen Âge, les monastères et les domaines nobles entretenaient des jardins de roses à des fins décoratives et médicinales.
+				[NEWLINE][NEWLINE]Le symbolisme de la rose s’est profondément enraciné dans l’histoire européenne, notamment lors de la guerre des Deux-Roses en Angleterre. À l’époque moderne, les roses sont devenues un symbole universel d’amour et de beauté et restent un élément essentiel de l’industrie florale. De plus, l’huile et l’eau de rose sont toujours utilisées en parfumerie, en cosmétique et en gastronomie, témoignant ainsi de leur valeur culturelle et économique durable.
+			</Text>
+		</Replace>
+<!--Seals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS">
+			<Text>Phoque</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_PEDIA">
+			<Text>
+				Le phoque est le nom commun d'une variété de créatures arctiques semi-aquatiques appelées pinnipèdes. Les pinnipèdes sont chassés par les Inuits pour leur peau, leur graisse et leur chair depuis plus de 4 000 ans. La chasse au phoque est encore pratiquée aujourd'hui dans des pays comme le Canada et le Groenland.
+				[NEWLINE][NEWLINE]Les pratiques modernes de chasse au phoque font l'objet d'une certaine controverse et sont critiquées par les groupes de défense des animaux et les organisations de lutte contre la fourrure, qui ont organisé des protestations et des boycotts de l'industrie de la fourrure de phoque. La faisabilité économique de la chasse au phoque a été mise en doute par des mouvements populaires visant à éviter les produits dérivés du phoque dans la mode et la consommation. La réduction de la demande de produits dérivés du phoque a eu un effet négatif important sur les Inuits et sur leur capacité à contribuer à un marché mondial globalisé.
+			</Text>
+		</Replace>
+<!--Tea-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA">
+			<Text>Thé</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA_PEDIA">
+			<Text>Le thé est une boisson aromatique que l'on prépare généralement en versant de l'eau chaude sur des feuilles séchées de théier séchées. La consommation de thé a probablement commencé en Chine sous la dynastie Shang, où il a d'abord été utilisé à des fins médicales et en combinaison avec d'autres herbes. Il a été présenté pour la première fois aux prêtres et aux commerçants portugais en Chine au XVIe siècle, puis il a gagné une grande popularité en Angleterre au XVIIe siècle, ce qui a finalement conduit l'Angleterre à concurrencer le monopole chinois.</Text>
+		</Replace>
+<!--Tobacco-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO">
+			<Text>Tabac</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO_PEDIA">
+			<Text>Le tabac est un produit obtenu à partir des feuilles séchées de plantes du genre Nicotiana. Il est utilisé comme stimulant dans les cigares et les cigarettes, le tabac à priser, le tabac à pipe, le tabac à chiquer et la chicha aromatisée. De nombreuses tribus amérindiennes ont traditionnellement cultivé et utilisé le tabac, certaines cultures au Mexique remontant à 1400-1000 avant JC. Les tribus de l'est de l'Amérique du Nord transportaient de grandes quantités de tabac dans des sacs, car elles l'utilisaient comme marchandise., et elles le fumaient souvent dans des calumets de paix, soit dans le cadre de certaines cérémonies sacrées, soit pour conclure une affaire. Après l'arrivée des Européens, le tabac est devenu une marchandise de plus en plus populaire et s'est développé en une industrie à part entière.</Text>
+		</Replace>
+<!--Lavender-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER">
+			<Text>Lavande</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER_PEDIA">
+			<Text>
+				La lavande (Lavandula angustifolia) est une herbe parfumée originaire de la région méditerranéenne. Elle est largement cultivée pour ses fleurs aromatiques, utilisées dans les parfums, les huiles et comme herbe culinaire. La lavande est depuis des siècles un symbole de beauté et de propreté, utilisée dans divers contextes, des thermes romains à l'aromathérapie moderne. Son huile essentielle est reconnue pour ses propriétés apaisantes et est utilisée pour traiter le stress, l'anxiété et les troubles du sommeil.
+				[NEWLINE][NEWLINE]La lavande prospère dans un sol bien drainé et un climat ensoleillé, ce qui en fait un choix populaire tant pour l'horticulture commerciale que domestique. Elle est également connue pour son rôle dans l'aménagement paysager, ajoutant couleur et parfum aux jardins. Au-delà de ses utilisations médicinales et décoratives, la lavande est une ressource économique importante, contribuant aux économies de pays tels que la France, la Bulgarie et le Royaume-Uni. Aujourd'hui, elle est un élément essentiel de la médecine herboriste, des produits de beauté naturels et des plats culinaires.
+			</Text>
+		</Replace>
+<!--Tulips-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS">
+			<Text>[COLOR_YIELD_FOOD]Tulipes[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS_PEDIA">
+			<Text>Les tulipes, d'abord cultivées en Turquie et en Asie centrale, furent introduites en Europe au XVIe siècle, où elles devinrent un symbole de luxe et de beauté. Leur popularité a culminé lors de la "Tulipomanie" néerlandaise du XVIIe siècle, un des premiers exemples de bulle spéculative. Aujourd'hui, les tulipes sont prisées pour leurs couleurs éclatantes et leurs fleurs élégantes, cultivées principalement aux Pays-Bas et célébrées lors de festivals printaniers dans le monde entier.</Text>
+		</Replace>
+		<!--TULIP FARM -->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM">
+			<Text>Ferme de tulipes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM_PEDIA">
+			<Text>
+				Les fermes de tulipes sont des plantations agricoles colorées dédiées à la culture des tulipes, une fleur historiquement associée à la richesse, à la beauté et au commerce. Originaires d’Asie centrale et largement cultivées aux Pays-Bas, les tulipes sont devenues une marchandise majeure durant la « tulipomanie » du XVIIe siècle. Ces fermes offrent de la Culture et de l’Or, attirant le tourisme et symbolisant l’esthétique raffinée, notamment lorsqu’elles sont établies sur des terres fertiles ou côtières.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_TULIPFARM">
+			<Text>Établir une [LINK=IMPROVEMENT_GAIA_TULIPFARM]ferme de tulipes[\LINK]</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Bonus Resources =====================================-->
+<!--===============================================================-->
+<!--Berries-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES">
+			<Text>Baies</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES_PEDIA">
+			<Text>Une baie est un petit fruit mou et souvent comestible. Les baies sont généralement juteuses, rondes, colorées, sucrées, acides ou acidulées et n'ont pas de noyau ou de pépins, bien que de nombreuses graines puissent être présentes. Les exemples courants sont les airelles, les fraises, les framboises, les myrtilles, les mûres, les baies mellifères et les groseilles. Les baies étaient déjà une source de nourriture précieuse pour l'homme avant le début de l'agriculture et ont constitué un aliment de base saisonnier pour les premiers chasseurs-cueilleurs pendant des milliers d'années. Avec le temps, les gens ont appris à stocker les baies pour pouvoir les utiliser en hiver et ont commencé à les cultiver en Europe et dans d'autres pays. Certaines espèces de mûres et de framboises du genre Rubus sont cultivées depuis le 17e siècle, tandis que les myrtilles à peau lisse et les airelles du genre Vaccinium sont cultivées aux États-Unis depuis plus d'un siècle.</Text>
+		</Replace>
+<!--Cactus-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS">
+			<Text>Cactus</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS_PEDIA">
+			<Text>Les cactus est un membre de la famille végétale des Cactaceae, une famille comprenant environ 127 genres avec quelque 1750 espèces connues de l'ordre des Caryophyllales. Le mot cactus dérive, par l'intermédiaire du latin, du mot grec ancien κάκτος (káktos), un nom utilisé à l'origine par Théophraste pour une plante épineuse dont l'identité n'est aujourd'hui pas certaine. Les cactus existent dans un large éventail de formes et de tailles. Bien que certaines espèces vivent dans des environnements assez humides, la plupart des cactus vivent dans des habitats soumis à au moins une certaine sécheresse. Beaucoup vivent dans des environnements extrêmement secs, et on en trouve même dans le désert d'Atacama, l'un des endroits les plus secs de la planète. Pour cette raison, les cactus présentent de nombreuses adaptations pour conserver l'eau. Par exemple, presque tous les cactus sont des plantes grasses, ce qui signifie qu'ils possèdent des parties épaisses et charnues adaptées au stockage de l'eau. Contrairement à de nombreuses autres plantes succulentes, la tige est la seule partie de la plupart des cactus où ce processus vital a lieu. La plupart des espèces de cactus ont perdu leurs véritables feuilles, ne conservant que les épines, qui sont des feuilles hautement modifiées. En plus de se défendre contre les herbivores, les épines aident à prévenir la perte d'eau en réduisant le flux d'air à proximité du cactus et en fournissant un peu d'ombre. En l'absence de véritables feuilles, les tiges hypertrophiées des cactus réalisent la photosynthèse. Les cactus sont originaires des Amériques, de la Patagonie au sud à certaines parties de l'ouest du Canada au nord - à l'exception du Rhipsalis baccifera, qui pousse également en Afrique et au Sri Lanka.</Text>
+		</Replace>
+<!--Coconuts-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS">
+			<Text>Noix de coco</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_PEDIA">
+			<Text>Les noix de coco sont connues pour leurs multiples utilisations, allant de l'alimentation aux cosmétiques. La pulpe interne de la graine mûre ainsi que le lait de coco qui en est issu font partie intégrante de l'alimentation de nombreuses personnes dans les régions tropicales et subtropicales. Les coques dures, les gaines fibreuses et les longues feuilles pennées peuvent être utilisées comme matériau pour la fabrication d'une grande variété d'objets d'ameublement et de décoration. La noix de coco a également une importance culturelle et religieuse dans certaines sociétés, notamment en Inde, où elle est utilisée dans les rituels hindous.</Text>
+		</Replace>
+<!--Flax-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX">
+			<Text>Lin</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX_PEDIA">
+			<Text>
+				Le lin cultivé (Linum usitatissimum) est une espèce de plantes dicotylédones de la famille des Linaceae, originaire d'Eurasie. C'est une plante herbacée annuelle, largement cultivée pour ses fibres textiles et ses graines oléagineuses.
+				[NEWLINE][NEWLINE]Le lin a commencé à être cultivé dans le Croissant fertile. Les restes de graines de lin trouvés dans les villages agricoles du Néolithique sont d'abord de petites tailles, comme celles du lin sauvage, Linum bienne, puis les graines remontant à 10 500 ans sont plus grosses, jusqu'à devenir aussi grosses que celles du lin cultivé actuel, à partir de 8600 avant J-C. De plus, des données morphologiques, génétiques et moléculaires suggèrent aussi que L. bienne, le lin bisannuel, est l'ancêtre sauvage de L. usitatissimum. La culture du lin suivra les voies de diffusion de l'agriculture néolithique depuis le noyau du Croissant fertile vers l'Europe et la vallée du Nil.
+			</Text>
+		</Replace>
+<!--Lakefish-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH">
+			<Text>Poissons du lac</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH_PEDIA">
+			<Text>Les poissons de lac sont des espèces d'eau douce que l'on trouve couramment dans les lacs, les étangs et les réservoirs. Ils comprennent une variété de poissons tels que les truites, les perches, les brochets et les sandres. Les poissons de lac ont joué un rôle important dans l'alimentation et les cultures humaines pendant des millénaires, fournissant une source fiable de protéines. Certaines espèces sont également prisées pour la pêche récréative et l'industrie aquacole dans le monde entier.</Text>
+		</Replace>
+<!--Maize-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE">
+			<Text>Maïs</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE_PEDIA">
+			<Text>Le maïs, également connu sous le nom de cucurbitacée, est une céréale qui a été domestiquée pour la première fois par des peuples indigènes du sud du Mexique il y a environ 10 000 ans. Le maïs est cultivé dans le monde entier et chaque année, la production de maïs dépasse celle de toute autre céréale.</Text>
+		</Replace>
+<!--Rice-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE">
+			<Text>Riz</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE_PEDIA">
+			<Text>Le riz est l'aliment de base le plus consommé par une grande partie de la population mondiale, en particulier en Asie. Après la canne à sucre et le maïs, il s'agit de la troisième matière première agricole la plus produite au monde. Étant donné qu'une grande partie de la récolte de canne à sucre et de maïs est utilisée à des fins autres que la consommation humaine, le riz est la céréale la plus importante en termes d'alimentation humaine et d'apport calorique, puisqu'il fournit plus d'un cinquième des calories consommées par les habitants de la planète. La culture du riz convient bien aux pays et aux régions où le coût de la main-d'œuvre est faible et où les précipitations sont élevées, car la culture est intensive en main-d'œuvre et nécessite beaucoup d'eau. Cependant, le riz peut être cultivé pratiquement partout, même sur des collines escarpées ou dans des régions montagneuses, si l'on utilise des systèmes de terrasses pour réguler l'eau. Bien que l'espèce d'origine soit originaire d'Asie et de certaines parties de l'Afrique, elle est répandue dans de nombreuses cultures à travers le monde grâce à des siècles de commerce et d'exportation.</Text>
+		</Replace>
+<!--Rubber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER">
+			<Text>Caoutchouc</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_PEDIA">
+			<Text>Le caoutchouc, la sève végétale à partir de laquelle le caoutchouc est fabriqué, a été utilisé pour la première fois par les cultures indigènes de Mésoamérique. Les premières preuves archéologiques de l'utilisation du latex naturel de l'hévéa remontent à la culture olmèque, où le caoutchouc a été utilisé pour la première fois dans la fabrication de balles pour le jeu de balle mésoaméricain. Plus tard, le caoutchouc a été utilisé par les cultures maya et aztèque - outre la fabrication de balles, - les Aztèques utilisaient également le caoutchouc à d'autres fins, par exemple pour fabriquer des récipients et rendre les textiles étanches à l'humidité. Le caoutchouc naturel est utilisé dans de nombreuses applications et produits, seul ou en combinaison avec d'autres matériaux. Dans la plupart de ses formes utiles, il a une grande élasticité et durabilité et est extrêmement imperméable.</Text>
+		</Replace>
+<!--Timber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER">
+			<Text>Bois d'œuvre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_PEDIA">
+			<Text>Le bois est un matériau adapté à la construction et à d'autres usages. Il est récolté à partir d'arbres dans des forêts tempérées et tropicales, qui peuvent être caduques ou persistantes. Le bois est apprécié pour sa solidité, sa durabilité et sa polyvalence. Il est utilisé dans la construction, la construction navale, la fabrication de meubles, d'outils, de planchers, d'instruments de musique et de tonneaux. Le bois sert également de source de combustible et de matière première pour la fabrication de charbon de bois.</Text>
+		</Replace>
+<!--Tin-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN">
+			<Text>étain</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN_PEDIA">
+			<Text>L'étain est un métal qui provient principalement du minéral cassitérite. L'extraction et l'utilisation de l'étain remontent aux débuts de l'âge du bronze, vers 3000 avant J.-C., où il était très recherché. Associé au cuivre, il forme un alliage plus solide et bien plus utile, le bronze, composé d'1/8 d'étain et de 7/8 de cuivre.  Aujourd'hui, l'étain est l'un des principaux composants de la soudure. Il est également utilisé comme revêtement pour rendre d'autres métaux résistants à la corrosion et, en raison de sa faible toxicité, il est également utilisé pour le revêtement des boîtes de conserve.</Text>
+		</Replace>
+<!--KELP-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP">
+			<Text>Varech</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP_PEDIA">
+			<Text>
+				Le varech est une algue marine à croissance rapide que l’on trouve dans les océans peu profonds et riches en nutriments, formant d’immenses forêts sous-marines le long des côtes. Bien qu’il ressemble à une plante, le varech est une grande algue brune qui prospère dans des eaux fraîches entre 6 et 14 °C.
+				[NEWLINE][NEWLINE]Les forêts de varech offrent nourriture et abri à de nombreuses espèces marines et jouent un rôle essentiel dans les écosystèmes côtiers. Certaines espèces peuvent pousser jusqu’à un demi-mètre par jour, atteignant plus de 30 mètres de longueur. Utilisé par l’homme pour l’alimentation, les engrais et l’industrie, le varech symbolise à la fois l’abondance naturelle et la résilience marine.
+			</Text>
+		</Replace>
+		<!--KELPFARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM">
+			<Text>Ferme de varech</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM_PEDIA">
+			<Text>
+				L’algoculture ou culture du varech est la pratique consistant à cultiver et récolter les algues marines. Dans sa forme la plus simple, elle repose sur la gestion de peuplements naturels. Dans sa forme la plus avancée, elle implique le contrôle total du cycle de vie des algues. Les sept espèces d'algues les plus cultivées sont Eucheuma spp., Kappaphycus alvarezii, Gracilaria spp., Saccharina japonica, Undaria pinnatifida, Pyropia spp. et Sargassum fusiforme. Les plus grands producteurs d’algues marines sont la Chine, l’Indonésie et les Philippines. D’autres producteurs notables incluent la Corée du Sud, la Corée du Nord, le Japon, la Malaisie et Zanzibar (Tanzanie). L'algoculture a souvent été développée comme alternative économique pour améliorer les conditions de vie et réduire la surpêche dans des zones surexploitées.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAFARM">
+			<Text>Établir une [LINK=IMPROVEMENT_GAIA_SEAFARM]Ferme de varech[\LINK]</Text>
+		</Replace>
+<!--MINERALS-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS">
+			<Text>Minéraux des Fonds Marins</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS_PEDIA">
+			<Text>
+				Les minéraux des fonds marins se trouvent entre 600 et 7000 mètres de profondeur et se divisent en trois types principaux :
+				[NEWLINE][NEWLINE]1) Les nodules polymétalliques, formés sur les plaines abyssales entre 4 et 6 km de profondeur, se développent lentement autour d’un noyau central semblable à une dent de requin. Riches en manganèse, cobalt, nickel, cuivre et terres rares, ils sont surtout présents dans la zone de fracture Clarion-Clipperton (Pacifique) et près des îles Cook.
+				[NEWLINE][NEWLINE]2) Les dépôts sulfureux se forment près des sources hydrothermales entre 1 et 4 km de profondeur, souvent le long des dorsales océaniques et des arcs volcaniques. Ils contiennent du cuivre, de l’or, du plomb, de l’argent et d'autres métaux précieux. On les trouve près de la Papouasie-Nouvelle-Guinée, de Tonga et de la dorsale médio-atlantique.
+				[NEWLINE][NEWLINE]3) Les croûtes riches en cobalt se développent sur les monts sous-marins et les dorsales entre 600 et 7000 m de profondeur. Elles forment des couches minces sur les roches et sont riches en cobalt, nickel, platine et terres rares. On les trouve dans tous les océans, notamment autour de la Micronésie et de Kiribati.
+			</Text>
+		</Replace>
+		<!--DEEP SEA MINE-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE">
+			<Text>Mine en Haute Mer</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE_PEDIA">
+			<Text>
+				L'exploitation minière en haute mer est un domaine en expansion dans l'industrie expérimentale de l'extraction des fonds marins, impliquant la récupération de minéraux et de dépôts trouvés à des profondeurs allant de 200 mètres à 6500 mètres. En 2021, la majorité des efforts miniers marins sont limités aux eaux côtières peu profondes, où le sable, l'étain et les diamants sont plus facilement accessibles. Trois principaux types d'exploitation minière en haute mer suscitent un grand intérêt : l'extraction de nodules polymétalliques, l'extraction de sulfures polymétalliques et l'extraction de croûtes ferromanganésiques riches en cobalt. La plupart des sites de mines en haute mer proposés se trouvent à proximité de nodules polymétalliques ou de sources hydrothermales actives et éteintes, entre 1 400 et 3 700 mètres sous la surface de l'océan. Ces sources créent des dépôts de sulfures massifs contenant des métaux précieux tels que l'argent, l'or, le cuivre, le manganèse, le cobalt et le zinc. L'extraction se fait à l'aide de pompes hydrauliques ou de systèmes à godets qui remontent le minerai à la surface pour être traité.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAMINE">
+			<Text>Établir une [LINK=IMPROVEMENT_GAIA_SEAMINE]Mine en Haute Mer[\LINK]</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW City-State Resources ================================-->
+<!--===============================================================-->
+<!--Carpets-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS">
+			<Text>Tapis</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_PEDIA">
+			<Text>Les tapis, qu'ils soient tissés à la main ou fabriqués en usine, ont orné les foyers pendant des siècles, symbolisant le confort et le savoir-faire artisanal. Autrefois réservés à la royauté, ils décorent aujourd'hui des espaces dans le monde entier, mêlant héritage artistique et utilité pratique.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_HELP">
+			<Text>Les tapis sont uniquement disponibles via une cité-état mercantile.</Text>
+		</Replace>
+<!--Furniture-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE">
+			<Text>Meubles</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_PEDIA">
+			<Text>
+				Les meubles font partie intégrante de la civilisation humaine depuis l'Antiquité, les premiers exemples remontant à la période néolithique. Les anciens Égyptiens, Grecs et Romains fabriquaient des meubles en bois sophistiqués, souvent ornés d'incrustations d'ivoire et d'or. Ces premières pièces symbolisaient le statut et le raffinement, les foyers les plus riches commandant des designs élaborés.
+				[NEWLINE][NEWLINE]Pendant la Renaissance, la fabrication de meubles s'est épanouie en tant que discipline artistique, les artisans européens introduisant de nouvelles techniques et matériaux. La Révolution industrielle a ensuite révolutionné la production, rendant les meubles plus accessibles à la population générale. Aujourd'hui, les meubles restent à la fois une nécessité fonctionnelle et une forme d'expression artistique, la fabrication traditionnelle et la production moderne coexistant sur les marchés mondiaux.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_HELP">
+			<Text>Les meubles sont disponibles uniquement par un État-Cité mercantile.</Text>
+		</Replace>
+<!--Glass-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE">
+			<Text>Verre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_PEDIA">
+			<Text>Le verre est un matériau solide, généralement transparent et fragile, utilisé depuis des siècles pour les fenêtres et les récipients à boire. L'histoire de la fabrication du verre peut être retracée jusqu'à 3500 ans avant J.-C. en Mésopotamie. Le terme de verre s'est développé à la fin de l'Empire romain. C'est dans le centre verrier romain de Trèves, aujourd'hui en Allemagne, que le terme latin tardif glesum a été créé, probablement à partir d'un mot germanique désignant une substance transparente et brillante. Le centre de la fabrication du verre de luxe était, à partir du 14e siècle, l'île de Murano, qui a développé de nombreuses nouvelles techniques et est devenue le centre d'un commerce d'exportation lucratif de vaisselle, de miroirs et d'autres objets. Le verre vénitien de Murano se distinguait des autres de par sa qualité supérieure qui provient du fait que les galets de quartz locaux étaient constitués de silice presque pure, dont les Vénitiens avaient le monopole exclusif.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_HELP">
+			<Text>Verre n'est fourni que par des cités-états marchandes.</Text>
+		</Replace>
+<!--Lacquerware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE">
+			<Text>Objets en laque</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_PEDIA">
+			<Text>Les objets en laque désignent des articles décoratifs recouverts de couches de laque, une résine naturelle extraite des arbres. Ces objets sont souvent fabriqués en bois ou en métal et présentent des motifs complexes, parfois ornés d'incrustations en or, argent ou nacre. La laque offre une finition brillante et durable qui protège l'article tout en renforçant son attrait esthétique. Les objets en laque sont un symbole d'artisanat en Asie de l'Est et du Sud-Est depuis des siècles, appréciés pour leur beauté et leur savoir-faire.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_HELP">
+			<Text>Les objets en laque ne sont disponibles que par le biais d'une cité-état marchande.</Text>
+		</Replace>
+<!--Mosaic Tiles-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES">
+			<Text>Carreaux de mosaïque</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_PEDIA">
+			<Text>Les carreaux de mosaïque sont une forme d'art décoratif antique, créée en assemblant de petits morceaux de pierre, de verre ou de céramique colorés pour former des motifs ou des images complexes. Popularisées par des civilisations antiques comme les Romains et les Byzantins, les mosaïques ornaient les murs, les sols et les plafonds des palais, des temples et des bâtiments publics. Elles symbolisent l'habileté artistique et le patrimoine culturel, alliant fonctionnalité et beauté. Aujourd'hui, les mosaïques restent un artisanat prisé, ajoutant une touche d'élégance à l'architecture et au design modernes.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_HELP">
+			<Text>Les carreaux de mosaïque ne sont disponibles que via une cité-état marchande.</Text>
+		</Replace>
+<!--Perfume-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME">
+			<Text>Parfum</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_PEDIA">
+			<Text>
+				La fabrication de parfum existe depuis les premières civilisations, les Mésopotamiens et les Égyptiens étant les pionniers de l'utilisation des huiles et des résines parfumées. Les rois égyptiens utilisaient largement les parfums dans les rituels, tandis que les Grecs et les Romains élargirent cette pratique, en incorporant des ingrédients exotiques provenant de leurs empires. La technique d'extraction des huiles essentielles des fleurs, en particulier des roses, fut perfectionnée en Perse avant de se répandre en Arabie, en Inde et en Europe.
+				[NEWLINE][NEWLINE]Pendant la Renaissance, la production de parfum prospéra en France, notamment à Grasse, qui devint le centre de la parfumerie européenne. L'avènement de la chimie moderne au XIXe siècle conduisit à la création de fragrances synthétiques, révolutionnant l'industrie. Aujourd'hui, les parfums demeurent des produits de luxe, alliant art et science, avec certaines des marques les plus célèbres au monde poursuivant des traditions remontant à des milliers d'années.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_HELP">
+			<Text>Le parfum est uniquement disponible par un État-Cité mercantile.</Text>
+		</Replace>
+<!--Obsidian-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN">
+			<Text>Obsidienne</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_PEDIA">
+			<Text>
+				L’obsidienne est un verre volcanique naturel qui se forme lorsque la lave refroidit rapidement sans avoir le temps de cristalliser. Sa fracture conchoïdale permet d’obtenir des bords extrêmement tranchants, ce qui en faisait l’un des meilleurs matériaux pour fabriquer des outils et des armes à la préhistoire. De l’Amérique au Moyen-Orient, les civilisations anciennes appréciaient l’obsidienne non seulement pour son utilité, mais aussi pour son éclat noir caractéristique, qui en faisait une ressource précieuse dans le commerce et les rites religieux.
+				[NEWLINE][NEWLINE]Les propriétés uniques de l’obsidienne ont permis son utilisation bien au-delà de l’âge de pierre. Les prêtres aztèques l’utilisaient pour fabriquer des couteaux rituels destinés aux sacrifices, tandis que certaines cultures en faisaient des miroirs et des bijoux. Aujourd’hui encore, son tranchant exceptionnel en fait un matériau idéal pour les instruments chirurgicaux spécialisés. Bien que les outils métalliques aient progressivement remplacé l’obsidienne pour la plupart des usages pratiques, elle demeure un symbole du génie humain ancien et du lien profond entre la géologie et la civilisation.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_HELP">
+			<Text>L’obsidienne est uniquement disponible en construisant un [COLOR_YELLOW]Atelier de Taille[ENDCOLOR].</Text>
+		</Replace>
+	</Language_FR_FR>
+</GameData>

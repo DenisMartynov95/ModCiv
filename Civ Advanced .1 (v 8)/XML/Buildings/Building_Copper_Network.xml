@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/2/2014 9:14:19 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_COPPER_NETWORK</Type>
+			<DefaultBuilding>BUILDING_COPPER_NETWORK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_COPPER_NETWORK</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_COPPER_NETWORK</Type>
+			<BuildingClass>BUILDINGCLASS_COPPER_NETWORK</BuildingClass>
+			<Cost>470</Cost>
+			<PrereqTech>TECH_RADIO</PrereqTech>
+			<Description>TXT_KEY_BUILDING_COPPER_NETWORK</Description>
+			<Civilopedia>TXT_KEY_BUILDING_COPPER_NETWORK_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_COPPER_NETWORK_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_COPPER_NETWORK_HELP</Help>
+			<CultureRateModifier>10</CultureRateModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>30</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_COPPER_NETWORK</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COPPER_NETWORK</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COPPER_NETWORK</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_COPPER_NETWORK</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COPPER_NETWORK</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_COPPER_NETWORK</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_ELECTRICAL_GRID</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_COPPER_NETWORK">
+			<Text>Copper Network</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COPPER_NETWORK_HELP">
+			<Text>+10% [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COPPER_NETWORK_STRATEGY">
+			<Text>The Copper Network is a Modern era building which improves a City's [ICON_GOLD] Gold, [ICON_CULTURE] Culture and [ICON_RESEARCH] Science output. The City must have a Electrical Grid to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COPPER_NETWORK_PEDIA">
+			<Text>The copper network provides the infrastructure necessary to allow telecommunication services across your City. By facilitating communication it speeds up and encourages culture and research while adding to the economy.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

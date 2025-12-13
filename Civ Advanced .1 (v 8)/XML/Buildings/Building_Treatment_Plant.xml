@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/2/2014 9:14:10 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_TREATMENT_PLANT</Type>
+			<DefaultBuilding>BUILDING_TREATMENT_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TREATMENT_PLANT</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TREATMENT_PLANT</Type>
+			<BuildingClass>BUILDINGCLASS_TREATMENT_PLANT</BuildingClass>
+			<Cost>700</Cost>
+			<GoldMaintenance>5</GoldMaintenance>
+			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
+			<Description>TXT_KEY_BUILDING_TREATMENT_PLANT</Description>
+			<Civilopedia>TXT_KEY_BUILDING_TREATMENT_PLANT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TREATMENT_PLANT_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_TREATMENT_PLANT_HELP</Help>
+			<FoodKept>15</FoodKept>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>28</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_TREATMENT_PLANT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TREATMENT_PLANT</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_TREATMENT_PLANT</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_TREATMENT_PLANT">
+			<Text>Treatment Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TREATMENT_PLANT_HELP">
+			<Text>15% of the [ICON_FOOD] Food is carried over after a [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TREATMENT_PLANT_STRATEGY">
+			<Text>The Treatment Plant is a Modern era building which increases a Cities growth speed. The City must have a Hospital before a Treatment Plant can be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TREATMENT_PLANT_PEDIA">
+			<Text>A Waste Treatment Plant is an industrial structure designed to remove biological or chemical waste products from water, thereby permitting the treated water to be used for other purposes such as for crops or livestock, Industry or sanitation (toilets) or simply dumped into the ocean. Treatment Plants significantly reduce the environmental impact of sewage and have become necessary as population densities increase.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

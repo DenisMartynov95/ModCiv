@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/8/2014 1:43:17 PM -->
+<GameData>
+	<Resources>
+		<Delete Type="RESOURCE_BEER"/>
+		<Delete Type="RESOURCE_ALE"/>
+		<Row>
+			<Type>RESOURCE_BEER</Type>
+			<Happiness>4</Happiness>
+			<TechCityTrade>TECH_POTTERY</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_BEER</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_BEER_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_BEER_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<IconString>[ICON_RES_BEER]</IconString>
+			<PortraitIndex>12</PortraitIndex>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Delete ResourceType="RESOURCE_BEER"/>
+		<Delete ResourceType="RESOURCE_ALE"/>
+		<Row>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>15</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_BEER">
+			<Text>Beer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BEER_HELP">
+			<Text>Beer is produced by the Brewery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BEER_PEDIA">
+			<Text>Beer is one of the oldest beverages humans have produced, dating back to at least the 5th millennium BC and recorded in the written history of Ancient Egypt and Mesopotamia. Almost any cereal containing certain sugars can undergo spontaneous fermentation due to wild yeasts in the air.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

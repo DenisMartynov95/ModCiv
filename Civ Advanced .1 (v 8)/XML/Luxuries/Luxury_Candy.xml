@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/5/2014 9:28:44 PM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_CANDY</Type>
+			<Happiness>3</Happiness>
+			<TechCityTrade>TECH_POTTERY</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_CANDY</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_CANDY_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_CANDY_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<IconString>[ICON_RES_CANDY]</IconString>
+			<PortraitIndex>9</PortraitIndex>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_CANDY</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_CANDY</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>7</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_CANDY">
+			<Text>Candy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CANDY_HELP">
+			<Text>Candy is produced by the Candy Factory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CANDY_PEDIA">
+			<Text>Candy, also called sweets or lollies, is a confection that features sugar as a principal ingredient. The category encompasses any sweet confection, including chocolate, fudge, Caramels, chewing gum, and sugar candy. Candy is a sweet food product that is rich in sugar and carbohydrates. Chocolate is sometimes treated as a separate branch of confectionery. In this model, chocolate candies like chocolate candy bars and chocolate truffles are included. In the Middle Ages candy appeared on the tables of only the most wealthy at first. At that time it began as a combination of spices and sugar that was used as an aid to digestive problems.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

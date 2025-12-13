@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2014 2:52:23 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_BIOFUEL_PLANT</Type>
+			<DefaultBuilding>BUILDING_BIOFUEL_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BIOFUEL_PLANT</Description>
+			<MaxPlayerInstances>3</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_BIOFUEL_PLANT</Type>
+			<BuildingClass>BUILDINGCLASS_BIOFUEL_PLANT</BuildingClass>
+			<Cost>600</Cost>
+			<GoldMaintenance>5</GoldMaintenance>
+			<PrereqTech>TECH_PLASTIC</PrereqTech>
+			<Description>TXT_KEY_BUILDING_BIOFUEL_PLANT</Description>
+			<Civilopedia>TXT_KEY_BUILDING_BIOFUEL_PLANT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_BIOFUEL_PLANT_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_BIOFUEL_PLANT_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_RICE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_MAIZE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_SUGAR</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_PLANT</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_PLANT">
+			<Text>Biofuel Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_PLANT_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-4 [ICON_FOOD] Food[ENDCOLOR]. +2 [ICON_RES_OIL] Oil Resource. No more than 5 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_PLANT_STRATEGY">
+			<Text>The Biofuel Plant grants 2 units of [ICON_RES_OIL] Oil but consumes [ICON_FOOD] Food. It requires an improved source of Cereal or Sugar near your City to be built. No more than 5 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_PLANT_PEDIA">
+			<Text>A biofuel is a fuel that contains energy from geologically recent carbon fixation. These fuels are produced from living organisms.Bioethanol is by far the most common and is an alcohol made by fermentation, mostly from carbohydrates produced in sugar or starch crops. Ethanol can be used as a fuel for vehicles in its pure form, but it is usually used as a gasoline additive to increase octane and improve vehicle emissions.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

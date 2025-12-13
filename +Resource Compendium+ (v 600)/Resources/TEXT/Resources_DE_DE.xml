@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_DE_DE>
+<!--===============================================================-->
+<!--===== Luxury Resource Changes =================================-->
+<!--===============================================================-->
+<!--Cinnamon (Spices)-->
+		<Replace Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>Zimt</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES">
+			<Text>Zimt</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES_TEXT">
+			<Text>Zimt wird aus der inneren Rinde von Zimtbaumarten gewonnen und häufig als aromatisches Gewürz für herzhafte Speisen verwendet. Gewürze sind pflanzliche Substanzen, die verwendet werden, um Geschmack, Farbe oder Textur von Lebensmitteln zu verbessern und zu erhalten. Zusätzlich zur Geschmacksverbesserung haben einige Gewürze medizinische Vorteile, religiöse Bedeutung oder sind nützlich bei der Konservierung von Lebensmitteln. Im Allgemeinen müssen Gewürze getrocknet und gemahlen werden, bevor sie auf Lebensmittel angewendet werden; dies unterscheidet sie von Kräutern wie Salbei oder Oregano, die grün und blättrig sind und frisch oder getrocknet verwendet werden können.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Luxury Resources ====================================-->
+<!--===============================================================-->
+<!--Amber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER">
+			<Text>Bernstein</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER_PEDIA">
+			<Text>Bernstein ist versteinertes Baumharz, das seit der Jungsteinzeit wegen seiner Farbe und natürlichen Schönheit geschätzt wird. Von der Antike bis in die Gegenwart wird Bernstein als Edelstein geschätzt und zu einer Vielzahl von Dekorationsgegenständen verarbeitet. Bernstein wird als Bestandteil von Parfüms, als Heilmittel in der Volksmedizin und als Schmuckstück verwendet. Da Bernstein ursprünglich ein weiches, klebriges Baumharz ist, enthält er manchmal Einschlüsse von tierischem oder pflanzlichem Material.</Text>
+		</Replace>
+<!--Coffee-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE">
+			<Text>Kaffee</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE_PEDIA">
+			<Text>Kaffee ist ein Getränk, das durch Brühen von gerösteten Samen verschiedener Arten von immergrünen Sträuchern der Gattung Coffea hergestellt wird. Die frühesten verlässlichen Belege für das Trinken von Kaffee oder die Kenntnis des Kaffeebaums stammen aus der Mitte des 15. Jahrhunderts. Dort wurden die ersten Kaffeesamen geröstet und aufgebrüht, ähnlich wie es heute zubereitet wird. Über den Handel verbreitete sich der Kaffee schließlich bis zu den venezianischen Häfen in Italien, von wo aus er in ganz Europa eingeführt wurde.</Text>
+		</Replace>
+<!--Coral-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL">
+			<Text>Korallen</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL_PEDIA">
+			<Text>Korallen sind verzweigte, skelettartige Strukturen, die von Polypen, kleinen Meerestieren, gebildet werden. Die rote Koralle, die auch als Edelkoralle bezeichnet wird, ist einer der ältesten Edelsteine und wird seit der Antike zu dekorativen Zwecken geerntet.  Sie gehört zu einer kleinen Klasse von organischen Edelsteinen, die eigentlich gar keine Steine sind, wie z. B. Perlen, Bernstein, Elfenbein oder Jett.  In der Vergangenheit war die Edelkoralle nicht nur ein hoch geschätzter Schmuckstein, sondern auch ein Stoff, dem man geheimnisvolle heilige Eigenschaften zuschrieb.  Sie wurde nicht nur als Glücksbringer verwendet, sondern ihr wurden auch zahlreiche medizinische Eigenschaften zugeschrieben.  Heute tragen Gesetze und Organisationen zum Schutz der Korallenriffe bei, da ihre Bestände durch Überfischung und Klimawandel bedroht sind.</Text>
+		</Replace>
+<!--Jade-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE">
+			<Text>Jade</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE_PEDIA">
+			<Text>Jade ist ein Schmuckstein und der Name für Nephrit und Jadeit, zwei Arten von metamorphem Gestein. Zu den frühesten bekannten Jade-Artefakten, die an prähistorischen Stätten ausgegraben wurden, gehören einfache Ornamente mit Perlen-, Knopf- und Röhrenformen. Darüberhinaus wurde Jade zur Herstellung von Beilköpfen, Messern und anderen Waffen verwendet, die sehr fein geformt werden konnten. Als die Technik der Metallverarbeitung verfügbar wurde, machte die Schönheit der Jade sie zu einem wertvollen Material für Verzierungen und Schmuckgegenstände. In der chinesischen Geschichte galt Jade als „kaiserlicher Edelstein” und hatte einen höheren Stellenwert als Gold oder Silber.</Text>
+		</Replace>
+<!--Lapis Lazuli-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS">
+			<Text>Lapislazuli</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS_PEDIA">
+			<Text>Lapislazuli ist ein tiefblauer Halbedelstein, der seit der Antike wegen seiner intensiven Farbe geschätzt wird.  Er wird seit über 6.000 Jahren in Afghanistan abgebaut und war die Lapisquelle für die altägyptischen und mesopotamischen Zivilisationen sowie für die späteren Griechen und Römer.  Neben den afghanischen Vorkommen ist Lapislazuli auch in anderen Teilen der Welt zu finden, z. B. in Russland, Chile, Kanada, Indien, Italien und den USA.  Lapislazuli lässt sich hervorragend polieren und wurde für die Herstellung von Schmuck, Schnitzereien, Vasen und anderen Ornamenten geschätzt, insbesondere im alten Ägypten.  Er wurde auch gemahlen und verarbeitet, um das höchst begehrte Pigment Ultramarin herzustellen, das mehr wert war als Gold.  In der Renaissance wurde dieses wertvolle Pigment sparsam verwendet und war oft der Färbung der Gewänder Marias und anderer wichtiger religiöser Figuren vorbehalten.</Text>
+		</Replace>
+<!--Olives-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES">
+			<Text>Oliven</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES_PEDIA">
+			<Text>Die Olive ist eine kleine Baumart aus der Familie der Ölbaumgewächse (Oleaceae), die in den Küstengebieten des östlichen Mittelmeerraums sowie im Nordirak und Nordiran südlich des Kaspischen Meeres beheimatet ist. Seine Frucht, auch Olive genannt, ist im Mittelmeerraum als Quelle für Olivenöl von großer landwirtschaftlicher Bedeutung. Die Olive gilt als Symbol für Frieden, Weisheit, Ruhm, Fruchtbarkeit, Kraft und Reinheit. Olivenöl gilt seit langem als heilig und auch heute noch wird es in vielen religiösen Zeremonien verwendet.</Text>
+		</Replace>
+<!--Poppies-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES">
+			<Text>Mohn</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES_PEDIA">
+			<Text>Mohn ist eine Blütenpflanze in der Unterfamilie der Papaveroideae der Familie der Mohngewächse. Mohn ist eine krautige Pflanze, die oft wegen ihrer bunten Blüten angebaut wird. Die Mohnart Papaver somniferum ist die Quelle der narkotischen Droge Opium, die starke medizinische Alkaloide wie Morphin enthält und seit der Antike als schmerzlindernde und narkotische Medizin und Freizeitdroge verwendet wird. Er produziert auch essbare Samen. Nach den Grabenkämpfen auf den Mohnfeldern in Flandern in Belgien während des Ersten Weltkriegs ist der Mohn zu einem Symbol des Gedenkens an die im Krieg gefallenen Soldaten geworden.</Text>
+		</Replace>
+<!--Roses-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES">
+			<Text>Rosen</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES_PEDIA">
+			<Text>
+				Rosen gehören zu den bekanntesten und am weitesten verbreiteten Blumen, deren Geschichte Tausende von Jahren zurückreicht. Ursprünglich aus Asien stammend, wurden Rosen zuerst in China kultiviert und später nach Persien, Griechenland und Rom gebracht. Sie wurden wegen ihres Dufts, ihrer Schönheit und ihrer medizinischen Eigenschaften geschätzt. Im alten Rom galten Rosen als Symbol des Luxus und wurden bei Festen, in Parfüms und sogar als Währung verwendet. Während des Mittelalters pflegten Klöster und Adelsgüter Rosengärten sowohl zu dekorativen als auch zu heilkundlichen Zwecken.
+				[NEWLINE][NEWLINE]Die Symbolik der Rose ist eng mit der europäischen Geschichte verknüpft, insbesondere während der Rosenkriege in England. In der Neuzeit sind Rosen ein universelles Symbol für Liebe und Schönheit und bleiben ein zentraler Bestandteil der Blumenindustrie. Darüber hinaus werden Rosenöl und Rosenwasser weiterhin in Parfüms, Kosmetik und kulinarischen Traditionen verwendet, was ihren anhaltenden kulturellen und wirtschaftlichen Wert unterstreicht.
+			</Text>
+		</Replace>
+<!--Seals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS">
+			<Text>Robben</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_PEDIA">
+			<Text>
+				Robben sind der gebräuchliche Name für eine Vielzahl von halb-aquatischen arktischen Kreaturen, die als Flossentiere bekannt sind. Die Inuit jagen seit über 4.000 Jahren Robben wegen ihrer Felle, ihres Fetts und ihres Fleisches. Die Robbenjagd wird auch heute noch in Ländern wie Kanada und Grönland praktiziert.
+				[NEWLINE][NEWLINE]Die Robbenjagd ist Gegenstand einiger Kontroversen und wird von Tierschutz- und Anti-Pelz-Organisationen angegriffen, die Proteste und Boykotte gegen die Robbenpelzindustrie organisiert haben. Die wirtschaftliche Durchführbarkeit der Robbenjagd wurde durch populäre Bewegungen in Frage gestellt, die Robbenprodukte in Mode und Konsum vermeiden wollen. Der Rückgang der Nachfrage nach Robbenprodukten hat sich sehr negativ auf die Inuit und ihre Fähigkeit ausgewirkt, sich an einem globalisierten Weltmarkt zu beteiligen.
+			</Text>
+		</Replace>
+<!--Tea-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA">
+			<Text>Tee</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA_PEDIA">
+			<Text>Tee ist ein aromatisches Getränk, das üblicherweise durch Übergießen von getrockneten Blättern der Teepflanze mit heißem Wasser zubereitet wird. Das Trinken von Tee begann wahrscheinlich in China während der Shang-Dynastie, wo er zunächst für medizinische Zwecke und in Kombination mit anderen Kräutern verwendet wurde. Er wurde erstmals im 16. Jahrhundert in China portugiesischen Priestern und Händlern vorgestellt und im 17. Jahrhundert erlangte er dann große Beliebtheit in England, was letztendlich dazu führte, dass England mit dem chinesischen Monopol konkurrierte.</Text>
+		</Replace>
+<!--Tobacco-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO">
+			<Text>Tabak</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO_PEDIA">
+			<Text>Tabak ist ein Erzeugnis, das aus den getrockneten Blättern von Pflanzen der Gattung Nicotiana gewonnen wird. Er wird als Genussmittel in Zigarren und Zigaretten, Schnupftabak, Pfeifentabak, Kautabak und aromatisierter Shisha verwendet. Viele indianische Stämme haben traditionell Tabak angebaut und verwendet, wobei einige Anbauflächen in Mexiko auf 1400-1000 v. Chr. zurückgehen. Die Stämme des östlichen Nordamerikas trugen große Mengen Tabak in Beuteln mit sich, da sie ihn als Handelsware verwendeten und sie rauchten ihn oft in Friedenspfeifen, entweder im Rahmen bestimmter heiliger Zeremonien oder zum Abschluss eines Geschäfts. Nach der Ankunft der Europäer wurde der Tabak als Handelsgut immer beliebter und entwickelte sich zu einer eigenen Industrie.</Text>
+		</Replace>
+<!--Lavender-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER">
+			<Text>Lavendel</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER_PEDIA">
+			<Text>
+				Lavendel (Lavandula angustifolia) ist ein duftendes Kraut aus der Mittelmeerregion. Es wird aufgrund seiner aromatischen Blüten, die in Parfums, Ölen und als kulinarische Zutat verwendet werden, weit angebaut. Seit Jahrhunderten ist Lavendel ein Symbol für Schönheit und Reinheit und wurde in verschiedenen Bereichen wie den römischen Thermen bis hin zur modernen Aromatherapie eingesetzt. Sein ätherisches Öl ist für seine beruhigenden Eigenschaften bekannt und wird zur Behandlung von Stress, Angstzuständen und Schlafstörungen verwendet.
+				[NEWLINE][NEWLINE]Lavendel gedeiht in gut durchlässigem Boden und sonnigem Klima, was ihn sowohl für den kommerziellen als auch für den privaten Gartenbau beliebt macht. Er ist auch für seine Rolle in der Landschaftsgestaltung bekannt, da er Farbe und Duft in Gärten bringt. Abgesehen von medizinischen und dekorativen Anwendungen ist Lavendel eine wichtige wirtschaftliche Ressource und trägt zur Wirtschaft von Ländern wie Frankreich, Bulgarien und dem Vereinigten Königreich bei. Heute ist er ein fester Bestandteil der Kräutermedizin, natürlicher Schönheitsprodukte und kulinarischer Gerichte.
+			</Text>
+		</Replace>
+<!--Tulips-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS">
+			<Text>Tulpen</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS_PEDIA">
+			<Text>Tulpen, zuerst in der Türkei und Zentralasien kultiviert, wurden im 16. Jahrhundert nach Europa gebracht, wo sie ein Symbol für Luxus und Schönheit wurden. Ihre Beliebtheit erreichte ihren Höhepunkt während der niederländischen "Tulpenmanie" des 17. Jahrhunderts, einem frühen Beispiel einer Spekulationsblase. Heute werden Tulpen für ihre leuchtenden Farben und eleganten Blüten geschätzt, vor allem in den Niederlanden angebaut und weltweit bei Frühlingsfesten gefeiert.</Text>
+		</Replace>
+		<!--TULIP FARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM">
+			<Text>Tulpenfarm</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM_PEDIA">
+			<Text>
+				Tulpenfarmen sind farbenfrohe landwirtschaftliche Plantagen, die sich dem Anbau von Tulpen widmen – einer Blume, die historisch mit Reichtum, Schönheit und Handel assoziiert wird. Ursprünglich aus Zentralasien stammend und in den Niederlanden weit verbreitet, wurden Tulpen im 17. Jahrhundert während der „Tulpenmanie“ zu einem wichtigen Handelsgut. Diese Farmen erzeugen Kultur und Gold, ziehen Touristen an und stehen für ein verfeinertes ästhetisches Empfinden, insbesondere auf fruchtbarem oder küstennahem Land.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_TULIPFARM">
+			<Text>[LINK=IMPROVEMENT_GAIA_TULIPFARM]Tulpenfarm[\LINK] errichten</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Bonus Resources =====================================-->
+<!--===============================================================-->
+<!--Berries-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES">
+			<Text>Beeren</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES_PEDIA">
+			<Text>Eine Beere ist eine kleine, weiche und oft essbare Frucht. Beeren sind in der Regel saftig, rund, farbenfroh, süß, sauer oder säuerlich und haben keinen Stein oder Kern, obwohl viele Samen vorhanden sein können. Gängige Beispiele sind Preiselbeeren, Erdbeeren, Himbeeren, Heidelbeeren, Brombeeren, Honigbeeren und Johannisbeeren. Beeren waren schon vor dem Beginn der Landwirtschaft eine wertvolle Nahrungsquelle für den Menschen und waren für die frühen Jäger und Sammler über Jahrtausende hinweg ein saisonales Grundnahrungsmittel. Mit der Zeit lernten die Menschen, Beeren zu lagern, um sie im Winter verwenden zu können und begannen auch in Europa und anderen Ländern, Beeren anzubauen. Einige Arten von Brombeeren und Himbeeren der Gattung Rubus werden seit dem 17. Jahrhundert kultiviert, während die glatthäutigen Heidelbeeren und Preiselbeeren der Gattung Vaccinium in den Vereinigten Staaten seit über einem Jahrhundert angebaut werden.</Text>
+		</Replace>
+<!--Cactus-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS">
+			<Text>Kaktus</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS_PEDIA">
+			<Text>Der Kaktus gehört zur Pflanzenfamilie der Kakteengewächse (Cactaceae), die etwa 127 Gattungen mit rund 1750 bekannten Arten der Ordnung Caryophyllales umfasst. Das Wort Kaktus leitet sich über das Lateinische von dem altgriechischen Wort κάκτος (káktos) ab, das ursprünglich von Theophrastus für eine stachelige Pflanze verwendet wurde, deren Identität heute nicht mehr sicher ist. Kakteen kommen in einer Vielzahl von Formen und Größen vor. Obwohl einige Arten in recht feuchten Umgebungen leben, leben die meisten Kakteen in Lebensräumen, die zumindest einer gewissen Trockenheit ausgesetzt sind. Viele leben in extrem trockenen Umgebungen und kommen sogar in der Atacama-Wüste vor, einem der trockensten Orte der Erde. Aus diesem Grund zeigen Kakteen viele Anpassungen, um Wasser zu sparen. So sind fast alle Kakteen Sukkulenten, d. h. sie haben verdickte, fleischige Teile, die Wasser speichern können. Im Gegensatz zu vielen anderen Sukkulenten ist der Stamm der einzige Teil der meisten Kakteen, an dem dieser lebenswichtige Prozess stattfindet. Die meisten Kakteenarten haben keine echten Blätter mehr, sondern nur noch Stacheln, bei denen es sich um stark modifizierte Blätter handelt. Die Stacheln dienen nicht nur der Abwehr von Pflanzenfressern, sondern verhindern auch den Wasserverlust, indem sie die Luftzufuhr in der Nähe des Kaktus verringern und etwas Schatten spenden. In Ermangelung echter Blätter betreiben die vergrößerten Stämme der Kakteen Photosynthese. Kakteen sind auf dem amerikanischen Kontinent heimisch, von Patagonien im Süden bis zu Teilen Westkanadas im Norden - mit Ausnahme von Rhipsalis baccifera, die auch in Afrika und Sri Lanka wächst.</Text>
+		</Replace>
+<!--Coconut-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS">
+			<Text>Kokosnuss</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_PEDIA">
+			<Text>Kokosnüsse sind bekannt für ihre vielseitigen Verwendungsmöglichkeiten, die von Lebensmitteln bis hin zu Kosmetika reichen. Das innere Fruchtfleisch des reifen Samens sowie die daraus gewonnene Kokosnussmilch sind fester Bestandteil der Ernährung vieler Menschen in den Tropen und Subtropen. Die harten Schalen, die faserigen Hüllen und die langen Fiederblätter können als Material für die Herstellung einer Vielzahl von Einrichtungs- und Dekorationsgegenständen verwendet werden. Die Kokosnuss hat auch eine kulturelle und religiöse Bedeutung in bestimmten Gesellschaften, insbesondere in Indien, wo sie in hinduistischen Ritualen verwendet wird.</Text>
+		</Replace>
+<!--Flax-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX">
+			<Text>Lein</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX_PEDIA">
+			<Text>Gemeiner Lein (Linum usitatissimum), auch Saat-Lein, Haarlinse und Flachs genannt, ist eine alte Kulturpflanze, die zur Faser- (Faserlein) und zur Ölgewinnung (Öllein, Leinsamen, Leinöl) angebaut wird. Er ist eine Art aus der Gattung Lein (Linum) in der Familie der Leingewächse (Linaceae) und die einzige Lein-Art, deren Anbau eine wirtschaftliche Bedeutung hat. Es gibt mehrere Convarietäten sowie etliche Sorten. In der Praxis wird nach der Hauptverwendung Faserlein und Öllein unterschieden.</Text>
+		</Replace>
+<!--Lakefish-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH">
+			<Text>Fische im See</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH_PEDIA">
+			<Text>Seefische sind Süßwasserfischarten, die in Seen, Teichen und Stauseen vorkommen. Sie umfassen eine Vielzahl von Fischen, darunter Forellen, Barsche, Hechte und Zander. Seefische haben seit Jahrtausenden eine bedeutende Rolle in der menschlichen Ernährung und Kultur gespielt und stellen eine zuverlässige Proteinquelle dar. Einige Arten sind auch für die Freizeitfischerei und die Aquakulturindustrie weltweit von Bedeutung.</Text>
+		</Replace>
+<!--Maize-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE">
+			<Text>Mais</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE_PEDIA">
+			<Text>Mais, auch Kukuruz genannt, ist ein Getreide, das von indigenen Völkern in Südmexiko vor etwa 10.000 Jahren erstmals domestiziert wurde. Mais wird auf der ganzen Welt angebaut und jedes Jahr wird mehr Mais produziert als jedes andere Getreide.</Text>
+		</Replace>
+<!--Rice-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE">
+			<Text>Reis</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE_PEDIA">
+			<Text>Reis ist für einen großen Teil der Weltbevölkerung, vor allem in Asien, das am häufigsten konsumierte Grundnahrungsmittel. Er ist nach Zuckerrohr und Mais der landwirtschaftliche Rohstoff mit der dritthöchsten Produktion weltweit. Da große Teile der Zuckerrohr- und Maisernte für andere Zwecke als den menschlichen Verzehr verwendet werden, ist Reis das wichtigste Getreide im Hinblick auf die menschliche Ernährung und die Kalorienzufuhr, denn er liefert mehr als ein Fünftel der Kalorien, die die Menschen weltweit zu sich nehmen. Der Reisanbau eignet sich gut für Länder und Regionen mit niedrigen Arbeitskosten und hohen Niederschlagsmengen, da der Anbau arbeitsintensiv ist und viel Wasser benötigt. Reis kann jedoch praktisch überall angebaut werden, sogar auf steilen Hügeln oder in Bergregionen, wenn man Terrassensysteme zur Wasserregulierung einsetzt. Obwohl die ursprüngliche Art in Asien und bestimmten Teilen Afrikas beheimatet ist, ist er durch jahrhundertelangen Handel und Export in vielen Kulturen weltweit verbreitet.</Text>
+		</Replace>
+<!--Rubber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER">
+			<Text>Kautschuk</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_PEDIA">
+			<Text>Kautschuk, der Pflanzensaft aus dem Gummi gemacht wird, wurde erstmals von den indigenen Kulturen Mesoamerikas verwendet. Die frühesten archäologischen Belege für die Verwendung von Naturlatex aus dem Hevea-Baum stammen aus der Olmeken-Kultur, in der Kautschuk das erste Mal zur Herstellung von Bällen für das mesoamerikanische Ballspiel verwendet wurde. Später wurde Kautschuk von den Maya- und Azteken-Kulturen verwendet - neben der Herstellung von Bällen nutzten die Azteken Kautschuk auch für andere Zwecke, z. B. zur Herstellung von Behältern und zur Abdichtung von Textilien gegen Nässe. Naturkautschuk wird in vielen Anwendungen und Produkten verwendet, entweder allein oder in Kombination mit anderen Materialien. In den meisten seiner nützlichen Formen hat er ein große Elastizität und Haltbarkeit und ist äußerst wasserdicht.</Text>
+		</Replace>
+<!--Timber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER">
+			<Text>Bauholz</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_PEDIA">
+			<Text>Holz ist ein Material, das für Bauzwecke und andere Anwendungen geeignet ist. Es wird aus Bäumen in gemäßigten und tropischen Wäldern gewonnen, die sowohl laubabwerfend als auch immergrün sein können. Holz wird für seine Stärke, Haltbarkeit und Vielseitigkeit geschätzt. Es findet Anwendung im Bauwesen, Schiffsbau, Möbelbau, bei Werkzeugen, Fußböden, Musikinstrumenten und Fässern. Außerdem dient Holz als Brennstoff und als Rohstoff für die Herstellung von Holzkohle.</Text>
+		</Replace>
+<!--Tin-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN">
+			<Text>Zinn</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN_PEDIA">
+			<Text>Zinn ist ein Metall, das vor allem aus dem Mineral Kassiterit gewonnen wird. Die Gewinnung und Verwendung von Zinn lässt sich bis zu den Anfängen der Bronzezeit um 3000 v. Chr. zurückverfolgen, wo es sehr begehrt war. In Verbindung mit Kupfer bildet es eine stärkere und viel nützlichere Legierung, die Bronze, die zu 1/8 aus Zinn und zu 7/8 aus Kupfer besteht.  Heute ist Zinn ein Hauptbestandteil von Lötzinn. Es wird auch als Beschichtung verwendet, um andere Metalle korrosionsbeständig zu machen und wegen seiner geringen Toxizität wird es auch für die Beschichtung von Konservendosen verwendet.</Text>
+		</Replace>
+<!--Kelp-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP">
+			<Text>Seetang</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP_PEDIA">
+			<Text>
+				Seetang ist eine schnell wachsende Alge, die in flachen, nährstoffreichen Küstengewässern vorkommt und dort riesige Unterwasserwälder bildet. Obwohl er wie eine Pflanze aussieht, gehört Seetang zu den großen Braunalgen und gedeiht in kühlen Gewässern zwischen 6 und 14 °C.
+				[NEWLINE][NEWLINE]Kelpwälder bieten zahlreichen Meereslebewesen Nahrung und Schutz und spielen eine wichtige Rolle in Küstenökosystemen. Einige Arten können bis zu einem halben Meter pro Tag wachsen und Längen von über 30 Metern erreichen. Seetang wird vom Menschen für Nahrung, Dünger und industrielle Produkte genutzt und gilt als Symbol für natürlichen Reichtum und die Widerstandskraft der Meere.
+			</Text>
+		</Replace>
+		<!--KELPFARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM">
+			<Text>Seetangfarm</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM_PEDIA">
+			<Text>
+				Der Anbau von Seetang ist die Praxis des Kultivierens und Erntens von Meeresalgen. In seiner einfachsten Form besteht er aus der Verwaltung natürlich vorkommender Bestände. In seiner fortschrittlichsten Form umfasst er die vollständige Kontrolle des Lebenszyklus der Algen. Die sieben am häufigsten angebauten Seetangarten sind Eucheuma spp., Kappaphycus alvarezii, Gracilaria spp., Saccharina japonica, Undaria pinnatifida, Pyropia spp. und Sargassum fusiforme. Die größten Seetangproduzenten sind China, Indonesien und die Philippinen. Weitere bedeutende Produzenten sind Südkorea, Nordkorea, Japan, Malaysia und Sansibar (Tansania). Der Seetanganbau wurde oft als wirtschaftliche Alternative entwickelt, um die Überfischung und den Druck auf erschöpfte Fischereien zu verringern.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAFARM">
+			<Text>Errichte eine [LINK=IMPROVEMENT_GAIA_SEAFARM]Seetangfarm[\LINK]</Text>
+		</Replace>
+<!--Seabed Minerals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS">
+			<Text>Meeresboden-Mineralien</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS_PEDIA">
+			<Text>
+				Mineralien des Meeresbodens werden in Tiefen von 600 bis 7000 Metern gefunden und lassen sich in drei Haupttypen unterteilen:
+				[NEWLINE][NEWLINE]1) Polymetallische Knollen entstehen auf abyssalen Tiefseeebenen in 4–6 km Tiefe. Sie wachsen langsam um einen Kern, etwa wie ein Haifischzahn, und enthalten Mangan, Kobalt, Nickel, Kupfer und seltene Erden. Große Vorkommen befinden sich in der Clarion-Clipperton-Zone (Pazifik) und bei den Cookinseln.
+				[NEWLINE][NEWLINE]2) Sulfidische Lagerstätten entstehen nahe hydrothermaler Quellen in 1–4 km Tiefe, meist entlang mittelozeanischer Rücken und Inselbögen. Sie enthalten wertvolle Metalle wie Kupfer, Gold, Blei und Silber. Sie kommen u.a. bei Papua-Neuguinea, Tonga und dem Mittelatlantischen Rücken vor.
+				[NEWLINE][NEWLINE]3) Kobaltreiche Krusten wachsen auf unterseeischen Bergen und Rücken in 600–7000 m Tiefe. Sie bilden dünne Schichten auf Gesteinen und sind reich an Kobalt, Nickel, Platin und seltenen Erden. Sie kommen weltweit in allen Ozeanen vor, z. B. bei Mikronesien und Kiribati.
+			</Text>
+		</Replace>
+		<!--DEEP SEA MINE-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE">
+			<Text>Tiefsee-Mine</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE_PEDIA">
+			<Text>
+				Tiefseebergbau ist ein wachsendes Feld des experimentellen Meeresbodenbergbaus, das den Abbau von Mineralien und Ablagerungen aus dem Ozeanboden in Tiefen zwischen 200 Metern und 6500 Metern umfasst. Stand 2021 sind die meisten marinen Bergbauaktivitäten auf flache Küstengewässer beschränkt, in denen Sand, Zinn und Diamanten leichter zugänglich sind. Es gibt drei Hauptarten des Tiefseebergbaus: den Abbau polymetallischer Knollen, den Abbau polymetallischer Sulfide und den Abbau kobaltreicher ferromanganhaltiger Krusten. Die meisten vorgeschlagenen Tiefseebergbaugebiete befinden sich in der Nähe polymetallischer Knollen oder aktiver und erloschener hydrothermaler Quellen in Tiefen von 1.400 bis 3.700 Metern. Diese Quellen erzeugen Sulfidlagerstätten, die wertvolle Metalle wie Silber, Gold, Kupfer, Mangan, Kobalt und Zink enthalten. Die Förderung erfolgt über hydraulische Pumpen oder Eimerfördersysteme, die das Erz an die Oberfläche transportieren.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAMINE">
+			<Text>Errichte eine [LINK=IMPROVEMENT_GAIA_SEAMINE]Tiefsee-Mine[\LINK]</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW City-State Resources ================================-->
+<!--===============================================================-->
+<!--Carpets-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS">
+			<Text>Teppiche</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_PEDIA">
+			<Text>Teppiche, handgewebt oder maschinell hergestellt, schmücken seit Jahrhunderten Häuser und symbolisieren Komfort und Handwerkskunst. Einst nur für Könige reserviert, zieren sie heute Räume weltweit und verbinden künstlerisches Erbe mit praktischem Nutzen.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_HELP">
+			<Text>Teppiche sind nur über eine Handelsstadt verfügbar.</Text>
+		</Replace>
+<!--Furniture-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE">
+			<Text>Möbel</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_PEDIA">
+			<Text>
+				Möbel sind seit der Antike ein wesentlicher Bestandteil der menschlichen Zivilisation, mit frühen Beispielen, die bis in die Jungsteinzeit zurückreichen. Die alten Ägypter, Griechen und Römer fertigten ausgeklügelte Holzmöbel, die oft mit Einlegearbeiten aus Elfenbein und Gold verziert waren. Diese frühen Stücke symbolisierten Status und Raffinesse, wobei die wohlhabendsten Haushalte aufwendige Designs in Auftrag gaben.
+				[NEWLINE][NEWLINE]Während der Renaissance erblühte die Möbelherstellung als künstlerische Disziplin, wobei europäische Handwerker neue Techniken und Materialien einführten. Die Industrielle Revolution revolutionierte später die Produktion, wodurch Möbel für die breitere Bevölkerung zugänglicher wurden. Heute bleiben Möbel sowohl eine funktionale Notwendigkeit als auch eine Form der künstlerischen Ausdrucksweise, wobei traditionelle Handwerkskunst und moderne Fertigung auf den Weltmärkten koexistieren.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_HELP">
+			<Text>Möbel sind nur über ein Handelsstaat verfügbar.</Text>
+		</Replace>
+<!--Glassware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE">
+			<Text>Glas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_PEDIA">
+			<Text>Glas ist ein festes Material, das in der Regel transparent und spröde ist und seit Jahrhunderten für Fenster und Trinkgefäße verwendet wird. Die Geschichte der Glasherstellung lässt sich bis 3500 v. Chr. in Mesopotamien zurückverfolgen. Der Begriff Glas entwickelte sich im späten Römischen Reich. Im römischen Glasmacherzentrum Trier, dem heutigen Deutschland, entstand der spätlateinische Begriff glesum, wahrscheinlich aus einem germanischen Wort für eine transparente, glänzende Substanz. Das Zentrum der Luxusglasherstellung war ab dem 14. Jahrhundert die Insel Murano, die viele neue Techniken entwickelte und zum Zentrum eines lukrativen Exporthandels mit Geschirr, Spiegeln und anderen Gegenständen wurde. Das venezianische Muranoglas unterschied sich von anderen Gläsern dadurch, dass die lokalen Quarzkiesel aus nahezu reinem Siliziumdioxid bestanden und zu einem feinen, klaren Sand gemahlen wurden, der mit Natriumcarbonat aus der Levante kombiniert wurde, für das die Venezianer das alleinige Monopol besaßen.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_HELP">
+			<Text>Glas bekommt man nur von kaufmännischen Stadtstaaten.</Text>
+		</Replace>
+<!--Lacquerware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE">
+			<Text>Lackwaren</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_PEDIA">
+			<Text>Lackwaren sind dekorative Objekte, die mit Schichten von Lack, einem natürlichen Harz, das aus Bäumen gewonnen wird, überzogen sind. Diese Gegenstände werden oft aus Holz oder Metall gefertigt und weisen aufwändige Designs auf, die manchmal mit Einlagen aus Gold, Silber oder Perlmutt verziert sind. Der Lack verleiht dem Objekt eine glänzende, haltbare Oberfläche, die es schützt und seine ästhetische Attraktivität verbessert. Lackwaren sind seit Jahrhunderten ein Markenzeichen der Kunst in Ost- und Südostasien und werden für ihre Schönheit und Handwerkskunst geschätzt.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_HELP">
+			<Text>Lackwaren sind nur über einen Handelsstadtstaat erhältlich.</Text>
+		</Replace>
+<!--Mosaic Tiles-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES">
+			<Text>Mosaikfliesen</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_PEDIA">
+			<Text>Mosaikfliesen sind eine antike dekorative Kunstform, bei der kleine Stücke aus farbigem Stein, Glas oder Keramik zu komplexen Mustern oder Bildern zusammengesetzt werden. Popularisiert durch antike Zivilisationen wie die Römer und Byzantiner, schmückten Mosaike die Wände, Böden und Decken von Palästen, Tempeln und öffentlichen Gebäuden. Sie symbolisieren künstlerisches Geschick und kulturelles Erbe und verbinden Funktionalität mit Schönheit. Heute sind Mosaikfliesen ein geschätztes Handwerk, das moderne Architektur und Design bereichert.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_HELP">
+			<Text>Mosaikfliesen sind nur über einen Handelsstadtstaat erhältlich.</Text>
+		</Replace>
+<!--Perfume-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME">
+			<Text>Parfüm</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_PEDIA">
+			<Text>Parfüms sind Duftstoffe, die bereits in einigen der frühesten menschlichen Zivilisationen bekannt waren. Die Kunst der Parfümherstellung begann im alten Mesopotamien und Ägypten und wurde von den Römern und Persern weiter verfeinert.  Die Technik der Herstellung von Rosenparfüms stammt ursprünglich aus Persien und verbreitete sich dann über Arabien und Indien und in jüngerer Zeit auch in Osteuropa.  Rosenöl ist das ätherische Öl, das aus den Blütenblättern der verschiedenen Rosenarten gewonnen wird. Aufgrund des arbeitsintensiven Herstellungsverfahrens und des geringen Ölgehalts der Rosenblüten hat Rosenöl einen sehr hohen Preis. Dennoch ist es das vielleicht am häufigsten verwendete ätherische Öl in der Herstellung von Perfümen.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_HELP">
+			<Text>Parfüm ist nur über ein Handelsstaat verfügbar.</Text>
+		</Replace>
+<!--Obsidian-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN">
+			<Text>Obsidian</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_PEDIA">
+			<Text>
+				Obsidian ist ein natürliches vulkanisches Glas, das entsteht, wenn Lava extrem schnell abkühlt, ohne kristallisieren zu können. Aufgrund seines muschelartigen Bruchs lassen sich extrem scharfe Kanten erzeugen, was es in der Vorgeschichte zu einem der besten Materialien für die Herstellung von Werkzeugen und Waffen machte. Von Amerika bis in den Nahen Osten wurde Obsidian nicht nur für seine praktische Anwendung geschätzt, sondern auch wegen seines glänzenden schwarzen Aussehens, das es zu einer wertvollen Handels- und Kultressource machte.
+				[NEWLINE][NEWLINE]Die einzigartigen Eigenschaften von Obsidian sorgten dafür, dass es auch nach der Steinzeit weiter genutzt wurde. Aztekische Priester verwendeten Obsidianklingen für rituelle Opferungen, und in manchen Kulturen wurde es zu Spiegeln und Schmuck verarbeitet. Auch heute noch wird Obsidian wegen seiner außergewöhnlichen Schärfe für chirurgische Instrumente eingesetzt. Obwohl Metallwerkzeuge Obsidian in den meisten praktischen Anwendungen ersetzt haben, bleibt es ein Symbol für frühen menschlichen Einfallsreichtum und die enge Verbindung zwischen Geologie und Zivilisation.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_HELP">
+			<Text>Obsidian ist nur durch den Bau einer [COLOR_YELLOW]Steinmetzwerkstatt[ENDCOLOR] verfügbar.</Text>
+		</Replace>
+	</Language_DE_DE>
+</GameData>

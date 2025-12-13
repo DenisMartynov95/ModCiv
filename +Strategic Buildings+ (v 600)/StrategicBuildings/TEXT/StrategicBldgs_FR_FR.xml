@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_FR_FR>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--IRONWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_IRONWORKS_HELP">
+			<Text>
+				Nécessite un [COLOR_CYAN]Atelier[ENDCOLOR] dans toutes les villes. Le coût augmente avec le nombre de villes dans l'empire.
+				[NEWLINE][NEWLINE]Fournit +8 [ICON_PRODUCTION] production et +3 [ICON_RES_IRON] fer. +1 [ICON_GOLD] or pour chaque source de [ICON_RES_IRON] fer exploitée par cette ville.
+			</Text>
+		</Replace>
+<!--RECYCLING CENTER-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_RECYCLING_CENTER_HELP">
+			<Text>
+				Fournit 2 [ICON_RES_ALUMINUM] aluminium. +2 [ICON_RESEARCH] Science pour chaque source de [ICON_RES_ALUMINUM] aluminium exploitée par cette ville.
+				[NEWLINE][NEWLINE]Limité à 5 villes par empire. Ne peut pas être capturé.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Buildings ===========================================-->
+<!--===============================================================-->
+<!--COALPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT">
+			<Text>Usine de charbon raffiné</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_HELP">
+			<Text>
+				Fournit 1 [ICON_RES_COAL] charbon. +1 [ICON_PRODUCTION] production et +1 [ICON_GOLD] or pour chaque source de [ICON_RES_COAL] charbon exploitée par cette ville.
+				[NEWLINE][NEWLINE]Limité à 3 villes par empire. Ne peut pas être capturé.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_PEDIA">
+			<Text>
+				Le charbon raffiné est produit à l'aide de technologies avancées qui éliminent l'humidité et certains polluants des charbons de qualité inférieure, comme le lignite ou le charbon sub-bitumineux, augmentant leur pouvoir calorifique. Ces traitements précombustion visent à modifier les propriétés du charbon avant son brûlage, améliorant ainsi l'efficacité et réduisant les émissions nocives. Contrairement aux usines de charbon traditionnelles, les installations de charbon raffiné utilisent ces technologies pour améliorer la durabilité environnementale et la production énergétique. Ces installations jouent un rôle clé dans l'équilibre entre les besoins industriels et les solutions énergétiques propres.
+				[NEWLINE][NEWLINE]Les avantages du charbon raffiné vont au-delà de l'efficacité. En réduisant significativement les émissions de carbone, ces technologies complètent les méthodes émergentes de capture du carbone visant à lutter contre le changement climatique. Développées initialement aux États-Unis, ces technologies ont également été explorées dans d'autres pays, comme en Victoria, Australie, où des innovations telles que le procédé Coldry transforment le lignite en un produit plus propre, stable et exportable avec une densité énergétique accrue. Ces avancées montrent le potentiel des installations de charbon raffiné pour servir de pont entre les sources d'énergie conventionnelles et un avenir énergétique durable.
+			</Text>
+		</Replace>
+<!--OILREFINERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY">
+			<Text>Raffinerie de pétrole</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_HELP">
+			<Text>
+				Fournit 1 [ICON_RES_OIL] pétrole. +2 [ICON_GOLD] or pour chaque source de [ICON_RES_OIL] pétrole exploitée par cette ville.
+				[NEWLINE][NEWLINE]Limité à 4 villes par empire. Ne peut pas être capturé.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_PEDIA">
+			<Text>
+				Une raffinerie de pétrole est une grande installation industrielle où le pétrole brut est transformé et raffiné en produits précieux tels que l'essence, le diesel, le kérosène et le gaz de pétrole liquéfié (GPL). Les raffineries utilisent des processus complexes, notamment la distillation fractionnée, le craquage et le reformage, pour séparer et transformer les composés d'hydrocarbures présents dans le pétrole brut. Fondées pour la première fois au milieu du XIXe siècle, les raffineries ont joué un rôle essentiel dans le développement des industries modernes, alimentant les transports, la fabrication et la production d'énergie. Des installations emblématiques comme celles de Standard Oil aux États-Unis ont établi la domination mondiale du pétrole comme source d'énergie majeure au XXe siècle.
+				[NEWLINE][NEWLINE]Le pétrole brut a une utilité limitée sous sa forme naturelle, mais ses dérivés raffinés alimentent les navires, les automobiles, les avions et les machines, tout en servant de matières premières pour les industries pétrochimiques. Ces industries produisent une large gamme de matériaux, notamment des plastiques, des fibres synthétiques et des lubrifiants, qui sont essentiels à la vie moderne. Malgré leurs avantages, les raffineries sont critiquées pour leurs impacts environnementaux, notamment les émissions de gaz à effet de serre et la pollution. Les avancées technologiques dans la raffinerie visent à améliorer l'efficacité et à réduire l'empreinte environnementale, reflétant le défi constant d'équilibrer les besoins énergétiques avec la durabilité.
+			</Text>
+		</Replace>
+<!--REPROCESSPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT">
+			<Text>Usine de retraitement nucléaire</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_HELP">
+			<Text>
+				Fournit 5 [ICON_RES_URANIUM] uranium. +3 [ICON_PRODUCTION] production pour chaque source de [ICON_RES_URANIUM] uranium exploitée par cette ville.
+				[NEWLINE][NEWLINE]Nécessite une [COLOR_CYAN]Centrale nucléaire[ENDCOLOR] dans cette ville. Limité à 2 bâtiments par empire. Ne peut pas être capturé.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_PEDIA">
+			<Text>
+				Une usine de retraitement nucléaire sépare chimiquement les matériaux utilisables, tels que l'uranium et le plutonium, du combustible nucléaire usé. Initialement développé pour extraire le plutonium destiné aux armes nucléaires, le retraitement est ensuite devenu une partie essentielle du cycle du combustible nucléaire, permettant de recycler le combustible usé en un nouveau combustible pour réacteurs, tel que le combustible MOX (oxyde mixte). Ce processus prolonge l'utilité des ressources en uranium, notamment lorsque les approvisionnements naturels sont limités ou que les prix sont élevés. Le retraitement soutient également les réacteurs à neutrons rapides, qui peuvent utiliser des matériaux recyclés et des actinides, augmentant considérablement le rendement énergétique de l'uranium.
+				[NEWLINE][NEWLINE]Le processus PUREX (Plutonium Uranium Redox Extraction) est la méthode la plus couramment utilisée pour récupérer l'uranium et le plutonium du combustible nucléaire usé. En fermant le cycle du combustible nucléaire, les usines de retraitement réduisent les déchets et améliorent l'efficacité du combustible, rendant l'énergie nucléaire plus durable. Cependant, ces installations font face à des défis, notamment le risque de militarisation des matériaux retraités et la gestion des déchets radioactifs. Malgré ces problèmes, le retraitement nucléaire reste une technologie cruciale pour maximiser les avantages de l'énergie nucléaire tout en répondant à ses défis de durabilité à long terme.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW World Wonders =======================================-->
+<!--===============================================================-->
+<!--SHANDAN-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SHANDAN">
+			<Text>[COLOR_WATER_TEXT]Haras de Shandan[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_HELP">
+			<Text>
+				Deux ressources de [ICON_RES_HORSE] Chevaux apparaissent près de la ville. Confère également +1 [ICON_CULTURE] Culture, +1 [ICON_FOOD] Nourriture, +1 [ICON_PRODUCTION] Production et +1 [ICON_GOLD] Or.
+				[NEWLINE][NEWLINE][ICON_RES_HORSE] [COLOR_POSITIVE_TEXT]Chevaux[ENDCOLOR] exploités par la ville gagnent +1 [ICON_FOOD] Nourriture, +1 [ICON_PRODUCTION] Production et +1 [ICON_GOLD] Or [COLOR_CYAN]une fois améliorés[/COLOR].
+				[NEWLINE][NEWLINE]La ville doit être fondée sur un [COLOR_CYAN]terrain plat[/COLOR] et adjacente à des [COLOR_CYAN]Plaines[/COLOR].
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_QUOTE">
+			<Text>[NEWLINE]"Comme la distance teste la force d’un cheval, le temps révèle le vrai caractère d’une personne." - Proverbe chinois[NEWLINE]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_PEDIA">
+			<Text>
+				[b]Shandan Jun Machang[/b] (Haras militaire de Shandan) est la plus grande et la plus ancienne ferme de chevaux militaires au monde. Située dans le corridor de Hexi, elle s'étend sur les provinces du Gansu et du Qinghai, couvrant plus de 3,2 millions de mu (2 130 kilomètres carrés). Fondée en 121 av. J.-C. sous la dynastie Han, elle a fourni des chevaux de guerre pendant plus de deux millénaires.
+				[NEWLINE][NEWLINE]Ses vastes plaines offrent des conditions idéales de pâturage, avec des prairies verdoyantes en été et dorées en hiver. Traditionnellement un centre clé pour l'élevage des chevaux militaires, Shandan a récemment évolué vers la préservation écologique, les courses de chevaux et le tourisme. Aujourd’hui, la ferme perpétue son héritage avec plus de 600 chevaux.
+			</Text>
+		</Replace>		
+	</Language_FR_FR>
+</GameData>

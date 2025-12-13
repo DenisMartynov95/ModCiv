@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/25/2014 2:55:15 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_THEATRE"/>
+			<Set>
+				<Cost>300</Cost>
+				<PrereqTech>TECH_RIFLING</PrereqTech>
+				<HurryCostModifier>0</HurryCostModifier>
+				<FreeStartEra>NULL</FreeStartEra>
+			</Set>
+		</Update>
+	</Buildings>
+</GameData>

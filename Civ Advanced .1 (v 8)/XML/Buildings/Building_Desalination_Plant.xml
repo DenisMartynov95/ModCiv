@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/23/2014 4:27:41 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DESAL_PLANT</Type>
+			<DefaultBuilding>BUILDING_DESAL_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_DESAL_PLANT</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DESAL_PLANT</Type>
+			<BuildingClass>BUILDINGCLASS_DESAL_PLANT</BuildingClass>
+			<Cost>600</Cost>
+			<GoldMaintenance>5</GoldMaintenance>
+			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
+			<Description>TXT_KEY_BUILDING_DESAL_PLANT</Description>
+			<Civilopedia>TXT_KEY_BUILDING_DESAL_PLANT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_DESAL_PLANT_STRATEGY</Strategy>
+			<Water>true</Water>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>34</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_DESAL_PLANT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DESAL_PLANT</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_DESAL_PLANT</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_DESAL_PLANT</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_CANNERY</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_DESAL_PLANT">
+			<Text>Desalination Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DESAL_PLANT_HELP">
+			<Text>+4 [ICON_FOOD] Food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DESAL_PLANT_STRATEGY">
+			<Text>The Desalination Plant is a Modern era building which increases a City's [ICON_FOOD] Food supply. The City must have a Cannery and it must be on the Coast to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DESAL_PLANT_PEDIA">
+			<Text>Desalination refers to any of several processes that remove some amount of salt and other minerals from saline water, seawater. Salt water is desalinated to produce fresh water suitable for human consumption or irrigation. Due to relatively high energy consumption, the costs of desalinating sea water are generally higher than the alternatives so it is generally used as drinking water while cheaper less clean methods are used for irrigation, but other methods are not always available.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2d232277-2df4-4fcc-ade4-befc2bad62c6" version="7">
+  <Properties>
+    <Name>Greek States - Sparta</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Добавляет в игру Спарту с лидером Леонидом.</Teaser>
+    <Description>(Removes Alexander)
+This mod is advised to be used with my other Greek mods.
+
+Sparta - Leonidas 
+
+UA - Warriors from Birth: For every citizen, gain +2 xp and +5% military production (up to 50%). Land Military units has the Agoge promotion (20% combat strength). Can't build settlers
+
+UU - Elite Hoplites (Spearman): +15% Adjacency Bonus. Double XP from defending.
+
+UB - Military School (Barracks): +25 xp and +2 Food
+
+Firebug - Coding and Art
+DJSHenninger - UA Coding
+LeeS - Helping with UA
+danrell - Hoplite unit art</Description>
+    <Authors>Firebug</Authors>
+    <SpecialThanks>DJSHenninger, LeeS (Trait)   danrell (Unit art)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id=" 31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core) " />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack  " />
+    <Mod id=" e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels   " />
+    <Mod id=" 7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units   " />
+    <Mod id=" 8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack      " />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch  " />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V  " />
+    <Mod id=" 6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id=" 6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete " />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C6A962672E3844E142EE7BAB55751A5D" import="1">Art/SpartaAtlases.xml</File>
+    <File md5="0CDC9E2C951297315FFCA827CF98844B" import="1">Art/EliteHopliteflag.dds</File>
+    <File md5="27410AD90B673E8968F43F96056C8D47" import="1">Art/Leonidas_Scene.dds</File>
+    <File md5="B4BFF06DC6CFD85D56489E41BE4E6807" import="1">Art/SpartaAtlas128.dds</File>
+    <File md5="AA6F16AE2E6E35662132933A2EB2C89B" import="1">Art/SpartaAtlas16.dds</File>
+    <File md5="7C6C800B08A86B7404855937D8088598" import="1">Art/SpartaAtlas24.dds</File>
+    <File md5="63060273CFF3C2CB2975CF9564FAA5EE" import="1">Art/SpartaAtlas256.dds</File>
+    <File md5="F45E51F87405AF8E534189C756D25E08" import="1">Art/SpartaAtlas32.dds</File>
+    <File md5="0336EDFCCA41E83C239A75C4A83FB812" import="1">Art/SpartaAtlas45.dds</File>
+    <File md5="91C8A81C22032AEB18FFCC10A3F07CE3" import="1">Art/SpartaAtlas48.dds</File>
+    <File md5="67A010A7C94BBA28C1A74CE13B96976E" import="1">Art/SpartaAtlas64.dds</File>
+    <File md5="7CEDDB1DBB93EDDF5F3AFEDE63B80BF8" import="1">Art/SpartaAtlas80.dds</File>
+    <File md5="B81F4AABDE7ACBE4433BBF337960502A" import="1">Art/SpartaDom.dds</File>
+    <File md5="75583AEBCBDD8CCF2FB7D3CA56C4B14C" import="1">Art/SpartaIconAlpha128.dds</File>
+    <File md5="3D67D81F784D81A9F1E66B877CEB574F" import="1">Art/SpartaIconAlpha16.dds</File>
+    <File md5="39AA6FF77AD3AC706367643D9D856C23" import="1">Art/SpartaIconAlpha24.dds</File>
+    <File md5="938E73FA5A81AECB2CFFF42E7FA7F83A" import="1">Art/SpartaIconAlpha32.dds</File>
+    <File md5="4E5374ABAA0DAC1745AA7BDA356CE66B" import="1">Art/SpartaIconAlpha48.dds</File>
+    <File md5="56031BB686F44D9956CF63977CF09ACD" import="1">Art/SpartaIconAlpha64.dds</File>
+    <File md5="2195FA29191110F280E40AC233F3B16E" import="1">Art/SpartaIconAlpha80.dds</File>
+    <File md5="8B419EAE093F2920E13E218D5554134C" import="1">Art/SpartaMap.dds</File>
+    <File md5="0531965DC8763D12AC0189C31B698FC7" import="0">Assets/LUA/SpartaTrait.lua</File>
+    <File md5="3287D7271B31A760DB8B827B57C8D8F5" import="0">ByeAlex/KillAlex.xml</File>
+    <File md5="9FDE7DC560E3653D5DAFD41DF7A03D25" import="0">Compatibility/SpartaSupport.sql</File>
+    <File md5="C33D5A9A4D3F20A49385FEE337CF79C6" import="1">SpartaMusic/Sparta War.mp3</File>
+    <File md5="68126929732D2BE22E6D01DA64C2BD34" import="1">SpartaMusic/Sparta Peace.mp3</File>
+    <File md5="0B300B7712B48FE87BD92B4322B5C138" import="0">SpartaMusic/Music.xml</File>
+    <File md5="BBDDB98AF42EFCEFAE5CB5879022CB25" import="1">UnitArt/Swordsman_Greece_v2.blend</File>
+    <File md5="771E85D26020C65B4B8AD9B5ADF0BD47" import="1">UnitArt/Swordsman_Greece_v2.dds</File>
+    <File md5="18EDFFBD90DCEBC0F62BA96D4A62AEEC" import="1">UnitArt/Swordsman_Greece_v2.fxsxml</File>
+    <File md5="363A1856C9E6A7A55951BB64C7D755ED" import="1">UnitArt/Swordsman_Greece_v2.gr2</File>
+    <File md5="0155EFEFF7B0C7FBE79229757C117900" import="1">UnitArt/Swordsman_Greece_v2_gloss.dds</File>
+    <File md5="FD2506731075B54CF8CC0FC97DCEBAC1" import="0">XML/Building/MilitarySchool.xml</File>
+    <File md5="93F9FAEB511325DC0CE6207DEDDD5D7D" import="0">XML/Building/Traitbuilding.xml</File>
+    <File md5="07BD8A4385AD92F7E074FDCAA0C2ED01" import="0">XML/Civ/Civilization.xml</File>
+    <File md5="07893D5D07A770E5EA9A33190EDE94D0" import="0">XML/Leader/DiplomacyResponses.xml</File>
+    <File md5="16927E283E16CAA798A00758FB15426D" import="0">XML/Leader/Leader.xml</File>
+    <File md5="9AC0FFC7A11EC03EDE2E46A55EDDACF4" import="1">XML/Leader/Leonidas_Scene.xml</File>
+    <File md5="8A8A84D668560A539EC5EC6A0DC4887F" import="0">XML/Leader/Trait.xml</File>
+    <File md5="D209780DA308C3395ECA8412D39F4F3C" import="0">XML/Unit/AgogePromotion.xml</File>
+    <File md5="78DBB3B597247DD7EF30E66807C5555C" import="1">XML/Unit/SpartaHopliteArt.xml</File>
+    <File md5="7E708FB4427BD353F39E33F7B64CBD72" import="0">XML/Unit/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/SpartaAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building/MilitarySchool.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building/Traitbuilding.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Leonidas_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/SpartaHopliteArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/Units.xml</UpdateDatabase>
+      <UpdateDatabase>ByeAlex/KillAlex.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/AgogePromotion.xml</UpdateDatabase>
+      <UpdateDatabase>SpartaMusic/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/SpartaSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Assets/LUA/SpartaTrait.lua">
+      <Name>trait1</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

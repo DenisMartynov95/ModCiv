@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5b752b5f-cf79-4015-861e-3c08370ba3f5" version="600">
+  <Properties>
+    <Name>+rResource Buildings+</Name>
+    <Teaser>[COLOR_GREEN]Adds 15 Resource and Terrrain related Buildings[ENDCOLOR]</Teaser>
+    <Description>[h1]Adds 11 [b]Resource Buildings[/b]. Requires [url=steamcommunity.com/sharedfiles/filedetails/?id=3369727466]Resource Compendium[/url].[/h1]
+[quote][b]Fishpond*[/b]: + 1 Food from [b]Fish[/b] and [b][img=https://imgur.com/HKRamPY.jpg]Lake Fish[/img][/b].  [b]Smelter[/b]: +1 Production from [b][img=https://imgur.com/tzILTUJ.jpg]Tin[/img][/b].
+[b]Chocolatier[/b]: +1 Food and Gold from [b]Cocoa[/b], [b]Sugar[/b] and [b]Cinnamon[/b].
+[b]Jeweler[/b]: +1 Culture and Gold from [b]Gems[/b], [b]Pearls[/b], [b][img=https://imgur.com/pPp0Ec2.jpg]Amber[/img][/b] and [b][img=https://imgur.com/eFs1Dlw.jpg]Coral[/img][/b].
+[b]Perfumery[/b]: +1 Culture and Gold from [img=https://imgur.com/lo1PJ3Z.jpg][b]Lavender[/b][/img] and [b][img=https://imgur.com/1M2tdhi.jpg]Perfume[/img][/b].
+[b]Supermarket[/b]: +1 Food and Gold from [b]Citrus[/b], [b]Salt[/b], [b]Truffles[/b] and [b][img=https://imgur.com/KOjecC8.jpg]Olives[/img][/b].
+[b]Teahouse[/b]: +1 Culture and Gold from [img=https://imgur.com/25sfK2n.jpg][b]Tea[/b][/img], [b][img=https://imgur.com/K4h5tUj.jpg]Coffee[/img][/b] and [b][img=https://imgur.com/dFUXx4q.jpg]Tobacco[/img][/b].
+[b]Tannery[/b]: +1 Production from all [b]Camps[/b], +2 Gold from [b]Furs[/b] and [b][img=https://imgur.com/A1kzCMY.jpg]Seals[/img][/b].
+[b]Herbalist[/b]: +1 Production from all [b]Plantations[/b], and +1 Science from [b][img=https://imgur.com/aHkpoaZ.jpg]Poppy[/img][/b] and [b][img=https://imgur.com/Pb8qxsu.jpg]Cactus[/img][/b].
+[b]Textile Mill[/b]: +1 Production and Gold from [b]Sheep[/b], [b]Silk[/b], [b]Cotton[/b] and [b]Dye[/b].
+[b]Agribusiness[/b]: +1 Production and Gold from [b]Pastures[/b], [b]Wheat[/b], [b][img=https://imgur.com/AEUHXFu.jpg]Rice[/img][/b] and [b][img=https://imgur.com/xa2Ipph.jpg]Maize[/img][/b].
+[b]StoneWorks[/b]: +1 Production from [img=https://imgur.com/ZS8kmym.jpg]Jade[/img] and [img=https://imgur.com/zMBJON1.jpg]Lapis Lazuli[/img]. No Plains restriction removed.
+[b]Workshop/Longhouse[/b]: +1 Production from [img=https://imgur.com/zoz4pHY.jpg]Timber[/img]. [b]Factory[/b]: +2 Production from [img=https://imgur.com/PTLo2aL.jpg]Rubber[/img]
+[/quote][h1]*Compatible with [url=steamcommunity.com/sharedfiles/filedetails/?id=3033310149]Aquatic Resources[/url] and [url=steamcommunity.com/sharedfiles/filedetails/?id=3377566114]Fisherman[/url].[/h1]
+[quote][h3]LANGUAGE SUPPORT[/h3]
+Fully localized in: [b]English[/b], [b]French[/b], [b]German[/b], [b]Spanish[/b], [b]Korean[/b], and [b]Russian[/b].
+[/quote]
+[img=https://imgur.com/rwYP22S.gif[/img]
+
+[quote][h3]CREDITS AND THANKS[/h3]
+Concept, coding, research, and overall design by [b]Gaia[/b]. Artwork by [b]Manitorio[/b].  
+A huge thank you to everyone who contributed--through translations, feedback, suggestions, or bug reports--your support has been invaluable!
+[/quote]
+
+[quote][h3]DISCLAIMER[/h3]
+Sid Meier's Civilization V, Civilization, Civ, Firaxis Games, 2K Games, and Take-Two Interactive Software are trademarks of Take-Two Interactive Software, Inc. This mod is not affiliated with, endorsed by, or sponsored by Take-Two, Firaxis, or any of their subsidiaries.
+
+This is a fan-made project. It is provided "as is" with no warranties, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Use at your own risk.
+
+Redistribution, re-hosting, or inclusion of this mod or its components in other works is prohibited without written permission from the authors. All rights to third-party content remain with their respective owners.
+[/quote]</Description>
+    <Authors>_GAIA_</Authors>
+    <SpecialThanks>to all the lovely people</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="c848d473-bfe0-4bc9-b699-2af3a820f7cd" minversion="0" maxversion="999" title="+Resource Compendium+" />
+  </Dependencies>
+  <References>
+    <Mod id="4eab77f8-33f6-45de-a4b4-20ee8f895bf0" minversion="0" maxversion="999" title="+Balance Tweaks+" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="80602F225024C24F4DA915E4EEB0E9CA" import="1">ResourceBuildings/ART/GAIA_ResBuildings_045.dds</File>
+    <File md5="DD4D508F2615497921BFAF3414DADB4E" import="1">ResourceBuildings/ART/GAIA_ResBuildings_064.dds</File>
+    <File md5="DF1EF9DBCA8D5901B8CE28C4235B4C33" import="1">ResourceBuildings/ART/GAIA_ResBuildings_128.dds</File>
+    <File md5="008941EA8A14C2777802757CC7C4694A" import="1">ResourceBuildings/ART/GAIA_ResBuildings_256.dds</File>
+    <File md5="00F12A106D77E15F67F582A822BB155C" import="1">ResourceBuildings/ART/GAIA_SeaweedMarket_045.dds</File>
+    <File md5="0685ECAEBD130B046FAB591CF6F4342E" import="1">ResourceBuildings/ART/GAIA_SeaweedMarket_064.dds</File>
+    <File md5="4B52C99BEFE907EB35737CD11EA8663C" import="1">ResourceBuildings/ART/GAIA_SeaweedMarket_128.dds</File>
+    <File md5="11F57D10BFFC0A1C611DE4CE213CA8A6" import="1">ResourceBuildings/ART/GAIA_SeaweedMarket_256.dds</File>
+    <File md5="883AB5D1AF96F7AAD0B8A424F3785A57" import="0">ResourceBuildings/DB/ResBldgs_New.sql</File>
+    <File md5="97FD32063348DB70119A4BE7C31A6C89" import="0">ResourceBuildings/DB/ResBldgs_Update.sql</File>
+    <File md5="615DB8E3F5AE0AE735068EE718A743F6" import="0">ResourceBuildings/TEXT/ResBldgs_ES_ES.xml</File>
+    <File md5="682C1E141ED450643F97671DD0701314" import="0">ResourceBuildings/TEXT/ResBldgs_FR_FR.xml</File>
+    <File md5="957D1964AFF7CFE3343D6AEF4DF7466A" import="0">ResourceBuildings/TEXT/ResBldgs_KO_KR.xml</File>
+    <File md5="CB9A6DE72F15D9F634E5FB94D917670B" import="0">ResourceBuildings/TEXT/ResBldgs_RU_RU.xml</File>
+    <File md5="5EBEE6FF7ED2FA2EF65A9C2DB2454985" import="0">ResourceBuildings/TEXT/ResBldgs_DE_DE.xml</File>
+    <File md5="093F47E2BB68D79EE5D0741956BE262E" import="0">ResourceBuildings/TEXT/ResBldgs_en_US.xml</File>
+    <File md5="9F09C9C4D4082BA2D30319BE456A25E8" import="0">ResourceBuildings_ModInfo.txt</File>
+    <File md5="90D5FBFAC2A70F23B41F552E08D2E2D9" import="0">ResourceBuildings_Req.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ResourceBuildings/DB/ResBldgs_New.sql</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings/DB/ResBldgs_Update.sql</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings/TEXT/ResBldgs_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings/TEXT/ResBldgs_DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings/TEXT/ResBldgs_ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings/TEXT/ResBldgs_FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings/TEXT/ResBldgs_KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings/TEXT/ResBldgs_RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>ResourceBuildings_Req.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

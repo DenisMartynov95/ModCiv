@@ -1,0 +1,130 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_ATTACKED_HOSTILE</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING_1">
+			<Text>Вы находитесь в империи, где большая часть населения - рабы, где от слабых детей отказываются, и только самые сильные выдерживают военную подготовку. Кто-то назовёт это безумием. Но это Спарта!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING_2">
+			<Text>Вы стоите перед Леонидом, царём Спарты, наследником Геркулеса. Мы станем союзниками в борьбе с общим врагом, или же вы почувствуете гнев Зевса.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_DEFEATED_1">
+			<Text>Вы одолели спартанцев. Вы и вправду сильны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_DEFEATED_2">
+			<Text>Мир узнает, что мы, храбрые и гордые спартанцы, до последней капли крови сражались с тираном.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_DEFEATED_3">
+			<Text>Идите и скажите моим уцелевшим воинам, что их клятвы были ложью.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_POLITE_HELLO_1">
+			<Text>Приветствую тебя, друг Спарты!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_POLITE_HELLO_2">
+			<Text>Добро пожаловать в Спарту!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_POLITE_HELLO_3">
+			<Text>Да?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_NEUTRAL_HELLO_1">
+			<Text>Вы стоите перед царём Спарты. Чем я могу помочь?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_NEUTRAL_HELLO_2">
+			<Text>Да?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_NEUTRAL_HELLO_3">
+			<Text>Что вам нужно?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_HOSTILE_HELLO_1">
+			<Text>Вы посмели отрывать меня от важных дел?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_HOSTILE_HELLO_2">
+			<Text>Опять вы. Что вам надо?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_HOSTILE_HELLO_3">
+			<Text>Добро пожаловать в Спарту. Вы уже видели нашу яму смерти?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>Будьте поосторожнее со своими поступками. Или один из них может стать для вас последним.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_EXPANSION_SERIOUS_WARNING">
+			<Text>Вы захватываете земли, которые спартанцы считают своими. Прекратите или вы поплатитесь за это.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_REQUEST">
+			<Text>Нам нужна ваша помощь.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_LUXURY_TRADE">
+			<Text>Как по мне, это хорошая сделка.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_OPEN_BORDERS_EXCHANGE">
+			<Text>Давайте откроем наши границы друг другу, и пусть наши империи процветают.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_ATTACKED_BETRAYED">
+			<Text>Я знал, что вам нельзя доверять. Теперь вы будете уничтожены.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_ATTACKED_EXCITED">
+			<Text>Скоро вы узнаете, какого цвета ваша кровь.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEONIDAS_ATTACKED_HOSTILE">
+			<Text>Идиот. Я сокрушу вас без пощады!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

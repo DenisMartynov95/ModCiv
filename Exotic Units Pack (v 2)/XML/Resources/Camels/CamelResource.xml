@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/20/2012 9:08:05 PM -->
+<GameData>
+	
+	<Resources>
+		<Row>
+			<Type>RESOURCE_SMAN_EU_CAMELS</Type>
+			<TechReveal>TECH_ANIMAL_HUSBANDRY</TechReveal>
+			<TechCityTrade>TECH_ANIMAL_HUSBANDRY</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_SMAN_EU_CAMELS</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_SMAN_EU_CAMELS_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_SMAN_EU_CAMELS_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_HORSE</ArtDefineTag>
+			<ArtDefineTagHeavy>ART_DEF_RESOURCE_SUPERHORSE</ArtDefineTagHeavy>
+			<AltArtDefineTag></AltArtDefineTag>
+			<AltArtDefineTagHeavy></AltArtDefineTagHeavy>
+			<AIStopTradingEra>ERA_MODERN</AIStopTradingEra>
+			<AIObjective>1</AIObjective>
+			<PlacementOrder>2</PlacementOrder>
+			<ConstAppearance>100</ConstAppearance>
+
+			<AITradeModifier>150</AITradeModifier>
+			
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>0</MaxLatitude>
+			<RandApp1>10</RandApp1>
+			<RandApp2>10</RandApp2>
+			<Player>75</Player>
+			<Hills>0</Hills>
+			<Flatlands>1</Flatlands>
+			<NoRiverSide>1</NoRiverSide>
+			<ResourceUsage>1</ResourceUsage>			
+			<IconString>[ICON_RES_SMAN_EU_CAMELS]</IconString>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>SMAN_EXOTIC_UNIT_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>		
+	</Resource_YieldChanges>
+
+	<!--	This section should be uncommented when the changes are made to add Camels to the map
+	<Resource_TerrainBooleans>
+		<Row>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>		
+	</Resource_TerrainBooleans>
+	
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<ResourceMakesValid>1</ResourceMakesValid>
+			<ResourceTrade>1</ResourceTrade>
+			<DiscoveryRand>0</DiscoveryRand>
+			<QuantityRequirement>0</QuantityRequirement>			
+		</Row>
+	</Improvement_ResourceTypes>
+	-->
+
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_SMAN_EU_CAMELS</IconFontTexture>
+			<IconFontTextureFile>CamelResource-fonticons</IconFontTextureFile>
+
+			<!--<IconFontTextureFile>TransparentAluminum-fonticons</IconFontTextureFile>-->
+			
+		</Row>
+	</IconFontTextures>
+
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_SMAN_EU_CAMELS</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_SMAN_EU_CAMELS</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>	
+	
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+	</Resource_Flavors>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_SMAN_EU_CAMELS">
+			<Text>Camels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SMAN_EU_CAMELS_HELP">
+			<Text>Used for various early units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SMAN_EU_CAMELS_TEXT">
+			<Text>A camel is an even toed ungulate in the genus Camelus, bearing distinctive fatty deposits known as humps on its back. The three surviving species of camel are the dromedary, or one-humped camel, which inhabits the Middle East and the Horn of Africa; the Bactrian, or two-humped camel, which inhabits Central Asia; and the critically endangered wild Bactrian camel that has limited populations in remote areas of northwest China and Mongolia. Bactrian camels take their name from the historical Bactria region of Central Asia. Additionally one other species of camel in the separate genus Camelops, C. hesternus lived in western North America and became extinct when humans entered the continent at the end of the Pleistocene. Both the dromedary and the Bactrian camels have been domesticated; they provide milk, meat, hair for textiles or goods such as felted pouches, and are working animals with tasks ranging from human transport to bearing loads.</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

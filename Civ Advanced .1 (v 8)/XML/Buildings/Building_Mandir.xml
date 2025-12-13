@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/18/2014 7:33:16 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MANDIR</Type>
+			<BuildingClass>BUILDINGCLASS_RELALT</BuildingClass>
+			<Cost>360</Cost>
+			<GoldMaintenance>5</GoldMaintenance>
+			<PrereqTech>TECH_ENGINEERING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MANDIR</Description>
+			<Civilopedia>TXT_KEY_BUILDINGS_MANDIR_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MANDIR_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_MANDIR_HELP</Help>
+			<ConquestProb>80</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Happiness>1</Happiness>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>9</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_INDIA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SIAM</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_INDONESIA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_RELALT</BuildingClassType>
+			<BuildingType>BUILDING_MANDIR</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR">
+			<Text>Mandir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR_HELP">
+			<Text>Each source of [ICON_RES_COW] Cattle worked by this City produces +1 [ICON_PEACE] Faith and [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR_STRATEGY">
+			<Text>The Mandir is a Classical era building which increases a City's [ICON_PEACE] Faith, [ICON_CULTURE] Culture and [ICON_HAPPINESS_1] Happiness. The effect is increased if there is a source of [ICON_RES_COW] Cattle worked by the City. It may only be built by Hindu Civs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDINGS_MANDIR_PEDIA">
+			<Text>A Mandir is a temple for followers of Hinduism. A characteristic of most temples is the presence of icons of the Hindu deity to whom the temple is dedicated. They are usually dedicated to one primary deity, the presiding deity, and other deities associated with the main deity. However, some temples are dedicated to several deities, and others are dedicated to murtis in an iconic form. Many temples are in key geographical points, such as a hill top, near waterfalls, caves and rivers, as these are, according to Hinduism, worship places and make it easier to contemplate God.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

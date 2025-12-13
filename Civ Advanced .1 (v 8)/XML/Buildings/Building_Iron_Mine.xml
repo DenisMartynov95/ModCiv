@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2014 3:21:45 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_IRON_MINE</Type>
+			<DefaultBuilding>BUILDING_IRON_MINE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_IRON_MINE</Description>
+			<MaxPlayerInstances>5</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_IRON_MINE</Type>
+			<BuildingClass>BUILDINGCLASS_IRON_MINE</BuildingClass>
+			<Cost>500</Cost>
+			<GoldMaintenance>4</GoldMaintenance>
+			<PrereqTech>TECH_DYNAMITE</PrereqTech>
+			<Description>TXT_KEY_BUILDING_IRON_MINE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_IRON_MINE_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_IRON_MINE_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_IRON_MINE_HELP</Help>
+			<NearbyMountainRequired>true</NearbyMountainRequired>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>44</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_IRON_MINE</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_IRON_MINE</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_IRON_MINE</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_IRON_MINE</BuildingType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_IRON_MINE">
+			<Text>Iron Mine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IRON_MINE_HELP">
+			<Text>+2 [ICON_RES_IRON] Iron Resource. No more than 5 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IRON_MINE_STRATEGY">
+			<Text>The Iron Mine grants 2 units of [ICON_RES_IRON] Iron. The City must be built within 2 tiles of a mountain. No more than 5 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IRON_MINE_PEDIA">
+			<Text>Iron is the world's most commonly used metal - steel, of which iron ore is the key ingredient, iron is used primarily in structural engineering applications. Iron-rich rocks are common worldwide, but ore-grade commercial mining operations are a few countries. Mining iron ore is a high volume low margin business, as the value of iron is significantly lower than base metals.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

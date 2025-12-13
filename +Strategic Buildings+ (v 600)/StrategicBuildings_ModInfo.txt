@@ -1,0 +1,45 @@
+[h1]Adds 3 Strategic Buildings and a Strategic Wonder. [b]Standalone![/b][/h1]
+[h1]All of these features are an integral part of [url=steamcommunity.com/sharedfiles/filedetails/?id=2280231911]Core Mod[/url].[/h1]
+[quote]
+[h2][b]Refined Coal Facility[/b][/h2]
+Provides [b]1 Coal[/b], as well as [b]+1 Production[/b] and [b]+1 Gold[/b] from worked Coal resources.
+Limited to [b]3 Cities per empire[/b]. [b]Cannot be captured[/b].
+
+[h2][b]Oil Refinery[/b][/h2]
+Provides [b]1 Oil[/b] and [b]+2 Gold[/b] from worked Oil resources.
+[b]Limited to 4 Cities per empire[/b]. [b]Cannot be captured[/b].
+
+[h2][b]Nuclear Reprocessing Plant[/b][/h2]
+Provides 5 [b]Uranium[/b] and [b]+3 Production[/b] from worked Uranium resources.
+Requires a [b]Nuclear Plant[/b] in the city and is limited to [b]2 Buildings per empire[/b]. [b]Cannot be captured[/b].
+
+[h2][b]Shandan Horse Farm - World Wonder[/b][/h2]
+Provides [b]2 Horses[/b] and [b]+1 Production[/b] from worked Horse resources.
+Requires the [b]Stables[/b] building. [b]Cannot be captured[/b].
+
+[h2][b]Ironworks[/b]*[/h2]
+Now also provides [b]3 Iron[/b].
+
+[h2][b]Recycling Center[/b]*[/h2]
+Now also grants [b]+2 Production[/b] in the City and [b]+2 Science[/b] from worked Aluminum resources.
+[b]Cannot be captured.[/b]
+
+[hr][/hr]*[i]Changes to existing Buildings can be disabled by deleting the [b]StrategicBldgs_Update.sql[/b] file.[/i]
+[/quote]
+[quote][h3]LANGUAGE SUPPORT[/h3]
+Fully localized in: [b]English[/b], [b]French[/b], [b]German[/b], [b]Spanish[/b], [b]Korean[/b], and [b]Russian[/b].
+[/quote]
+[img=https://imgur.com/rwYP22S.gif[/img]
+
+[quote][h3]CREDITS AND THANKS[/h3]
+Concept, coding, research, and overall design by [b]Gaia[/b]. Artwork by [b]Manitorio[/b].  
+A huge thank you to everyone who contributed--through translations, feedback, suggestions, or bug reports--your support has been invaluable!
+[/quote]
+
+[quote][h3]DISCLAIMER[/h3]
+Sid Meier's Civilization V, Civilization, Civ, Firaxis Games, 2K Games, and Take-Two Interactive Software are trademarks of Take-Two Interactive Software, Inc. This mod is not affiliated with, endorsed by, or sponsored by Take-Two, Firaxis, or any of their subsidiaries.
+
+This is a fan-made project. It is provided "as is" with no warranties, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Use at your own risk.
+
+Redistribution, re-hosting, or inclusion of this mod or its components in other works is prohibited without written permission from the authors. All rights to third-party content remain with their respective owners.
+[/quote]

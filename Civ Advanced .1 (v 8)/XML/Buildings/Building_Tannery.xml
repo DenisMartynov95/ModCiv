@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/8/2014 3:37:27 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_TANNERY</Type>
+			<DefaultBuilding>BUILDING_TANNERY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TANNERY</Description>
+			<MaxPlayerInstances>3</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TANNERY</Type>
+			<BuildingClass>BUILDINGCLASS_TANNERY</BuildingClass>
+			<Cost>200</Cost>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_TANNERY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_TANNERY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TANNERY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_TANNERY_HELP</Help>
+			<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>37</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<ResourceType>RESOURCE_LEATHER</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TANNERY</BuildingType>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_TANNERY">
+			<Text>Tannery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANNERY_HELP">
+			<Text>+ 1 [ICON_RES_LEATHER] Leather luxury. Each source of [ICON_RES_COW] Cattle and [ICON_RES_DEER] Deer worked by this City produces +1 [ICON_GOLD] Gold. Improved trade route [ICON_GOLD] Gold income to and from this City. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANNERY_STRATEGY">
+			<Text>The Tannery is a Ancient era building which grants 1 source of [ICON_RES_LEATHER] Leather and increases a City's [ICON_GOLD] Gold income from [ICON_RES_COW] Cattle, [ICON_RES_DEER] Deer and trade. It requires an improved source of [ICON_RES_COW] Cattle or [ICON_RES_DEER] Deer near your City to be built. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANNERY_PEDIA">
+			<Text> A tannery is the term for a place where the skins are processed. Tanning is the process of treating skins of animals to produce leather, which is more durable and less susceptible to decomposition. Tanning leather involves a process which permanently alters the protein structure of skin. Tanning was being carried out by the South Asian inhabitants of Mehrgarh between 7000–3300 BC. Around 2500 BC, the Sumerians began using leather, affixed by copper studs, on chariot wheels.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

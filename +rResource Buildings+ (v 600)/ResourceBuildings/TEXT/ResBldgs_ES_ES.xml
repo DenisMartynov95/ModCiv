@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_ES_ES>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--STONEWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_STONE_WORKS_HELP">
+			<Text>Cada fuente de [ICON_RES_GAIA_JADE] Jade, [ICON_RES_GAIA_LAPIS] Lapislázuli, [ICON_RES_MARBLE] Mármol y [ICON_RES_STONE] Piedra trabajada por esta Ciudad produce +1 [ICON_PRODUCTION] Producción.[NEWLINE][NEWLINE]La ciudad debe tener al menos uno de estos recursos mejorado con una cantera.</Text>
+		</Replace>
+<!--WORKSHOP-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP">
+			<Text>Cada fuente de [ICON_RES_GAIA_TIMBER] Madera trabajada por esta Ciudad produce +1 [ICON_PRODUCTION] Producción.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Producción por cada casilla de bosque trabajada (+2 [ICON_PRODUCTION] si la casilla tiene [ICON_RES_GAIA_TIMBER] Madera).</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP2">
+			<Text>Cada recurso de [ICON_RES_GAIA_TIMBER] Madera trabajado en esta ciudad otorga +1 [ICON_PRODUCTION] Producción. Las Rutas Comerciales internas desde esta ciudad generan +2 [ICON_PRODUCTION] Producción.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP2">
+			<Text>+1 [ICON_PRODUCTION] Producción por cada casilla de Bosque trabajada (+2 [ICON_PRODUCTION] si contiene [ICON_RES_GAIA_TIMBER] Madera). Las Rutas Comerciales internas desde esta ciudad generan +2 [ICON_PRODUCTION] Producción.</Text>
+		</Replace>
+<!--FACTORY-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_FACTORY_HELP">
+			<Text>+2 [ICON_PRODUCTION] Producción de recursos de [ICON_RES_GAIA_RUBBER] Caucho.[NEWLINE][NEWLINE]Requiere 1 [ICON_RES_COAL] Carbón.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Resource Buildings ==================================-->
+<!--===============================================================-->
+<!--AGRIBUSINESS-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS">
+			<Text>Agroindustria</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_HELP">
+			<Text>+1 [ICON_PRODUCTION] Producción y [ICON_GOLD] Oro por Pastos, [ICON_RES_GAIA_MAIZE] Maíz, [ICON_RES_GAIA_RICE] Arroz y [ICON_RES_WHEAT] Trigo trabajados por la Ciudad.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_PEDIA">
+			<Text>La agroindustria es el negocio de la producción agrícola. El término fue acuñado en 1957 por Goldberg y Davis. Incluye agroquímicos, cría, producción de cultivos (agricultura y agricultura por contrato), distribución, maquinaria agrícola, procesamiento y suministro de semillas, así como marketing y ventas al por menor. Todos los agentes de la cadena de valor de alimentos y fibras y aquellas instituciones que la influyen forman parte del sistema agroindustrial. Dentro de la industria agrícola, "agroindustria" se utiliza simplemente como un acrónimo de agricultura y negocios, refiriéndose al rango de actividades y disciplinas abarcadas por la producción moderna de alimentos. Existen títulos académicos y departamentos de agroindustria, asociaciones comerciales de agroindustria, publicaciones agroindustriales, y más, en todo el mundo. Ejemplos de agroindustrias incluyen productores de semillas y agroquímicos como Dow AgroSciences, DuPont, Monsanto y Syngenta; AB Agri (parte de Associated British Foods) alimentos para animales, biocombustibles y microingredientes, ADM, transporte y procesamiento de granos; John Deere, productor de maquinaria agrícola; Ocean Spray, cooperativa de agricultores; y Purina Farms, una granja de agroturismo.</Text>
+		</Replace>
+<!--CHOCOLATIER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER">
+			<Text>Chocolatero</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_PEDIA">
+			<Text>El chocolate es una preparación alimenticia típicamente dulce, generalmente de color marrón, hecha a partir de semillas de cacao tostadas y molidas, a menudo con saborizantes como la vainilla. Se presenta en forma de líquido, pasta o bloque o se utiliza como ingrediente aromatizante en otros alimentos dulces. El cacao ha sido cultivado por muchas culturas durante al menos tres milenios en México y América Central. Un chocolatero es una persona que elabora confitería a partir de chocolate. Los chocolateros se distinguen de los fabricantes de chocolate, que crean chocolate a partir de granos de cacao y otros ingredientes.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_HELP">
+			<Text>Cada fuente de [ICON_RES_COCOA] Cacao, [ICON_RES_SUGAR] Azúcar y [ICON_RES_SPICES] Canela trabajada por esta Ciudad produce +1 [ICON_FOOD] Comida y +1 [ICON_GOLD] Oro adicionales.[NEWLINE][NEWLINE]La ciudad debe tener al menos uno de estos recursos mejorado.</Text>
+		</Replace>
+<!--FISHPOND-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND">
+			<Text>Estanque de peces</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_PEDIA">
+			<Text>Un estanque de peces es un estanque controlado, lago artificial o embalse que se llena de peces y se utiliza en la acuicultura para la cría de peces, o se utiliza para la pesca recreativa o con fines ornamentales. En la era medieval europea, era típico que monasterios y castillos (comunidades pequeñas y en parte autosuficientes) tuvieran un estanque de peces. [NEWLINE][NEWLINE]El pueblo hawaiano practicaba la acuicultura mediante el desarrollo de estanques de peces (hawaiano: loko iʻa), la forma más avanzada de cría de peces entre los pueblos originarios del Pacífico. Estos estanques eran típicamente áreas poco profundas de un arrecife rodeadas por un muro bajo de roca de lava (loko kuapa) construido desde la costa. Varias especies de peces comestibles (como el mújol) prosperan en tales estanques, y los hawaianos desarrollaron métodos para facilitar su captura.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_HELP">
+			<Text>Cada fuente de [ICON_RES_FISH] Pescado y [ICON_RES_GAIA_LAKEFISH] Peces de lago trabajada por esta Ciudad produce +1 [ICON_FOOD] Comida adicional.[NEWLINE][NEWLINE]La ciudad debe tener al menos uno de estos recursos mejorado.</Text>
+		</Replace>
+<!--HERBALIST-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST">
+			<Text>Herbolario</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Producción de Plantaciones.
+				[NEWLINE][NEWLINE]Cada fuente de [ICON_RES_GAIA_CACTUS] Cactus y [ICON_RES_GAIA_POPPIES] Amapola trabajada por esta Ciudad produce +1 [ICON_RESEARCH] Ciencia adicional.
+				[NEWLINE][NEWLINE]Requiere una [COLOR_CYAN]Plantación[ENDCOLOR] que pueda ser trabajada por la Ciudad.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_PEDIA">
+			<Text>La herbolaria es el uso de plantas con fines medicinales y el estudio de dicho uso. Las plantas han sido la base para tratamientos médicos durante gran parte de la historia humana, y esta medicina tradicional todavía se practica ampliamente hoy en día. La medicina moderna reconoce la herbolaria como una forma de medicina alternativa, ya que la práctica de la herbolaria no se basa estrictamente en evidencia recopilada utilizando el método científico. Sin embargo, la medicina moderna utiliza muchos compuestos derivados de plantas como base para medicamentos farmacéuticos probados en evidencia, y la fitoterapia trabaja para aplicar estándares modernos de prueba de efectividad a hierbas y medicamentos derivados de fuentes naturales.</Text>
+		</Replace>
+<!--JEWELER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER">
+			<Text>Joyería</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_PEDIA">
+			<Text>La joyería consiste en pequeños objetos decorativos usados para la ornamentación personal, como broches, anillos, collares, aretes y pulseras. La joyería puede estar adherida al cuerpo o a la ropa, y el término se restringe a adornos duraderos, excluyendo flores, por ejemplo. Durante siglos, los metales, a menudo combinados con piedras preciosas, han sido los materiales normales para la joyería, pero también se pueden utilizar otros materiales como conchas y otros materiales vegetales. Es uno de los tipos más antiguos de artefactos arqueológicos, con cuentas de 100,000 años de antigüedad hechas de conchas de Nassarius que se cree que son la joyería más antigua conocida. Las formas básicas de joyería varían entre culturas, pero a menudo son extremadamente longevas; en las culturas europeas, las formas más comunes de joyería mencionadas anteriormente han persistido desde tiempos antiguos, mientras que otras formas como adornos para la nariz o el tobillo, importantes en otras culturas, son mucho menos comunes. Históricamente, la influencia más extendida en términos de diseño y estilo de joyería ha venido de Asia.[NEWLINE][NEWLINE]La joyería puede estar hecha de una amplia gama de materiales. Las piedras preciosas y materiales similares como el ámbar y el coral, los metales preciosos, las cuentas y las conchas se han utilizado ampliamente, y el esmalte ha sido a menudo importante. En la mayoría de las culturas, la joyería se entiende como un símbolo de estatus, por sus propiedades materiales, sus patrones o por símbolos significativos. La joyería se ha fabricado para adornar casi todas las partes del cuerpo, desde horquillas hasta anillos para los pies. Los patrones de uso de la joyería entre los sexos, y por niños y personas mayores, pueden variar considerablemente entre culturas, pero las mujeres adultas han sido las usuarias más consistentes de joyería; en la cultura europea moderna, la cantidad usada por hombres adultos es relativamente baja en comparación con otras culturas y otros períodos en la cultura europea.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_HELP">
+			<Text>
+				+5% [ICON_GOLD] Oro en esta Ciudad.
+				[NEWLINE][NEWLINE]Cada fuente de [ICON_RES_GAIA_CORAL] Coral, [ICON_RES_GEMS] Gemas, [ICON_RES_PEARLS] Perlas y [ICON_RES_GAIA_AMBER] Ámbar trabajada por esta Ciudad produce +1 [ICON_GOLD] Oro y +1 [ICON_CULTURE] Cultura.
+				[NEWLINE][NEWLINE]La ciudad debe tener al menos uno de estos recursos mejorado.
+			</Text>
+		</Replace>
+<!--PERFUMERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY">
+			<Text>Perfumería</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_HELP">
+			<Text>
+				+5% [ICON_CULTURE] Cultura en esta ciudad.
+				[NEWLINE][NEWLINE]Cada fuente de [ICON_RES_GAIA_ROSES] Rosas, [ICON_RES_GAIA_LAVENDER] Lavanda y [ICON_RES_GAIA_BERRIES] Bayas trabajada por esta ciudad proporciona +1 [ICON_CULTURE] Cultura y +1 [ICON_GOLD] Oro adicionales.
+				[NEWLINE][NEWLINE]La ciudad debe mejorar al menos uno de estos recursos.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_PEDIA">
+			<Text>El perfume es una mezcla de aceites esenciales fragantes o compuestos aromáticos, fijadores y disolventes utilizados para dar "un aroma agradable" al cuerpo humano, animales, alimentos, objetos y espacios habitables. Se sabe que los perfumes existieron en algunas de las primeras civilizaciones humanas, ya sea a través de textos antiguos o de excavaciones arqueológicas. La perfumería moderna comenzó a finales del siglo XIX con la síntesis comercial de compuestos aromáticos como la vainillina o el cumarín, lo que permitió la composición de perfumes con olores previamente inalcanzables exclusivamente a partir de aromáticos naturales.</Text>
+		</Replace>
+<!--SEAWEED MARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET">
+			<Text>Mercado de Algas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP">
+			<Text>
+				Cada fuente de [ICON_RES_GAIA_KELP] Algas marinas trabajada por esta Ciudad proporciona +1 [ICON_FOOD] Comida y +1 [ICON_GOLD] Oro adicionales.
+				[NEWLINE][NEWLINE]La ciudad debe tener un recurso de [ICON_RES_GAIA_KELP] Algas marinas mejorado cerca.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP2">
+			<Text>
+				Cada fuente de [ICON_RES_GAIA_KELP] Algas marinas trabajada por esta Ciudad proporciona +1 [ICON_FOOD] Comida y +1 [ICON_GOLD] Oro adicionales. Las Rutas Comerciales [ICON_INTERNATIONAL_TRADE] internas desde esta Ciudad generan +2 [ICON_FOOD] Comida.
+				[NEWLINE][NEWLINE]La ciudad debe tener un recurso de [ICON_RES_GAIA_KELP] Algas marinas mejorado cerca.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_PEDIA">
+			<Text>
+				Durante siglos, las comunidades costeras de Asia, Europa y las islas del Pacífico recolectaron algas no solo como alimento, sino también con fines medicinales, agrícolas e industriales. En lugares como Japón, Corea e Irlanda, las algas se vendían en mercados al aire libre y se convirtieron en un pilar de la economía local.
+				[NEWLINE][NEWLINE]Con el creciente interés mundial en los recursos marinos sostenibles, las algas adquirieron una nueva relevancia como cultivo con potencial ecológico y económico. Desde campos de algas tradicionales hasta modernas instalaciones acuícolas, el cultivo y comercio de algas comestibles han transformado los mercados locales en vibrantes centros de comercio e innovación costera.
+			</Text>
+		</Replace>
+<!--SMELTER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER">
+			<Text>Fundición</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_HELP">
+			<Text>Cada fuente de [ICON_RES_GAIA_TIN] Estaño trabajada por esta Ciudad produce +1 [ICON_PRODUCTION] Producción.[NEWLINE][NEWLINE]Permite que la [ICON_PRODUCTION] Producción se traslade desde esta ciudad a través de rutas comerciales dentro de tu civilización.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_PEDIA">
+			<Text>Las fundiciones permiten a las personas fundir mineral extraído del suelo en metal. La fundición es una forma de metalurgia extractiva; su uso principal es producir un metal base a partir de su mineral. Esto incluye la producción de plata, hierro, cobre y otros metales básicos a partir de sus minerales. La fundición utiliza calor y un agente reductor químico para descomponer el mineral, expulsando otros elementos como gases o escoria y dejando solo el metal base. El agente reductor es comúnmente una fuente de carbono como el coque o, en tiempos antiguos, el carbón vegetal. El carbono (o el monóxido de carbono derivado de él) elimina el oxígeno del mineral, dejando solo el metal elemental. El carbono se oxida en dos etapas, produciendo primero monóxido de carbono y luego dióxido de carbono. Como la mayoría de los minerales son impuros, a menudo es necesario usar fundente, como la piedra caliza, para eliminar la ganga rocosa acompañante como escoria.[NEWLINE][NEWLINE]De los siete metales conocidos en la antigüedad, solo el oro ocurría regularmente en forma nativa en el ambiente natural. Los otros: cobre, plomo, plata, estaño, hierro y mercurio, ocurren principalmente como minerales, aunque el cobre se encuentra ocasionalmente en su estado nativo en cantidades comercialmente significativas. Estos minerales son principalmente carbonatos, sulfuros u óxidos del metal, mezclados con otros componentes como sílice y alúmina. Asar los minerales de carbonato y sulfuro en aire los convierte en óxidos. Los óxidos, a su vez, se funden en el metal. El monóxido de carbono era (y es) el agente reductor preferido para la fundición. Se produce fácilmente durante el proceso de calentamiento y, como gas, entra en contacto íntimo con el mineral.[NEWLINE][NEWLINE]En el Viejo Mundo, los humanos aprendieron a fundir metales en tiempos prehistóricos, hace más de 8,000 años. El descubrimiento y uso de los metales "útiles", el cobre y el bronce al principio, luego el hierro unos milenios más tarde, tuvo un enorme impacto en la sociedad humana. El impacto fue tan profundo que los eruditos tradicionalmente dividen la historia antigua en Edad de Piedra, Edad de Bronce y Edad de Hierro.[NEWLINE][NEWLINE]En las Américas, las civilizaciones preincaicas de los Andes centrales en Perú habían dominado la fundición de cobre y plata al menos seis siglos antes de la llegada de los primeros europeos en el siglo XVI.</Text>
+		</Replace>
+<!--SUPERMARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET">
+			<Text>Supermercado</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_HELP">
+			<Text>
+				Cada fuente de [ICON_RES_CITRUS] Cítricos, [ICON_RES_SALT] Sal, [ICON_RES_TRUFFLES] Trufas y [ICON_RES_GAIA_OLIVES] Aceitunas trabajada por esta Ciudad produce +1 [ICON_FOOD] Comida y +1 [ICON_GOLD] Oro.
+				[NEWLINE][NEWLINE]La ciudad debe tener al menos uno de estos recursos mejorado.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_PEDIA">
+			<Text>Desde el siglo XIV, un tendero (o "proveedor") era un comerciante de productos secos comestibles como especias, pimienta, azúcar y (posteriormente) cacao, té y café. Estos artículos se compraban a granel, de ahí el término tendero del francés "grossier", que significa mayorista, derivado del latín medieval "grossarius", de donde también derivamos la palabra "gross" (que significa una cantidad de doce docenas o 144). A medida que un número creciente de alimentos básicos se hizo disponible en latas y otros empaques menos perecederos, el comercio amplió su provincia. Hoy en día, los tenderos se dedican a una amplia gama de productos alimenticios básicos, incluidos perecederos como carnes, productos frescos y productos lácteos. Dichos bienes se conocen como comestibles.</Text>
+		</Replace>
+<!--TANNERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY">
+			<Text>Curtiduría</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Producción de Campamentos.
+				[NEWLINE][NEWLINE]Cada fuente de [ICON_RES_FUR] Pieles y [ICON_RES_GAIA_SEALS] Focas trabajada por esta Ciudad produce +2 [ICON_GOLD] Oro adicionales.
+				[NEWLINE][NEWLINE]Requiere [COLOR_CYAN]Focas[ENDCOLOR] mejoradas o un [COLOR_CYAN]Campamento[ENDCOLOR] que pueda ser trabajado por la Ciudad.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_PEDIA">
+			<Text>El curtido es el proceso de tratar las pieles de animales para producir cuero, que es más duradero y menos susceptible a la descomposición. Tradicionalmente, el curtido utilizaba tanino, un compuesto químico ácido del cual el proceso de curtido toma su nombre (el tanino, a su vez, se nombra a partir de una palabra alemana antigua para robles o abetos, de donde se derivaba el compuesto). La coloración puede ocurrir durante el curtido. Una curtiduría es el término para un lugar donde se procesan las pieles.</Text>
+		</Replace>
+<!--TEAHOUSE-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE">
+			<Text>Casa de té</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_HELP">
+			<Text>
+				Cada fuente de [ICON_RES_GAIA_TEA] Té, [ICON_RES_GAIA_COFFEE] Café y [ICON_RES_GAIA_TOBACCO] Tabaco trabajada por esta Ciudad produce +1 [ICON_CULTURE] Cultura y +1 [ICON_GOLD] Oro adicionales.
+				[NEWLINE][NEWLINE]La ciudad debe tener al menos uno de estos recursos trabajado cerca.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_PEDIA">
+			<Text>Una casa de té o salón de té es un establecimiento que principalmente sirve té y otros refrigerios ligeros. Aunque su función varía ampliamente dependiendo de la cultura, las casas de té a menudo sirven como centros de interacción social. Algunas culturas tienen una variedad de casas o salones centrados en el té que califican bajo el término inglés "tea house" o "tea room".</Text>
+		</Replace>
+<!--TEXTILEMILL-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL">
+			<Text>Fábrica de textiles</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_HELP">
+			<Text>
+				Cada fuente de [ICON_RES_COTTON] Algodón, [ICON_RES_SHEEP] Ovejas, [ICON_RES_SILK] Seda, [ICON_RES_DYE] Tintes y [ICON_RES_GAIA_FLAX] Lino trabajada por esta Ciudad produce +1 [ICON_GOLD] Oro y +1 [ICON_PRODUCTION] Producción adicionales.
+				[NEWLINE][NEWLINE]La ciudad debe tener al menos uno de estos recursos trabajado cerca.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_PEDIA">
+			<Text>Una fábrica de textiles es un edificio o complejo de edificios para la conversión de tipos de fibras (lana, algodón, seda, etc.) en hilo, luego en tela, y finalmente en textiles. Estos se fabrican posteriormente en ropa u otros artefactos.</Text>
+		</Replace>
+	</Language_ES_ES>
+</GameData>

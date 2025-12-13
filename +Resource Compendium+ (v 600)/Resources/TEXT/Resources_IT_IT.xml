@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_IT_IT>
+<!--===============================================================-->
+<!--===== Luxury Resource Changes =================================-->
+<!--===============================================================-->
+<!--Cinnamon (Spices)-->
+		<Replace Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>Cannella</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES">
+			<Text>Cannella</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES_TEXT">
+			<Text>La cannella si ottiene dalla corteccia interna degli alberi di Cinnamomum ed è comunemente utilizzata come spezia aromatica per cibi saporiti. Le spezie sono sostanze di origine vegetale utilizzate per conservare e migliorare il sapore, il colore o la consistenza degli alimenti. Oltre a migliorare il cibo, alcune spezie hanno benefici medicinali, significati religiosi o utilizzi nella conservazione degli alimenti. In genere, le spezie devono essere essiccate e macinate prima di essere applicate agli alimenti; ciò le distingue dalle erbe come la salvia o l'origano, che sono verdi e frondose e possono essere utilizzate fresche o secche.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Luxury Resources ====================================-->
+<!--===============================================================-->
+<!--Amber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER">
+			<Text>Ambra</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER_PEDIA">
+			<Text>L'ambra è la resina fossile degli alberi, apprezzata per il suo colore e la sua bellezza naturale fin dal Neolitico. Valorizzata come gemma dall'antichità ai giorni nostri, l'ambra viene utilizzata per creare una grande varietà di oggetti decorativi. Viene usata come ingrediente nei profumi, come agente curativo nella medicina popolare e come materiale nella creazione di gioielli. Poiché ha origine come resina d'albero morbida e appiccicosa, talvolta l'ambra contiene elementi animali e vegetali.</Text>
+		</Replace>
+<!--Coffee-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE">
+			<Text>Caffè</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE_PEDIA">
+			<Text>Il caffè è una bevanda ottenuta dalla macinatura e infusione dei semi tostati di diverse specie di arbusti sempreverdi appartenenti al genere Coffea. Le prime prove attendibili del consumo di caffè o della conoscenza dell'albero del caffè risalgono alla metà del XV secolo, nei monasteri dell'Arabia. È lì che i semi di caffè venivano per la prima volta tostati e preparati in infusione, in modo simile ai metodi di preparazione odierni. Col tempo, attraverso il commercio, il caffè si diffuse in Italia attraverso i porti veneziani e da lì fu introdotto nel resto dell'Europa.</Text>
+		</Replace>
+<!--Coral-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL">
+			<Text>Corallo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL_PEDIA">
+			<Text>Il corallo è una struttura simile a uno scheletro ramificato costituito da piccoli animali marini noti come polipi. Il corallo rosso, anche noto come corallo prezioso, è una delle gemme più antiche ed è stato raccolto fin dall'antichità per scopi decorativi. Appartiene a una piccola classe di gemme organiche, in realtà non pietre vere e proprie, che include materiali come perle, ambra, avorio e giada. Storicamente il corallo prezioso non era solo una forma altamente apprezzata di ornamento, ma si riteneva fosse dotato anche di misteriose proprietà sacre. Oltre ad essere utilizzato come amuleto, gli venivano attribuite molte virtù medicinali. Oggi leggi e organizzazioni aiutano a proteggere le barriere coralline, poiché le loro popolazioni sono minacciate da sfruttamento intensivo, pesca eccessiva e cambiamenti climatici.</Text>
+		</Replace>
+<!--Jade-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE">
+			<Text>Giada</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE_PEDIA">
+			<Text>La giada è una pietra ornamentale ed è il nome dato a due tipi di rocce metamorfiche, la nefrite e la giadeite. Tra i primi manufatti di giada conosciuti, recuperati da siti preistorici, ci sono semplici ornamenti come perline, bottoni e forme tubolari. Inoltre, la giada è stata utilizzata per le teste di azze, coltelli e altre armi, che possono essere delicatamente modellate. Con l'avvento delle tecnologie di lavorazione dei metalli, la bellezza della giada l'ha resa preziosa per ornamenti e oggetti decorativi. Nella storia cinese, la giada era considerata la "gemma imperiale" e come status il suo valore veniva considerato superiore a quello dell'oro o dell'argento.</Text>
+		</Replace>
+<!--Lapis Lazuli-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS">
+			<Text>Lapislazzuli</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS_PEDIA">
+			<Text>Il lapislazzuli è una pietra semipreziosa dal colore blu profondo, apprezzata sin dall'antichità per la sua tonalità intensa. Viene estratto da più di 6.000 anni in Afghanistan, fonte di lapislazzuli per le civiltà dell'antico Egitto e della Mesopotamia, così come per i successivi Greci e Romani. Oltre che nei giacimenti afghani, il lapislazzuli può essere trovato in altre parti del mondo, come Russia, Cile, Canada, India, Italia e Stati Uniti. Il lapislazzuli reagisce in modo eccellente alla lucidatura e nel tempo ha acquisito grande valore nella produzione di gioielli, sculture, vasi e altri ornamenti, specialmente nell'antico Egitto. È stato inoltre macinato e processato per creare il più ricercato tra i pigmenti, il blu oltremare, che in alcuni periodi arrivò a valere più dell'oro. Durante il Rinascimento, questo pigmento prezioso veniva usato con parsimonia e spesso riservato alla colorazione delle vesti di Maria e di altre importanti figure religiose.</Text>
+		</Replace>
+<!--Olives-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES">
+			<Text>Olive</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES_PEDIA">
+			<Text>Le olive sono i frutti di un piccolo albero della famiglia delle Oleaceae, l'ulivo, nativo delle aree costiere del bacino del Mediterraneo orientale, nonché del nord dell'Iraq e del nord dell'Iran, al sud del Mar Caspio. Le olive rivestono un'importanza agricola fondamentale nella regione mediterranea come fonte di olio d'oliva. L'ulivo è stato un simbolo di pace, di saggezza, di gloria, di fertilità, di potere e di purezza. L'olio d'oliva è stato a lungo considerato sacro e ancora oggi è utilizzato in molte cerimonie religiose.</Text>
+		</Replace>
+<!--Perfume-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES">
+			<Text>Profumo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES_PEDIA">
+			<Text>L'uso dei profumi è noto fin dalle prime civiltà umane. La profumeria, o l'arte di creare profumi, ebbe inizio nell'antica Mesopotamia e in antico Egitto, per poi essere perfezionata dai Romani e dai Persiani. La tecnica di produzione dei profumi a base di rosa ebbe origine in Persia e si diffuse successivamente attraverso Arabia e India, per poi arrivare più recentemente in Europa orientale. L'olio di rosa è un olio essenziale estratto dai petali di vari tipi di rose. A causa del processo di produzione intensivo in termini di lavoro e del basso contenuto di olio nei boccioli di rosa, l'olio di rosa ha un prezzo molto elevato. Tuttavia, ancora oggi sembra essere l'olio essenziale più utilizzato in profumeria.</Text>
+		</Replace>
+<!--Tea-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA">
+			<Text>Tè</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA_PEDIA">
+			<Text>Il tè è una bevanda aromatica solitamente preparata versando acqua calda sulle foglie trattate della pianta del tè. Il consumo di tè è probabilmente iniziato in Cina, durante la dinastia Shang, periodo in cui veniva utilizzato a scopo medicinale e combinato con altre erbe. Sempre in Cina, nel corso del XVI secolo, venne fatto conoscere ai sacerdoti e ai commercianti portoghesi. Più tardi, durante il XVII secolo, divenne popolare in Gran Bretagna, cosa che portò Cina e Gran Bretagna a competere per il monopolio.</Text>
+		</Replace>
+<!--Tobacco-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO">
+			<Text>Tabacco</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO_PEDIA">
+			<Text>Il tabacco è un prodotto ottenuto dal trattamento delle foglie essiccate delle piante del genere Nicotiana. Viene utilizzato per scopi ricreativi sotto forma di sigari e sigarette, come tabacco da fiuto, come tabacco da pipa, come tabacco da masticare e nei narghilè aromatizzati. Molte tribù native americane coltivavano e utilizzavano tradizionalmente il tabacco: alcuni siti di coltivazione in Messico sono stati datati fino al 1400-1000 a.C.. Tra le tribù dell'America Nord-orientale era in uso portare con sé borse contenenti grandi quantità di tabacco, da usare come merce di scambio rapida. Inoltre, spesso veniva fumato in pipe della pace, sia per sigillare un accordo, sia durante cerimonie sacre ben precise. Con l'arrivo degli Europei, il tabacco divenne sempre più popolare come merce di scambio e la sua diffusione crebbe fino a creare una vera e propria industria.</Text>
+		</Replace>
+<!--Lavender-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER">
+			<Text>Lavanda</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER_PEDIA">
+			<Text>La lavanda è un genere di piante che comprende 47 specie di piante fiorite appartenenti alla famiglia delle Lamiaceae, la stessa famiglia della menta. È nativa del Vecchio Mondo e si trova a partire dalle isole di Capo Verde e delle Canarie, attraverso il bacino del Mediterraneo e l'Africa settentrionale, fino ad arrivare in Asia, dalla Penisola Arabica al sud-est dell'India. Molti membri di questo genere sono coltivati estensivamente in climi temperati come piante ornamentali per giardini e paesaggi, come erbe culinarie e come fonte di oli essenziali a uso commerciale.</Text>
+		</Replace>
+<!--Poppy-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES">
+			<Text>Papaveri</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES_PEDIA">
+			<Text>Il papavero è una pianta fiorita appartenente alla sottofamiglia Papaveroideae della famiglia delle Papaveraceae. I papaveri sono piante erbacee, spesso coltivate per i loro fiori colorati. Da una specie di papavero, il Papaver somniferum, si ricava l'oppio, una droga narcotica. L'oppio contiene potenti alcaloidi medicinali, come la morfina, ed è stato utilizzato fin dall'antichità come analgesico, narcotico e droga ricreativa. Il papavero produce anche semi commestibili. Dopo la Prima Guerra Mondiale, in seguito alla guerra di trincea svoltasi nei campi di papaveri nelle Fiandre, in Belgio, i papaveri sono diventati un simbolo di ricordo dei caduti in guerra.</Text>
+		</Replace>
+<!--Seals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS">
+			<Text>Foche</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Bonus per la città da cui sono sfruttate:[ENDCOLOR] -20% [ICON_PRODUCTION] Tempi di produzione per le Unità Navali pre-Industriali.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_PEDIA">
+			<Text>
+				Le foche sono creature semi-acquatiche artiche appartenenti alla superfamiglia dei pinnipedi. I pinnipedi sono stati cacciati dagli Inuit per le loro pelli, il loro grasso e la loro carne per oltre 4.000 anni. La caccia alle foche è praticata ancora oggi in paesi come il Canada e la Groenlandia.
+				[NEWLINE][NEWLINE]Le pratiche moderne di caccia alle foche sono oggetto di controversie e sono state criticate da gruppi per i diritti degli animali e organizzazioni anti-pelliccia, che hanno organizzato proteste e boicottaggi dell'industria della pelliccia di foca. La sostenibilità economica della caccia alle foche è stata messa a rischio dai movimenti popolari che boicottano i prodotti derivati dalle foche nell'industria della moda e nei beni di consumo. La riduzione della domanda di prodotti derivati dalle foche ha avuto un forte impatto negativo sul popolo Inuit e sulle loro possibilità di partecipare a un mercato globalizzato.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Bonus Resources =====================================-->
+<!--===============================================================-->
+<!--Rice-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE">
+			<Text>Riso</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE_PEDIA">
+			<Text>Il riso è l'alimento base più consumato da gran parte della popolazione umana del mondo, soprattutto in Asia. È il prodotto agricolo con la terza più alta produzione a livello mondiale, dopo la canna da zucchero e il mais. Poiché ampie porzioni delle coltivazioni di canna da zucchero e mais vengono utilizzate per scopi diversi dal consumo umano, il riso è il cereale più importante dal punto di vista della nutrizione umana e dell'apporto calorico, fornendo oltre un quinto delle calorie consumate nel mondo dagli esseri umani. La coltivazione del riso è adatta a paesi e regioni con bassi costi della manodopera e abbondanti precipitazioni, poiché richiede molta mano d'opera e una buona disponibilità d'acqua. Tuttavia, il riso può essere coltivato praticamente ovunque, anche su colline o in aree montane, grazie all'uso di terrazzamenti per il controllo dell'acqua. Nonostante le sue specie originarie siano native dell'Asia e di alcune parti dell'Africa, secoli di commercio ed esportazione lo hanno reso comune in diverse culture in tutto il mondo.</Text>
+		</Replace>
+<!--Maize-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE">
+			<Text>Mais</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE_PEDIA">
+			<Text>Il mais, anche noto come granturco, è un cereale coltivato per la prima volta da popolazioni indigene nel sud del Messico circa 10.000 anni fa. Il mais è ampiamente coltivato in tutto il mondo, e ogni anno viene prodotta una quantità di mais più elevata rispetto a quella di qualsiasi altro cereale.</Text>
+		</Replace>
+<!--Berries-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES">
+			<Text>Frutti di bosco</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES_PEDIA">
+			<Text>I frutti di bosco sono piccoli frutti polposi e spesso commestibili. Tipicamente, i frutti di bosco sono succulenti, tondeggianti, di colore vivace, dolci, aspri o aciduli e non hanno un nocciolo o un seme, anche se in alcuni casi possono contenere molti semi o chicchi. Esempi comuni sono mirtilli, fragole, lamponi, more, e ribes. I frutti di bosco sono stati preziosi come fonte di cibo per gli esseri umani fin dall'epoca precedente all'agricoltura e sono stati un alimento stagionale per gli antichi cacciatori-raccoglitori per migliaia di anni. Nel tempo, gli esseri umani hanno imparato a conservare i frutti di bosco in modo che potessero essere utilizzati durante l'inverno e hanno iniziato anche a coltivarli, in Europa e in altri paesi. Alcune specie di more e lamponi del genere Rubus vengono coltivate fin dal XVII secolo, mentre mirtilli lisci e mirtilli americani del genere Vaccinium vengono coltivati negli Stati Uniti da oltre un secolo.</Text>
+		</Replace>
+<!--Cactus-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS">
+			<Text>Cactus</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS_PEDIA">
+			<Text>Il cactus è un membro della famiglia delle piante Cactaceae, che comprende circa 127 generi con circa 1750 specie conosciute dell'ordine Caryophyllales. La parola "cactus" deriva, attraverso il latino, dalla parola greca antica κάκτος (káktos), un nome originariamente usato da Teofrasto per una pianta spinosa la cui identità non è ancora stata accertata. I cactus si presentano in una vasta gamma di forme e dimensioni. Sebbene alcune specie vivano in ambienti piuttosto umidi, la maggior parte dei cactus vive in habitat soggetti almeno a qualche siccità. Molti vivono in ambienti estremamente aridi, persino in deserti come il Deserto di Atacama, uno dei luoghi più secchi della Terra. A causa di ciò, i cactus hanno sviluppato molte strategie di adattamento per conservare l'acqua. Ad esempio, quasi tutti i cactus sono piante succulente, il che significa che hanno parti spesse e carnose, adattate per conservare l'acqua. A differenza di molte altre piante succulente, il fusto è l'unica parte della maggior parte dei cactus in cui avviene questo processo vitale. La maggior parte delle specie di cactus ha perso le vere foglie, conservando solo le spine, ovvero foglie altamente modificate. Oltre che come difesa dagli erbivori, le spine servono a prevenire la perdita di acqua, riducendo il flusso d'aria attorno al cactus e fornendo un po' di ombra. In assenza di vere foglie, sono i fusti ingranditi dei cactus a svolgere la fotosintesi. I cactus sono nativi delle Americhe, dalla Patagonia al Canada occidentale, fatta eccezione per la Rhipsalis baccifera, che cresce anche in Africa e in Sri Lanka.</Text>
+		</Replace>
+<!--Coconut-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS">
+			<Text>Cocco</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_PEDIA">
+			<Text>Il cocco è conosciuto per la sua versatilità d'uso, che spazia dal cibo ai cosmetici. La polpa interna del seme maturo, così come il latte di cocco estratto da essa, fanno regolarmente parte della dieta di molte persone nei tropici e nei subtropici. La buccia dura del seme, le baccellature fibrose e le lunghe foglie pinnate possono essere utilizzate come materiale per la produzione di una varietà di prodotti per arredamento e decorazione. Il cocco ha anche una rilevanza culturale e religiosa in alcune società, in particolare in India, dove viene utilizzato in rituali induisti.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Bonus per la città da cui è sfruttato:[ENDCOLOR] -15% [ICON_PRODUCTION] Tempi di Produzione per le Unità Navali pre-Medievali.</Text>
+		</Replace>
+<!--Flax-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX">
+			<Text>Lino</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX_PEDIA">
+			<Text>
+				Il lino comune (Linum usitatissimum L., 1753) è una pianta della famiglia delle Linacee.
+				[NEWLINE][NEWLINE]È stata una delle prime colture domesticate: fin dall'antichità è stato ampiamente coltivato in Etiopia e in Egitto; in una grotta, nella Repubblica della Georgia, sono state trovate fibre di lino tinte, databili al 30000 a.C..
+				[NEWLINE][NEWLINE]Si stima che la coltivazione del lino, probabilmente originario della zona compresa tra il Golfo Persico, il Mar Caspio e il Mar Nero, risalga a circa 8.000 anni fa, ma si può dire che la sua storia abbia avuto inizio nell’epoca Neolitica, tra il 3000 e il 1000 a.C.. Intorno al 3700 a.C., dall’ Egitto, dove se ne utilizzava l’olio per confezionare unguenti e le fibre per l’abbigliamento e per fasciare le mummie, si esportava a Roma, in Grecia, in Irlanda, in Inghilterra, in Bretagna e in Spagna. In seguito la coltura e la lavorazione della sua fibra si svilupparono in tutto l’ Impero romano. A partire dal 1700 a.C., le esportazioni di lino stigliato e tessuto raggiungono l’ India e poi la Cina.
+			</Text>
+		</Replace>
+<!--Timber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER">
+			<Text>Legname</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Bonus per la città da cui è sfruttato:[ENDCOLOR] -10% [ICON_PRODUCTION] Tempi di Produzione per Edifici e Unità d'Assedio pre-Rinascimentali</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_PEDIA">
+			<Text>Il legno duro è il legno proveniente da alberi dicotiledoni. Solitamente questi alberi si trovano nelle foreste temperate e tropicali a foglie larghe. Alle latitudini temperate e boreali sono perlopiù a foglie caduche, ma nei tropici e nei subtropici sono per lo più sempreverdi. Come suggerisce il nome, il legno di questi alberi è generalmente più duro rispetto a quello delle conifere, ma ci sono significative eccezioni. Il legno duro è impiegato in una vasta gamma di applicazioni, per esempio nei combustibili, nell'edilizia, nella pavimentazione, nella cucina, nonché nella costruzione di attrezzi, barche, mobili, strumenti musicali e botti.</Text>
+		</Replace>
+<!--Tin-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN">
+			<Text>Stagno</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN_PEDIA">
+			<Text>Lo stagno è un metallo ottenuto principalmente dal minerale della cassiterite. L'estrazione e l'uso dello stagno possono essere fatti risalire agli inizi dell'età del bronzo, intorno al 3000 a.C., quando era molto ricercato. Combinato con il rame, crea una lega più resistente e molto più utile, il bronzo, composto per 1/8 da stagno e 7/8 da rame. Oggi lo stagno è un materiale importante nelle saldature. Viene anche utilizzato come rivestimento per aiutare altri metalli a resistere alla corrosione. Grazie alla sua bassa tossicità, quest'ultimo uso include il rivestimento delle lattine per l'imballaggio degli alimenti.</Text>
+		</Replace>
+<!--Trout-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH">
+			<Text>Trote</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH_PEDIA">
+			<Text>Le trote sono pesci d'acqua dolce strettamente imparentati con i salmoni. Come cibo, le trote sono leggermente ossute, ma la loro carne è generalmente considerata gustosa. Il sapore della carne è fortemente influenzato dalla dieta del pesce. Ad esempio, le trote che si sono alimentate con crostacei tendono ad avere un sapore più pronunciato rispetto a quelle che si nutrono principalmente di insetti.</Text>
+		</Replace>
+<!--Rubber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER">
+			<Text>Gomma</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Bonus per la città da cui è sfruttata:[ENDCOLOR] -50% [ICON_PRODUCTION] Tempi di produzione per Carovane e Navi da Carico.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_PEDIA">
+			<Text>La gomma fu utilizzata per la prima volta dalle culture indigene della Mesoamerica. Le prime prove archeologiche dell'uso della gomma naturale proveniente dall'albero Hevea provengono dalla cultura Olmec, in cui la gomma veniva adoperata nella produzione delle palle utilizzate nel gioco della pelota. Successivamente, la gomma fu utilizzata anche dalle culture Maya e Azteche: oltre che per produrre palle, gli Aztechi utilizzavano la gomma per altri scopi, come la produzione di contenitori e l'impermeabilizzazione di tessuti attraverso l'impregnazione con la linfa di gomma. La gomma naturale viene utilizzata ampiamente in molte applicazioni e prodotti, sia da sola che in combinazione con altri materiali. Nella maggior parte delle sue forme utili, ha un grande rapporto di allungamento e una grande resilienza ed è estremamente impermeabile.</Text>
+		</Replace>
+<!--Rare Earth-->
+		<Replace Tag="TXT_KEY_RESOURCE_RARE_EARTH">
+			<Text>Terre rare</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_RARE_EARTH_PEDIA">
+			<Text>Gli elementi delle terre rare, anche chiamati metalli delle terre rare o (in contesto) ossidi delle terre rare o lantanoidi, sono un gruppo di 17 metalli pesanti morbidi quasi indistinguibili, lucenti, di colore argento-bianco. Tra questi lo scandio e l'ittrio in realtà non sono lantanoidi, ma sono considerati elementi delle terre rare poiché tendono a trovarsi nei medesimi giacimenti minerali dei lantanoidi e presentano proprietà chimiche simili, pur avendo proprietà elettroniche e magnetiche diverse.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW City-State Resources ================================-->
+<!--===============================================================-->
+<!--Lacquerware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE">
+			<Text>Laccati</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_PEDIA">
+			<Text>I laccati sono oggetti decorativi ricoperti da strati di lacca, una resina naturale estratta dagli alberi. Questi oggetti sono spesso realizzati in legno o metallo e presentano disegni intricati, a volte arricchiti con intarsi in oro, argento o madreperla. La lacca fornisce una finitura lucida e resistente che protegge l'oggetto migliorandone al contempo l'attrattiva estetica. I laccati sono stati un simbolo di arte e artigianato in Asia orientale e sudorientale per secoli, apprezzati per la loro bellezza e maestria.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_HELP">
+			<Text>I laccati sono disponibili solo attraverso una Città-Stato Mercantile.</Text>
+		</Replace>
+<!--Glass-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE">
+			<Text>Vetro</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_PEDIA">
+			<Text>Il vetro è un materiale solido, solitamente trasparente e fragile, utilizzato da secoli nelle finestre e nei contenitori. La creazione del vetro può essere fatta risalire al 3500 a.C., in Mesopotamia, ma il termine "vetro" si sviluppò nell'Impero romano tardivo. Fu nel centro di produzione del vetro romano a Treviri, ora nell'attuale Germania, che si originò il termine latino tardo "glesum", probabilmente da una parola germanica per una sostanza trasparente e lucente. A partire dal XIV secolo il centro della produzione di vetri di lusso fu l'isola di Murano, che sviluppò molte nuove tecniche e divenne il fulcro di un redditizio commercio di esportazione di servizi da tavola, specchi e altri oggetti. Ciò che rese significativamente diverso il vetro muranese veneziano era il fatto che i ciottoli di quarzo locali erano quasi pura silice, successivamente macinati in una sabbia fine e chiara che veniva combinata con la soda caustica ottenuta dal Levante, sulla quale i veneziani detenevano il monopolio esclusivo.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_HELP">
+			<Text>Il Vetro si può ottenere solo attraverso una Città-Stato Mercantile.</Text>
+		</Replace>
+	</Language_IT_IT>
+</GameData>

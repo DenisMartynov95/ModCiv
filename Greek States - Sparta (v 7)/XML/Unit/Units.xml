@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_ELITE_HOPLITE</Type>
+      <Description>TXT_KEY_UNIT_ELITE_HOPLITE</Description>
+      <Civilopedia>TXT_KEY_CIV5_ANTIQUITY_HOPLITE_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_ELITE_HOPLITE_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_ELITE_HOPLITE</Help>
+      <Combat>12</Combat>
+      <Cost>69</Cost>
+      <FaithCost>132</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <Moves>2</Moves>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_SPEARMAN</Class>
+      <CombatClass>UNITCOMBAT_MELEE</CombatClass>
+	  <Domain>DOMAIN_LAND</Domain>
+      <DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+      <ObsoleteTech>TECH_CIVIL_SERVICE</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_PIKEMAN</GoodyHutUpgradeUnitClass>
+      <AdvancedStartCost>15</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <CombatLimit>100</CombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>6</XPValueDefense>
+      <Conscription>2</Conscription>
+      <UnitArtInfo>ART_DEF_UNIT_U_ELITE_HOPLITE</UnitArtInfo>
+	  <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>1</PortraitIndex>
+      <IconAtlas>SPARTA_ATLAS</IconAtlas>
+      <UnitFlagAtlas>SPARTA_HOPLITE_FLAG</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <UnitAIType>UNITAI_COUNTER</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <UnitAIType>UNITAI_ATTACK</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  <Unit_FreePromotions>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <PromotionType>PROMOTION_ANTI_MOUNTED_I</PromotionType>
+    </Row>
+	  <Row>
+		  <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+		  <PromotionType>PROMOTION_AGOGE</PromotionType>
+	  </Row>
+  </Unit_FreePromotions>
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_YieldFromKills -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+      <SelectionSound>AS2D_SELECT_HOPLITE</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_HOPLITE</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_ELITE_HOPLITE">
+      <Text>Элитные гоплиты</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_ANTIQUITY_ELITE_HOPLITE_TEXT">
+      <Text>Гоплит  — древнегреческий тяжёловооружённый пеший воин. Слово происходит от названия тяжёлого круглого щита — гоплон. Предполагается. что впервые появились в аргосской армии. Гоплиты служили в армиях греческих городов-государств и по своей сути были солдатами-гражданами, так как долгом гражданина любого свободного полиса было несение военной службы. Поэтому любое собрание граждан представляло собой собрание солдат: служащих в данное время или отслуживших ветеранов. Гоплиты — тяжело вооружённые греческие пехотинцы. После реформ Солона в Афинах, выступать на войну будучи снаряженным как гоплит должны были представители наиболее многочисленного сословия зевгитов. Вероятно, что и в других греческих полисах гоплитами во время войны становились граждане со средним достатком, так как обеспечивать себя вооружением и снаряжением воин должен был за собственный счёт. Доминировали на поле боя в течение четырёх столетий, примерно с начала VII века до н. э. До царя Филиппа II (отца Александра Македонского) гоплиты составляли основу классической фаланги. Ксенофонт в "Анабасисе" неоднократно упоминает "ассирийских гоплитов", стычки с которыми были опасны для греческих гоплитов.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_ELITE_HOPLITE_STRATEGY">
+      <Text>Элитные гоплиты - это уникальный юнит Спарты, заменяющий копейщиков. Получают +20% к боевой мощи, когда находятся рядом с другим юнитом, и дополнительный опыт при защите.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_ELITE_HOPLITE">
+      <Text>Юнит Античности, который специализируется на защите кавалерии. Только Спарта может создать его. Они сильнее, когда находятся рядом с союзниками, и получают больше опыта при защите.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

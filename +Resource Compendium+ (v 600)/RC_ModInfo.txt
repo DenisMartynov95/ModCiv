@@ -1,0 +1,32 @@
+[h1]Adds [b]30 More Resources[/b] - works as a standalone![/h1]
+[h1]Compatible with [url=steamcommunity.com/sharedfiles/filedetails/?id=3033310149]Aquatic Resources[/url] and [url=steamcommunity.com/sharedfiles/filedetails/?id=3384379681]Avian Resources[/url].[/h1]
+[h2]Companion mods: [url=steamcommunity.com/sharedfiles/filedetails/?id=3377560479]Pantheon Compendium[/url], [url=steamcommunity.com/sharedfiles/filedetails/?id=3377563070]Resource Buildings[/url], [url=steamcommunity.com/sharedfiles/filedetails/?id=3377566114]Fisherman[/url],[/h2]
+[h2]and [url=steamcommunity.com/sharedfiles/filedetails/?id=2409236383]Mapscript Compendium[/url]. This Feature is an integral part of [url=steamcommunity.com/sharedfiles/filedetails/?id=2280231911]Core Mod[/url]![/h2]
+[quote][h2]12 More Terrain Luxuries[/h2]
+[img=https://imgur.com/eVvh58A.jpg]Amber[/img] 			-	[img=https://imgur.com/gBYEFbb.jpg]Coffee[/img] 	-	[img=https://imgur.com/XYuJyEK.jpg]Coral[/img]		-	[img=https://imgur.com/5IGaoBK.jpg]Jade[/img] 			-	[img=https://imgur.com/VsW0G72.jpg]Lapis[/img]		 	-	[img=https://imgur.com/2NSwWlt.jpg]Lavender[/img]
+[img=https://imgur.com/b32cKTm.jpg]Olives[/img]			-	[img=https://imgur.com/XAvdOcs.jpg]Poppies[/img]	-	[img=https://imgur.com/xLYmn7h.jpg]Roses[/img]		-	[img=https://imgur.com/GQIuRYY.jpg]Tea[/img] 			-	[img=https://imgur.com/km7qBjt.jpg]Tobacco[/img] 		-	[img=https://imgur.com/vczx2HW.jpg]Tulips[/img]
+
+[h2]12 More Bonus Resources[/h2]
+[img=https://imgur.com/dHfstSW.jpg]Berries[/img]		-	[img=https://imgur.com/gvTuiLE.jpg]Cacti[/img]		-	[img=https://imgur.com/lu26YRh.gif]Coconuts[/img]	-	[img=https://imgur.com/F7jPNah.jpg]Flax[/img] 			-	[img=https://imgur.com/CIwuSxF.jpg]Lake Fish[/img] 		-	[img=https://imgur.com/h5hJJEr.jpg]Kelp[/img] 
+[img=https://imgur.com/yp09nvy.jpg]Maize[/img] 			-	[img=https://imgur.com/PpYF0lf.jpg]Rice[/img]		-	[img=https://imgur.com/dF0nHvD.jpg]Rubber[/img] 	-	[img=https://imgur.com/T0XB64N.jpg]Timber[/img] 		-	[img=https://imgur.com/vbaJU6X.jpg]Tin[/img]			-	[img=https://imgur.com/nIVBeqJ.jpg]Minerals[/img] 
+
+[h2]6 More City-State Luxuries[/h2]
+[img=https://imgur.com/uRtacU0.jpg]Carpets[/img] 		-	[img=https://imgur.com/xbcDmrM.jpg]Furniture[/img]	-	[img=https://imgur.com/YiTaYYy.jpg]Glassware[/img] 	-	[img=https://imgur.com/mIxpI8s.jpg]Lacquerware[/img]	-	[img=https://imgur.com/ur3urxN.jpg]Mosaic Tiles[/img] 	-	[img=https://imgur.com/XYUwjWf.jpg]Perfume[/img]
+[/quote]
+[quote][h3]LANGUAGE SUPPORT[/h3]
+Fully localized in: [b]English[/b], [b]French[/b], [b]German[/b], [b]Spanish[/b], [b]Korean[/b], and [b]Russian[/b].
+[/quote]
+[img=https://imgur.com/rwYP22S.gif[/img]
+
+[quote][h3]CREDITS AND THANKS[/h3]
+Concept, coding, research, and overall design by [b]Gaia[/b]. Artwork by [b]Manitorio[/b].  
+A huge thank you to everyone who contributed--through translations, feedback, suggestions, or bug reports--your support has been invaluable!
+[/quote]
+
+[quote][h3]DISCLAIMER[/h3]
+Sid Meier's Civilization V, Civilization, Civ, Firaxis Games, 2K Games, and Take-Two Interactive Software are trademarks of Take-Two Interactive Software, Inc. This mod is not affiliated with, endorsed by, or sponsored by Take-Two, Firaxis, or any of their subsidiaries.
+
+This is a fan-made project. It is provided "as is" with no warranties, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Use at your own risk.
+
+Redistribution, re-hosting, or inclusion of this mod or its components in other works is prohibited without written permission from the authors. All rights to third-party content remain with their respective owners.
+[/quote]

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/3/2014 4:30:36 PM -->
+<GameData>
+	<Resources>
+		<Delete Type="RESOURCE_TOBACCO" />
+		<Row>
+			<Type>RESOURCE_TOBACCO</Type>
+			<Happiness>4</Happiness>
+			<TechReveal>TECH_CALENDAR</TechReveal>
+			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_TOBACCO</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_TOBACCO_TEXT</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_TOBACCO</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<GroupRange>3</GroupRange>
+			<GroupRand>15</GroupRand>
+			<IconString>[ICON_RES_TOBACCO]</IconString>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_YieldChanges>
+		<Delete ResourceType="RESOURCE_TOBACCO" />
+		<Row>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Resource_Flavors>
+		<Delete ResourceType="RESOURCE_TOBACCO" />
+		<Row>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_TerrainBooleans>
+		<Row>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+	</Resource_TerrainBooleans>
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+	<Improvement_ResourceType_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>30</Yield>
+		</Row>
+	</Improvement_ResourceType_Yields>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_TOBACCO">
+			<Text>Tobacco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TOBACCO_TEXT">
+			<Text>Tobacco is a plant within the genus Nicotiana of the Solanaceae (nightshade) family. While there are more than 70 species of tobacco, the chief commercial crop is N. tabacum. The more potent species N. rustica is also widely used around the world.	Dried tobacco leaves are mainly smoked in cigarettes, cigars, pipe tobacco and flavored shisha tobacco. They are also consumed as snuff, chewing tobacco and dipping tobacco.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

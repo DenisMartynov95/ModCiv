@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/6/2014 2:35:20 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_FISH_HATCHERY</Type>
+			<DefaultBuilding>BUILDING_FISH_HATCHERY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FISH_HATCHERY</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_FISH_HATCHERY</Type>
+			<BuildingClass>BUILDINGCLASS_FISH_HATCHERY</BuildingClass>
+			<Cost>430</Cost>
+			<GoldMaintenance>4</GoldMaintenance>
+			<PrereqTech>TECH_BIOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_FISH_HATCHERY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_FISH_HATCHERY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_FISH_HATCHERY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_FISH_HATCHERY_HELP</Help>
+			<Water>true</Water>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>40</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_FISH_HATCHERY</BuildingType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_HATCHERY</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_HATCHERY</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_HATCHERY</BuildingType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_TerrainYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_FISH_HATCHERY</BuildingType>
+			<TerrainType>TERRAIN_COAST</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_TerrainYieldChanges>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_FISH_HATCHERY</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_FISH_HATCHERY">
+			<Text>Fish Hatchery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FISH_HATCHERY_HELP">
+			<Text>+1 [ICON_FOOD] Food for each Coast tile worked by this City. May only be built on the Coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FISH_HATCHERY_STRATEGY">
+			<Text>The Fish Hatchery is a industrial era building that improves the growth of coastal Cities. The City must be next to a Coast and requires a lighthouse to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FISH_HATCHERY_PEDIA">
+			<Text>A fish hatchery is a "place for artificial breeding, hatching and rearing through the early life stages of animals, finfish and shellfish in particular". Hatcheries produce larval and juvenile fish (and shellfish and crustaceans) primarily to support the aquaculture industry where they are transferred to on-growing systems i.e. fish farms to reach harvest size.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

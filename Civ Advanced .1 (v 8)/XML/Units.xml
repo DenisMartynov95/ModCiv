@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2014 6:14:05 PM -->
+<GameData>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_SETTLER</UnitType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_MISSILE_CRUISER</UnitType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NUCLEAR_SUBMARINE</UnitType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SUBMARINE</UnitType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CARRIER</UnitType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTILLERY</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANNON</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+</GameData>

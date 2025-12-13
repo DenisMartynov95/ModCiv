@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/24/2014 1:28:42 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_AQUEDUCT"/>
+			<Set>
+				<Cost>75</Cost>
+				<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+				<FoodKept>20</FoodKept>
+				<HurryCostModifier>25</HurryCostModifier>
+			</Set>
+		</Update>
+	</Buildings>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_AQUEDUCT_HELP" />
+			<Set Text="20% of the [ICON_FOOD] Food is carried over after a [ICON_CITIZEN] Citizen is born." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_AQUEDUCT_STRATEGY" />
+			<Set Text="The Aqueduct decreases the amount of [ICON_FOOD] Food a City needs to increase in [ICON_CITIZEN] size by 20%. Build Aqueducts in Cities that you want to grow faster over time." />
+		</Update>
+	</Language_en_US>
+</GameData>

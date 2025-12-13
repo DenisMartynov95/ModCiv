@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/06/17 3:39:59 PM -->
+<GameData>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SMAN_EU_MEAD_HALL</Type>
+			<DefaultBuilding>BUILDING_SMAN_EU_MEAD_HALL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SMAN_EU_MEAD_HALL</Description>
+		</Row>
+	</BuildingClasses>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SMAN_EU_MEAD_HALL</Type>
+			<BuildingClass>BUILDINGCLASS_SMAN_EU_MEAD_HALL</BuildingClass>
+			<Cost>75</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_CURRENCY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SMAN_EU_MEAD_HALL</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SMAN_EU_MEAD_HALL_PEDIA</Civilopedia>
+			<Help>TXT_KEY_BUILDING_SMAN_EU_MEAD_HALL_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>SMAN_EXOTIC_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_MEAD_HALL</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_MEAD_HALL</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_MEAD_HALL</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_MEAD_HALL</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_MEAD_HALL</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_MEAD_HALL</BuildingType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Building_Flavors>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SMAN_EU_MEAD_HALL">
+			<Text>Mead Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMAN_EU_MEAD_HALL_HELP">
+			<Text>Allows certain Mercenary units to be purchased. Adds +1 Production and +1 Culture. Requires a Monument in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMAN_EU_MEAD_HALL_PEDIA">
+			<Text>
+				A Mead Hall is a Classical Era building available upon the discovery of Currency. Building it will allow the purchse of the XX and YY units. It also adds +1 to Productionand +1 Culture in the city.[NEWLINE][NEWLINE]Mead Hall Pedia...
+			</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

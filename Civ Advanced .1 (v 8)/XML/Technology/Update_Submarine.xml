@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/21/2014 10:26:01 PM -->
+<GameData>
+	<Units>
+		<Update>
+			<Set PrereqTech="TECH_REPLACEABLE_PARTS"/>
+			<Where Class="UNITCLASS_SUBMARINE"/>
+		</Update>
+	</Units>
+</GameData>

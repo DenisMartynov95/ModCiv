@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/2/2014 9:14:15 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_FIBER_NETWORK</Type>
+			<DefaultBuilding>BUILDING_FIBER_NETWORK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FIBER_NETWORK</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_FIBER_NETWORK</Type>
+			<BuildingClass>BUILDINGCLASS_FIBER_NETWORK</BuildingClass>
+			<Cost>800</Cost>
+			<PrereqTech>TECH_INTERNET</PrereqTech>
+			<Description>TXT_KEY_BUILDING_FIBER_NETWORK</Description>
+			<Civilopedia>TXT_KEY_BUILDING_FIBER_NETWORK_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_FIBER_NETWORK_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_FIBER_NETWORK_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>36</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_FIBER_NETWORK</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FIBER_NETWORK</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FIBER_NETWORK</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_FIBER_NETWORK</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>20</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FIBER_NETWORK</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_FIBER_NETWORK</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_COPPER_NETWORK</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_FIBER_NETWORK">
+			<Text>Fiber Optic Network</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIBER_NETWORK_HELP">
+			<Text>+1 [ICON_CULTURE] Culture for every 4 [ICON_CITIZEN] Citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIBER_NETWORK_STRATEGY">
+			<Text>The Fiber Optic Network is a Information era building which moderately improves a City's [ICON_GOLD] Gold and[ICON_RESEARCH] Science output and adds more [ICON_CULTURE] Culture as the City gets bigger. The City must have a copper network to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIBER_NETWORK_PEDIA">
+			<Text>Fiber-optic communication is a method of transmitting information from one place to another by sending pulses of light through an optical fiber. Fiber Optics is capable of far grater speeds and density of information transfer then copper cables. It is essential for modern fast internet lifestyle.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

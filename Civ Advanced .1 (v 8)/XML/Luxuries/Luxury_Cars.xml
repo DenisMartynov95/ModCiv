@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/8/2014 1:28:23 PM -->
+<GameData>
+	<Resources>
+		<Delete Type="RESOURCE_CARS"/>
+		<Delete Type="RESOURCE_AUTOMOBILES"/>
+		<Delete Type="RESOURCE_CAR"/>
+		<Delete Type="RESOURCE_AUTOMOBILE"/>
+		<Row>
+			<Type>RESOURCE_CARS</Type>
+			<Happiness>4</Happiness>
+			<TechCityTrade>TECH_COMBUSTION</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_CARS</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_CARS_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_CARS_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<IconString>[ICON_RES_CARS]</IconString>
+			<PortraitIndex>13</PortraitIndex>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Delete ResourceType="RESOURCE_CARS"/>
+		<Delete ResourceType="RESOURCE_AUTOMOBILES"/>
+		<Delete ResourceType="RESOURCE_CAR"/>
+		<Delete ResourceType="RESOURCE_AUTOMOBILE"/>
+		<Row>
+			<ResourceType>RESOURCE_CARS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_CARS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>30</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CARS</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_CARS">
+			<Text>Cars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CARS_HELP">
+			<Text>Cars are produced by the Car Factory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CARS_PEDIA">
+			<Text>An automobile or car or car is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods. The year 1886 is regarded the year of birth of the modern automobile - with the Benz Patent-Motorwagen, by German inventor Carl Benz. Motorized wagons soon replaced animal-drafted carriages, especially after automobiles became affordable for many people when the Ford Model T was introduced in 1908.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

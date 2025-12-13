@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/22/2014 11:06:22 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Set Cost="600"/>
+			<Where Type="BUILDING_NUCLEAR_PLANT"/>
+		</Update>
+		<Update>
+			<Set SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="1"/>
+			<Where Type="BUILDING_NUCLEAR_PLANT"/>
+		</Update>
+	</Buildings>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_NUCLEAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_NUCLEAR_PLANT_STRATEGY" />
+			<Set Text="The Nuclear Plant gives a large boost to the Cities [ICON_PRODUCTION] Production as well as providing bonus [ICON_PRODUCTION] Production for each source of [ICON_RES_URANIUM] Uranium worked by this City. The Nuclear Plant requires Uranium to be built and cannot be built in a City that already has a Solar Plant. A Factory is a prerequisite for this Building." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_NUCLEAR_PLANT_HELP" />
+			<Set Text="Each source of [ICON_RES_URANIUM] Uranium worked by this City produces +1 [ICON_PRODUCTION] Production." />
+		</Update>
+	</Language_en_US>
+</GameData>

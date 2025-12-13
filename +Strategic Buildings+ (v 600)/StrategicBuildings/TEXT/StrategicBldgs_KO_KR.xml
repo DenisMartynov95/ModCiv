@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_KO_KR>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--IRONWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_IRONWORKS_HELP">
+			<Text>
+				모든 도시에 [COLOR_CYAN]작업장[ENDCOLOR]이 필요합니다. 제국의 도시 수가 많을수록 비용이 증가합니다.
+				[NEWLINE][NEWLINE]+8 [ICON_PRODUCTION] 생산력 및 +3 [ICON_RES_IRON] 철을 제공합니다. 이 도시에서 채굴한 [ICON_RES_IRON] 철 자원마다 +1 [ICON_GOLD] 골드를 얻습니다.
+			</Text>
+		</Replace>
+<!--RECYCLING CENTER-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_RECYCLING_CENTER_HELP">
+			<Text>
+				[ICON_RES_ALUMINUM] 알루미늄 2개를 제공합니다. 이 도시에서 채굴한 [ICON_RES_ALUMINUM] 알루미늄 자원마다 +2 [ICON_RESEARCH] 과학을 얻습니다.
+				[NEWLINE][NEWLINE]제국당 최대 5개 도시에서만 건설할 수 있습니다. 점령될 수 없습니다.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Buildings ===========================================-->
+<!--===============================================================-->
+<!--COALPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT">
+			<Text>정제된 석탄 시설</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_HELP">
+			<Text>
+				[ICON_RES_COAL] 석탄 1개를 제공합니다. 이 도시에서 채굴한 [ICON_RES_COAL] 석탄 자원마다 +1 [ICON_PRODUCTION] 생산력 및 +1 [ICON_GOLD] 골드를 얻습니다.
+				[NEWLINE][NEWLINE]제국당 최대 3개 도시에만 건설할 수 있습니다. 점령될 수 없습니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_PEDIA">
+			<Text>
+				정제된 석탄은 수분과 특정 오염 물질을 제거하여 갈탄 및 아역청탄과 같은 저급 석탄의 발열량을 향상시키는 첨단 석탄 업그레이드 기술을 통해 생산됩니다. 이러한 예비 연소 처리는 연소 전에 석탄의 특성을 변경하여 효율성을 높이고 유해 배출물을 줄이는 것을 목표로 합니다. 전통적인 석탄 공장과 달리, 정제된 석탄 시설은 이러한 기술을 사용하여 환경 지속 가능성과 에너지 출력을 향상시킵니다. 이러한 시설은 산업 에너지 요구 사항과 더 깨끗한 에너지 솔루션을 조화롭게 연결하는 데 중요한 역할을 합니다.
+				[NEWLINE][NEWLINE]정제된 석탄의 이점은 효율성에 그치지 않습니다. 이 기술은 탄소 배출을 크게 줄임으로써 기후 변화에 대처하기 위해 고안된 탄소 포집 방법을 보완합니다. 처음에는 미국에서 개발되었지만, 정제된 석탄 기술은 호주 빅토리아를 포함한 전 세계적으로도 연구되었습니다. Coldry 공정과 같은 혁신 기술은 갈탄을 더 깨끗하고 안정적이며 높은 에너지 밀도를 가진 수출 가능 제품으로 전환합니다. 이러한 발전은 전통적인 에너지와 지속 가능한 에너지 미래를 연결하는 정제된 석탄 시설의 잠재력을 보여줍니다.
+			</Text>
+		</Replace>
+<!--OILREFINERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY">
+			<Text>정유 공장</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_HELP">
+			<Text>
+				[ICON_RES_OIL] 석유 1개를 제공합니다. 이 도시에서 채굴한 [ICON_RES_OIL] 석유 자원마다 +2 [ICON_GOLD] 골드를 얻습니다.
+				[NEWLINE][NEWLINE]제국당 최대 4개 도시에만 건설할 수 있습니다. 점령될 수 없습니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_PEDIA">
+			<Text>
+				정유 공장은 원유를 가공하여 휘발유, 디젤, 등유 및 액화석유가스(LPG)와 같은 귀중한 제품으로 정제하는 대규모 산업 시설입니다. 정유 공장에서는 분별 증류, 크래킹, 리포밍 등 복잡한 공정을 통해 원유에 포함된 다양한 탄화수소 화합물을 분리 및 변환합니다. 19세기 중반에 처음 설립된 정유 공장은 현대 산업의 성장에 중요한 역할을 했으며, 운송, 제조 및 에너지 생산에 연료를 공급했습니다. 특히 미국의 스탠더드 오일 정유 시설은 20세기에 석유를 주요 에너지원으로 자리 잡게 한 상징적인 역할을 했습니다.
+				[NEWLINE][NEWLINE]원유 자체는 원형으로 사용되는 경우 제한적인 유용성을 가지지만, 정제된 부산물은 선박, 자동차, 항공기 및 기계에 동력을 공급하며 석유화학 산업의 원료로도 사용됩니다. 이 산업은 플라스틱, 합성 섬유 및 윤활유와 같은 광범위한 재료를 생산하며, 이는 현대 생활의 필수적인 부분이 되었습니다. 그러나 정유 공장은 온실가스 배출과 오염과 같은 환경적 영향을 이유로 비판을 받아왔습니다. 정제 기술의 발전은 효율성을 높이고 환경 발자국을 줄이는 것을 목표로 하며, 이는 에너지 수요와 지속 가능성 간의 균형을 반영합니다.
+			</Text>
+		</Replace>
+<!--REPROCESSPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT">
+			<Text>핵 재처리 공장</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_HELP">
+			<Text>
+				[ICON_RES_URANIUM] 우라늄 5개를 제공합니다. 이 도시에서 채굴한 [ICON_RES_URANIUM] 우라늄 자원마다 +3 [ICON_PRODUCTION] 생산력을 얻습니다.
+				[NEWLINE][NEWLINE][COLOR_CYAN]핵 발전소[ENDCOLOR]가 필요합니다. 제국당 최대 2개 건물만 건설할 수 있습니다. 점령될 수 없습니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_PEDIA">
+			<Text>
+				핵 재처리 공장은 사용 가능한 우라늄과 플루토늄과 같은 자원을 사용 후 핵연료에서 화학적으로 분리합니다. 처음에는 핵무기 제작을 위한 플루토늄 추출 목적으로 개발되었으나, 이후 재처리는 핵연료 사이클의 중요한 일부로 자리 잡아 사용 후 연료를 혼합 산화물(MOX)과 같은 새로운 원자로 연료로 재활용할 수 있게 되었습니다. 이 과정은 천연 우라늄 공급이 부족하거나 가격이 높을 때 우라늄 자원의 활용도를 확장합니다. 재처리는 또한 번식로를 지원하여 재활용 자원과 악티니드를 활용해 우라늄의 에너지 수율을 크게 증가시킵니다.
+				[NEWLINE][NEWLINE]PUREX(Plutonium Uranium Redox Extraction) 공정은 사용 후 핵연료에서 우라늄과 플루토늄을 회수하는 데 가장 널리 사용되는 방법입니다. 핵연료 주기를 폐쇄함으로써 재처리 공장은 폐기물을 줄이고 연료 효율성을 높여 핵 에너지를 보다 지속 가능하게 만듭니다. 그러나 이러한 시설은 재처리된 자원의 무기화 가능성과 방사성 폐기물 관리의 어려움과 같은 문제에 직면하고 있습니다. 그럼에도 불구하고 핵 재처리는 핵 에너지의 혜택을 극대화하면서 장기적인 지속 가능성을 해결하는 데 중요한 기술로 남아 있습니다.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW World Wonders =======================================-->
+<!--===============================================================-->
+<!--SHANDAN-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SHANDAN">
+			<Text>[COLOR_WATER_TEXT]산단 군마장[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_HELP">
+			<Text>
+				도시 근처에 두 개의 [ICON_RES_HORSE] 말 자원이 생성됩니다. 또한 +1 [ICON_CULTURE] 문화, +1 [ICON_FOOD] 식량, +1 [ICON_PRODUCTION] 생산력, +1 [ICON_GOLD] 골드를 제공합니다.
+				[NEWLINE][NEWLINE][ICON_RES_HORSE] [COLOR_POSITIVE_TEXT]말[ENDCOLOR]을 도시에서 작업하면, 개선 후 [COLOR_CYAN] [ICON_FOOD] 식량 +1, [ICON_PRODUCTION] 생산력 +1, [ICON_GOLD] 골드 +1[/COLOR]을 추가로 얻습니다.
+				[NEWLINE][NEWLINE]도시는 반드시 [COLOR_CYAN]평지[/COLOR]에 건설되어야 하며, [COLOR_CYAN]초원[/COLOR]과 인접해야 합니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_QUOTE">
+			<Text>[NEWLINE]"거리로 말의 힘을 시험하듯이, 시간은 사람의 진정한 성품을 드러낸다." - 중국 속담[NEWLINE]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_PEDIA">
+			<Text>
+				[b]Shandan Jun Machang[/b] (산단 군마장)은 세계에서 가장 크고 오래된 군마 농장입니다. 헥시 회랑 지역에 위치하며, 간쑤성과 칭하이성을 포함해 320만 무(2,130 평방 킬로미터) 이상의 면적을 차지하고 있습니다. 기원전 121년 한나라 시대에 설립되어 2천 년 이상 전투마를 공급해 왔습니다.
+				[NEWLINE][NEWLINE]이곳의 광활한 평원은 이상적인 방목 조건을 갖추고 있으며, 여름에는 초록빛 초원, 겨울에는 황금빛 목초지가 펼쳐집니다. 전통적으로 군마 양성의 중심지였던 산단 군마장은 최근 환경 보호, 경마 산업, 관광 개발로 초점을 전환하였습니다. 현재 이 농장은 600마리 이상의 말과 함께 그 유산을 이어가고 있습니다.
+			</Text>
+		</Replace>		
+	</Language_KO_KR>
+</GameData>

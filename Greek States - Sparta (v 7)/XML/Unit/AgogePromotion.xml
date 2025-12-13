@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_AGOGE</Type>
+			<Description>TXT_KEY_PROMOTION_AGOGE</Description>
+			<Help>TXT_KEY_PROMOTION_AGOGE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CombatPercent>20</CombatPercent>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_AGOGE</PediaEntry>
+		</Row>
+	</UnitPromotions>				
+
+<Language_en_US>
+	<Row Tag="TXT_KEY_PROMOTION_AGOGE">
+		<Text>Мощь Спарты</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PROMOTION_AGOGE_HELP">
+		<Text>+20% к боевой мощи.</Text>
+	</Row>
+</Language_en_US>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_ELITE_HOPLITE</Type>
+			<PediaEntry>TXT_KEY_PROMOTION_ELITE_HOPLITE</PediaEntry>
+			<Description>TXT_KEY_PROMOTION_ELITE_HOPLITE</Description>
+			<Help>TXT_KEY_PROMOTION_ELITE_HOPLITE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<CannotBeChosen>true</CannotBeChosen>
+			<AdjacentMod>20</AdjacentMod>
+			<PortraitIndex>58</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_ELITE_HOPLITE">
+			<Text>Спартанцы никогда не сдаются!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELITE_HOPLITE_HELP">
+			<Text>+20% к боевой силе рядом с дружественным юнитом.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+			

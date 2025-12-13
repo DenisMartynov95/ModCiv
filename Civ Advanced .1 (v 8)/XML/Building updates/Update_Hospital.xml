@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/21/2014 10:11:07 PM -->
+<GameData>
+	<Buildings>
+		<Delete Type="BUILDING_HOSPITAL"/>
+		<Row>
+			<Type>BUILDING_HOSPITAL</Type>
+			<BuildingClass>BUILDINGCLASS_HOSPITAL</BuildingClass>
+			<Cost>360</Cost>
+			<GoldMaintenance>3</GoldMaintenance>
+			<PrereqTech>TECH_BIOLOGY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_HOSPITAL_STRATEGY</Help>
+			<Description>TXT_KEY_BUILDING_HOSPITAL</Description>
+			<Civilopedia>TXT_KEY_BUILDING_HOSPITAL_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_HOSPITAL_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_HOSPITAL</ArtDefineTag>
+			<FoodKept>15</FoodKept>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>45</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_HOSPITAL</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>0</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_HOSPITAL_STRATEGY"/>
+			<Set Text="15% of the [ICON_FOOD] Food is carried over after a [ICON_CITIZEN] Citizen is born.[NEWLINE][NEWLINE]The Hospital is vital for continued growth of the population in already big cities."/>
+		</Update>
+	</Language_en_US>
+</GameData>

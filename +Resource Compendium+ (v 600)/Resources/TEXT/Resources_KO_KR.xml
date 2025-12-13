@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_KO_KR>
+<!--===============================================================-->
+<!--===== Luxury Resource Changes =================================-->
+<!--===============================================================-->
+<!--Cinnamon (Spices)-->
+		<Replace Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>계피</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES">
+			<Text>계피</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES_TEXT">
+			<Text>계피는 계피나무 속의 나무의 내부 껍질에서 얻으며, 일반적으로 음식에 풍미를 더하는 향신료로 사용됩니다. 향신료는 식품의 맛, 색깔 또는 질감을 보존하고 강화하는 데 사용되는 식물 유래 물질입니다. 단순히 음식을 강화하는 것 외에도 일부 향신료는 약용 효과가 있거나 종교적으로 중요하거나 식품 보존에 유용합니다. 일반적으로 향신료는 음식을 조리하기 전에 건조하고 갈아야 합니다. 이 점이 세이지나 오레가노와 같은 허브와의 차이점입니다. 허브는 신선하거나 건조된 상태로 사용할 수 있습니다.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Luxury Resources ====================================-->
+<!--===============================================================-->
+<!--Amber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER">
+			<Text>호박</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER_PEDIA">
+			<Text>호박은 나무 수지가 화석화된 것으로, 신석기 시대 이래 그 색깔과 자연적인 아름다움으로 높은 평가를 받아 왔습니다. 고대부터 현재까지 보석으로 가치가 높으며, 다양한 장식품으로 만들어집니다. 호박은 향수의 재료, 민간 의학에서 치유제로, 그리고 보석으로 사용됩니다. 부드럽고 끈적끈적한 나무 수지에서 유래되었기 때문에, 호박에는 종종 동물 및 식물 물질이 포함되어 있습니다.</Text>
+		</Replace>
+<!--Coffee-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE">
+			<Text>커피</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE_PEDIA">
+			<Text>커피는 Coffea 속의 여러 종의 상록 관목에서 얻은 볶은 씨앗으로 만들어지는 음료입니다. 커피 마시기 또는 커피 나무에 대한 지식의 최초의 믿을 만한 증거는 15세기 중반 아라비아의 수도원에서 나타납니다. 여기서 커피 씨앗이 처음으로 볶아지고 양조되었습니다. 이 후, 무역을 통해 커피는 이탈리아 베네치아 항구로 퍼졌고, 그 후 유럽의 나머지 지역으로 전파되었습니다.</Text>
+		</Replace>
+<!--Coral-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL">
+			<Text>산호</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL_PEDIA">
+			<Text>산호는 폴립으로 알려진 작은 해양 동물이 만든 골격과 같은 구조입니다. 적색 산호, 또는 귀한 산호로 알려진 것은 가장 오래된 보석 중 하나로 고대부터 장식 용도로 수확되었습니다. 이는 진주, 호박, 상아, 제트와 같은 보석류로 분류되는 작은 유기물 보석입니다. 역사적으로, 귀한 산호는 단순히 장식의 가치뿐만 아니라 신비로운 신성한 속성을 가진 것으로 여겨졌습니다. 부적 및 약용으로 사용되었습니다. 오늘날 산호초의 과도한 수확과 기후 변화로 인한 위협을 막기 위해 법과 단체가 산호초를 보호합니다.</Text>
+		</Replace>
+<!--Jade-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE">
+			<Text>비취</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE_PEDIA">
+			<Text>비취는 장식용 돌로, 경옥과 경벽암 두 종류의 변성암을 포함합니다. 선사 시대 유적지에서 발견된 가장 초기의 비취 유물 중에는 구슬, 단추, 관형 장식품과 같은 단순한 장신구가 포함됩니다. 또한, 비취는 도끼 머리, 칼 및 정교하게 조형할 수 있는 다른 무기로 사용되었습니다. 금속 가공 기술이 가능해지면서 비취의 아름다움은 장신구와 장식품으로서의 가치를 높였습니다. 중국 역사에서 비취는 "황실 보석"으로 여겨지며, 금이나 은보다 더 높은 가치를 지녔습니다.</Text>
+		</Replace>
+<!--Lapis Lazuli-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS">
+			<Text>청금석</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS_PEDIA">
+			<Text>청금석은 강렬한 파란색을 가진 반보석으로, 고대부터 그 강렬한 색상으로 인해 소중히 여겨져 왔습니다. 아프가니스탄에서 6,000년 이상 동안 채굴되어 고대 이집트, 메소포타미아 문명, 나아가 그리스 및 로마에서도 청금석이 사용되었습니다. 청금석은 보석, 조각품, 꽃병 및 다른 장식품으로 만들어졌으며 특히 고대 이집트에서 높이 평가되었습니다. 또한, 청금석은 최고의 안료인 울트라마린을 만드는 데 사용되었으며, 이는 금보다 더 가치 있었습니다.</Text>
+		</Replace>
+<!--Olives-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES">
+			<Text>올리브</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES_PEDIA">
+			<Text>올리브는 올리브 나무의 열매로, 지중해 동부 해안, 북부 이라크, 그리고 카스피해 남부의 북부 이란 지역에 자생하는 작은 나무입니다. 올리브 열매는 지중해 지역에서 올리브 오일의 주요 공급원으로 중요한 농업 자원입니다. 올리브는 평화, 지혜, 영광, 다산, 권력, 순수함의 상징으로 여겨졌습니다. 올리브 오일은 오래전부터 신성한 것으로 여겨졌으며, 오늘날에도 여전히 많은 종교 의식에 사용됩니다.</Text>
+		</Replace>
+<!--Poppies-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES">
+			<Text>양귀비</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES_PEDIA">
+			<Text>양귀비는 양귀비과(Papaveraceae)에 속하는 꽃 식물입니다. 양귀비는 허브성 식물로, 종종 밝고 다채로운 꽃으로 인해 재배됩니다. 한 종인 Papaver somniferum은 모르핀과 같은 강력한 약용 알칼로이드가 포함된 마약성 약물 아편의 원료이며, 고대부터 진통제 및 마약성 약물로 사용되었습니다. 제1차 세계대전 당시 벨기에 플랑드르의 양귀비 들판에서 벌어진 참호전 이후, 양귀비는 전쟁 중 사망한 군인을 추모하는 상징으로 자리잡았습니다.</Text>
+		</Replace>
+<!--Roses-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES">
+			<Text>장미</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES_PEDIA">
+			<Text>
+				장미는 가장 유명하고 널리 재배된 꽃 중 하나로, 그 역사는 수천 년 전으로 거슬러 올라간다. 아시아가 원산지인 장미는 중국에서 처음 재배된 후 페르시아, 그리스, 로마로 퍼졌다. 장미는 향기, 아름다움, 약용 특성으로 인해 재배되었으며, 고대 로마에서는 사치의 상징으로 여겨져 연회, 향수, 심지어 화폐로도 사용되었다. 중세 시대에는 수도원과 귀족 영지에서 장미 정원을 가꾸어 장식적·치료적 용도로 활용했다.
+				[NEWLINE][NEWLINE]장미의 상징성은 유럽 역사, 특히 영국의 장미 전쟁과 깊이 연관되어 있다. 현대에 들어서도 장미는 사랑과 아름다움의 보편적인 상징으로 자리 잡았으며, 여전히 꽃 산업의 중요한 부분을 차지하고 있다. 또한 장미 오일과 장미수는 향수, 화장품, 요리 전통에서 지속적으로 사용되며, 장미가 지닌 문화적·경제적 가치를 강조한다.
+			</Text>
+		</Replace>
+<!--Seals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS">
+			<Text>물개</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_PEDIA">
+			<Text>물개는 바다표범과 같이 반수생 북극 동물을 통칭하는 이름입니다. 물개는 4,000년 이상 동안 이누이트족에 의해 모피, 지방, 고기로 사냥되어 왔습니다. 물개 사냥은 캐나다와 그린란드 같은 나라에서 오늘날에도 여전히 이루어지고 있습니다.[NEWLINE][NEWLINE]현대의 물개 사냥은 동물 권리 단체와 반모피 단체의 비판을 받아 논란의 대상이 되고 있으며, 물개 모피 산업에 대한 보이콧과 항의가 조직되고 있습니다. 물개 제품에 대한 수요 감소는 이누이트족의 생계와 세계화된 시장에 기여할 수 있는 능력에 심각한 부정적 영향을 미쳤습니다.</Text>
+		</Replace>
+<!--Tea-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA">
+			<Text>차</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA_PEDIA">
+			<Text>차는 차나무 잎을 뜨거운 물에 우려내어 만드는 향기로운 음료입니다. 차 마시는 문화는 중국 상나라 시대로 거슬러 올라가며, 처음에는 약용 목적으로 다른 허브와 결합하여 사용되었습니다. 16세기 포르투갈 선교사와 상인들이 중국에서 차를 접하면서 유럽에 전파되었으며, 17세기에 영국에서 인기를 얻어 결국 중국의 독점에 도전하게 되었습니다.</Text>
+		</Replace>
+<!--Tobacco-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO">
+			<Text>담배</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO_PEDIA">
+			<Text>담배는 식물 속 Nicotiana의 말린 잎으로 가공된 제품입니다. 담배는 시가, 담배, 코담배, 파이프 담배, 씹는 담배 및 향이 첨가된 물담배 등 다양한 형태로 사용됩니다. 많은 북미 원주민 부족은 오랫동안 담배를 재배하고 사용해왔으며, 멕시코의 일부 재배지는 기원전 1400~1000년까지 거슬러 올라갑니다. 유럽인들의 도래 이후, 담배는 점점 더 인기 있는 무역 품목이 되었고 자체 산업으로 성장했습니다.</Text>
+		</Replace>
+<!--Lavender-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER">
+			<Text>라벤더</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER_PEDIA">
+			<Text>
+				라벤더(Lavandula angustifolia)는 지중해 지역이 원산지인 향기로운 허브입니다. 향수, 오일 및 요리용 허브로 널리 재배됩니다. 라벤더는 수세기 동안 아름다움과 청결의 상징이었으며, 로마의 공중목욕탕부터 현대의 아로마테라피까지 다양한 분야에서 사용되었습니다. 그 에센셜 오일은 진정 효과로 유명하며 스트레스, 불안 및 수면 장애 치료에 사용됩니다.
+				[NEWLINE][NEWLINE]라벤더는 배수가 잘되는 토양과 햇빛이 잘 드는 기후를 선호하여 상업용 및 가정용 원예 모두에서 인기가 있습니다. 또한 정원에 색과 향을 더하는 조경에서의 역할로도 알려져 있습니다. 약용 및 장식용 외에도 라벤더는 프랑스, 불가리아, 영국과 같은 국가들의 경제에 기여하는 중요한 경제 자원입니다. 오늘날 라벤더는 약초 의학, 천연 미용 제품 및 요리에 필수적인 재료로 사용됩니다.
+			</Text>
+		</Replace>
+<!--Tulips-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS">
+			<Text>[COLOR_YIELD_FOOD]튤립[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TULIPS_PEDIA">
+			<Text>튤립은 터키와 중앙아시아에서 처음 재배되었으며, 16세기에 유럽으로 전해져 사치와 아름다움의 상징이 되었습니다. 17세기 네덜란드의 "튤립 열풍" 동안 그 인기는 급격히 상승했으며, 이는 최초의 금융 거품 사례로 여겨집니다. 오늘날 튤립은 화려한 색상과 우아한 꽃으로 사랑받으며, 네덜란드에서 대량 재배되고 전 세계 봄 축제에서 갱신과 아름다움을 상징합니다.</Text>
+		</Replace>
+		<!--TULIP FARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM">
+			<Text>튤립 농장</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_TULIPFARM_PEDIA">
+			<Text>
+				튤립 농장은 화려한 색상의 농업 플랜테이션으로, 부, 아름다움, 무역과 역사적으로 연관된 꽃인 튤립을 재배하는 데 전념합니다. 튤립은 중앙아시아에서 유래되었으며, 네덜란드에서 널리 재배되었습니다. 17세기 '튤립 열풍' 시기에 주요 상품으로 떠올랐습니다. 이러한 농장은 문화와 금을 제공하며, 관광을 유치하고 특히 비옥하거나 해안 인근의 땅에 세워질 경우 세련된 미학을 상징합니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_TULIPFARM">
+			<Text>[LINK=IMPROVEMENT_GAIA_TULIPFARM]튤립 농장[\LINK] 건설</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Bonus Resources =====================================-->
+<!--===============================================================-->
+<!--Berries-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES">
+			<Text>베리</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES_PEDIA">
+			<Text>베리는 작고 즙이 많으며 일반적으로 먹을 수 있는 열매입니다. 보통 베리는 즙이 많고, 둥글고, 밝은 색을 띠며, 달콤하거나 시큼하거나 쌉싸름할 수 있으며, 단단한 씨앗이 없지만 많은 씨앗이 포함될 수 있습니다. 일반적인 예로는 크랜베리, 딸기, 산딸기, 블루베리, 블랙베리, 허니베리, 검은 건포도가 있습니다. 베리는 농업이 시작되기 이전부터 인간에게 귀중한 식량 자원이었으며, 초기 수렵 채집인들에게는 수천 년 동안 계절별 필수 식량이었습니다. 시간이 지나면서 인간은 겨울에 사용할 수 있도록 베리를 저장하는 법을 배웠으며, 베리는 유럽 및 다른 나라에서도 재배되기 시작했습니다. 루부스(Rubus) 속의 일부 블랙베리와 산딸기 종은 17세기부터 재배되었으며, Vaccinium 속의 매끄러운 블루베리와 크랜베리는 미국에서 1세기 이상 동안 재배되었습니다.</Text>
+		</Replace>
+<!--Cactus-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS">
+			<Text>선인장</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS_PEDIA">
+			<Text>선인장은 석죽목(Caryophyllales)에 속하는 약 127개의 속과 1750종의 식물을 포함하는 선인장과(Cactaceae)의 식물입니다. "선인장"이라는 단어는 라틴어를 통해 고대 그리스어 κάκτος(káktos)에서 유래했으며, 이는 원래 Theophrastus가 특정 가시 식물을 지칭하는 데 사용한 이름입니다. 선인장은 다양한 크기와 형태로 나타나며, 일부 종은 매우 건조한 환경, 심지어 세계에서 가장 건조한 지역 중 하나인 아타카마 사막에서도 서식합니다. 선인장은 물 보존을 위해 여러 적응을 보여주며, 대부분의 선인장은 다육 식물로, 물 저장에 적합하도록 두껍고 육질화된 부분을 가지고 있습니다. 선인장은 북미 대륙 원산으로, 북서 캐나다부터 남미의 파타고니아에 이르는 지역에 자생합니다. 단, Rhipsalis baccifera는 아프리카와 스리랑카에서도 자랍니다.</Text>
+		</Replace>
+<!--Coconuts-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS">
+			<Text>코코넛</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_PEDIA">
+			<Text>코코넛은 음식에서 화장품에 이르기까지 다양한 용도로 알려져 있습니다. 성숙한 씨앗의 내부 과육과 추출된 코코넛 밀크는 열대 및 아열대 지역 사람들의 식단의 일반적인 일부를 형성합니다. 단단한 껍질, 섬유질 껍질 및 긴 깃털 모양의 잎은 다양한 가구 및 장식 제품을 만드는 재료로 사용할 수 있습니다. 코코넛은 또한 특정 사회, 특히 인도에서 힌두교 의식에 사용되면서 문화적, 종교적 의미를 가지고 있습니다.</Text>
+		</Replace>
+<!--Flax-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX">
+			<Text>아마</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX_PEDIA">
+			<Text>
+				아마 또는 아마씨로도 알려진 아마는 아마과(Linaceae)에 속하는 꽃 식물 Linum usitatissimum입니다. 온대 기후 지역에서 식량 및 섬유 작물로 재배됩니다. 아마로 만든 섬유는 리넨으로 알려져 있으며 전통적으로 침대 시트, 속옷, 테이블 리넨에 사용됩니다. 아마씨에서 추출한 기름은 아마유로 알려져 있습니다. 아마는 고대 이집트에서 광범위하게 재배되었으며, 신전 벽화에는 꽃이 핀 아마가 묘사되어 있고 미라 제작에 리넨이 사용되었습니다.
+				[NEWLINE][NEWLINE]로마 제국 쇠퇴 이후 플랑드르가 중세 유럽 리넨 산업의 중심지가 되었고, 북미로 이식된 아마는 번창했지만 20세기 초에는 저렴한 면화와 증가하는 농업 임금으로 인해 아마 생산이 북부 러시아에 집중되었습니다.
+			</Text>
+		</Replace>
+<!--Lakefish-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH">
+			<Text>호수 어류</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH_PEDIA">
+			<Text>호수 어류는 호수, 연못, 저수지에서 흔히 발견되는 담수 어종입니다. 여기에는 송어, 농어, 배스, 가물치와 같은 다양한 어종이 포함됩니다. 호수 어류는 수천 년 동안 인간의 식단과 문화에서 중요한 역할을 했으며, 신뢰할 수 있는 단백질 공급원이었습니다. 일부 종은 레저 낚시와 전 세계 양식업에서도 가치가 높습니다.</Text>
+		</Replace>
+<!--Maize-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE">
+			<Text>옥수수</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE_PEDIA">
+			<Text>옥수수는 약 10,000년 전 남부 멕시코의 토착민에 의해 처음으로 재배된 곡물 작물입니다. 옥수수는 전 세계적으로 널리 재배되고 있으며, 매년 생산되는 곡물 중에서 가장 큰 비중을 차지합니다.</Text>
+		</Replace>
+<!--Rice-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE">
+			<Text>쌀</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE_PEDIA">
+			<Text>쌀은 세계 인구의 상당 부분, 특히 아시아 지역에서 가장 널리 소비되는 주요 식량 작물입니다. 쌀은 사탕수수와 옥수수에 이어 세계에서 세 번째로 높은 생산량을 가진 농업 상품입니다. 그러나 사탕수수와 옥수수 작물의 상당 부분이 인간 소비 외의 목적으로 사용되므로, 인간 영양 및 열량 섭취와 관련하여 쌀은 가장 중요한 곡물로 간주됩니다. 쌀 재배는 노동 비용이 낮고 강수량이 많은 국가와 지역에 적합하며, 재배 노동이 집약적이고 충분한 물이 필요합니다. 하지만 쌀은 물을 제어하는 계단식 재배 시스템을 사용하여 산악 지역에서도 재배할 수 있습니다. 쌀의 원종은 아시아와 아프리카의 특정 지역에 자생했으나, 수 세기에 걸친 무역과 수출로 인해 많은 문화에서 흔히 볼 수 있는 곡물이 되었습니다.</Text>
+		</Replace>
+<!--Rubber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER">
+			<Text>고무</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_PEDIA">
+			<Text>고무는 메소아메리카 원주민 문화에서 처음 사용되었습니다. 고무의 사용에 대한 가장 초기 고고학적 증거는 올멕 문화에서 발견되며, 이들은 고무를 사용해 중남미 공놀이에 사용하는 공을 만들었습니다. 이후 마야와 아즈텍 문화는 고무를 사용해 용기 제작과 직물 방수에도 사용했습니다. 천연 고무는 방수성과 탄성으로 인해 다양한 응용 분야에서 널리 사용됩니다.</Text>
+		</Replace>
+<!--Timber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER">
+			<Text>목재</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_PEDIA">
+			<Text>목재는 건설 및 기타 용도로 적합한 나무 자재입니다. 이는 낙엽수 또는 상록수로 구성된 온대 및 열대 숲에서 수확됩니다. 목재는 강도, 내구성 및 다목적으로 높은 가치를 지닙니다. 건축, 선박 제작, 가구 제작, 도구, 바닥재, 악기 및 배럴 제작에 널리 사용됩니다. 또한 연료 및 목탄 제조의 원료로도 사용됩니다.</Text>
+		</Replace>
+<!--Tin-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN">
+			<Text>주석</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN_PEDIA">
+			<Text>주석은 주로 방연석에서 얻는 금속입니다. 주석 추출 및 사용은 기원전 3000년경 청동기 시대 초기에 시작되었으며, 당시 매우 귀중한 금속으로 간주되었습니다. 구리와 혼합하면 더 강력하고 유용한 합금인 청동(주석 1/8, 구리 7/8)이 됩니다. 오늘날 주석은 납땜에 주요 성분으로 사용되며, 낮은 독성으로 인해 식품 포장 캔의 도금에도 사용됩니다.</Text>
+		</Replace>
+<!--KELP-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP">
+			<Text>켈프</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_KELP_PEDIA">
+			<Text>
+				켈프는 얕고 영양이 풍부한 바다에서 자라는 빠르게 성장하는 해조류로, 해안선을 따라 거대한 해저 숲을 형성합니다. 식물처럼 보이지만, 켈프는 6~14 °C의 차가운 바다에서 자라는 갈조류의 일종입니다.
+				[NEWLINE][NEWLINE]켈프 숲은 다양한 해양 생물에게 먹이와 서식지를 제공하며, 연안 생태계에서 중요한 역할을 합니다. 일부 종은 하루에 0.5미터까지 자라며, 최대 30미터 이상의 길이에 도달할 수 있습니다. 식용, 비료, 산업 재료로도 활용되는 켈프는 자연의 풍요로움과 해양 회복력을 상징합니다.
+			</Text>
+		</Replace>
+		<!--KELPFARM-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM">
+			<Text>켈프 농장</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAFARM_PEDIA">
+			<Text>
+				해조류 또는 켈프 농장은 해조를 재배하고 수확하는 방식입니다. 가장 단순한 형태로는 자연적으로 존재하는 해조 더미를 관리하는 것이며, 가장 발전된 형태로는 조류의 생애 주기를 완전히 제어하는 방식이 포함됩니다. 가장 많이 재배되는 해조류는 Eucheuma spp., Kappaphycus alvarezii, Gracilaria spp., Saccharina japonica, Undaria pinnatifida, Pyropia spp., Sargassum fusiforme입니다. 주요 해조류 생산국은 중국, 인도네시아, 필리핀이며, 한국, 일본, 말레이시아 및 잔지바르(탄자니아)도 중요한 생산국으로 알려져 있습니다. 해조류 농업은 경제 개선과 남획된 어장의 부담을 줄이는 대안으로 발전해 왔습니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAFARM">
+			<Text>[LINK=IMPROVEMENT_GAIA_SEAFARM]켈프 농장[\LINK]을 건설합니다.</Text>
+		</Replace>
+<!--MINERALS-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS">
+			<Text>해저 광물</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MINERALS_PEDIA">
+			<Text>
+				해저 광물은 수심 600~7000미터에서 발견되며, 세 가지 주요 유형으로 나뉩니다:
+				[NEWLINE][NEWLINE]1) 다금속 괴석은 수심 4~6km의 심해 평원에서 형성되며, 상어 이빨 같은 핵 주위로 천천히 자랍니다. 이들은 망간, 코발트, 니켈, 구리, 희토류가 풍부합니다. 주요 매장지는 태평양의 클라리온-클리퍼턴 지대와 쿡 제도 근처에 있습니다.
+				[NEWLINE][NEWLINE]2) 해저 황화물 매장지는 해저 열수 분출공 근처의 1~4km 깊이에서 생성되며, 주로 해령이나 호상열도 주변에 위치합니다. 구리, 금, 납, 은 등 귀금속이 풍부하며, 파푸아뉴기니, 통가, 중앙대서양 해령 근처에서 발견됩니다.
+				[NEWLINE][NEWLINE]3) 코발트 풍부한 암반은 수심 600~7000m의 해저 산과 능선에서 얇은 층으로 형성되며, 코발트, 니켈, 백금, 희토류 금속이 포함되어 있습니다. 미크로네시아, 키리바시 주변을 포함한 전 세계 바다에서 광범위하게 발견됩니다.
+			</Text>
+		</Replace>
+		<!--DEEP SEA MINE-->
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE">
+			<Text>심해 광산</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_GAIA_SEAMINE_PEDIA">
+			<Text>
+				심해 광산은 실험적 해저 광업의 한 분야로, 해저 200m에서 최대 6500m 깊이에서 광물과 퇴적물을 채굴하는 작업을 포함합니다. 2021년 기준, 대부분의 해양 광업은 얕은 연안 지역에서 이루어지며, 모래, 주석, 다이아몬드 등의 자원이 쉽게 채굴됩니다. 심해 광산에는 크게 세 가지 유형이 있으며, 이는 다금속 단괴 채굴, 다금속 황화 광상 채굴, 코발트가 풍부한 철망간각 채굴입니다. 대부분의 심해 광산 지역은 다금속 단괴가 존재하는 곳이나 1,400~3,700m 깊이의 활동 중이거나 소멸한 열수 분출구 근처에 위치해 있습니다. 이 열수 분출구에서는 은, 금, 구리, 망간, 코발트, 아연 등 귀금속이 포함된 대량의 황화 광상이 생성됩니다. 채굴 방식으로는 유압 펌프 또는 버킷 시스템을 사용하여 광석을 수면으로 끌어올립니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_GAIA_SEAMINE">
+			<Text>[LINK=IMPROVEMENT_GAIA_SEAMINE]심해 광산[\LINK]을 건설합니다.</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW City-State Resources ================================-->
+<!--===============================================================-->
+<!--Carpets-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS">
+			<Text>카펫</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_PEDIA">
+			<Text>카펫은 수공예 또는 공장에서 제작된 제품으로, 수세기 동안 집을 장식하며 안락함과 장인 정신의 상징이 되었습니다. 과거에는 왕족에게만 허용되었으나, 이제는 전 세계적으로 공간을 장식하며 예술적 유산과 실용성을 조화롭게 결합하고 있습니다.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CARPETS_HELP">
+			<Text>카펫은 상업 도시 국가를 통해서만 획득할 수 있습니다.</Text>
+		</Replace>
+<!--Furniture-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE">
+			<Text>가구</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_PEDIA">
+			<Text>
+				가구는 고대부터 인간 문명의 핵심적인 부분으로, 초기 예시는 신석기 시대까지 거슬러 올라갑니다. 고대 이집트인, 그리스인, 로마인들은 종종 상아와 금으로 장식된 정교한 나무 가구를 만들었습니다. 이러한 초기 가구들은 지위와 세련됨의 상징으로, 가장 부유한 가정에서는 정교한 디자인을 의뢰했습니다.
+				[NEWLINE][NEWLINE]르네상스 시대에는 가구 제작이 예술적 분야로 발전하였으며, 유럽의 장인들은 새로운 기술과 재료를 도입했습니다. 산업 혁명은 이후 생산 방식을 혁신하여 가구가 일반 대중에게도 더 접근할 수 있게 만들었습니다. 오늘날 가구는 여전히 기능적인 필요와 예술적 표현의 형태로 남아 있으며, 전통적인 수공예와 현대적인 생산 방식이 글로벌 시장에서 공존하고 있습니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FURNITURE_HELP">
+			<Text>가구는 상업 도시 국가를 통해서만 구할 수 있습니다.</Text>
+		</Replace>
+<!--Glassware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE">
+			<Text>유리</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_PEDIA">
+			<Text>유리는 일반적으로 투명하고 깨지기 쉬운 고체 재료로, 수세기 동안 창문과 음료 용기로 사용되었습니다. 유리 제작의 역사는 기원전 3500년 메소포타미아로 거슬러 올라갑니다. 유리라는 용어는 로마 제국 말기에 발전했으며, 이탈리아 베네치아 무라노섬은 14세기 이후 유리 제작의 중심지로서 기술 혁신을 이끌었습니다.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_HELP">
+			<Text>유리는 상업 도시 국가를 통해서만 얻을 수 있습니다.</Text>
+		</Replace>
+<!--Lacquerware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE">
+			<Text>칠기</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_PEDIA">
+			<Text>칠기는 나무에서 추출한 천연 수지인 래커 층으로 코팅된 장식품을 말합니다. 이러한 품목은 종종 나무나 금속으로 만들어지며, 때로는 금, 은, 자개 등의 상감으로 강조된 복잡한 디자인이 특징입니다. 래커는 제품을 보호하면서도 미적 매력을 높이는 광택 있고 내구성이 뛰어난 마감재를 제공합니다. 칠기는 수세기 동안 동아시아와 동남아시아에서 예술성의 상징으로 여겨졌으며, 그 아름다움과 장인 정신으로 높이 평가받고 있습니다.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_HELP">
+			<Text>칠기는 상업 도시 국가를 통해서만 얻을 수 있습니다.</Text>
+		</Replace>
+<!--Mosaic Tiles-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES">
+			<Text>모자이크 타일</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_PEDIA">
+			<Text>모자이크 타일은 작은 조각의 색색 돌, 유리 또는 세라믹을 조합하여 복잡한 무늬나 이미지를 만드는 고대의 장식 예술 형식입니다. 로마와 비잔틴 제국과 같은 고대 문명에 의해 대중화되어 궁전, 사원, 공공 건물의 벽, 바닥, 천장을 장식했습니다. 이는 예술적 기술과 문화적 유산을 상징하며, 기능성과 아름다움을 결합합니다. 오늘날 모자이크 타일은 현대 건축과 디자인에 우아함을 더하며 여전히 사랑받는 공예입니다.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MOSAICTILES_HELP">
+			<Text>모자이크 타일은 상업 도시 국가에서만 얻을 수 있습니다.</Text>
+		</Replace>
+<!--Perfume-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME">
+			<Text>향수</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_PEDIA">
+			<Text>
+				향수 제조는 가장 초기 문명에서 시작되었으며, 메소포타미아와 이집트인들이 향기로운 오일과 수지를 처음 사용했습니다. 고대 이집트 왕족은 의식에서 향수를 광범위하게 사용했으며, 그리스와 로마인들은 이 관습을 확장시켜 그들의 제국 전역에서 이국적인 재료들을 도입했습니다. 꽃에서 추출한 에센셜 오일, 특히 장미에서 추출한 오일은 페르시아에서 완성되었으며, 그 후 아라비아, 인도, 유럽으로 전파되었습니다.
+				[NEWLINE][NEWLINE]르네상스 시대에는 향수 생산이 프랑스에서 번성했으며, 특히 그라스 시가 유럽 향수 산업의 중심지로 자리잡았습니다. 19세기 현대 화학의 발전은 합성 향수를 만들어내며 산업을 혁신했습니다. 오늘날 향수는 여전히 예술과 과학을 결합한 고급 제품으로, 세계에서 가장 유명한 브랜드들이 수천 년 전의 전통을 이어가고 있습니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_PERFUME_HELP">
+			<Text>향수는 상업 도시 국가를 통해서만 구할 수 있습니다.</Text>
+		</Replace>
+<!--Obsidian-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN">
+			<Text>흑요석</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_PEDIA">
+			<Text>
+				흑요석은 용암이 급격히 냉각되면서 결정이 형성되지 않아 자연적으로 생성되는 화산 유리입니다. 단단한 암석과 달리 조개껍질처럼 깨지는 특징이 있어 매우 날카로운 날을 만들 수 있으며, 구석기 시대에는 최고의 도구 및 무기 재료로 사용되었습니다. 아메리카, 중동 등 여러 문명에서 흑요석은 실용성뿐만 아니라 검은빛 광택 덕분에 의식 및 교역의 주요 자원으로도 활용되었습니다.
+				[NEWLINE][NEWLINE]흑요석의 독특한 성질은 석기 시대 이후에도 지속적으로 사용될 수 있는 이유였습니다. 아즈텍 제사장은 흑요석 칼을 사용하여 의식적인 제물을 바쳤으며, 일부 문화에서는 흑요석을 거울이나 장신구로 가공했습니다. 오늘날에는 특수 외과 수술용 메스에 사용될 만큼 정밀한 절삭력이 입증되었습니다. 금속 도구가 실용적인 면에서 흑요석을 대체했지만, 여전히 인류 초기 기술의 상징으로 남아 있습니다.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OBSIDIAN_HELP">
+			<Text>흑요석은 [COLOR_YELLOW]석기 공방[ENDCOLOR]을 건설해야 얻을 수 있습니다.</Text>
+		</Replace>
+	</Language_KO_KR>
+</GameData>

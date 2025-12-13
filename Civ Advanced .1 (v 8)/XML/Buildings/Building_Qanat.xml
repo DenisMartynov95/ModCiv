@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/14/2014 8:12:15 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_QANAT</Type>
+			<DefaultBuilding>BUILDING_QANAT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_QANAT</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_QANAT</Type>
+			<BuildingClass>BUILDINGCLASS_QANAT</BuildingClass>
+			<Cost>230</Cost>
+			<GoldMaintenance>3</GoldMaintenance>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<Description>TXT_KEY_BUILDING_QANAT</Description>
+			<Civilopedia>TXT_KEY_BUILDING_QANAT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_QANAT_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_QANAT_HELP</Help>
+			<NearbyTerrainRequired>TERRAIN_DESERT</NearbyTerrainRequired>
+			<FreshWater>true</FreshWater>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>15</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_TerrainYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_QANAT</BuildingType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_TerrainYieldChanges>
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_QANAT</BuildingType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_QANAT</BuildingType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-1</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_QANAT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_QANAT</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_QANAT</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_QANAT">
+			<Text>Qanat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QANAT_HELP">
+			<Text>+1 [ICON_FOOD] Food for each Desert tile (but not oasis or Flood Plains) worked by this City. May only be built on or next to a Desert and next to a source of fresh water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QANAT_STRATEGY">
+			<Text>The Qanat is a Classical-era building which increases a Desert City's Growth by enhances Desert tiles. May only be built on or next to a Desert and next to a source of fresh water. Being an underground structure it is also immune to nukes and collateral damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QANAT_PEDIA">
+			<Text>A Qanat is a series of well-like vertical shafts, connected by gently sloping tunnels and create a reliable supply of water for human settlements and irrigation in hot, arid, and semi-arid climates. The Qanat technology is known to have been developed by the Persian people sometime in the early 1st millennium BC and spread from there slowly westward and eastward.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/2/2014 3:48:18 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SUPERCOMPUTER</Type>
+			<DefaultBuilding>BUILDING_SUPERCOMPUTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SUPERCOMPUTER</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SUPERCOMPUTER</Type>
+			<BuildingClass>BUILDINGCLASS_SUPERCOMPUTER</BuildingClass>
+			<Cost>1000</Cost>
+			<GoldMaintenance>10</GoldMaintenance>
+			<PrereqTech>TECH_LASERS</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SUPERCOMPUTER</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SUPERCOMPUTER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SUPERCOMPUTER_STRATEGY</Strategy>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>21</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SUPERCOMPUTER</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUPERCOMPUTER</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_SUPERCOMPUTER</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_SUPERCOMPUTER</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_ACCELERATOR</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SUPERCOMPUTER">
+			<Text>Supercomputer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERCOMPUTER_STRATEGY">
+			<Text>The Supercomputer is a Information era building which gives a large bonus to [ICON_RESEARCH] Science output of a City. The City must first have a Particle accelerator.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERCOMPUTER_PEDIA">
+			<Text>A supercomputer is a computer at the frontline of contemporary processing capacity – particularly calculation which can happen at speeds of nanoseconds. Supercomputers are large and often very expensive constructs that crunch vast amounts of data and run complex simulations.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

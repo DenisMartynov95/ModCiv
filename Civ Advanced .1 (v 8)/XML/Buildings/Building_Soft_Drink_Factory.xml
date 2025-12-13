@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/30/2014 10:52:47 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SOFT_DRINK_FACTORY</Type>
+			<DefaultBuilding>BUILDING_SOFT_DRINK_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SOFT_DRINK_FACTORY</Description>
+			<MaxPlayerInstances>3</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SOFT_DRINK_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_SOFT_DRINK_FACTORY</BuildingClass>
+			<Cost>450</Cost>
+			<PrereqTech>TECH_SCIENTIFIC_THEORY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SOFT_DRINK_FACTORY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SOFT_DRINK_FACTORY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SOFT_DRINK_FACTORY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SOFT_DRINK_FACTORY_HELP</Help>
+			<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>43</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_SOFT_DRINK</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_SUGAR</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_APPLE</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_SUGAR</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOFT_DRINK_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_APPLE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SOFT_DRINK_FACTORY">
+			<Text>Soft Drink Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOFT_DRINK_FACTORY_HELP">
+			<Text>+ 1 [ICON_RES_SOFT_DRINK] Soft Drink luxury. Each source of [ICON_RES_CITRUS] Citrus, [ICON_RES_APPLE] Apple and [ICON_RES_SUGAR] Sugar worked by this City produces +1 [ICON_GOLD] Gold. Improved trade route [ICON_GOLD] income to and from this City. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOFT_DRINK_FACTORY_STRATEGY">
+			<Text>The Soft Drink Factory is a Industrial Era building which grants 1 source of [ICON_RES_SOFT_DRINK] Soft Drink and increases a City's [ICON_GOLD] Gold income from [ICON_RES_CITRUS] Citrus, [ICON_RES_APPLE] Apple, [ICON_RES_SUGAR] Sugar and trade. It requires an improved source of any near your City to be built. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOFT_DRINK_FACTORY_PEDIA">
+			<Text>In 1767, Englishman Joseph Priestley first discovered a method of infusing water with carbon dioxide to make carbonated water when he suspended a bowl of distilled water above a beer vat at a local brewery. Artificial mineral waters or soda water were mostly popular in the United States. Beginning in 1806, Yale University chemistry professor Benjamin Silliman sold soda waters in New Haven, Connecticut.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

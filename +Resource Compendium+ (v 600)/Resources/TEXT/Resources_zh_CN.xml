@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_zh_CN>
+<!--===============================================================-->
+<!--===== Luxury Resource Changes =================================-->
+<!--===============================================================-->
+<!--Cinnamon (Spices)-->
+		<Replace Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>肉桂</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES">
+			<Text>肉桂</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_RESOURCE_SPICES_TEXT">
+			<Text>肉桂是从肉桂树的内部树皮中提取的，通常用作咸味食物的芳香香料，能保存和增强食物的味道、颜色或质地。肉桂也有药用价值和宗教意义。一般来说，肉桂在使用前必须被烘干并碾碎，这与通常被烘干或直接使用的绿色带叶的香草类植物，比如鼠尾草、牛至等有所不同。</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Luxury Resources ====================================-->
+<!--===============================================================-->
+<!--Amber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER">
+			<Text>琥珀</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_AMBER_PEDIA">
+			<Text>琥珀是一种树脂化石，自新石器时代以来就因其颜色和自然美而受到赞赏。琥珀从古至今都是一种很受重视的宝石，被制成各种各样的装饰品。琥珀的初始形态是一种柔软、粘稠的树脂，有时含有动物和植物成分作为夹杂物，因此被用作香水、珠宝和民间医药的治疗剂。</Text>
+		</Replace>
+<!--Coffee-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE">
+			<Text>咖啡</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COFFEE_PEDIA">
+			<Text>咖啡是一种由咖啡属常绿灌木的种子烘烤而成的冲泡饮料。关于咖啡饮用或咖啡树知识的最早确凿证据来自15世纪中叶的也门苏菲派寺庙。咖啡种子在那里第一次被烘烤和冲泡，与今天的咖啡制作方式相似。在16世纪，咖啡已经传播到了萨法维帝国和奥斯曼帝国，并通过贸易到达意大利的威尼斯港口，从那里被引入欧洲其他地区，并由荷兰人运往东印度群岛和美洲。</Text>
+		</Replace>
+<!--Coral-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL">
+			<Text>珊瑚</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CORAL_PEDIA">
+			<Text>珊瑚是一种由水螅形成的分支骨架状结构。其中红珊瑚被称为珍贵的珊瑚，是最古老的宝石之一，自古以来就被收获用于装饰用途。珊瑚不是真正的石头，而是有机宝石的一种，有机宝石包括珍珠、琥珀、象牙、煤玉等等。历史上，珊瑚不仅是一种非常珍贵的装饰形式，也被认为是一种具有神圣属性的物质。除了作为一种神秘学的护身符，珊瑚还具有许多药用价值。今天，法律和组织帮助保护珊瑚礁，因为它们的数量受到过度捕捞、过度捕捞和气候变化的威胁。</Text>
+		</Replace>
+<!--Jade-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE">
+			<Text>翡翠</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_JADE_PEDIA">
+			<Text>翡翠是一种观赏玉石，在史前遗址出土的已知最早的翡翠玉器中，有珠、钮扣和管状的简单装饰物。此外，翡翠还被用来制作形状精美的斧头、刀和其他武器。随着金属加工技术的发展，翡翠的美丽使其成为了一种装饰品。在中国历史上，翡翠被视为“帝王宝石”，其地位价值超过了黄金或白银。</Text>
+		</Replace>
+<!--Lapis Lazuli-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS">
+			<Text>青金石</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAPIS_PEDIA">
+			<Text>青金石是一种深蓝色的半宝石，自古以来因其强烈的颜色而备受珍视。青金石具有极好的抛光效果，被用于制作珠宝、雕刻、花瓶和其他装饰品，尤其受到古埃及人的喜爱。它也可以被磨碎并加工成最受欢迎的颜料群青，价值超过黄金。在文艺复兴时期，这种有价值的颜料被谨慎使用，并经常被保留用于为圣母玛丽和其他重要宗教人物的长袍着色。青金石在阿富汗已经开采了6000多年，是两河文明和古埃及以及后来的希腊人和罗马人的主要宝石来源。</Text>
+		</Replace>
+<!--Olives-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES">
+			<Text>橄榄</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_OLIVES_PEDIA">
+			<Text>橄榄是木犀科的一种小树，原产于地中海东部沿海地区、伊拉克北部和里海以南的伊朗北部沿海地区。橄榄的果实是橄榄油的来源，在地中海地区的农业具有重要的地位。橄榄一直是和平、智慧、荣耀、多产、力量和纯洁的象征。橄榄油自古被认为是神圣的，到今天仍然被用于许多宗教仪式。</Text>
+		</Replace>
+<!--Perfume-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES">
+			<Text>香水</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_ROSES_PEDIA">
+			<Text>香水在一些最早的人类文明中就出现了，制造香水的艺术起源于两河文明和古埃及，并由罗马人和波斯人进一步完善。玫瑰香水的生产技术起源于波斯，然后传播到阿拉伯和印度，最后传播到东欧。玫瑰油是从各种玫瑰的花瓣中提取的精油，由于劳动密集型的生产过程和玫瑰花中的油含量低，玫瑰油的价格非常高，即便如此，它仍然是香水中使用最广泛的精油。</Text>
+		</Replace>
+<!--Tea-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA">
+			<Text>茶叶</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TEA_PEDIA">
+			<Text>茶是一种芳香饮料，通常通过将热水浇在茶树的固化叶子上制备。饮茶可能始于中国商朝时期，当时茶最初用于医药目的，并与其他草药结合使用。16世纪，茶首先被介绍给了在中国的葡萄牙牧师和商人，后来17世纪在英国流行，最终导致英国与中国的垄断竞争。</Text>
+		</Replace>
+<!--Tobacco-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO">
+			<Text>烟草</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TOBACCO_PEDIA">
+			<Text>烟草是由烟草属植物的干叶加工而成的产品，可用于雪茄和香烟、鼻烟、烟斗烟、咀嚼烟草和调味水烟。许多美洲土著部落都有使用烟草的传统，墨西哥种植烟草的历史可追溯到公元前1400-1000年。北美东部部落将大量烟草装在袋子中，作为一种畅销的贸易品。无论是在特定的神圣仪式上，还是为了达成交易，印第安人都经常在和平烟斗中吸烟。随着欧洲人的到来，烟草作为一种贸易品越来越受欢迎，并发展成为自己的行业。</Text>
+		</Replace>
+<!--Lavender-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER">
+			<Text>薰衣草</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAVENDER_PEDIA">
+			<Text>薰衣草是唇形科的开花植物，作为园林和景观用的观赏植物，也可以用于烹饪和提取精油。薰衣草原产于旧世界，从佛得角和加那利群岛、欧洲到非洲北部和东部、地中海、亚洲西南部到印度东南部，在温带气候中广泛栽培。</Text>
+		</Replace>
+<!--Poppy-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES">
+			<Text>罂粟</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_POPPIES_PEDIA">
+			<Text>罂粟是罂粟科的开花植物，通常因其鲜艳的花朵而种植。罂粟也是麻醉药品鸦片的来源，鸦片含有吗啡等强大的药用生物碱，自古以来就被用作止痛药和麻醉药物。第一次世界大战期间，比利时佛兰德斯的罂粟田发生了惨烈的堑壕战，罂粟因此成为纪念战时阵亡士兵的象征。</Text>
+		</Replace>
+<!--Seals-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS">
+			<Text>海豹</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_SEALS_PEDIA">
+			<Text>海豹是鳍足类半水生北极生物的通用名称。4000多年来，因纽特人一直在猎杀海豹，以获取它们的毛皮、脂肪和肉。如今，在加拿大和格陵兰岛仍有海豹狩猎活动。现代的海豹狩猎活动是一个争议性的话题，受到动物保护组织的抨击，他们组织了对海豹毛皮行业的抗议和抵制。海豹的经济价值已经受到抵制运动的影响，这些运动旨在避免在时尚和消费中使用海豹产品。海豹产品需求的减少对因纽特人及其为全球化世界市场做出贡献的能力产生了强烈的负面影响。</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Bonus Resources =====================================-->
+<!--===============================================================-->
+<!--Rice-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE">
+			<Text>水稻</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RICE_PEDIA">
+			<Text>水稻是世界上大部分人口特别是在亚洲最广泛消费的主食，也是仅次于甘蔗和玉米的世界第三大农产品。由于甘蔗和玉米作物的很大一部分用于人类消费以外的目的，水稻成为了人类营养和热量摄入方面最重要的粮食，提供了全世界人类消费热量的五分之一以上。因为水稻种植需要大量劳动力和充足的水分，水稻非常适合种植在劳动力成本低、降雨量高的国家和地区。然而水稻几乎可以在任何地方种植，即使在陡峭的丘陵或山区，也可以使用控水梯田系统。尽管水稻原产于亚洲和非洲某些地区，但数百年的贸易和出口使其在世界各地的许多文化中司空见惯。</Text>
+		</Replace>
+<!--Maize-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE">
+			<Text>玉米</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_MAIZE_PEDIA">
+			<Text>玉米是一种谷物，产量高，品质好，适应性强，在全世界广泛种植。大约10000年前墨西哥南部的土著人首次驯化玉米，悠久的玉米文化历史使墨西哥人对玉米的种植和加工技术的锤炼达到了极致。对墨西哥人来说，玉米绝不仅仅是食物，而是神物，是千百年历史中印第安人宗教中崇拜的对象。古印第安神谱中，有好几位玉米神，例如辛特奥特尔玉米神、西洛嫩女神、科麦科阿特尔玉米穗女神等，他们都象征着幸福和运气。</Text>
+		</Replace>
+<!--Berries-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES">
+			<Text>浆果</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_BERRIES_PEDIA">
+			<Text>浆果是一种肉质多汁的小型水果，圆润、颜色鲜艳、口感酸甜、没有核，包括蔓越莓、草莓、覆盆子、蓝莓、黑莓、蜜莓和黑醋栗等。自农业开始之前，浆果就一直是人类宝贵的食物来源，数千年来一直是早期狩猎采集者的季节性主食。随着时间的推移，人类学会了储存浆果，以便在冬季使用。浆果也开始在欧洲和其他国家种植。一些种类的黑莓和红莓自17世纪以来就开始种植，而蓝莓和蔓越莓在美国已经种植了一个多世纪。</Text>
+		</Replace>
+<!--Cactus-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS">
+			<Text>仙人掌</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_CACTUS_PEDIA">
+			<Text>仙人掌有各种各样的形状和大小。尽管有些物种生活在相当潮湿的环境中，但大多数仙人掌的栖息地至少会受到一些干旱的影响。许多仙人掌生活在极其干燥的环境中，甚至在地球上最干燥的地方之一的阿塔卡马沙漠也有发现。正因为如此，仙人掌表现出许多节水的适应性，几乎所有的仙人掌都是多肉植物，这意味着它们有加厚的多肉部分，可以储存水分。与许多其他多肉植物不同，茎是大多数仙人掌中唯一发生这一重要过程的部分。大多数种类的仙人掌都失去了真正的叶子，只保留了刺，刺是经过高度修饰的叶子。除了抵御草食性动物外，刺还通过减少仙人掌附近的气流和提供一些阴凉来帮助防止水分流失。在没有真叶的情况下，仙人掌增大的茎进行光合作用。仙人掌原产于美洲，从南部的巴塔哥尼亚到北部的加拿大西部部分地区，也分布在非洲和斯里兰卡。</Text>
+		</Replace>
+<!--Coconut-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS">
+			<Text>椰子</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_COCONUTS_PEDIA">
+			<Text>椰子是棕榈科的植物，它的果实以其从食品到化妆品的多种用途而闻名。椰子成熟果实的内部果肉以及从中提取的椰奶是热带和亚热带许多人日常饮食的一部分。椰子树的硬壳、纤维壳和长羽状叶可用作制造各种家具和装饰产品的材料。椰子在某些地区的社会中也具有文化和宗教意义，被用于印度教仪式。</Text>
+		</Replace>
+<!--Flax-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX">
+			<Text>亚麻</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_FLAX_PEDIA">
+			<Text>
+				亚麻是一种温带地区的亚麻科亚麻属的开花植物，主要作为纤维作物和油料作物种植。亚麻制成的纺织品在被称为亚麻布，主要用于床单、内衣和桌布。亚麻的油被称为亚麻籽油。除了指植物外，亚麻还可以指亚麻植物的未纺纤维。这种植物只作为一种栽培植物而为人所知，似乎只从野生物种淡亚麻驯化过一次。
+                [NEWLINE][NEWLINE]亚麻在古埃及被广泛种植，那里的寺庙墙壁上画着开花的亚麻，木乃伊也使用亚麻用来防腐。埃及祭司只穿亚麻布，因为亚麻布被认为是纯洁的象征。腓尼基人在地中海各地交易埃及的亚麻布，罗马人用它来制作船帆。随着罗马帝国的衰落，亚麻产量也随之下降。但是，通过制定法律宣传亚麻纺织品的卫生和亚麻籽油的健康，查理曼大帝在公元8世纪恢复了这种作物。最终，佛兰德斯在中世纪成为欧洲亚麻工业的主要中心。在北美，殖民者引进了亚麻，它在那里蓬勃发展，但到20世纪初，廉价的棉花和不断上涨的农业工资导致亚麻的生产集中在俄罗斯北部，那里提供了亚麻世界产量的90%。从那以后，亚麻失去了作为一种商业作物的重要性，因为更耐用的纤维很容易获得。
+			</Text>
+		</Replace>
+<!--Timber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER">
+			<Text>硬木</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIMBER_PEDIA">
+			<Text>硬木是双子叶树的木材，通常在阔叶温带和热带森林中发现。这些树在温带和北纬地区大多为落叶植物，但在热带和亚热带地区则大多为常绿植物。顾名思义，这些树木的木材通常比软木更硬，被广泛应用于燃料、工具、建筑、造船、家具制造、乐器、地板、烹饪、木桶和木炭制造等各种用途。</Text>
+		</Replace>
+<!--Tin-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN">
+			<Text>锡</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_TIN_PEDIA">
+			<Text>锡是一种带有蓝白色光泽的金属，主要从锡矿石中获得。锡的提取和使用可以追溯到公元前3000年左右的青铜时代，在那时锡受到了广泛的应用。当锡与铜结合时，就产生了更坚固、更有用的合金——青铜，由1/8锡和7/8铜制成。今天，锡是用于焊料的主要成分，也被用作电镀以帮助其他金属抵抗腐蚀。由于锡的毒性相当低，常常被用于食品包装罐的材料。</Text>
+		</Replace>
+<!--Trout-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH">
+			<Text>鳟鱼</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LAKEFISH_PEDIA">
+			<Text>鳟鱼是与鲑鱼类似的淡水鱼类。作为食物，鳟鱼有点骨瘦如柴，但肉质十分鲜美。这是因为鱼的味道在很大程度上受鳟鱼的饮食影响，例如以甲壳类动物为食的鳟鱼往往比主要以昆虫为食的鲑鱼更美味。</Text>
+		</Replace>
+<!--Rubber-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER">
+			<Text>橡胶</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_RUBBER_PEDIA">
+			<Text>天然橡胶是从橡胶树、橡胶草等植物中提取胶质后加工制成的，具有大的拉伸比和高弹性，并且非常防水，在许多应用和产品中广泛使用。天然橡胶最早由中美洲的土著使用，历史最早可以追溯到中美洲的奥尔梅克文化，用于制造中美洲球赛的球。橡胶后来被玛雅人和阿兹特克人使用，除了制造球，阿兹特克人还将橡胶用于其他用途，如制造容器和通过用橡胶液浸渍纺织品使其防水。</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW City-State Resources ================================-->
+<!--===============================================================-->
+<!--Lacquerware-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE">
+			<Text>漆器</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_PEDIA">
+			<Text>漆器指的是涂有多层漆的装饰品，这种漆是从树木中提取的天然树脂。这些物品通常由木材或金属制成，并且通常带有复杂的设计，有时还嵌入了金、银或珍珠母。漆为物品提供了一种光亮且耐用的涂层，既保护了物品，又增强了它的美感。漆器在东亚、东南亚等地区数百年来一直是艺术的象征，因其美观和精湛工艺而备受推崇。</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_LACQUERWARE_HELP">
+			<Text>漆器只能通过商业城邦获得。</Text>
+		</Replace>
+<!--Glass-->
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE">
+			<Text>玻璃</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_PEDIA">
+			<Text>玻璃是一种固体材料，通常透明易碎，数百年来一直用于窗户和饮用器皿。创造玻璃的历史可以追溯到公元前3500年的美索不达米亚。玻璃一词是在罗马帝国晚期发展起来的，特里尔则是罗马的玻璃制造中心。从14世纪起，最尊贵的威尼斯共和国的穆拉诺岛是奢侈玻璃制造中心，该岛发展了许多新技术，成为餐具、镜子和其他物品的利润丰厚的玻璃制品的出口贸易中心。威尼斯穆拉诺玻璃的显著不同之处在于当地的石英卵石几乎是纯二氧化硅，并被磨成细而透明的砂，与从黎凡特获得的苏打灰混合，威尼斯人对这种技艺制造的玻璃拥有独家垄断权。</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_RESOURCE_GAIA_GLASSWARE_HELP">
+			<Text>玻璃只能通过商业型城邦获得。</Text>
+		</Replace>
+	</Language_zh_CN>
+</GameData>

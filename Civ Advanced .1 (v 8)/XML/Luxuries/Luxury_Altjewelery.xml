@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/5/2014 11:02:42 PM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_ALTJEWELERY</Type>
+			<Happiness>4</Happiness>
+			<TechCityTrade>TECH_POTTERY</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_ALTJEWELERY</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_ALTJEWELERY_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_ALTJEWELERY_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<IconString>[ICON_RES_ALTJEWELERY]</IconString>
+			<PortraitIndex>4</PortraitIndex>
+			<Happiness>2</Happiness>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_ALTJEWELERY</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_ALTJEWELERY</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ALTJEWELERY</ResourceType>
+			<YieldType>YIELD_HA</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ALTJEWELERY</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_RESOURCE_JEWELRY" />
+			<Set Text="Exotic Jewelry" />
+		</Update>
+		<Row Tag="TXT_KEY_RESOURCE_ALTJEWELERY">
+			<Text>Jewelry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ALTJEWELERY_HELP">
+			<Text>Jewelry is produced by the Jeweler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ALTJEWELERY_PEDIA">
+			<Text>Jewelry is small decorative items worn for personal adornment, such as rings or necklaces. For many centuries metal, often combined with gemstones, has been the normal material for jewellery, but other materials such as shells and other plant materials may be used. The first signs of jewellery came from the people in Africa. Perforated beads suggesting shell jewellery made from sea snail shells have been found dating to 75,000 years ago at Blombos Cave.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

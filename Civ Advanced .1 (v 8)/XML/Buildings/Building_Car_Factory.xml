@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2014 12:55:57 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_CAR_FACTORY</Type>
+			<DefaultBuilding>BUILDING_CAR_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CAR_FACTORY</Description>
+			<MaxPlayerInstances>2</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_CAR_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_CAR_FACTORY</BuildingClass>
+			<Cost>800</Cost>
+			<PrereqTech>TECH_COMBUSTION</PrereqTech>
+			<Description>TXT_KEY_BUILDING_CAR_FACTORY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_CAR_FACTORY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CAR_FACTORY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_CAR_FACTORY_HELP</Help>
+			<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>39</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_CARS</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_CAR_FACTORY</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_STEEL_MILL</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_CAR_FACTORY">
+			<Text>Car Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CAR_FACTORY_HELP">
+			<Text>+ 1 [ICON_RES_CARS] Cars luxury. Improved trade route [ICON_GOLD] Gold income to and from this City. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CAR_FACTORY_STRATEGY">
+			<Text>The Car Factory is a Modern era building which grants 1 source of [ICON_RES_CARS] Cars and increases a City's [ICON_GOLD] Gold and Trade route income. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CAR_FACTORY_PEDIA">
+			<Text>A automotive factory manufactures cars in large number for sale to the public. Car industries are often large and export billions of dollars worth of goods each year and employ many thousands of people, often becoming invaluable in a nations economy.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

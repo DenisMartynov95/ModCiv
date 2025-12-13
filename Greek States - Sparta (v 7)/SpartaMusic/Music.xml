@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--FB_ALMOHAD Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_LEONIDAS_PEACE</SoundID>
+			<Filename>Sparta Peace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_LEONIDAS_WAR</SoundID>
+			<Filename>Sparta War</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--FB_ALMOHAD Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--FB_ALMOHAD Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_LEONIDAS_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_LEONIDAS_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>130</MinVolume>
+			<MaxVolume>130</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_LEONIDAS_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_LEONIDAS_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_LEONIDAS_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_COAST_BED</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>20</MinVolume>
+			<MaxVolume>20</MaxVolume>
+		</Row>
+		<!--FB_ALMOHAD Music-->
+	</Audio_2DSounds>
+
+
+</GameData>

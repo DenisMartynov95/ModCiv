@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_FR_FR>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--STONEWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_STONE_WORKS_HELP">
+			<Text>Chaque source de [ICON_RES_GAIA_JADE] Jade, [ICON_RES_GAIA_LAPIS] Lapis-lazuli, [ICON_RES_MARBLE] Marbre et [ICON_RES_STONE] Pierre exploitée par cette ville produit +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]La ville doit disposer d'au moins une de ces ressources améliorée avec une carrière.</Text>
+		</Replace>
+<!--WORKSHOP-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP">
+			<Text>Chaque source de [ICON_RES_GAIA_TIMBER] Bois exploitée par cette ville produit +1 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production pour chaque case de forêt exploitée (+2 [ICON_PRODUCTION] si la case contient [ICON_RES_GAIA_TIMBER] Bois).</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP2">
+			<Text>Chaque ressource de [ICON_RES_GAIA_TIMBER] Bois exploitée dans cette ville fournit +1 [ICON_PRODUCTION] Production. Les Routes commerciales internes depuis cette ville génèrent +2 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP2">
+			<Text>+1 [ICON_PRODUCTION] Production pour chaque case de Forêt exploitée (+2 [ICON_PRODUCTION] si elle contient [ICON_RES_GAIA_TIMBER] Bois). Les Routes commerciales internes depuis cette ville génèrent +2 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+<!--FACTORY-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_FACTORY_HELP">
+			<Text>
+				+2 [ICON_PRODUCTION] Production provenant des ressources [ICON_RES_GAIA_RUBBER] Caoutchouc.
+				[NEWLINE][NEWLINE]Nécessite 1 [ICON_RES_COAL] Charbon.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW  Resource Buildings =================================-->
+<!--===============================================================-->
+<!--AGRIBUSINESS-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS">
+			<Text>Entreprise Agricole</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production et [ICON_GOLD] Or à partir des pâturages, [ICON_RES_GAIA_MAIZE] Maïs, [ICON_RES_GAIA_RICE] Riz et [ICON_RES_WHEAT] Blé exploités par la ville.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_PEDIA">
+			<Text>Une entreprise agricole est une activité liée à la production agricole. Cela inclut les produits agrochimiques, l'élevage, la culture des récoltes (agriculture et contrats agricoles), la distribution, les machines agricoles, la transformation et l'approvisionnement en semences, ainsi que le marketing et la vente au détail. Tous les agents de la chaîne de valeur des aliments et des fibres ainsi que les institutions qui les influencent font partie du système agricole.</Text>
+		</Replace>
+<!--CHOCOLATIER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER">
+			<Text>Chocolatier</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_PEDIA">
+			<Text>Le chocolat est une préparation alimentaire typiquement sucrée, généralement marron, à base de graines de cacao torréfiées et moulues. Un chocolatier est une personne qui fabrique des confiseries à base de chocolat.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_HELP">
+			<Text>Chaque source de [ICON_RES_COCOA] Cacao, [ICON_RES_SUGAR] Sucre et [ICON_RES_SPICES] Cannelle exploitée par cette ville produit +1 [ICON_FOOD] Nourriture et +1 [ICON_GOLD] Or.[NEWLINE][NEWLINE]La ville doit disposer d'au moins une de ces ressources améliorée.</Text>
+		</Replace>
+<!--FISHPOND-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND">
+			<Text>Bassin à Poissons</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_PEDIA">
+			<Text>Un bassin à poissons est un étang contrôlé ou artificiel utilisé pour l'aquaculture, la pêche récréative ou des fins décoratives. Les Hawaïens utilisaient des bassins à poissons pour pratiquer une aquaculture avancée.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_HELP">
+			<Text>Chaque source de [ICON_RES_FISH] Poisson et [ICON_RES_GAIA_LAKEFISH] Poisson de lac exploitée par cette ville produit +1 [ICON_FOOD] Nourriture supplémentaire.[NEWLINE][NEWLINE]La ville doit disposer d'au moins une de ces ressources améliorée.</Text>
+		</Replace>
+<!--HERBALIST-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST">
+			<Text>Herboriste</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Production à partir des plantations.
+				[NEWLINE][NEWLINE]Chaque source de [ICON_RES_GAIA_CACTUS] Cactus et [ICON_RES_GAIA_POPPIES] Pavot exploitée par cette ville produit +1 [ICON_RESEARCH] Science supplémentaire.
+				[NEWLINE][NEWLINE]Nécessite une [COLOR_CYAN]Plantation[ENDCOLOR] exploitable par la ville.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_PEDIA">
+			<Text>L'herboristerie est l'utilisation des plantes à des fins médicinales. C'est une pratique ancienne toujours utilisée aujourd'hui, bien que reconnue comme une forme de médecine alternative.</Text>
+		</Replace>
+<!--JEWELER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER">
+			<Text>Bijoutier</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_HELP">
+			<Text>
+				+5% [ICON_GOLD] Or dans cette Ville.
+				[NEWLINE][NEWLINE]Chaque source de [ICON_RES_GAIA_CORAL] Corail, [ICON_RES_GEMS] Gemmes, [ICON_RES_PEARLS] Perles et [ICON_RES_GAIA_AMBER] Ambre exploitée par cette ville produit +1 [ICON_GOLD] Or et +1 [ICON_CULTURE] Culture.
+				[NEWLINE][NEWLINE]La ville doit disposer d'au moins une de ces ressources améliorée.
+			</Text>
+		</Replace>
+<!--PERFUMERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY">
+			<Text>Parfumerie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_HELP">
+			<Text>
+				+5% [ICON_CULTURE] Culture dans cette ville.
+				[NEWLINE][NEWLINE]Chaque source de [ICON_RES_GAIA_ROSES] Roses, [ICON_RES_GAIA_LAVENDER] Lavande et [ICON_RES_GAIA_BERRIES] Baies exploitée par cette ville produit +1 [ICON_CULTURE] Culture et +1 [ICON_GOLD] Or supplémentaires.
+				[NEWLINE][NEWLINE]La ville doit avoir au moins une de ces ressources améliorée.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_PEDIA">
+			<Text>La parfumerie est l'art de mélanger des essences aromatiques pour produire des parfums. Cette pratique remonte à de nombreuses civilisations anciennes.</Text>
+		</Replace>
+<!--SEAWEED MARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET">
+			<Text>Marché aux Algues</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP">
+			<Text>
+				Chaque source de [ICON_RES_GAIA_KELP] Varech exploitée par cette Ville fournit +1 [ICON_FOOD] Nourriture et +1 [ICON_GOLD] Or supplémentaires.
+				[NEWLINE][NEWLINE]La ville doit disposer d'une ressource [ICON_RES_GAIA_KELP] Varech améliorée à proximité.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP2">
+			<Text>
+				Chaque source de [ICON_RES_GAIA_KELP] Varech exploitée par cette Ville fournit +1 [ICON_FOOD] Nourriture et +1 [ICON_GOLD] Or supplémentaires. Les Routes Commerciales [ICON_INTERNATIONAL_TRADE] internes depuis cette Ville génèrent +2 [ICON_FOOD] Nourriture.
+				[NEWLINE][NEWLINE]La ville doit disposer d'une ressource [ICON_RES_GAIA_KELP] Varech améliorée à proximité.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_PEDIA">
+			<Text>
+				Pendant des siècles, les communautés côtières d'Asie, d'Europe et des îles du Pacifique ont récolté les algues marines non seulement comme source alimentaire, mais aussi à des fins médicinales, agricoles et industrielles. Au Japon, en Corée ou en Irlande, les algues étaient vendues sur des marchés en plein air et constituaient un pilier de l'économie locale.
+				[NEWLINE][NEWLINE]Avec l'intérêt mondial croissant pour les ressources marines durables, les algues ont retrouvé une place centrale en tant que culture à fort potentiel écologique et économique. Des lits de varech traditionnels aux projets modernes d’aquaculture, la culture et le commerce des algues comestibles ont transformé les marchés locaux en centres dynamiques du commerce côtier et de l’innovation.
+			</Text>
+		</Replace>
+<!--SMELTER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER">
+			<Text>Fonderie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_HELP">
+			<Text>Chaque source de [ICON_RES_GAIA_TIN] Étain exploitée par cette ville produit +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]Permet de transférer la [ICON_PRODUCTION] Production de cette ville via des routes commerciales internes à votre civilisation.</Text>
+		</Replace>
+<!--SUPERMARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET">
+			<Text>Supermarché</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_HELP">
+			<Text>
+				Chaque source de [ICON_RES_CITRUS] Agrumes, [ICON_RES_SALT] Sel, [ICON_RES_TRUFFLES] Truffes et [ICON_RES_GAIA_OLIVES] Olives exploitée par cette ville produit +1 [ICON_FOOD] Nourriture et +1 [ICON_GOLD] Or.
+				[NEWLINE][NEWLINE]La ville doit disposer d'au moins une de ces ressources améliorée.
+			</Text>
+		</Replace>
+<!--TANNERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY">
+			<Text>Tannerie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Production à partir des camps.
+				[NEWLINE][NEWLINE]Chaque source de [ICON_RES_FUR] Fourrures et [ICON_RES_GAIA_SEALS] Phoques exploitée par cette ville produit +2 [ICON_GOLD] Or supplémentaires.
+				[NEWLINE][NEWLINE]Nécessite des [COLOR_CYAN]Phoques[ENDCOLOR] améliorés ou un [COLOR_CYAN]Camp[ENDCOLOR] exploitable par la ville.
+			</Text>
+		</Replace>
+<!--TEAHOUSE-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE">
+			<Text>Maison de Thé</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_HELP">
+			<Text>
+				Chaque source de [ICON_RES_GAIA_TEA] Thé, [ICON_RES_GAIA_COFFEE] Café et [ICON_RES_GAIA_TOBACCO] Tabac exploitée par cette ville produit +1 [ICON_CULTURE] Culture et +1 [ICON_GOLD] Or supplémentaires.
+				[NEWLINE][NEWLINE]La ville doit disposer d'au moins une de ces ressources exploitée à proximité.
+			</Text>
+		</Replace>
+<!--TEXTILEMILL-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL">
+			<Text>Usine Textile</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_HELP">
+			<Text>
+				Chaque source de [ICON_RES_COTTON] Coton, [ICON_RES_SHEEP] Mouton, [ICON_RES_SILK] Soie, [ICON_RES_DYE] Teinture et [ICON_RES_GAIA_FLAX] Lin exploitée par cette ville produit +1 [ICON_GOLD] Or et +1 [ICON_PRODUCTION] Production.
+				[NEWLINE][NEWLINE]La ville doit disposer d'au moins une de ces ressources exploitée à proximité.
+			</Text>
+		</Replace>
+	</Language_FR_FR>
+</GameData>

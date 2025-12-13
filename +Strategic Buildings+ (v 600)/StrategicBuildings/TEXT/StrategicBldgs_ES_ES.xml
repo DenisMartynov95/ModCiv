@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_ES_ES>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--IRONWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_IRONWORKS_HELP">
+			<Text>
+				Requiere un [COLOR_CYAN]Taller[ENDCOLOR] en todas las ciudades. El coste aumenta con el número de ciudades en el imperio.
+				[NEWLINE][NEWLINE]Proporciona +8 [ICON_PRODUCTION] producción y +3 [ICON_RES_IRON] hierro. +1 [ICON_GOLD] oro por cada fuente de [ICON_RES_IRON] hierro trabajada por esta ciudad.
+			</Text>
+		</Replace>
+<!--RECYCLING CENTER-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_RECYCLING_CENTER_HELP">
+			<Text>
+				Proporciona 2 [ICON_RES_ALUMINUM] aluminio. +2 [ICON_RESEARCH] Ciencia por cada fuente de [ICON_RES_ALUMINUM] aluminio trabajada por esta ciudad.
+				[NEWLINE][NEWLINE]Limitado a 5 ciudades por imperio. No puede ser capturado.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Buildings ===========================================-->
+<!--===============================================================-->
+<!--COALPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT">
+			<Text>Planta de carbón refinado</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_HELP">
+			<Text>
+				Proporciona 1 [ICON_RES_COAL] carbón. +1 [ICON_PRODUCTION] producción y +1 [ICON_GOLD] oro por cada fuente de [ICON_RES_COAL] carbón trabajada por esta ciudad.
+				[NEWLINE][NEWLINE]Limitado a 3 ciudades por imperio. No puede ser capturado.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_PEDIA">
+			<Text>
+				El carbón refinado se produce mediante tecnologías avanzadas que eliminan la humedad y ciertos contaminantes de carbones de menor calidad, como el lignito o los carbones sub-bituminosos, mejorando su valor calorífico. Estos tratamientos previos a la combustión están diseñados para modificar las propiedades del carbón antes de ser quemado, aumentando su eficiencia y reduciendo las emisiones nocivas. A diferencia de las plantas de carbón tradicionales, las instalaciones de carbón refinado incorporan estas tecnologías para mejorar la sostenibilidad ambiental y la producción energética. Estas instalaciones desempeñan un papel clave en equilibrar las necesidades industriales con soluciones energéticas más limpias.
+				[NEWLINE][NEWLINE]Los beneficios del carbón refinado van más allá de la eficiencia. Al reducir significativamente las emisiones de carbono, estas tecnologías complementan los métodos emergentes de captura de carbono destinados a combatir el cambio climático. Desarrolladas inicialmente en Estados Unidos, estas tecnologías también han sido exploradas globalmente, incluyendo en Victoria, Australia, donde innovaciones como el Proceso Coldry transforman el lignito en un producto más limpio, estable y exportable con una mayor densidad energética. Estos avances demuestran el potencial de las instalaciones de carbón refinado como puente entre las fuentes de energía convencionales y un futuro energético más sostenible.
+			</Text>
+		</Replace>
+<!--OILREFINERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY">
+			<Text>Refinería de petróleo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_HELP">
+			<Text>
+				Proporciona 1 [ICON_RES_OIL] petróleo. +2 [ICON_GOLD] oro por cada fuente de [ICON_RES_OIL] petróleo trabajada por esta ciudad.
+				[NEWLINE][NEWLINE]Limitado a 4 ciudades por imperio. No puede ser capturado.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_PEDIA">
+			<Text>
+				Una refinería de petróleo es una gran instalación industrial donde el crudo se procesa y refina en productos valiosos como gasolina, diésel, queroseno y gas licuado de petróleo (GLP). Las refinerías emplean procesos complejos, incluyendo la destilación fraccionada, el craqueo y el reformado, para separar y transformar los diversos compuestos de hidrocarburos presentes en el petróleo crudo. Establecidas por primera vez a mediados del siglo XIX, las refinerías de petróleo fueron fundamentales para el crecimiento de las industrias modernas, suministrando combustible para el transporte, la manufactura y la producción de energía. Instalaciones icónicas como las de Standard Oil en Estados Unidos consolidaron el dominio del petróleo como principal fuente de energía en el siglo XX.
+				[NEWLINE][NEWLINE]El petróleo crudo tiene una utilidad limitada en su forma natural, pero sus derivados refinados impulsan barcos, automóviles, aviones y maquinaria, además de servir como materia prima para las industrias petroquímicas. Estas industrias producen una amplia gama de materiales, incluidos plásticos, fibras sintéticas y lubricantes, que son fundamentales para la vida moderna. A pesar de sus beneficios, las refinerías han sido criticadas por sus impactos ambientales, incluidos las emisiones de gases de efecto invernadero y la contaminación. Los avances en tecnologías de refinación buscan una mayor eficiencia y una huella ambiental reducida, reflejando el desafío constante de equilibrar las demandas energéticas con la sostenibilidad.
+			</Text>
+		</Replace>
+<!--REPROCESSPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT">
+			<Text>Planta de reprocesamiento nuclear</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_HELP">
+			<Text>
+				Proporciona 5 [ICON_RES_URANIUM] uranio. +3 [ICON_PRODUCTION] producción por cada fuente de [ICON_RES_URANIUM] uranio trabajada por esta ciudad.
+				[NEWLINE][NEWLINE]Requiere una [COLOR_CYAN]Planta nuclear[ENDCOLOR] en esta ciudad. Limitado a 2 edificios por imperio. No puede ser capturado.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_PEDIA">
+			<Text>
+				Una planta de reprocesamiento nuclear separa químicamente materiales utilizables, como uranio y plutonio, del combustible nuclear gastado. Originalmente desarrollada para extraer plutonio para armas nucleares, el reprocesamiento se convirtió posteriormente en una parte esencial del ciclo de energía nuclear, permitiendo reciclar el combustible gastado en nuevo combustible para reactores, como el óxido mixto (MOX). Este proceso extiende la utilidad de los recursos de uranio, especialmente cuando el suministro natural es escaso o los precios son altos. El reprocesamiento también apoya a los reactores reproductores, que pueden utilizar materiales reciclados y actínidos, aumentando significativamente los rendimientos energéticos del uranio.
+				[NEWLINE][NEWLINE]El proceso PUREX (Plutonium Uranium Redox Extraction) es el método más utilizado para recuperar uranio y plutonio del combustible nuclear gastado. Al cerrar el ciclo del combustible nuclear, las plantas de reprocesamiento reducen los desechos y mejoran la eficiencia del combustible, haciendo la energía nuclear más sostenible. Sin embargo, estas instalaciones enfrentan desafíos, incluidos los riesgos de militarización de los materiales reprocesados y la gestión de desechos radiactivos. A pesar de estos problemas, el reprocesamiento nuclear sigue siendo una tecnología fundamental para maximizar los beneficios de la energía nuclear mientras se abordan sus desafíos de sostenibilidad a largo plazo.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW World Wonders =======================================-->
+<!--===============================================================-->
+<!--SHANDAN-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SHANDAN">
+			<Text>[COLOR_WATER_TEXT]Granja de Caballos de Shandan[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_HELP">
+			<Text>
+				Aparecen dos recursos de [ICON_RES_HORSE] Caballos cerca de la ciudad. También otorga +1 [ICON_CULTURE] Cultura, +1 [ICON_FOOD] Comida, +1 [ICON_PRODUCTION] Producción y +1 [ICON_GOLD] Oro.
+				[NEWLINE][NEWLINE][ICON_RES_HORSE] [COLOR_POSITIVE_TEXT]Caballos[ENDCOLOR] trabajados por la ciudad obtienen +1 [ICON_FOOD] Comida, +1 [ICON_PRODUCTION] Producción y +1 [ICON_GOLD] Oro [COLOR_CYAN]una vez mejorados[/COLOR].
+				[NEWLINE][NEWLINE]La ciudad debe fundarse en [COLOR_CYAN]terreno llano[/COLOR] y adyacente a [COLOR_CYAN]praderas[/COLOR].
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_QUOTE">
+			<Text>[NEWLINE]"Así como la distancia pone a prueba la fuerza de un caballo, el tiempo revela el verdadero carácter de una persona." - Proverbio chino[NEWLINE]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_PEDIA">
+			<Text>
+				[b]Shandan Jun Machang[/b] (Granja Militar de Caballos de Shandan) es la mayor y más antigua granja de caballos militar del mundo. Se encuentra en el Corredor de Hexi, abarcando las provincias de Gansu y Qinghai, con una superficie de más de 3,2 millones de Mu (2.130 kilómetros cuadrados). Fundada en el 121 a.C. durante la dinastía Han, ha suministrado caballos de guerra durante más de dos milenios.
+				[NEWLINE][NEWLINE]Las vastas llanuras ofrecen condiciones ideales de pastoreo, con verdes praderas en verano y dorados pastizales en invierno. Tradicionalmente un importante centro de cría de caballos militares, Shandan ha pasado a centrarse en la conservación ecológica, las carreras de caballos y el turismo. Hoy en día, la granja continúa su legado con más de 600 caballos.
+			</Text>
+		</Replace>		
+	</Language_ES_ES>
+</GameData>

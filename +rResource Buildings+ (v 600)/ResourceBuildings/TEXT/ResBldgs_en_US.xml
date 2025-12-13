@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_en_US>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--STONEWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_STONE_WORKS_HELP">
+			<Text>Each source of [ICON_RES_GAIA_JADE] Jade, [ICON_RES_GAIA_LAPIS] Lapis Lazuli, [ICON_RES_MARBLE] Marble and [ICON_RES_STONE] Stone worked by this City produce +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]City must have at least one of these resources improved with a Quarry.</Text>
+		</Replace>
+<!--WORKSHOP-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP">
+			<Text>Each source of [ICON_RES_GAIA_TIMBER] Timber worked by this City yields +1 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from each worked Forest tile (+2 [ICON_PRODUCTION] if the tile has [ICON_RES_GAIA_TIMBER] Timber).</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_WORKSHOP_HELP2">
+			<Text>Each worked [ICON_RES_GAIA_TIMBER] Timber resource in this City yields +1 [ICON_PRODUCTION] Production. Internal [ICON_INTERNATIONAL_TRADE] Trade Routes from this City generate +2 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_LONGHOUSE_HELP2">
+			<Text>+1 [ICON_PRODUCTION] Production from each worked Forest tile (+2 [ICON_PRODUCTION] if it contains [ICON_RES_GAIA_TIMBER] Timber). Internal [ICON_INTERNATIONAL_TRADE] Trade Routes from this City generate +2 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+<!--FACTORY-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_FACTORY_HELP">
+			<Text>
+				+2 [ICON_PRODUCTION] Production from [ICON_RES_GAIA_RUBBER] Rubber resources.
+				[NEWLINE][NEWLINE]Requires 1 [ICON_RES_COAL] Coal.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Resource Buildings ==================================-->
+<!--===============================================================-->
+<!--AGRIBUSINESS-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS">
+			<Text>Agribusiness</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and [ICON_GOLD] Gold from Pastures, [ICON_RES_GAIA_MAIZE] Maize, [ICON_RES_GAIA_RICE] Rice and [ICON_RES_WHEAT] Wheat worked by the City.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_AGRIBUSINESS_PEDIA">
+			<Text>
+				Agribusiness refers to the large-scale integration of agriculture with industrial processes, covering the entire food production chain from farming to distribution. The term, coined in 1957 by Goldberg and Davis, encompasses agrichemicals, breeding, crop production, farm machinery, processing, and retail sales. This system ensures efficient mass production and global trade, fueling economic growth and feeding billions worldwide.
+				[NEWLINE][NEWLINE]While agribusiness has led to major advancements in food security and technology, it has also sparked debates over environmental sustainability, corporate control, and genetic modification. The balance between productivity and ecological responsibility remains a key issue as nations seek to maintain food supplies while protecting natural resources.
+			</Text>
+		</Replace>
+<!--CHOCOLATIER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER">
+			<Text>Chocolatier</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_HELP">
+			<Text>Each source of [ICON_RES_COCOA] Cocoa, [ICON_RES_SUGAR] Sugar and [ICON_RES_SPICES] Cinammon worked by this City produces additional +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have at least one of these resources improved.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_CHOCOLATIER_PEDIA">
+			<Text>
+				Chocolatiers craft confections from chocolate, a product derived from the cacao tree. Cultivated for over 3,000 years, cacao was revered in Mesoamerican cultures, where the Maya and Aztecs used it for rituals and currency. When Spanish explorers introduced it to Europe in the 16th century, it was transformed into a sweetened luxury enjoyed by nobility.
+				[NEWLINE][NEWLINE]Modern chocolate-making blends artistry and science, refining techniques in tempering, molding, and flavor infusion. While artisanal chocolatiers preserve traditional craftsmanship, industrial-scale production ensures chocolate remains one of the most beloved and widely consumed treats worldwide.
+			</Text>
+		</Replace>
+<!--FISHPOND-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND">
+			<Text>Fishpond</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_HELP">
+			<Text>Each source of [ICON_RES_FISH] Fish and [ICON_RES_GAIA_LAKEFISH] Lake Fish worked by this City produces an additional +1 [ICON_FOOD] Food.[NEWLINE][NEWLINE]City must have at least one of these resources improved.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_FISHPOND_PEDIA">
+			<Text>
+				Fishponds have been integral to aquaculture for centuries, enabling civilizations to maintain sustainable food sources. Ancient Hawaiian fishponds, known as loko iʻa, used stone walls to manage fish populations, while medieval European monasteries built ponds to provide a year-round supply of fish.
+				[NEWLINE][NEWLINE]Today, fishponds remain crucial for food security, especially in regions reliant on freshwater aquaculture. Advances in fish farming have enhanced yield efficiency, but challenges such as water pollution and habitat destruction highlight the need for responsible management of these vital resources.
+			</Text>
+		</Replace>
+<!--HERBALIST-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST">
+			<Text>Herbalist</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Production from Plantations.
+				[NEWLINE][NEWLINE]Each source of [ICON_RES_GAIA_CACTUS] Cactus and [ICON_RES_GAIA_POPPIES] Poppy worked by this City produces an additional +1 [ICON_RESEARCH] Science.
+				[NEWLINE][NEWLINE]Requires a [COLOR_CYAN]Plantation[ENDCOLOR] workable by the City.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_HERBALIST_PEDIA">
+			<Text>
+				Herbalists have played a key role in medicine for millennia, using plants to treat ailments and promote health. Ancient civilizations, including the Egyptians and Chinese, documented herbal remedies in early medical texts such as the Ebers Papyrus and the Huangdi Neijing. Traditional herbalism was deeply intertwined with spiritual and holistic healing practices.
+				[NEWLINE][NEWLINE]Despite advances in modern pharmacology, herbal medicine continues to be widely practiced, often complementing scientific approaches. The resurgence of natural health remedies highlights the lasting significance of plants in medicine, bridging ancient knowledge with contemporary scientific validation.
+			</Text>
+		</Replace>
+<!--JEWELER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER">
+			<Text>Jeweler</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_HELP">
+			<Text>
+				+5% [ICON_GOLD] Gold in this City.
+				[NEWLINE][NEWLINE]Each source of [ICON_RES_GAIA_CORAL] Coral, [ICON_RES_GEMS] Gems, [ICON_RES_PEARLS] Pearls, and [ICON_RES_GAIA_AMBER] Amber worked by this City produces +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture.
+				[NEWLINE][NEWLINE]City must have at least one of these resources improved.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_JEWELER_PEDIA">
+			<Text>
+				Jewelry has been an expression of status, beauty, and cultural identity for over 100,000 years. Early civilizations such as Mesopotamia, Egypt, and the Indus Valley produced intricate gold and gemstone adornments, often symbolizing religious beliefs or social hierarchy. The craftsmanship of ancient artisans laid the foundation for the techniques still used today.
+				[NEWLINE][NEWLINE]As global trade expanded, access to rare gems and precious metals fueled innovations in jewelry design. The Renaissance saw advancements in gem-cutting and setting, while modern jewelers continue to blend artistry with precision engineering, creating timeless pieces that reflect both heritage and innovation.
+			</Text>
+		</Replace>
+<!--PERFUMERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY">
+			<Text>Perfumery</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_HELP">
+			<Text>
+				+5% [ICON_CULTURE] Culture in this City.
+				[NEWLINE][NEWLINE]Each source of [ICON_RES_GAIA_ROSES] Roses, [ICON_RES_GAIA_LAVENDER] Lavender, and [ICON_RES_GAIA_BERRIES] Berries worked by this City produces additional +1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]City must have at least one of these resources improved.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_PERFUMERY_PEDIA">
+			<Text>
+				Perfume has been used in religious rituals, personal adornment, and medicine for thousands of years. Ancient Egyptians were pioneers in perfumery, crafting fragrant oils from flowers and resins for both sacred and cosmetic purposes. The craft spread to Greece and Rome, where scent-making flourished with the use of exotic spices and distillation techniques.
+				[NEWLINE][NEWLINE]During the Renaissance, perfume houses in France revolutionized the industry, refining extraction methods and creating long-lasting scents. Today, perfumery is a global enterprise blending natural essences with synthetic molecules, shaping an ever-evolving industry that captivates the senses worldwide.
+			</Text>
+		</Replace>
+<!--SEAWEED MARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET">
+			<Text>Seaweed Market</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP">
+			<Text>
+				Each source of [ICON_RES_GAIA_KELP] Kelp worked by this City produces additional +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]City must have an improved [ICON_RES_GAIA_KELP] Kelp resource nearby.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_HELP2">
+			<Text>
+				Each source of [ICON_RES_GAIA_KELP] Kelp worked by this City produces additional +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold. Internal [ICON_INTERNATIONAL_TRADE] Trade Routes from this City generate +2 [ICON_FOOD] Food.
+				[NEWLINE][NEWLINE]City must have an improved [ICON_RES_GAIA_KELP] Kelp resource nearby.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SEAWEEDMARKET_PEDIA">
+			<Text>
+				For centuries, coastal communities across Asia, Europe, and the Pacific Islands harvested seaweed not only as a food source but also for medicinal, agricultural, and industrial uses. In places like Japan, Korea, and Ireland, seaweed was sold in open-air markets and became a staple of the local economy, valued for its nutritional richness and abundance along the shore.
+				[NEWLINE][NEWLINE]As global interest in sustainable marine resources grew, seaweed gained renewed prominence as a crop with ecological and economic potential. From traditional kelp beds to modern aquaculture ventures, the cultivation and trade of edible seaweed have transformed local markets into vibrant centers of coastal commerce and innovation.
+			</Text>
+		</Replace>
+<!--SMELTER-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER">
+			<Text>Smelter</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_HELP">
+			<Text>Each source of [ICON_RES_GAIA_TIN] Tin worked by this City yields +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]Allows [ICON_PRODUCTION] Production to be moved from this city along trade routes inside your civilization.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SMELTER_PEDIA">
+			<Text>
+				Smelting, the process of extracting metals from ores, has been a transformative technology since the dawn of metallurgy. Early copper smelting in Mesopotamia gave rise to the Bronze Age, while the Hittites’ mastery of iron smelting propelled technological advancements in weaponry and tools.
+				[NEWLINE][NEWLINE]Industrial-era innovations, such as the Bessemer process, revolutionized steel production, enabling rapid urbanization and construction. Today, modern smelters use energy-efficient methods to process metals, balancing the demands of industrial growth with the environmental impact of mining and refining.
+			</Text>
+		</Replace>
+<!--SUPERMARKET-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET">
+			<Text>Supermarket</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_HELP">
+			<Text>
+				Each source of [ICON_RES_CITRUS] Citrus, [ICON_RES_SALT] Salt, [ICON_RES_TRUFFLES] Truffles and [ICON_RES_GAIA_OLIVES] Olives worked by this City produce +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]City must have at least one of these resources improved.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SUPERMARKET_PEDIA">
+			<Text>
+				Supermarkets trace their origins to early grocers who sold dry goods in open markets and storefronts. The concept evolved dramatically in the 20th century, with self-service grocery stores revolutionizing food retail by offering mass-produced, pre-packaged items for convenience. The first modern supermarket, Piggly Wiggly, opened in 1916, introducing innovations such as shopping carts and organized aisles.
+				[NEWLINE][NEWLINE]With the rise of global supply chains, supermarkets became central to consumer culture, offering a vast array of food and household goods. While they provide accessibility and affordability, challenges such as food waste and sustainability remain pressing concerns in the modern retail landscape.
+			</Text>
+		</Replace>
+<!--TANNERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY">
+			<Text>Tannery</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_HELP">
+			<Text>
+				+1 [ICON_PRODUCTION] Production from Camps.
+				[NEWLINE][NEWLINE]Each source of [ICON_RES_FUR] Furs and [ICON_RES_GAIA_SEALS] Seals worked by this City produces an additional +2 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]Requires improved [COLOR_CYAN]Seals[ENDCOLOR] or a [COLOR_CYAN]Camp[ENDCOLOR] workable by the City.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TANNERY_PEDIA">
+			<Text>
+				Tanning, the process of converting animal hides into leather, has been practiced for thousands of years. Ancient civilizations such as Mesopotamia and Egypt developed methods using vegetable tannins from tree bark. Leather played a crucial role in early societies, providing durable materials for clothing, armor, and tools.
+				[NEWLINE][NEWLINE]During the Middle Ages, tanneries became regulated trades within guild systems, ensuring high-quality production. Modern tanneries employ both traditional and industrial processes, serving fashion, upholstery, and manufacturing industries while facing challenges related to environmental sustainability and chemical waste.
+			</Text>
+		</Replace>
+<!--TEAHOUSE-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE">
+			<Text>Tea House</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_HELP">
+			<Text>
+				Each source of [ICON_RES_GAIA_TEA] Tea, [ICON_RES_GAIA_COFFEE] Coffee and [ICON_RES_GAIA_TOBACCO] Tobacco worked by this City produces additional +1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE]City must have at least one of these resources worked nearby.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEAHOUSE_PEDIA">
+			<Text>
+				Tea houses have long served as cultural centers for relaxation and intellectual exchange. The tradition began in China during the Tang Dynasty, where tea became an essential social beverage. Japanese tea houses emerged with the development of the tea ceremony, embodying principles of harmony and mindfulness.
+				[NEWLINE][NEWLINE]Across the Middle East and Europe, tea houses became meeting places for discussion and trade. In the modern era, tea houses continue to thrive, blending tradition with contemporary lifestyles, offering spaces for social gatherings and appreciation of one of the world’s most cherished beverages.
+			</Text>
+		</Replace>
+<!--TEXTILEMILL-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL">
+			<Text>Textile Mill</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_HELP">
+			<Text>
+				Each source of [ICON_RES_COTTON] Cotton, [ICON_RES_SHEEP] Sheep, [ICON_RES_SILK] Silk, [ICON_RES_DYE] Dyes and [ICON_RES_GAIA_FLAX] Flax worked by this City produces an additional +1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production.
+				[NEWLINE][NEWLINE]City must have at least one of these resources worked nearby.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_TEXTILEMILL_PEDIA">
+			<Text>
+				The rise of textile mills during the Industrial Revolution transformed the global fabric trade. Early mills mechanized spinning and weaving, increasing efficiency and output while reducing reliance on manual labor. Key innovations, such as the power loom and spinning jenny, fueled the expansion of factory-based textile production.
+				[NEWLINE][NEWLINE]Textile manufacturing remains a cornerstone of the global economy, providing materials for clothing, furnishings, and industrial use. While modern mills employ advanced automation, concerns over labor conditions and environmental impact have spurred efforts to create more sustainable and ethical textile industries.
+			</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

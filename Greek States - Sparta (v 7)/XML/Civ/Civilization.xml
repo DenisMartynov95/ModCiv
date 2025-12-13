@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_SPARTA</Type>
+      <Description>TXT_KEY_CIV_SPARTA_DESC</Description>
+      <Civilopedia>TXT_KEY_CIV5_SPARTA_TEXT_1</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_SPARTA</CivilopediaTag>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_SPARTA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_SPARTA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_SPARTA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_SPARTA</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+      <ArtStyleSuffix>_MED</ArtStyleSuffix>
+      <ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>SPARTA_ATLAS</IconAtlas>
+      <AlphaIconAtlas>SPARTA_ALPHA</AlphaIconAtlas>
+      <MapImage>SpartaMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SPARTA_TEXT</DawnOfManQuote>
+      <DawnOfManImage>SPARTADOM.dds</DawnOfManImage>
+	  <SoundtrackTag>Greece</SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <!-- Civilization_BuildingClassOverrides -->
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_0</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_1</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_2</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_3</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_4</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_5</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_6</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_7</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_8</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_9</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_10</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_11</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_12</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_13</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_14</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_15</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_16</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_17</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_18</CityName>
+    </Row>
+	<Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SPARTA_19</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <LeaderheadType>LEADER_LEONIDAS</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <ReligionType>RELIGION_ORTHODOXY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SPARTA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+      <UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
+      <UnitType>UNIT_ELITE_HOPLITE</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_SPARTA</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_SPARTA</Type>
+      <PrimaryColor>COLOR_PLAYER_SPARTA_ATLAS</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_SPARTA_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SPARTA_ATLAS</Type>
+      <Red>0.349</Red>
+      <Green>0.007</Green>
+      <Blue>0.035</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SPARTA_BACKGROUND</Type>
+      <Red>0.631</Red>
+      <Green>0.533</Green>
+      <Blue>0.254</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_SPARTA_DESC">
+      <Text>Фессалия</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_1">
+      <Text>История</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_2">
+      <Text>Доисторическая эпоха</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_3">
+      <Text>Античная эпоха</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_4">
+      <Text>Классическая эпоха</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_5">
+      <Text>Эллинистическая и римская эпоха</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_6">
+      <Text>Государственный строй Спарты</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_7">
+      <Text>Армия Фессалии</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_HEADING_8">
+      <Text>Наследие Фессалии</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_1">
+      <Text>Фессалия  — древнее государство в Греции в области Лакония на юге полуострова Пелопоннес, в долине Эврота.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_2">
+      <Text>На лаконские земли, где первоначально жили лелеги, прибыли ахейцы из царского рода, родственного Персеиде, место которых позднее заняли Пелопиды. После завоевания Пелопоннеса дорийцами Лакония, наименее плодородная и незначительная область, вследствие обмана, досталась несовершеннолетним сыновьям Аристодема, Еврисфену и Проклу из рода Гераклидов. От них произошли династии Агиадов (от имени Агида, сына Еврисфена) и Еврипонтидов (от имени Еврипонта, внука Прокла).[NEWLINE][NEWLINE]Главным городом Лаконии вскоре стала Спарта, расположенная вблизи древних Амикл, которые, как и остальные ахейские города, потеряли свои политические права. Наряду с господствующими дорийцами и спартиатами, население страны состояло из ахейцев, среди которых выделяли периэков — лишённых политических прав, но лично свободных и имеющих право на владение собственностью, и илотов — лишённых своих земельных участков и обращённых в рабов. Долгое время Спарта ничем не выделялась среди дорических государств. Внешние войны она вела с соседними аргосскими и аркадскими городами.[NEWLINE][NEWLINE]Подъём Спарты начался со времён Ликурга и Мессенских войн.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_3">
+      <Text>С победой в Мессенских войнах (743—723 и 685—668 гг. до н. э.) Спарте удалось окончательно покорить Мессению, после чего древние мессенцы были лишены своих земельных владений и обращены в илотов. О том, что внутри страны в это время не было покоя, свидетельствует насильственная смерть царя Полидора, расширение полномочий эфоров, что повлекло ограничение царской власти, и высылка парфений, которые под начальством Фаланфа основали в 707 год до н. э. Тарент. Однако, когда Спарта после тяжелых войн победила аркадян, особенно, когда вскоре после 660 год до н. э. заставила Тегею признать свою гегемонию, и по договору, который хранился на поставленной вблизи Алфеи колонне, вынудила заключить военный союз, с тех пор Спарта считалась в глазах народов первым государством Греции. Спартанцы импонировали своим почитателям тем, что пытались свергнуть тиранов, которые с 7 века до н. э. появлялись почти во всех греческих государствах. Спартанцы способствовали изгнанию Кипселидов из Коринфа и Писистратов из Афин, освободили Сикион, Фокиду и несколько островов Эгейского моря. Тем самым спартанцы приобрели себе в разных государствах благодарных и знатных сторонников.[NEWLINE][NEWLINE]Дольше всего соперничал со Спартой за первенство Аргос. Однако, когда спартанцы в 550 год до н. э. завоевали пограничную область Кинурии с городом Фирей, царь Клеомен около 520 год до н. э. нанес аргивянам решительное поражение при Тиринфе, и с тех пор Аргос держался вдали от всех областей, которыми руководила Спарта.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_4">
+      <Text>Прежде всего спартанцы заключили союз с Элидой и Тегеей, а затем привлекли на свою сторону полисы остального Пелопоннеса. В образовавшемся Пелопоннесском союзе гегемония принадлежала Спарте, которая осуществляла руководство на войне, а также являлась центром собраний и совещаний Союза. При этом она не посягала на независимость отдельных государств, которые сохраняли свою автономию. Также союзные государства не платили Спарте взносы, не существовало и постоянного союзного совета, но он при необходимости созывался в Спарте. Спарта не пыталась распространить свою власть на весь Пелопоннес, но общая опасность во время Греко-персидских войн подтолкнула все государства, кроме Аргоса, перейти под начальство Спарты. С устранением непосредственной опасности спартанцы поняли, что им не под силу продолжать войну с персами далеко от своих границ, и, когда Павсаний и Леотихид опозорили спартанское имя, спартанцы были должны допустить, чтобы Афины взяли на себя дальнейшее руководство на войне, а сами ограничились Пелопоннесом. Со временем начало проявляться соперничество между Спартой и Афинами, вылившееся в Первую Пелопоннесскую войну, завершившееся Тридцатилетним миром.[NEWLINE][NEWLINE]Рост могущества Афин и их экспансия на запад в 431 год до н. э. привели к Пелопоннесской войне. Она сломила могущество Афин и привела к установлению гегемонии Спарты. Одновременно начали нарушаться устои Спарты — законодательство Ликурга.[NEWLINE][NEWLINE]Из стремления неграждан к полноправию 397 год до н. э. произошло восстание Кинадона, не увенчавшееся успехом. Устоявшуюся в Греции власть Агесилай пытался распространить и на Малой Азии и успешно воевал против персов, пока персы не спровоцировали Коринфской войны в 395 год до н. э. После нескольких неудач, особенно после поражения в морском сражении при Книде (394 до н. э), Спарта, желая воспользоваться успехами оружия своих противников, уступила по Анталкидову миру царю Малую Азию, признала его посредником и судьей в греческих делах и, таким образом, под предлогом свободы всех государств, обеспечила за собой первенство в союзе с Персией. Только Фивы не подчинились этим условиям и лишили Спарту преимуществ позорного мира. Афины с победой при Наксосе 376 год до н. э. заключили новый союз (см. Второй афинский морской союз), и Спарта в 372 до н. э. формально уступила гегемонии. Еще большее несчастье постигло Спарту в дальнейшей беотийской войне. Эпаминонд нанес окончательный удар городу восстановлением Мессении в 369 год до н. э. и образованием Мегалополя, поэтому в 365 год до н. э. спартанцы были вынуждены позволить своим союзникам заключить сепаратный мир с Фивами.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_5">
+      <Text>С этого времени Спарта быстро начала приходить в упадок, а вследствие обеднения и обременения долгами граждан законы обратились в пустую форму. Союз с фокеянами, которым спартанцы послали помощь, но не предоставили действительной поддержки, вооружив против них Филиппа Македонского, который появился 334 год до н. э. в Пелопоннесе и утвердил независимость Мессении, Аргоса и Аркадии, однако, с другой стороны, не обратил внимания на то, что не были отправлены послы в Коринфские сборы. В отсутствие Александра Македонского царь Агис III с помощью денег, полученных от Дария, пытался сбросить македонское иго, но потерпел поражение от Антипатра при Мегалополисе и был убит в бою. То, что мало-помалу исчез также и знаменитый спартанский воинственный дух, показывает наличие укреплений города при приступах Деметрия Полиоркета (296 до н. э) и Пирра Эпирского (272 до н. э).[NEWLINE][NEWLINE]Попытка Агиса IV в 242 год до н. э. выработать с уничтожением долговых книг новый раздел поземельной собственности и увеличить число граждан, которое снизилось до 700, оказалась неудачной из-за корысти богатых. Осуществить это преобразование удалось в 226 до н. э. Клеомену III только после насильственного уничтожения эфора. Для Спарты в это время наступила, пожалуй, новая эра процветания, — Клеомен был близок к тому, чтобы установить свою власть над Пелопоннесом, но союз ахейцев с Македонией привел Антигона Досона в Пелопоннес. Поражение при Селласии в 222 год до н. э. и затем смерть Клеомена в Египте положили конец государству Гераклидов. Антигон, правда, великодушно оставил спартанцам их независимость. После царствования незначительных правителей (Ликург, Хилон) восстали тираны, которые пользовались дурной славой, Маханид (211—207 годы до н. э) и Набис (206—192 годы до н. э).[NEWLINE][NEWLINE]Оба должны были уступить Филопемену, который в 192 год до н. э. включил Спарту в Ахейский союз, но в 189 год до н. э. строго наказал восставших спартанцев. Между тем 195 год до н. э. началась лаконская война. Жалобы угнетённых были услышаны римлянами, которые долгое время поддерживали взаимные распри, пока не признали своевременным покорить Грецию в 146 год до н. э. Спартанцы однако сохраняли свою свободу, так как греческому государству можно было пользоваться ею под верховной властью Рима — елефтеролаконы.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_6">
+      <Text>В основу государственного строя Спарты был положен принцип единства полноправных граждан. Для этого государство строго регламентировало жизнь и быт спартанцев, сдерживала их имущественное расслоение. Основы государственного строя были заложены ретро (договором) легендарного царя Ликурга. Спартиаты были обязаны заниматься только военным искусством и спортом. Земледелие, ремесло и торговля стали делом илотов и периэков.[NEWLINE][NEWLINE]"Строй Ликурга" трансформировал военную демократию спартиатов в олигархическую рабовладельческую республику, которая сохранила черты родоплеменного строя. Во главе государства находились одновременно два царя — архагеты. Их власть была наследственной. Полномочия архагета сводились к военной власти, организации жертвоприношений и участия в совете старейшин.[NEWLINE][NEWLINE]Герусия (совет старейшин) состояла из двух архагетов и 28 геронтов, которых избирали пожизненно народным собранием из знатных граждан, достигших 60-летнего возраста. Герусия выполняла функции правительственного учреждения — готовила вопросы для обсуждения на народных собраниях, руководила внешней политикой, рассматривала уголовные дела о государственных преступлениях (включая преступления против архагета).[NEWLINE][NEWLINE]Коллегия эфоров (появилась в VIII веке до н. э) состояла из пяти достойных граждан, которых избирали на один год народным собранием. Сначала полномочия эфоров ограничивались судопроизводством по имущественным спорам. В VI веке до н. э их власть растет, они вытесняют герусии. Эфоры начали созывать герусии и народное собрание, руководить внешней политикой, осуществлять внутреннее управление государством и судопроизводство, контролировать должностных лиц (включая архагета).[NEWLINE][NEWLINE]Народное собрание (апелла) в Спарте отличались пассивностью. Право на участие в народном собрании имели полноправные граждане-мужчины, достигшие 30-летнего возраста. Сначала народное собрание созывалось архагетом, впоследствии руководство ими перешло к эфором. Апелла не обсуждала выдвинутые вопросы, а лишь принимала или отвергала предложенное решение. Голосование проводилось примитивно — криком или участники расходились по разные стороны и "на глаз" определялось большинство. Народное собрание имело законодательные права, право на избрание должностных лиц, решали также вопросы войны и мира.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_7">
+      <Text>Впервые спартанская армия упоминается в Илиаде. В трактате "Государственное устройство лакедемонян" Ксенофонт подробно рассказывает о том, как была организована спартанская армия в его время.[NEWLINE][NEWLINE]Вооружение спартанца составляли копьё, короткий меч, круглый щит, шлем, панцирь и поножи. Общий вес вооружения достигал 30 кг. Тяжеловооружённый пехотинец назывался гоплитом. В состав спартанского войска включались и бойцы вспомогательных частей, чьё вооружение составляло лёгкое копьё, дротик или лук со стрелами. Основу спартанской армии составляли гоплиты, имевшие численность порядка 5-6 тысяч человек.[NEWLINE][NEWLINE]Что касается конницы, то так называемые "всадники" хоть и состояли из граждан, способных позволить себе покупку и содержание лошади, тем не менее сражались исключительно в пешем строю в составе фаланги, составляя отряд царской гвардии численностью в 300 человек (именно такой отряд погиб в знаменитой битве при Фермопилах вместе с царём Леонидом). По мнению некоторых учёных, этот отряд в мирное время мог выполнять функции военной полиции, играя основную роль в подавлении восстаний рабов и в криптиях.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TEXT_8">
+      <Text>Самое значимое наследство Спарта оставила в военном деле. Дисциплина — необходимый элемент любой современной армии. Боевой строй спартанцев — предшественник фаланги армии Александра Македонского, а также дальний родственник современной развернутой цепи пехоты.[NEWLINE][NEWLINE]Значительное влияние Спарта оказала и на гуманитарные сферы человеческой жизни. Спартанское государство — прообраз идеального государства, описанного в диалогах Платоном. Отвага трехсот спартанцев в битве при Фермопилах была темой многих литературных произведений, современных кинолент. Слово лаконичный, означающее немногословного человека, происходит именно от названия страны спартанцев Лаконии. Некоторые аспекты политической жизни спартанцев оказали влияние на систему магистратур ранней Римской республики, а через неё — и на римское право вообще.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SPARTA_TITLE">
+      <Text>Спарта</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SPARTA_SHORT_DESC">
+      <Text>Спарта</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SPARTA_ADJECTIVE">
+      <Text>Спартанск.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SPARTA_TEXT">
+      <Text>Слава тебе, Леонид, потомок Геркулеса и великий царь-воин Спарты! Вы являетесь наиболее известным и уважаемым из всех царей Спарты. Вы были легендой среди своих подданных и солдат, одержав множество побед. В то время как афиняне были известны их способностями в управлении и науке, Спарта была предметом зависти для всех греческих городов-государств с точки зрения военной стратегии и мастерства. Ваша отважная смерть перед лицом могущественной Персидской империи, в сражении под Фермопилами, с отрядом в триста человек против сотен тысяч, обессмертила ваше имя в истории как одного из великих героев греческой цивилизации.[NEWLINE][NEWLINE]Царь Леонид, мир изменился и книга легенд опустела. Возьмёте ли вы вновь своё копьё и приведете своих людей к победе? Сможете ли превратить слабого в сильного? Сможете ли построить цивилизацию, которая выдержит испытание временем?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SPARTA_0">
+      <Text>Спарта</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_1">
+      <Text>Мистрас</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_2">
+      <Text>Амиклес</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_3">
+      <Text>Кипарисси</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_4">
+      <Text>Геракас</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_5">
+      <Text>Монемвасия</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_6">
+      <Text>Неаполь</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_7">
+      <Text>Йитион</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_8">
+      <Text>Ареаполь</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_9">
+      <Text>Кинурия</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_10">
+      <Text>Кифера</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_11">
+      <Text>Мегара</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_12">
+      <Text>Эпидаурос</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_13">
+      <Text>Эгина</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_14">
+      <Text>Коринф</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_15">
+      <Text>Сикион</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_16">
+      <Text>Мантиней</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_17">
+      <Text>Тигея</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_18">
+      <Text>Нимея</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CITY_NAME_SPARTA_19">
+      <Text>Олимпия</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_0">
+      <Text>Темистокл</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_1">
+      <Text>Горго</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_2">
+      <Text>Эллас</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_3">
+      <Text>Демарат</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_4">
+      <Text>Артемиза</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_5">
+      <Text>Мегистий</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_6">
+      <Text>Мардоний</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_7">
+      <Text>Торис</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_8">
+      <Text>Самос</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPARTA_9">
+      <Text>Филон</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

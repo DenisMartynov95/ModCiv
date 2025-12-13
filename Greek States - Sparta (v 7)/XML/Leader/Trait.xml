@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_WARRIORS_FROM_BIRTH</Type>
+      <Description>TXT_KEY_TRAIT_WARRIORS_FROM_BIRTH</Description>
+      <ShortDescription>TXT_KEY_TRAIT_WARRIORS_FROM_BIRTH_SHORT</ShortDescription>
+	</Row>
+  </Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_WARRIORS_FROM_BIRTH</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_WARRIORS_FROM_BIRTH</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_WARRIORS_FROM_BIRTH</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_WARRIORS_FROM_BIRTH</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_WARRIORS_FROM_BIRTH</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_WARRIORS_FROM_BIRTH</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_WARRIORS_FROM_BIRTH</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_WARRIORS_FROM_BIRTH">
+      <Text>Каждый [ICON_CITIZEN] житель даёт +2 ОП и +5% к [ICON_PRODUCTION] производству боевых юнитов (до 50%). У наземных боевых юнитов есть повышение Мощь Спарты (+20% к атаке).</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_WARRIORS_FROM_BIRTH_SHORT">
+      <Text>Воины с рождения</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

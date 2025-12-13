@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/15/2014 12:02:42 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_TEXTILE_MILL</Type>
+			<DefaultBuilding>BUILDING_TEXTILE_MILL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TEXTILE_MILL</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TEXTILE_MILL</Type>
+			<BuildingClass>BUILDINGCLASS_TEXTILE_MILL</BuildingClass>
+			<Cost>200</Cost>
+			<PrereqTech>TECH_CURRENCY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_TEXTILE_MILL</Description>
+			<Civilopedia>TXT_KEY_BUILDING_TEXTILE_MILL_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TEXTILE_MILL_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_TEXTILE_MILL_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_TEXTILE_MILL">
+			<Text>Textile Mill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEXTILE_MILL_HELP">
+			<Text>Each source of [ICON_RES_SILK] Silk worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Each source of [ICON_RES_SHEEP] Sheep and [ICON_RES_COTTON] Cotton worked by this City produces +1 [ICON_GOLD] Gold</Text>
+		</Row>
+	    <Row Tag="TXT_KEY_BUILDING_TEXTILE_MILL_STRATEGY">
+			<Text>The Textile Mill is a Classical-era building which increases a City's [ICON_GOLD] Gold income from [ICON_RES_COTTON] Cotton, [ICON_RES_SHEEP] Sheep and [ICON_RES_SILK] Silk and requires an improved source of any three near your City to be built.</Text>
+		</Row>
+        <Row Tag="TXT_KEY_BUILDING_TEXTILE_MILL_PEDIA">
+			<Text>The oldest known textiles date back to about 5000 B.C. In order to make textiles, the first requirement is a source of fibre from which a yarn can be made, primarily by spinning. The yarn is processed by knitting or weaving to create cloth. The machine used for weaving is the loom. Cloth is finished by what are described as wet processes to become fabric. The fabric may be dyed, printed or decorated by embroidering with coloured yarns.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

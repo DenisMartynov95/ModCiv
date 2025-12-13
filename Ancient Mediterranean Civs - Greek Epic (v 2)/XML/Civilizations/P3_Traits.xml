@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<!-- Mycenaeans - Agamemnon -->
+		<Row>
+			<Type>TRAIT_LEADER_AGAMEMNON</Type>
+			<Description>TXT_KEY_TRAIT_LEADER_AGAMEMNON</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LEADER_AGAMEMNON_SHORT</ShortDescription>
+			<CityStateFriendshipModifier>100</CityStateFriendshipModifier>
+		</Row>
+		<!-- Amazons - Penthesilea -->
+		<Row>
+			<Type>TRAIT_LEADER_PENTHESILEA</Type>
+			<Description>TXT_KEY_TRAIT_LEADER_PENTHESILEA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LEADER_PENTHESILEA_SHORT</ShortDescription>
+		</Row>
+		<!-- Athenians - Pericles -->
+		<Row>
+			<Type>TRAIT_LEADER_PERICLES</Type>
+			<Description>TXT_KEY_TRAIT_LEADER_PERICLES</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LEADER_PERICLES_SHORT</ShortDescription>
+			<TradeRouteChange>1</TradeRouteChange>
+			<NavalUnitMaintenanceModifier>-50</NavalUnitMaintenanceModifier>
+		</Row>
+		<!-- Spartans - Leonidas -->
+		<Row>
+			<Type>TRAIT_LEADER_LEONIDAS</Type>
+			<Description>TXT_KEY_TRAIT_LEADER_LEONIDAS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LEADER_LEONIDAS_SHORT</ShortDescription>
+		</Row>
+		<!-- Minoans - Pasiphae -->
+		<Row>
+			<Type>TRAIT_LEADER_PASIPHAE</Type>
+			<Description>TXT_KEY_TRAIT_LEADER_PASIPHAE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LEADER_PASIPHAE_SHORT</ShortDescription>
+			<ExtraEmbarkMoves>1</ExtraEmbarkMoves>
+			<EmbarkedAllWater>true</EmbarkedAllWater>
+		</Row>
+		<!-- Trojans - Priamos -->
+		<Row>
+			<Type>TRAIT_LEADER_PRIAMOS</Type>
+			<Description>TXT_KEY_TRAIT_LEADER_PRIAMOS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LEADER_PRIAMOS_SHORT</ShortDescription>
+			<GoldenAgeDurationModifier>25</GoldenAgeDurationModifier>
+			<GoldenAgeMoveChange>1</GoldenAgeMoveChange>
+			<GoldenAgeCombatModifier>20</GoldenAgeCombatModifier>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<!-- Amazons - Penthesilea - Ranged units receive 25% ranged strength in rough terrain -->
+		<Row>
+			<TraitType>TRAIT_LEADER_PENTHESILEA</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_BARRAGE_1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_PENTHESILEA</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_BARRAGE_1</PromotionType>
+		</Row>
+		<!-- Minoans - Pasiphae - Naval units have +1 Movement and +1 Sight -->
+		<Row>
+			<TraitType>TRAIT_LEADER_PASIPHAE</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+			<PromotionType>PROMOTION_NAVAL_TRADITION</PromotionType>
+		</Row>
+		<!-- Spartans - Leonidas - Land units have +10% Defense and heal +1 HP per turn outside of friendly territory -->
+		<Row>
+			<TraitType>TRAIT_LEADER_LEONIDAS</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_LEONIDAS</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_LEONIDAS</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_LEONIDAS</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_LEONIDAS</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_LEONIDAS</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_LEONIDAS</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<PromotionType>PROMOTION_AGOGE</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>

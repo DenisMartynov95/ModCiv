@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2014 2:23:59 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SCULPTORS_GUILD</Type>
+			<DefaultBuilding>BUILDING_SCULPTORS_GUILD</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SCULPTORS_GUILD</Description>
+			<MaxPlayerInstances>3</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SCULPTORS_GUILD</Type>
+			<BuildingClass>BUILDINGCLASS_SCULPTORS_GUILD</BuildingClass>
+			<Cost>180</Cost>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SCULPTORS_GUILD</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SCULPTORS_GUILD_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SCULPTORS_GUILD_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SCULPTORS_GUILD_HELP</Help>
+			<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>32</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<ResourceType>RESOURCE_SCULPTURE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCULPTORS_GUILD</BuildingType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SCULPTORS_GUILD">
+			<Text>Sculptors Guild</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCULPTORS_GUILD_HELP">
+			<Text>+ 1 [ICON_RES_SCULPTURE] Sculpture luxury. Each source of [ICON_RES_STONE] Stone, [ICON_RES_MARBLE] Marble and [ICON_RES_CLAY] Clay worked by this City produces +1 [ICON_GOLD] Gold. Improved trade route [ICON_GOLD] income to and from this City. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCULPTORS_GUILD_STRATEGY">
+			<Text>The Sculptors Guild is an Ancient era building which grants 1 source of [ICON_RES_SCULPTURE] Sculptures and increases a City's [ICON_GOLD] Gold income from [ICON_RES_STONE] Stone, [ICON_RES_MARBLE] Marble and [ICON_RES_CLAY] Clay and trade. It requires an improved source of any near your City to be built. No more than 3 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCULPTORS_GUILD_PEDIA">
+			<Text>A sculptor is an artist who specializes in sculpture. Worldwide, sculptors have usually been tradesmen whose work is unsigned; in some traditions, for example China, where sculpture did not share the prestige of literati painting, this has affected the status of sculpture itself. Even in Ancient Greece, where sculptors such as Phidias became famous, they appear to have retained much the same social status as other artisans, and perhaps not much greater financial rewards, although some signed their works.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/06/17 3:38:53 PM -->
+<GameData>
+	
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SMAN_EU_HEPTASTADION</Type>
+			<DefaultBuilding>BUILDING_SMAN_EU_HEPTASTADION</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SMAN_EU_HEPTASTADION</Description>
+		</Row>
+	</BuildingClasses>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SMAN_EU_HEPTASTADION</Type>
+			<BuildingClass>BUILDINGCLASS_SMAN_EU_HEPTASTADION</BuildingClass>
+			<Cost>75</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_SAILING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SMAN_EU_HEPTASTADION</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SMAN_EU_HEPTASTADION_PEDIA</Civilopedia>
+			<Help>TXT_KEY_BUILDING_SMAN_EU_HEPTASTADION_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+			<Water>1</Water>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>10</ConquestProb>
+			<HurryCostModifier>15</HurryCostModifier>
+			<IconAtlas>SMAN_EXOTIC_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<!--
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_SMAN_CAMEL_MARKET</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>20</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	-->
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMAN_EU_HEPTASTADION</BuildingType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+	</Building_Flavors>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SMAN_EU_HEPTASTADION">
+			<Text>Heptastadion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMAN_EU_HEPTASTADION_HELP">
+			<Text>Allows certain naval Mercenary units to be purchased. Adds +1 Production and +1 Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMAN_EU_HEPTASTADION_PEDIA">
+			<Text>
+				A Heptastadion is an Ancient Era building available upon the discovery of Sailing. Building it will allow the purchse of the XX and YY naval units. It also adds +1 to Production and +1 to Science in the city.[NEWLINE][NEWLINE]Heptastadion Pedia...
+			</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

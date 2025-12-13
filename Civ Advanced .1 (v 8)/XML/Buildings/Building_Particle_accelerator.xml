@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2014 9:28:24 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ACCELERATOR</Type>
+			<DefaultBuilding>BUILDING_ACCELERATOR</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ACCELERATOR</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_ACCELERATOR</Type>
+			<BuildingClass>BUILDINGCLASS_ACCELERATOR</BuildingClass>
+			<Cost>850</Cost>
+			<GoldMaintenance>8</GoldMaintenance>
+			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+			<Description>TXT_KEY_BUILDING_ACCELERATOR</Description>
+			<Civilopedia>TXT_KEY_BUILDING_ACCELERATOR_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_ACCELERATOR_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_ACCELERATOR_HELP</Help>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>80</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_ACCELERATOR</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_ACCELERATOR</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ACCELERATOR</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_ACCELERATOR</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_ACCELERATOR</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_ACCELERATOR</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_ACCELERATOR">
+			<Text>Particle accelerator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ACCELERATOR_HELP">
+			<Text>Requires 1 [ICON_RES_IRON] Iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ACCELERATOR_STRATEGY">
+			<Text>The Particle accelerator is building which gives a large bonus to [ICON_RESEARCH] Science output of a City. It requires [ICON_RES_IRON] Iron and the City must first have a Laboratory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ACCELERATOR_PEDIA">
+			<Text>A particle accelerator is a device that uses electromagnetic fields to propel charged particles to high speeds and to contain them in well-defined beams. Large accelerators are best known for their use in particle physics as colliders. Accelerators are used in energy and particle experiments.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

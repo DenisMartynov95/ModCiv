@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<!--First Greeting messages from AI leaders-->
+		<Row LeaderType="LEADER_AGAMEMNON">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_AGAMEMNON_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PENTHESILEA">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_PENTHESILEA_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PERICLES">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_PERICLES_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PASIPHAE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_PASIPHAE_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PRIAMOS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_PRIAMOS_FIRSTGREETING%</Response>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row LeaderType="LEADER_AGAMEMNON">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_AGAMEMNON_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PENTHESILEA">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_PENTHESILEA_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PERICLES">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_PERICLES_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LEONIDAS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_LEONIDAS_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PASIPHAE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_PASIPHAE_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_PRIAMOS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_PRIAMOS_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

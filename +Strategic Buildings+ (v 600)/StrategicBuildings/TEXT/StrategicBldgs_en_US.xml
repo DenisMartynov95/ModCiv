@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_en_US>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--IRONWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_IRONWORKS_HELP">
+			<Text>
+				Must have a [COLOR_CYAN]Workshop[ENDCOLOR] in all Cities. The cost increases with the number of cities in the empire.
+				[NEWLINE][NEWLINE]Provides +8 [ICON_PRODUCTION] Production and +3 [ICON_RES_IRON] Iron resources. +1 [ICON_GOLD] Gold for each source of [ICON_RES_IRON] Iron worked by this City.
+			</Text>
+		</Replace>
+<!--RECYCLING CENTER-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_RECYCLING_CENTER_HELP">
+			<Text>
+				Provides 2 [ICON_RES_ALUMINUM] Aluminum. +2 [ICON_RESEARCH] Science for each source of [ICON_RES_ALUMINUM] Aluminum worked by this City.
+				[NEWLINE][NEWLINE]Limited to 5 Cities per empire. Cannot be captured.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Buildings ===========================================-->
+<!--===============================================================-->		
+<!--COALPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT">
+			<Text>Refined Coal Facility</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_HELP">
+			<Text>
+				Provides 1 [ICON_RES_COAL] Coal. +1 [ICON_PRODUCTION] Production and +1 [ICON_GOLD] Gold for each source of [ICON_RES_COAL] Coal worked by this City.
+				[NEWLINE][NEWLINE]Limited to 3 Cities per empire. Cannot be captured.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_PEDIA">
+			<Text>
+				Refined coal is produced through advanced coal upgrading technologies that remove moisture and certain pollutants from lower-grade coals, such as sub-bituminous and lignite coals, enhancing their calorific value. These pre-combustion treatments are designed to alter the properties of coal before burning, increasing its efficiency while reducing harmful emissions. Unlike traditional coal plants, refined coal facilities incorporate these technologies to improve environmental sustainability and energy output. Such facilities play a critical role in balancing industrial energy needs with the push for cleaner energy solutions.
+				[NEWLINE][NEWLINE]The benefits of refined coal extend beyond efficiency. By significantly reducing carbon emissions, these technologies complement emerging carbon sequestration methods aimed at mitigating climate change. Initially developed in the United States, refined coal technologies have also been explored globally, including in Victoria, Australia, where innovations like the Coldry Process transform brown coal into a cleaner, more stable, and exportable product with higher energy density. These advancements demonstrate the potential of refined coal facilities to serve as a bridge between conventional energy sources and a more sustainable energy future.
+			</Text>
+		</Replace>
+<!--OILREFINERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY">
+			<Text>Oil Refinery</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_HELP">
+			<Text>
+				Provides 1 [ICON_RES_OIL] Oil. +2 [ICON_GOLD] Gold for each source of [ICON_RES_OIL] Oil worked by this City.
+				[NEWLINE][NEWLINE]Limited to 4 Cities per empire. Cannot be captured.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_PEDIA">
+			<Text>
+				An oil refinery is a large industrial facility where crude oil is processed and refined into valuable products such as gasoline, diesel, kerosene, and liquefied petroleum gas (LPG). Refineries utilize complex processes, including fractional distillation, cracking, and reforming, to separate and transform the diverse hydrocarbon compounds found in crude oil. First established in the mid-19th century, oil refineries became critical to the growth of modern industries, fueling transportation, manufacturing, and energy production. Iconic facilities such as Standard Oil's refineries in the United States helped establish the global dominance of petroleum as a primary energy source in the 20th century.
+				[NEWLINE][NEWLINE]Crude oil itself has limited utility in its raw form, but its refined derivatives power ships, automobiles, airplanes, and machinery while also serving as feedstocks for petrochemical industries. These industries produce a wide range of materials, including plastics, synthetic fibers, and lubricants, which are integral to modern life. Despite their benefits, refineries have faced criticism for environmental impacts, including greenhouse gas emissions and pollution. Advances in refining technologies continue to aim for greater efficiency and lower environmental footprints, reflecting the ongoing challenge of balancing energy demands with sustainability.
+			</Text>
+		</Replace>
+<!--REPROCESSPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT">
+			<Text>Nuclear Reprocessing Plant</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_HELP">
+			<Text>
+				Provides 5 [ICON_RES_URANIUM] Uranium. +3 [ICON_PRODUCTION] Production for each source of [ICON_RES_URANIUM] Uranium worked by this City.
+				[NEWLINE][NEWLINE]Requires a [COLOR_CYAN]Nuclear Plant[ENDCOLOR] in the City. Limited to 2 Buildings per empire. Cannot be captured.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_PEDIA">
+			<Text>
+				A Nuclear Reprocessing Plant chemically separates usable materials, such as uranium and plutonium, from spent nuclear fuel. Initially developed to extract plutonium for nuclear weapons, reprocessing later became an essential part of the nuclear energy cycle, allowing spent fuel to be recycled into new reactor fuel such as Mixed Oxide (MOX). This process extends the utility of uranium resources, especially when natural supplies are scarce or prices are high. Reprocessing also supports breeder reactors, which can utilize recycled materials and actinides, significantly increasing energy yields from uranium.
+				[NEWLINE][NEWLINE]The PUREX (Plutonium Uranium Redox Extraction) process is the most widely used method for recovering uranium and plutonium from spent nuclear fuel. By closing the nuclear fuel cycle, reprocessing plants reduce waste and enhance fuel efficiency, making nuclear power more sustainable. However, these facilities face challenges, including the risk of weaponization of reprocessed materials and managing radioactive waste. Despite these issues, nuclear reprocessing remains a critical technology for maximizing the benefits of nuclear energy while addressing its long-term sustainability.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW World Wonders =======================================-->
+<!--===============================================================-->
+<!--SHANDAN-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SHANDAN">
+			<Text>[COLOR_WATER_TEXT]Shandan Horse Farm[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_HELP">
+			<Text>
+				Two [ICON_RES_HORSE] Horse resources appear near the city. Also grants +1 [ICON_CULTURE] Culture, +1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +1 [ICON_GOLD] Gold.
+				[NEWLINE][ICON_RES_HORSE] [COLOR_POSITIVE_TEXT]Horses[ENDCOLOR] worked by the city gain +1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +1 [ICON_GOLD] Gold [COLOR_CYAN]once improved[/COLOR].
+				[NEWLINE][NEWLINE]City must be founded on [COLOR_CYAN]flat terrain[/COLOR] and adjacent to [COLOR_CYAN]Plains[/COLOR].
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_QUOTE">
+			<Text>[NEWLINE]"As distance tests a horse's strength, so does time reveal a person's real character." - Chinese Proverb[NEWLINE]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_PEDIA">
+			<Text>
+				[b]Shandan Jun Machang[/b] (Shandan Military Horse Farm) is the world's largest and oldest military horse farm. It is located in the Hexi Corridor, spanning Gansu and Qinghai provinces, and covering an area of over 3.2 million mu (2,130 square kilometers). Established in 121 BC during the Han Dynasty, it has supplied warhorses for over two millennia.
+				[NEWLINE][NEWLINE]The farm's vast plains provide ideal grazing conditions, with lush summer grasslands and golden pastures in winter. Traditionally a key breeding ground for military horses, Shandan has recently shifted towards ecological conservation, horse racing, and tourism. Today, the farm continues its legacy with over 600 horses.
+			</Text>
+		</Replace>		
+	</Language_en_US>
+</GameData>

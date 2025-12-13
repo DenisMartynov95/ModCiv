@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/23/2014 1:57:55 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SALTERN</Type>
+			<DefaultBuilding>BUILDING_SALTERN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SALTERN</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SALTERN</Type>
+			<BuildingClass>BUILDINGCLASS_SALTERN</BuildingClass>
+			<Cost>190</Cost>
+			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SALTERN</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SALTERN_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SALTERN_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SALTERN_HELP</Help>
+			<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			<NearbyTerrainRequired>TERRAIN_DESERT</NearbyTerrainRequired>
+			<Water>true</Water>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>13</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SALTERN</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SALTERN">
+			<Text>Saltern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SALTERN_HELP">
+			<Text>+ 1 [ICON_RES_SALT] Salt luxury. Improved trade route [ICON_GOLD] Gold income to and from this City. No more than 1 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SALTERN_STRATEGY">
+			<Text>The Saltern is a Ancient era building which grants 1 source of [ICON_RES_SALT] Salt and increases a City's [ICON_FOOD] Food, [ICON_GOLD] Gold and Trade route income. The City must be on the Coast and near a Desert. No more than 1 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SALTERN_PEDIA">
+			<Text>Salterns are shallow artificial ponds designed to extract salts from sea water or other brines. The seawater or brine is fed into large ponds and water is drawn out through natural evaporation which allows the salt to be subsequently harvested. The ponds are commonly separated by levees.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

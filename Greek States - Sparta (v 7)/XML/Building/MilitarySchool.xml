@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MILITARY_SCHOOL</Type>
+			<Description>TXT_KEY_BUILDING_MILITARY_SCHOOL</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MILITARY_SCHOOL_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MILITARY_SCHOOL_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_MILITARY_SCHOOL_HELP</Help>
+			<ThemingBonusHelp></ThemingBonusHelp>
+			<Quote></Quote>
+			<GoldMaintenance>1</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<NeverCapture>1</NeverCapture>
+			<Cost>75</Cost>
+			<HurryCostModifier>25</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_BARRACKS</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_MILITARY_SCHOOL</ArtDefineTag>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>SPARTA_ATLAS</IconAtlas>
+		</Row>
+	</Buildings>
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>25</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>25</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>25</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_MILITARY_SCHOOL">
+			<Text>Военный лагерь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MILITARY_SCHOOL_TEXT">
+			<Text>
+				Воспитание молодого поколения считалось в классической Спарте (до IV в. до н. э.) делом государственной важности. Система воспитания была подчинена задаче физического развития граждан-воинов. Среди моральных качеств упор делался на решительность, стойкость и преданность. С 7 до 20 лет сыновья вольных граждан жили в интернатах военного типа. Помимо телесных упражнений и закаливания, практиковались военные игры, занятия музыкой и пением. Вырабатывались навыки чёткой и краткой речи. Все дети в Спарте считались собственностью государства. Суровое воспитание, ориентированное на выносливость, и сейчас называют спартанским.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MILITARY_SCHOOL_STRATEGY">
+			<Text>Военный лагерь - это уникальная заменя казарм для Спарты. Он даёт +25 к опыту и +2 к пище. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MILITARY_SCHOOL_HELP">
+			<Text>+2 к пище. +25 к опыту для всех юнитов.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

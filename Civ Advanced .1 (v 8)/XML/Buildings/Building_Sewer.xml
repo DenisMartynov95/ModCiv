@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/2/2014 9:13:11 PM -->
+<GameData>
+	<BuildingClasses>
+		<Delete Type="BUILDINGCLASS_AQUEDUCT"/>
+		<Row>
+			<Type>BUILDINGCLASS_SEWER</Type>
+			<DefaultBuilding>BUILDING_SEWER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SEWER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_AQUEDUCT</Type>
+			<DefaultBuilding>BUILDING_AQUEDUCT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_AQUEDUCT</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SEWER</Type>
+			<BuildingClass>BUILDINGCLASS_SEWER</BuildingClass>
+			<Cost>170</Cost>
+			<GoldMaintenance>2</GoldMaintenance>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SEWER</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SEWER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SEWER_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SEWER_HELP</Help>
+			<FreeStartEra>ERA_RENAISSANCE</FreeStartEra>
+			<FoodKept>20</FoodKept>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>90</ConquestProb>
+			<HurryCostModifier>35</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>33</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SEWER</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SEWER</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_AQUEDUCT</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_SEWER</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SEWER">
+			<Text>Sewer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEWER_HELP">
+			<Text>20% of the [ICON_FOOD] Food is carried over after a [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEWER_STRATEGY">
+			<Text>The Sewer is a Ancient era building which increases a Cities growth. It is necessary to have a Sewer before any other health and sanitation buildings can be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEWER_PEDIA">
+			<Text>A Sewer encompasses components such as receiving drains, manholes, pumping stations, storm overflows, and screening chambers of the combined sewer or sanitary sewer. Sewerage ends at the entry to a sewage treatment plant or at the point of discharge into the environment. In loose American English usage, the terms "sewerage" and "sewage" are sometimes used interchangeably.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

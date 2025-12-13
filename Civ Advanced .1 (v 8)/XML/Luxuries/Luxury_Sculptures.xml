@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2014 2:27:48 PM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_SCULPTURE</Type>
+			<Happiness>2</Happiness>
+			<TechCityTrade>TECH_POTTERY</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_SCULPTURE</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_SCULPTURE_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_SCULPTURE_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<IconString>[ICON_RES_SCULPTURE]</IconString>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>NEWLUXURIES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_SCULPTURE</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_SCULPTURE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SCULPTURE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SCULPTURE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_SCULPTURE">
+			<Text>Sculptures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SCULPTURE_HELP">
+			<Text>Sculptures are produced by the Sculptors Guild.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SCULPTURE_PEDIA">
+			<Text>Sculpture is the branch of the visual arts that operates in three dimensions and one of the plastic arts. Sculpture has been central in religious devotion in many cultures, and until recent centuries large sculptures, too expensive for private individuals to create, were usually an expression of religion or politics. The Western tradition of sculpture began in Ancient Greece, and Greece is widely seen as producing great masterpieces in the classical period. During the Middle Ages, Gothic sculpture represented the agonies and passions of the Christian faith.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2014 3:28:34 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_BREEDER_REACTOR</Type>
+			<DefaultBuilding>BUILDING_BREEDER_REACTOR</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BREEDER_REACCTOR</Description>
+			<MaxPlayerInstances>3</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_BREEDER_REACTOR</Type>
+			<BuildingClass>BUILDINGCLASS_BREEDER_REACTOR</BuildingClass>
+			<Cost>700</Cost>
+			<GoldMaintenance>6</GoldMaintenance>
+			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+			<Description>TXT_KEY_BUILDING_BREEDER_REACTOR</Description>
+			<Civilopedia>TXT_KEY_BUILDING_BREEDER_REACTOR_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_BREEDER_REACTOR_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_BREEDER_REACTOR_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>MOD_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>24</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_BREEDER_REACTOR</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_BREEDER_REACTOR</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BREEDER_REACTOR</BuildingType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_BREEDER_REACTOR</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_BREEDER_REACTOR">
+			<Text>Breeder Reactor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BREEDER_REACTOR_HELP">
+			<Text>+2 [ICON_RES_URANIUM] Uranium Resource. No more than 5 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BREEDER_REACTOR_STRATEGY">
+			<Text>The Breeder Reactor grants 2 units of [ICON_RES_URANIUM] Uranium. The City must first have a Laboratory. No more than 5 may be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BREEDER_REACTOR_PEDIA">
+			<Text>A breeder reactor is a nuclear reactor capable of generating more fissile material than it consumes. These devices are able to achieve this feat because their neutron economy is high enough. Breeders were at first considered attractive because of their superior fuel economy. Interest in breeders declined after the 1960s as more uranium reserves were found, and new methods of uranium enrichment reduced fuel costs.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

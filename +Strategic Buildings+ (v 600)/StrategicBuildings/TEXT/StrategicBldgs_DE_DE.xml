@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gaia -->
+<GameData>
+	<Language_DE_DE>
+<!--===============================================================-->
+<!--===== Building Updates ========================================-->
+<!--===============================================================-->
+<!--IRONWORKS-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_IRONWORKS_HELP">
+			<Text>
+				Erfordert eine [COLOR_CYAN]Werkstatt[ENDCOLOR] in allen Städten. Die Kosten steigen mit der Anzahl der Städte im Reich.
+				[NEWLINE][NEWLINE]Bietet +8 [ICON_PRODUCTION] Produktion und +3 [ICON_RES_IRON] Eisen. +1 [ICON_GOLD] Gold für jede [ICON_RES_IRON] Eisenquelle, die von dieser Stadt genutzt wird.
+			</Text>
+		</Replace>
+<!--RECYCLING CENTER-->
+		<Replace Tag="TXT_KEY_GAIA_BUILDING_RECYCLING_CENTER_HELP">
+			<Text>
+				Bietet 2 [ICON_RES_ALUMINUM] Aluminium. +2 [ICON_RESEARCH] Wissenschaft für jede [ICON_RES_ALUMINUM] Aluminiumquelle, die von dieser Stadt genutzt wird.
+				[NEWLINE][NEWLINE]Auf 5 Städte pro Reich begrenzt. Kann nicht erobert werden.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW Buildings ===========================================-->
+<!--===============================================================-->
+<!--COALPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT">
+			<Text>Raffinierte Kohleanlage</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_HELP">
+			<Text>
+				Bietet 1 [ICON_RES_COAL] Kohle. +1 [ICON_PRODUCTION] Produktion und +1 [ICON_GOLD] Gold für jede [ICON_RES_COAL] Kohlequelle, die von dieser Stadt genutzt wird.
+				[NEWLINE][NEWLINE]Auf 3 Städte pro Reich begrenzt. Kann nicht erobert werden.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_COALPLANT_PEDIA">
+			<Text>
+				Raffinierte Kohle wird durch fortschrittliche Kohleaufbereitungstechnologien hergestellt, die Feuchtigkeit und bestimmte Schadstoffe aus minderwertigen Kohlen wie Braunkohle und subbituminösen Kohlen entfernen und deren Heizwert erhöhen. Diese Vorverbrennungsmethoden zielen darauf ab, die Eigenschaften der Kohle vor dem Verbrennen zu verändern, um die Effizienz zu steigern und schädliche Emissionen zu reduzieren. Im Gegensatz zu herkömmlichen Kohlekraftwerken verwenden raffinierte Kohleanlagen diese Technologien, um die Umweltverträglichkeit und den Energieoutput zu verbessern. Diese Anlagen spielen eine Schlüsselrolle bei der Balance zwischen industriellem Energiebedarf und umweltfreundlicheren Lösungen.
+				[NEWLINE][NEWLINE]Die Vorteile raffinierter Kohle gehen über die Effizienz hinaus. Durch die signifikante Reduzierung von Kohlenstoffemissionen ergänzen diese Technologien aufkommende Methoden zur Kohlenstoffbindung, die darauf abzielen, den Klimawandel zu bekämpfen. Ursprünglich in den USA entwickelt, wurden Technologien zur raffinierten Kohle auch weltweit erforscht, einschließlich in Victoria, Australien, wo Innovationen wie der Coldry-Prozess Braunkohle in ein saubereres, stabileres und exportfähiges Produkt mit höherer Energiedichte verwandeln. Diese Fortschritte zeigen das Potenzial raffinierter Kohleanlagen als Brücke zwischen herkömmlichen Energiequellen und einer nachhaltigeren Energiezukunft.
+			</Text>
+		</Replace>
+<!--OILREFINERY-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY">
+			<Text>Ölraffinerie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_HELP">
+			<Text>
+				Bietet 1 [ICON_RES_OIL] Öl. +2 [ICON_GOLD] Gold für jede [ICON_RES_OIL] Ölquelle, die von dieser Stadt genutzt wird.
+				[NEWLINE][NEWLINE]Auf 4 Städte pro Reich begrenzt. Kann nicht erobert werden.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_OILREFINERY_PEDIA">
+			<Text>
+				Eine Ölraffinerie ist eine große industrielle Anlage, in der Rohöl verarbeitet und in wertvolle Produkte wie Benzin, Diesel, Kerosin und Flüssiggas (LPG) raffiniert wird. Raffinerien nutzen komplexe Verfahren wie Fraktionierung, Cracken und Reformierung, um die verschiedenen Kohlenwasserstoffverbindungen im Rohöl zu trennen und umzuwandeln. Im 19. Jahrhundert erstmals gegründet, spielten Ölraffinerien eine entscheidende Rolle beim Wachstum moderner Industrien, indem sie den Transport, die Fertigung und die Energieproduktion mit Treibstoff versorgten. Ikonische Anlagen wie die der Standard Oil in den USA trugen dazu bei, das Erdöl als primäre Energiequelle des 20. Jahrhunderts zu etablieren.
+				[NEWLINE][NEWLINE]Rohöl hat in seiner natürlichen Form nur begrenzte Nutzbarkeit, aber seine raffinierten Derivate treiben Schiffe, Autos, Flugzeuge und Maschinen an und dienen auch als Rohstoffe für die petrochemische Industrie. Diese Industrie produziert eine breite Palette von Materialien wie Kunststoffe, synthetische Fasern und Schmierstoffe, die für das moderne Leben unverzichtbar sind. Trotz ihrer Vorteile stehen Raffinerien wegen ihrer Umweltauswirkungen wie Treibhausgasemissionen und Umweltverschmutzung in der Kritik. Fortschritte in der Raffinerietechnologie zielen darauf ab, die Effizienz zu steigern und die Umweltbelastung zu verringern, was die ständige Herausforderung widerspiegelt, den Energiebedarf mit Nachhaltigkeit in Einklang zu bringen.
+			</Text>
+		</Replace>
+<!--REPROCESSPLANT-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT">
+			<Text>Nukleare Wiederaufbereitungsanlage</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_HELP">
+			<Text>
+				Bietet 5 [ICON_RES_URANIUM] Uran. +3 [ICON_PRODUCTION] Produktion für jede [ICON_RES_URANIUM] Uranquelle, die von dieser Stadt genutzt wird.
+				[NEWLINE][NEWLINE]Erfordert ein [COLOR_CYAN]Kernkraftwerk[ENDCOLOR] in dieser Stadt. Auf 2 Gebäude pro Reich begrenzt. Kann nicht erobert werden.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_REPROCESSPLANT_PEDIA">
+			<Text>
+				Eine nukleare Wiederaufbereitungsanlage trennt chemisch nutzbare Materialien wie Uran und Plutonium aus verbrauchtem Kernbrennstoff. Ursprünglich zur Extraktion von Plutonium für Nuklearwaffen entwickelt, wurde die Wiederaufbereitung später zu einem wesentlichen Bestandteil des nuklearen Brennstoffkreislaufs, der es ermöglicht, verbrauchten Brennstoff in neuen Reaktorbrennstoff wie Mischoxid (MOX) zu recyceln. Dieser Prozess erhöht die Nutzung von Uranressourcen erheblich, insbesondere wenn natürliche Vorräte knapp oder teuer sind. Die Wiederaufbereitung unterstützt auch Brutreaktoren, die recycelte Materialien und Actinide nutzen können, um die Energieausbeute aus Uran deutlich zu steigern.
+				[NEWLINE][NEWLINE]Das PUREX-Verfahren (Plutonium-Uran-Redox-Extraktion) ist die am häufigsten verwendete Methode zur Rückgewinnung von Uran und Plutonium aus verbrauchtem Kernbrennstoff. Durch den Abschluss des nuklearen Brennstoffkreislaufs reduzieren Wiederaufbereitungsanlagen Abfälle und verbessern die Brennstoffeffizienz, wodurch die Kernenergie nachhaltiger wird. Diese Anlagen stehen jedoch vor Herausforderungen, darunter das Risiko der Militarisierung aufbereiteter Materialien und die Entsorgung radioaktiver Abfälle. Trotz dieser Herausforderungen bleibt die Wiederaufbereitung eine Schlüsseltechnologie zur Maximierung der Vorteile der Kernenergie und zur Bewältigung ihrer langfristigen Nachhaltigkeitsprobleme.
+			</Text>
+		</Replace>
+<!--===============================================================-->
+<!--===== NEW World Wonders =======================================-->
+<!--===============================================================-->
+<!--SHANDAN-->
+		<Replace Tag="TXT_KEY_BUILDING_GAIA_SHANDAN">
+			<Text>[COLOR_WATER_TEXT]Shandan-Pferdehof[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_HELP">
+			<Text>
+				Zwei [ICON_RES_HORSE] Pferderessourcen erscheinen in der Nähe der Stadt. Zusätzlich gewährt es +1 [ICON_CULTURE] Kultur, +1 [ICON_FOOD] Nahrung, +1 [ICON_PRODUCTION] Produktion und +1 [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE][ICON_RES_HORSE] [COLOR_POSITIVE_TEXT]Pferde[ENDCOLOR], die von der Stadt genutzt werden, erhalten +1 [ICON_FOOD] Nahrung, +1 [ICON_PRODUCTION] Produktion und +1 [ICON_GOLD] Gold [COLOR_CYAN], sobald sie verbessert wurden[/COLOR].
+				[NEWLINE][NEWLINE]Die Stadt muss auf [COLOR_CYAN]flachem Gelände[/COLOR] und angrenzend an [COLOR_CYAN]Grasland[/COLOR] gegründet werden.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_QUOTE">
+			<Text>[NEWLINE]"Wie die Distanz die Kraft eines Pferdes testet, so offenbart die Zeit den wahren Charakter eines Menschen." - Chinesisches Sprichwort[NEWLINE]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_WONDER_GAIA_SHANDAN_PEDIA">
+			<Text>
+				[b]Shandan Jun Machang[/b] (Shandan Militärpferdehof) ist der größte und älteste Militärpferdehof der Welt. Er befindet sich im Hexi-Korridor, erstreckt sich über die Provinzen Gansu und Qinghai und umfasst eine Fläche von über 3,2 Millionen Mu (2.130 Quadratkilometer). Gegründet im Jahr 121 v. Chr. während der Han-Dynastie, versorgte er mehr als zwei Jahrtausende lang Kriegsreiter.
+				[NEWLINE][NEWLINE]Die weiten Ebenen bieten ideale Weidebedingungen mit üppigem Sommergrasland und goldenen Weiden im Winter. Traditionell ein wichtiges Zuchtzentrum für Militärpferde, hat Shandan sich in jüngerer Zeit dem Umweltschutz, Pferderennen und Tourismus zugewandt. Heute setzt die Farm ihr Erbe mit über 600 Pferden fort.
+			</Text>
+		</Replace>		
+	</Language_DE_DE>
+</GameData>
