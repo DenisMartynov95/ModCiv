@@ -5989,6 +5989,90 @@
 			<UnitType>UNIT_SS_BOOSTER</UnitType>
 			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
 		</Row>
+
+
+
+
+
+		<!-- А -->
+
+			<!-- Древний мир -->
+
+				<!-- Копейщик-->
+		<Row>
+			<UnitType>UNIT_SPEARMAN</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPEARMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Heqetai-->
+		<Row>
+			<UnitType>UNIT_HEQETAI</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HEQETAI</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Phalax-->
+		<Row>
+			<UnitType>UNIT_ATHENIAN</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ATHENIAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Spartatiates-->
+		<Row>
+			<UnitType>UNIT_SPARTAN</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPARTAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Бессмертные-->
+		<Row>
+			<UnitType>UNIT_PERSIAN_IMMORTAL</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_PERSIAN_IMMORTAL</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	</Unit_ResourceQuantityRequirements>
 	<Unit_UniqueNames>
 		<Row>
