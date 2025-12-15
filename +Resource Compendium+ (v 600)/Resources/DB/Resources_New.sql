@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS GAIA_Res_Config (
 );
 INSERT OR REPLACE INTO GAIA_Res_Config 
 		(Res_Name,			Res_Active, Res_Atlas,					Res_PortraitIndex)
-VALUES	('AMBER',			1,			'GAIA_RESOURCE_ATLAS',		0),
+VALUES	('AMBER',			2,			'GAIA_RESOURCE_ATLAS',		0),
 		('COFFEE',			1,			'GAIA_RESOURCE_ATLAS',		1),
 		('CORAL',			1,			'GAIA_RESOURCE_ATLAS',		2),
 		('JADE',			1,			'GAIA_RESOURCE_ATLAS',		3),

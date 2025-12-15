@@ -6039,6 +6039,18 @@
 			<ResourceType>RESOURCE_CLAY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<!-- ГОПЛИТЫ-->
+		<Row>
+			<UnitType>UNIT_GREEK_HOPLITE</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- ЭЛИТНЫЕ ГОПЛИТЫ-->
+		<Row>
+			<UnitType>UNIT_ELITE_HOPLITE</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 		<!-- Таран-->
 		<Row>
 			<UnitType>UNIT_HUN_BATTERING_RAM</UnitType>
