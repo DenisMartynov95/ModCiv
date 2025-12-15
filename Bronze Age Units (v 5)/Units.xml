@@ -22,13 +22,13 @@
 			<DefaultUnit>UNIT_GREATZERO</DefaultUnit>
 		</Row>
 </UnitClasses>
-
+	
 <Units>
 		<Row>
 			<Class>UNITCLASS_LIGHTSPEARSMAN</Class>
 			<Type>UNIT_LIGHTSPEARSMAN</Type>
 			<Combat>9</Combat>
-			<Cost>50</Cost>
+			<Cost>45</Cost>
 			<FaithCost>80</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>4</Moves>
@@ -57,10 +57,10 @@
 	<Row>
 		<Class>UNITCLASS_BRONZESWORDSMAN</Class>
 		<Type>UNIT_BRONZESWORDSMAN</Type>
-		<PrereqTech>TECH_MASONRY</PrereqTech>
-		<Combat>11</Combat>
-		<Cost>80</Cost>
-		<FaithCost>170</FaithCost>
+		<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+		<Combat>12</Combat>
+		<Cost>75</Cost>
+		<FaithCost>180</FaithCost>
 		<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 		<Moves>2</Moves>
 		<CombatClass>UNITCOMBAT_MELEE</CombatClass>
@@ -86,7 +86,7 @@
 			<Class>UNITCLASS_LIGHTPIKEMAN</Class>
 			<Type>UNIT_LIGHTPIKEMAN</Type>
 			<Combat>12</Combat>
-			<Cost>80</Cost>
+			<Cost>75</Cost>
 			<FaithCost>90</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>4</Moves>
@@ -115,12 +115,12 @@
 		<Row>
 			<Class>UNITCLASS_GREATZERO</Class>
 			<Type>UNIT_GREATZERO</Type>
-			<Combat>6</Combat>
-			<RangedCombat>6</RangedCombat>
+			<Combat>8</Combat>
+			<RangedCombat>8</RangedCombat>
 			<Range>1</Range>
-			<Cost>62</Cost>
+			<Cost>50</Cost>
 			<Moves>4</Moves>
-			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
@@ -151,11 +151,6 @@
 		</Update>
 </Units>
 
-
-
-
-
-
 <Unit_AITypes>
 		<Row>
 			<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
@@ -182,7 +177,7 @@
 			<UnitAIType>UNITAI_RANGED</UnitAIType>
 		</Row>
 </Unit_AITypes>
-
+	
 <Unit_ClassUpgrades>
 		<Row>
 			<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
@@ -197,7 +192,7 @@
 			<UnitClassType>UNITCLASS_LANCER</UnitClassType>
 		</Row>
 </Unit_ClassUpgrades>
-
+	
 <Unit_Flavors>
 	<Row>
 		<UnitType>UNIT_LIGHTSPEARSMAN</UnitType>
@@ -243,7 +238,7 @@
 			<UnitType/>
 		</Row>
 </Civilization_UnitClassOverrides>
-
+	
 <Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_LIGHTSPEARSMAN">
 			<Text>Light Spearman</Text>
