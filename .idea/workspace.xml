@@ -4,40 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Спирменов">
+    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Колесницы начал">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/Bronze Age Units (v 5).modinfo" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/Bronze Age Units (v 5).modinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht.fxsxml" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht.fxsxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht.gr2" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht.gr2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht_sref.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/FrankMilnaht_sref.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO128.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO128.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO256.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO256.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO32.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO32.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO45.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO45.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO64.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO64.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO80.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/GreatZERO80.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman128.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman128.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman256.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman256.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman32.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman32.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman45.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman45.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman64.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman64.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman80.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/LightPikeman80.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX128.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX128.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX256.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX256.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX32.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX32.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX45.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX45.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX64.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX64.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX80.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/PikemanX80.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior.fxsxml" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior.fxsxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior.gr2" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior.gr2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior_sref.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/SwedenWarrior_sref.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/Units.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/black_4x4.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/black_4x4.dds" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/elf_horse_archer.fxsxml" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/elf_horse_archer.fxsxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/elf_horse_archer.gr2" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/elf_horse_archer.gr2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/elf_horse_archer_diff.dds" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/elf_horse_archer_diff.dds" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/CIV5Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Units/CIV5Units.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765831552103</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Колесницы начал">
+      <option name="closed" value="true" />
+      <created>1765833708767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765833708767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +121,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
     <MESSAGE value="Спирменов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Спирменов" />
+    <MESSAGE value="Колесницы начал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Колесницы начал" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

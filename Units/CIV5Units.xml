@@ -6099,11 +6099,6 @@
 		<!-- Боевые слоны-->
 		<Row>
 			<UnitType>UNIT_INDIAN_WARELEPHANT</UnitType>
-			<ResourceType>RESOURCE_CLAY</ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_INDIAN_WARELEPHANT</UnitType>
 			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
@@ -6112,18 +6107,61 @@
 			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
 			<Cost>1</Cost>
 		</Row>
-		<!-- Боевые колесницы-->
+		<!-- Конные лучники-->
 		<Row>
-			<UnitType>UNIT_EGYPTIAN_WARCHARIOT</UnitType>
+			<UnitType>UNIT_HUN_HORSE_ARCHER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HUN_HORSE_ARCHER</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Tamed Mammoth-->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_TAMED_MAMMOTH</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_TAMED_MAMMOTH</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Трирема-->
+		<Row>
+			<UnitType>UNIT_TRIREME</UnitType>
 			<ResourceType>RESOURCE_IRON</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
-			<UnitType>UNIT_EGYPTIAN_WARCHARIOT</UnitType>
-			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<UnitType>UNIT_TRIREME</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
-
+		<!-- Дромон-->
+		<Row>
+			<UnitType>UNIT_BYZANTINE_DROMON</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BYZANTINE_DROMON</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- КВИНКВЕРЕМА-->
+		<Row>
+			<UnitType>UNIT_CARTHAGINIAN_QUINQUEREME</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CARTHAGINIAN_QUINQUEREME</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 
 
