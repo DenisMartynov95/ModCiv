@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="55658a7b-ce4b-4cf6-a7cd-a47ded94bd4c" version="5">
+  <Properties>
+    <Name>Bronze Age Units</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the Light Spearman and Bronze Swordsman units to the game.</Teaser>
+    <Description>This mod adds four strategic units to the Ancient Era.
+
+Light Spearman: Requires Mining.  Fast, unarmored melee unit that has extra movement. Upgrades to Horseman.
+
+Light Pikeman: Requires Civil Service
+
+Horse Bowman: Requires Trapping. A fast moving mounted archer with 1 range
+
+Bronze Swordsman:  Requires Bronze Working. A slightly weaker swordsman that doesn't require iron. Upgrades to Longswordsman.</Description>
+    <Authors>Novu</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B58A72AD54EA43F0D873508683CEBEB0" import="0">Units.xml</File>
+    <File md5="C6ABF36F1801DED89C611F984D7A9B4C" import="1">LightPikeman128.dds</File>
+    <File md5="7A23CD8A7FAFCFAC4ADECB25B55874A9" import="1">LightPikeman256.dds</File>
+    <File md5="29A497799B2C23BE83C7659B7958F7E8" import="1">LightPikeman32.dds</File>
+    <File md5="AFED6F2719AB2CAC0A9B4774BF74E755" import="1">LightPikeman45.dds</File>
+    <File md5="B5B6F2230A8B9B0F202AFB05F131340A" import="1">LightPikeman64.dds</File>
+    <File md5="6FFCA7E62356F23D15BAC5A31EF49B9A" import="1">LightPikeman80.dds</File>
+    <File md5="A615F32F1801DED89C611F984D7A9B4B" import="1">PikemanX128.dds</File>
+    <File md5="0A67CD9A7FAFCFAC4ADECB25B55874A5" import="1">PikemanX256.dds</File>
+    <File md5="592997899B2C23BE83C7659B7958F7E2" import="1">PikemanX32.dds</File>
+    <File md5="BF2A6F1719AB2CAC0A9B4774BF74E753" import="1">PikemanX45.dds</File>
+    <File md5="E590F2230A8B9B0F202AFB05F1313400" import="1">PikemanX64.dds</File>
+    <File md5="0A3AA7A62356F23D15BAC5A31EF49B9B" import="1">PikemanX80.dds</File>
+    <File md5="C678945F123EDED89C611F984D7A9B65" import="1">GreatZERO256.dds</File>
+    <File md5="C587036E214DCFAC4ADECB25B5587475" import="1">GreatZERO128.dds</File>
+    <File md5="C496A27D305C23BE83C7659B7958F785" import="1">GreatZERO80.dds</File>
+    <File md5="C305B18C496B2CAC0A9B4774BF74E795" import="1">GreatZERO64.dds</File>
+    <File md5="C214CF9B587A9B0F202AFB05F1313425" import="1">GreatZERO45.dds</File>
+    <File md5="C123DE0A6789F23D15BAC5A31EF49B15" import="1">GreatZERO32.dds</File>
+    <File md5="0F6164A567AD889BF032A490F92087D8" import="0">SwedenWarrior.sql</File>
+    <File md5="C497C70CFABC2D337CA384C5A0806438" import="1">SwedenWarrior.dds</File>
+    <File md5="39B9B3ED801420BCA0ACEFF4F33263CC" import="1">SwedenWarrior.fxsxml</File>
+    <File md5="E759055675D04D70F97878A909A91ACD" import="1">SwedenWarrior.gr2</File>
+    <File md5="587E5B3EBCC08EF072123EABDD2B3B7A" import="1">SwedenWarrior_sref.dds</File>
+    <File md5="52D156D4702B5F23238C6E37EB7C4030" import="1">FrankMilnaht.dds</File>
+    <File md5="1E911622FBEBE48F525CEB66CC6E55CB" import="1">FrankMilnaht.fxsxml</File>
+    <File md5="55B2E9754EB3140E13010980E80DA2A0" import="1">FrankMilnaht.gr2</File>
+    <File md5="98C2B107E4684E3F547447572F29BF46" import="1">FrankMilnaht_sref.dds</File>
+    <File md5="B1896745702B5F23238C6E37EB7C43BA" import="1">black_4x4.dds</File>
+    <File md5="B2705836FBEBE48F525CEB66CC6E52CA" import="1">elf_horse_archer.fxsxml</File>
+    <File md5="B36149274EB3140E13010980E80DA1DA" import="1">elf_horse_archer.gr2</File>
+    <File md5="B4523018E4684E3F547447572F29B0EA" import="1">elf_horse_archer_diff.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Units.xml</UpdateDatabase>
+      <UpdateDatabase>SwedenWarrior.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

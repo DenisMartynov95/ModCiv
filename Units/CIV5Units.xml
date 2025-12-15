@@ -5998,15 +5998,10 @@
 
 			<!-- Древний мир -->
 
-				<!-- Копейщик-->
+		<!-- Копейщик-->
 		<Row>
 			<UnitType>UNIT_SPEARMAN</UnitType>
 			<ResourceType>RESOURCE_CLAY</ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_SPEARMAN</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!-- Heqetai-->
@@ -6015,20 +6010,10 @@
 			<ResourceType>RESOURCE_CLAY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
-		<Row>
-			<UnitType>UNIT_HEQETAI</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
-			<Cost>1</Cost>
-		</Row>
 		<!-- Phalax-->
 		<Row>
 			<UnitType>UNIT_ATHENIAN</UnitType>
 			<ResourceType>RESOURCE_CLAY</ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_ATHENIAN</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!-- Spartatiates-->
@@ -6048,11 +6033,22 @@
 			<ResourceType>RESOURCE_CLAY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<!-- Пикты-->
 		<Row>
-			<UnitType>UNIT_PERSIAN_IMMORTAL</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<UnitType>UNIT_CELT_PICTISH_WARRIOR</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<!-- Таран-->
+		<Row>
+			<UnitType>UNIT_HUN_BATTERING_RAM</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Таран-->
+
+
+
 
 
 

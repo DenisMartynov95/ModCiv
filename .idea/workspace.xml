@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="First">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/Bronze Age Units (v 5).modinfo" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/Bronze Age Units (v 5).modinfo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/CIV5Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Units/CIV5Units.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +22,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DenisMartynov95"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DenisMartynov95&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/DenisMartynov95/ModCiv.git&quot;,
@@ -46,7 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "#1 on dev",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Denis/Desktop/ModCiv/ModCiv/src/Main.java"
   }
