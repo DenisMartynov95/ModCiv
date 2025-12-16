@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:17:59 PM -->
+<GameData>
+	<Language_en_US>
+
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_FIRSTGREETING_1">
+			<Text>Добро пожаловать в царство Израиль. Я, царь Давид, пусть Господь благославит нас обоих.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_FIRSTGREETING_2">
+			<Text>Наконец-то мы встретились. Я, Давид, царь Израильского царства. Я надеюсь, мы не будем врагами.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_FIRSTGREETING_3">
+			<Text>Может только Господь одарит нас своим благословением. Я израильский царь Давид.</Text>
+		</Row>
+		<!--Reacts to his bluff being called -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_WARBLUFF_1">
+			<Text>Так и должно было быть, готовься встретиться с армией Господа.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_WARBLUFF_2">
+			<Text>Бог Саваоф должен сокрушить вас, неверных.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_WARBLUFF_3">
+			<Text>Я молюсь своему Богу, поэтому эта война не в вашу пользу. </Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_WINWAR_1">
+			<Text>Бог Саваоф поможет нам, ваше поражение неминуемо. </Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_LOSEWAR_1">
+			<Text>Бог покарает тебя. </Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_DEFEATED_1">
+			<Text>Бог отвернулся от нас, но мы не отвернемся от него.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DEFEATED_2">
+			<Text>Это конец, но Бог поможет нам пережить это. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DEFEATED_3">
+			<Text>Господь, почему ты оставил меня?.</Text>
+		</Row>
+
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_GREETING_1">
+			<Text>Слава тебе!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_GREETING_2">
+			<Text>Здравствуй!</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_GOODBYE_1">
+			<Text>Прощай</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_GOODBYE_2">
+			<Text>До свидания</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_YES_NEUTRAL">
+			<Text>Мои люди принимают ваше предложение.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Нет, этого недостаточно. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Нет...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Мои люди не принимают вашего предложения.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Вы должны предложить нечто большее, чем это.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NO_NEUTRAL">
+			<Text>Нет, мои люди несогласны...</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRIBUTE_YES_NEUTRAL">
+			<Text>Очень хорошо, мы надеемся, что также будет в будущем. </Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRIBUTE_NO_NEUTRAL">
+			<Text>Ваша жадность уступает только вашей надмености. Мы отвергаем ваши смешные требования. </Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADEREQUEST_NEUTRAL">
+			<Text>Мои люди и я имеем предложение для вас. </Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Мои люди нуждаются в вашей помощи, мы пришли просить её. </Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_AGREE_SHORT_1">
+			<Text>Отлично.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_AGREE_SHORT_2">
+			<Text>Хорошо. </Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_DISAGREE_SHORT_1">
+			<Text>Конечно нет.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DISAGREE_SHORT_2">
+			<Text>Нет.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_LETSHEARIT_1">
+			<Text>Я слушаю.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_LETSHEARIT_2">
+			<Text>Мои люди слушают тебя...</Text>
+		</Row>
+
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_GREETING_3">
+			<Text>Мы приветствуем вас, мой друг.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_GREETING_4">
+			<Text>Вам здесь всегда рады, вы для нас не чужой.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_GOODBYE_3">
+			<Text>Ходите безопастно.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_GOODBYE_4">
+			<Text>Может мы еще встретимся.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_YES_HAPPY">
+			<Text>Мои люди всегда рады вашим предложениям.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Вы понимаете, что нам нужно нечто большее чем это.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Мои люди не могут принять этого.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Почти...Но нам нужно нечто большее.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NO_HAPPY">
+			<Text>Я боюсь, что ваше предложение неприемлемо, мой друг.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRIBUTE_YES_HAPPY">
+			<Text>Мы поможем вам, друг. Но мы надеемся на то, что вы сделаете то же, когда мы окажемся в нужде.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRIBUTE_NO_HAPPY">
+			<Text>Увы! Мы не можем согласиться на это. Вы не сможете полагаться на нашу пользу.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_DEMANDTRIBUTE_HAPPY">
+			<Text>Вы стали другом моего народа. МЫ нуждаемся в вас и вашей помощи.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADEREQUEST_HAPPY">
+			<Text>Люди Кулланы нуждаются в вас, мой великий друг. Мы будем вечно благодарны.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_AGREE_SHORT_3">
+			<Text>Конечно.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_DISAGREE_SHORT_3">
+			<Text>Мы вынуждены отклонить.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DISAGREE_SHORT_4">
+			<Text>Конечно же нет.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_LETSHEARIT_3">
+			<Text>Можете говорить.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_LETSHEARIT_4">
+			<Text>Ну, вот мы.</Text>
+		</Row>
+
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_GREETING_5">
+			<Text>О чем вы пришли просить, тиран?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_GREETING_6">
+			<Text>Вам здесь не рады. Чего вы хотите?.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_GOODBYE_5">
+			<Text>Слишком долго.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_GOODBYE_6">
+			<Text>Вот наше предложение.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_YES_ANGRY">
+			<Text>Итак, вы, наконец-то, сделали что-то разумное..</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Вы понимаете, что такое справедливая торговля? Ваше предложение нужно улучшить...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Этого недостаточно.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Нужно нечто лучшее, чем это.</Text>
+		</Row>
+
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADE_NO_ANGRY">
+			<Text>Ваше предложение является оскорбительным.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRIBUTE_YES_ANGRY">
+			<Text>Вы ответите за это.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRIBUTE_NO_ANGRY">
+			<Text>Вы не получите этого.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_DEMANDTRIBUTE_ANGRY">
+			<Text>Мы дадим вам шанс вернутся к гармонии, вы принимаете его?.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_TRADEREQUEST_ANGRY">
+			<Text>Покажите нам, как вы сражаетесь за свободу...</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_AGREE_SHORT_4">
+			<Text>Пусть будет так.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_DISAGREE_SHORT_5">
+			<Text>С настолько агрессивными идеями....нет...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DISAGREE_SHORT_6">
+			<Text>Это неприемлемо.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DISAGREE_SHORT_7">
+			<Text>Нет.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_DAVID_LETSHEARIT_5">
+			<Text>Говорите, что вы хотели...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_DAVID_DECLAREWAR_1">
+			<Text>Пришло время моим людям встать против вас. Ха ха ха!.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DECLAREWAR_2">
+			<Text>Ради справедливости мы должны покончить с вами.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_DECLAREWAR_3">
+			<Text>Время возмездия настало, мы должны спасти нашу свободу от вас.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_DAVID_ATTACKED_1">
+			<Text>Я не ожидал ничего разумного от вас. Вы не застанете нас врасплох.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_ATTACKED_2">
+			<Text>Люди Кулланы будут сражаться до конца за свою свободу.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID_ATTACKED_3">
+			<Text>Вы пришли за этим...Знайте, что мы будем сражаться до конца!</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

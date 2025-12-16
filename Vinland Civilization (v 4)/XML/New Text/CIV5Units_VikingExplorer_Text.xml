@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 10:00:31 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_VIKING_EXPLORER">
+			<Text>Viking Explorer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_VIKING_EXPLORER_TEXT">
+			<Text>The Vikings were a seafaring people from the late eighth to early 11th century who established a name for themselves as traders, explorers and warriors. They discovered the Americas long before Columbus and could be found as far east as the distant reaches of Russia. While these people are often attributed as savages raiding the more civilized nations for treasure and women, the motives and culture of the Viking people are much more diverse. These raiders also facilitated many changes throughout the lands from economics to warfare.[NEWLINE][NEWLINE]Many historians commonly associate the term “Viking” to the Scandinavian term vikingr, a word for “pirate.” However, the term is meant to reference oversea expeditions, and was used as a verb by the Scandinavian people for when the men traditionally took time out of their summers to go “a Viking.” While many would believe these expeditions entailed the raiding of monasteries and cities along the coast, many expeditions were actually with the goal of trade and enlisting as foreign mercenaries.[NEWLINE][NEWLINE]The Vikings set up colonies on the west coast of Greenland during the 10th century. The Viking sagas tell of journeys they undertook from these Greenland colonies to the New World. They mention places named "Helluland" (widely believed to be Baffin Island), "Markland" (widely believed to be Labrador) and "Vinland" (a more mysterious location which some archaeologists believe could be Newfoundland).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VIKING_EXPLORER_STRATEGY">
+			<Text>The Viking Explorer, like the scout Ignores Terrain Cost, but also may enter ice tiles, rival territory and, starts with the [COLOR_POSITIVE_TEXT]Scouting I and Survivalism I[ENDCOLOR] promotions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VIKING_EXPLORER">
+			<Text>Viking Explorer</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

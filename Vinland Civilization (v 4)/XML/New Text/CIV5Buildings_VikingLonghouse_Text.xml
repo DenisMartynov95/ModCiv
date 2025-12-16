@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 6:13:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_VIKING_LONGHOUSE">
+			<Text>Vinking Longhouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIKING_LONGHOUSE_DESC">
+			<Text>Viking Longhouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_VIKING_LONGHOUSE_TEXT">
+			<Text>Vikings lived in a long, narrow building called a longhouse. Most had timber frames, with walls of wattle and daub and thatched roofs. Where wood was scarce, as in Iceland, longhouses were made of turf and sod. Two rows of high posts supported the roof and ran down the entire length of the building, which could be up to 250 feet long. The floor of the longhouse was pounded earth.[NEWLINE][NEWLINE]Viking families lived in the central hall portion of the building. Rooms were partially set off; one end of the longhouse might be used as a barn to keep cattle and horses in the winter as well as storage for crops and tools. The other end could be set up as a workroom for artisanal crafts or the family’s vertical loom.[NEWLINE][NEWLINE]In the central hall, built-in benches supported the walls. They also provided sitting, working and sleeping platforms. A stone hearth was set in the middle corridor. Fires in the hearth were used for lighting, heating and cooking the family’s food. When the family wasn’t busy working outside, they gathered around the hearth, talking, weaving, making baskets or listening to stories. All the meals were cooked over the open-hearth fire. As there were no windows, smoke exited through gaps in the thatched roof, which also provided extra light.[NEWLINE][NEWLINE]Some sagas mention tables being set up in the hall for dining. These tables might have been stored in the rafters above when not in use. Besides the benches, Vikings had little other furniture. A rich Viking might have a carved bed, but no chairs or other tables. While the longhouse might have a loft, generally it was used more for storage than sleeping as it would have been too smoky.[NEWLINE][NEWLINE]Wealthier farms also had outbuildings which might have served as barns for animals, storage for crops and tools or used as workshops or a forge for blacksmithing.[NEWLINE][NEWLINE]A Viking family—often an extended family—all lived in the longhouse, where they ate, worked, talked and slept with little or no privacy. Everyone knew everyone else’s business, which probably led both to closeness and rancor. Spring’s warmer weather no doubt brought relief to families cooped up for an entire winter. Viking women pushed their menfolk out the door to hunt or fish, while they themselves went out to harvest fresh spring greens and herbs.[NEWLINE][NEWLINE]Longhouses on a Viking farm were larger than houses in a Viking town. In the few towns, Viking homes were more rectangular than long. They retained the central hall, which was a structural and cultural component of all the Norse and Germanic people.[NEWLINE][NEWLINE]Viking longhouses would seem noisy, dirty and smelly to us, especially if animals sheltered in one end. However, to the Vikings, they were no doubt crowded, but also warm, cozy and comfortable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIKING_LONGHOUSE_STRATEGY">
+			<Text>The Viking Longhouse adds +2[ICON_PRODUCTION] [COLOR_YIELD_PRODUCTION]Production[ENDCOLOR] and +2[ICON_FOOD] [COLOR_YIELD_FOOD]Food[ENDCOLOR]. Additionaly the Viking Longhouse also increases the city's [ICON_PRODUCTION] [COLOR_YIELD_PRODUCTION]Production[ENDCOLOR] output by +1 for each [COLOR_BROWN_TEXT]forest[ENDCOLOR] within the city's radius. It also adds +1 [ICON_FOOD] [COLOR_YIELD_FOOD]food[ENDCOLOR] to [COLOR_WHITE]tundra[ENDCOLOR] plots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIKING_LONGHOUSE_HELP">
+			<Text>Gives The Vinlandish colonists everything they need to survive the harsh arctic climates.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

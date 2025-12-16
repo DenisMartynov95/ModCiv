@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/28/2018 1:04:37 AM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_VINLAND</Type>
+			<PrimaryColor>COLOR_PLAYER_BLACK</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_DARK_GREEN</SecondaryColor>
+			<TextColor>COLOR_PLAYER_BLACK_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/29/2016 12:17:28 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_VIKING_BERSERKER">
+			<Text>Berserker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VIKING_BERSERKER_HEADING">
+			<Text>Berserker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VIKING_BERSERKER_TEXT">
+			<Text>Berserks (or berserkers) were Viking warriors who worked themselves up into terribles rage before going into battle. The word berserker comes from the Norse words "bjorn" (meaning bear) or "bare" (meaning naked) and "serkr" (meaning shirt); a berserk was either someone who went into battle wearing the "shirt" of a bear (i.e. someone who was bear-like in rage and strength) or someone who went into battle naked. Berserks thought that by wearing the fur of a bear they would be possessed by the spirit of the animal and possibly even shift into its form. Berserks were also known to have sworn allegiance to the Norse sky god Odin, and they believed that he would protect them and give them superhuman strength. The Vikings also believed that if death came while fighting as a berserk, the deceased would travel straight to the warrior paradise of Valhalla.[NEWLINE][NEWLINE]No one is exactly sure how berserks induced the crazed state of violence described by contemporaries. Some theories speculate that the wild behavior was prompted by the taking of various hallucinogenic drugs, or was caused by mild epilepsy, or even a genetic disorder that caused overly large skull growth. Perhaps the most likely explanation is that before going into battle the berserks simply worked themselves into frenzies by painting their faces, howling like animals, beating helmets and drums - and drinking large quantities of alcohol.[NEWLINE][NEWLINE]All stories about berserks agree that they fought with crazed strength and were immune to pain until battle was ended. Berserks were often portrayed as villains, slaying anything that moved - including their own family members. In battle even the Berserks' allies usually chose to keep them at arm's length and were never comfortable in their presence. Scandinavian kings refused to employ them as bodyguards for fear that they would forget who to protect in the fighting.[NEWLINE][NEWLINE]In 1015 the berserks were outlawed in Norway, Gragas, the medieval Icelandic law code, sentenced berserk warriors to exile. After the widespread adoption of Christianity across Scandinavia, in 1100 AD the organization of berserk warbands disappeared.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VIKING_BERSERKER_STRATEGY">
+			<Text>The Berserker may attack twice and starts with the Amphibious promotion, which eliminates combat penalty for attacking from the sea or over a river, and they have double the usual defense strength and see further than a normal embarked unit. The Berserker also steals[ICON_GOLD]gold equal to 100% of the damage inflicted on a city and earns experience 50% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VIKING_BERSERKER_HELP">
+			<Text>An aggressive Viking raider.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/29/2016 4:33:10 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RAGNAR">
+			<Text>Ragnar Lodbrok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAGNAR_NAME">
+			<Text>Ragnar Lodbrok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAGNAR_SUBTITLE">
+			<Text>King of Sweeden and Denmark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAGNAR_HEADING_1">
+			<Text>Viking King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAGNAR_TEXT_1">
+			<Text>Ragnar Lodbrok was a semi-legendary king of Sweden and Denmark who ruled sometime in the eighth or ninth centuries. The exact dates surrounding Ragnar's life are unknown, but most likely he was a Viking warlord who went on raids from approximately 835 to 865 AD. Ragnar is described as being part of the Yngling Dynasty of Swedish kings, descended from the Swedish king Sigurd Ring. The word Lodbrok means "hairy breeches" and refers to a pair of trousers his wife made for him out of animal skins. Ragnar was a pagan and believed that he was a direct descendant of the Norse god Odin. Christian churches and monasteries were among his favorite targets for attack.[NEWLINE][NEWLINE]Many of the details surrounding Ragnar's life are known only through legend, and must be viewed with a certain amount of skepticism, but he appears to have been a remarkable individual. Ragnar spent most of his life as a pirate and raider. He would demand a huge ransom from his victims for their lives, and then return a short while later to extort another payment in exchange for leaving. Based upon the number of Vikings who agreed to follow him, Ragnar must have been a successful and charismatic leader. In 845 Ragnar led a force of 120 ships carrying 5000 Vikings to the mouth of the Seine River, and from there to the city of Paris. The city was captured easily, and the Frankish king Charles the Bald (a grandson of Charlemagne) agreed to pay an enormous sum of money to Ragnar for sparing the city from destruction. According to Viking sources, Ragnar demanded a whopping 7000 pounds of silver, which he got. Though he honored the deal and left Paris (more or less) intact, that did not stop Ragnar from pillaging his way across the rest of northern France, destroying whatever crossed his path.[NEWLINE][NEWLINE]After having his way in France, in 865 Ragnar turned north and landed in England. He came aground in the northern kingdom of Northumbria, which was ruled at the time by King Aelle II. Ragnar met Aelle in battle the same year, and for the first and only time in his life Ragnar was defeated. He was also captured and thrown into a pit full of poisonous snakes.[NEWLINE][NEWLINE]As he was dying, Ragnar is said to have exclaimed, "How the little pigs would grunt if they knew the situation of the old boar!" This was a reference to his sons in Sweden, and it would have been well if Aelle II had paid his words closer attention, for in 866, the following year, Ragnar's fourth son Ivar the Boneless led a major Viking expedition to England seeking revenge. Ivar met King Aelle in battle, defeated him, and subjected him in turn to an agonizing death.[NEWLINE][NEWLINE]Whether or not it was launched to exact revenge for Ragnar's death, the Viking invasion had serious consequences for England - the kingdoms of Northumbria, Mercia, and East Anglia were all attacked and destroyed. The descendents of Ragnar were at last stopped in 871, when they were finally defeated by Alfred the Great of Wessex.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAGNAR_LIVED">
+			<Text>c.e. ? – c.e. 865</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

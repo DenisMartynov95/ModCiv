@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="305c2a74-497a-440f-88cc-e663fd54938c" version="3">
+  <Properties>
+    <Name>Vikings</Name>
+    <Teaser>This is a much needed update to Civilization IV Warlords version of The Vikings.</Teaser>
+    <Description>This is a much needed update to Civilization IV Warlords version of The Vikings.</Description>
+    <Authors>Red Gryphon</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4393E734A8ACE2E45E33289E8F47DF05" import="0">Art/Icons/Norse_Icons.xml</File>
+    <File md5="C242C29915FF4D6D79D90A5ECE605217" import="1">Art/Icons/Scandinavian_Icons_032.dds</File>
+    <File md5="504C63F4506ADAAF81ED7D98D27851C3" import="1">Art/Icons/Scandinavian_Icons_045.dds</File>
+    <File md5="54406D2BD9071E0DEBD88FF23939EB84" import="1">Art/Icons/Scandinavian_Icons_064.dds</File>
+    <File md5="9B5A4BCD046987421EC9E2A3F54BD697" import="1">Art/Icons/Scandinavian_Icons_080.dds</File>
+    <File md5="E4C3AC3792B51D96170FA17F5489252E" import="1">Art/Icons/Scandinavian_Icons_128.dds</File>
+    <File md5="F6C1DAAF6C0B4422E04F6EDED0B187CE" import="1">Art/Icons/Scandinavian_Icons_256.dds</File>
+    <File md5="AFFA689BCBBF639CA80590CEA69E913D" import="1">Art/Map/Map_Viking.dds</File>
+    <File md5="1A0911CA2D104C19B21648141251BC84" import="1">Art/Screens/DOM_Ragnar.dds</File>
+    <File md5="C0EC42EBBCF487ABAD2D46F671FF4CD2" import="1">Art/Screens/Ragnar_Scene.dds</File>
+    <File md5="85778D276B756BBE6F9DEFC81D0B58FD" import="1">Art/Screens/Ragnar_Scene.xml</File>
+    <File md5="68F6F071DF4F3C81ECF0056A4826B768" import="0">Building/BuldingClassOverrides.xml</File>
+    <File md5="F9CF3137676C82323065430FF1F41A31" import="0">Building/TradingPort.xml</File>
+    <File md5="48F9E8C5E9C0730A6951035C81C8A4F3" import="0">Building/TradingPort_BuildingClass.xml</File>
+    <File md5="6F4A076B77FBB9B984D5A6C512E1B3C5" import="0">Building/TradingPort_Text.xml</File>
+    <File md5="7AD70D1612BB7DBDEC1B665C2ACC1FD2" import="0">Civilization/CityNames.xml</File>
+    <File md5="0C6BD73E23554E83AD81100735ADEE94" import="0">Civilization/TheVikings.xml</File>
+    <File md5="CEF337F364198DFB4C3BF31B2218D40E" import="0">Civilization/TheVikings_Text.xml</File>
+    <File md5="A5A5F509CF360A10C17C06D9EEE4EDF8" import="0">Leader/Leader_Ragnar.xml</File>
+    <File md5="553761062D2CA37501BD7D346CB65334" import="0">Leader/Ragnar_Text.xml</File>
+    <File md5="1E7248D2A4E6D3B35F57BCB2244AB390" import="0">Leader/Ragnar_Trait.xml</File>
+    <File md5="7920D3FD6EC3A1594838D3C0EF3932DC" import="0">Leader/Trait_Text.xml</File>
+    <File md5="E2D7B958B0DA0F998824978168C7F64F" import="0">TSL_YnAEMP.xml</File>
+    <File md5="D6EBBEFF86BE8511D7CB8F0670C5CFF1" import="0">Units/Berserker.xml</File>
+    <File md5="2ED72E96410DDC77ED5EFDC0CE1A10F0" import="0">Units/Berserker_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Icons/Norse_Icons.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Screens/Ragnar_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Civilization/CityNames.xml</UpdateDatabase>
+      <UpdateDatabase>Civilization/TheVikings.xml</UpdateDatabase>
+      <UpdateDatabase>Civilization/TheVikings_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Leader/Trait_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Leader/Leader_Ragnar.xml</UpdateDatabase>
+      <UpdateDatabase>Leader/Ragnar_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Leader/Ragnar_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Units/Berserker.xml</UpdateDatabase>
+      <UpdateDatabase>Units/Berserker_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Building/BuldingClassOverrides.xml</UpdateDatabase>
+      <UpdateDatabase>Building/TradingPort.xml</UpdateDatabase>
+      <UpdateDatabase>Building/TradingPort_BuildingClass.xml</UpdateDatabase>
+      <UpdateDatabase>Building/TradingPort_Text.xml</UpdateDatabase>
+      <UpdateDatabase>TSL_YnAEMP.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/5/2014 6:53:30 PM -->
+<GameData>
+	<BuildingClasses>
+		<Replace>
+			<Type>BUILDINGCLASS_LEUGI_JERUSALEM_TEMPLE</Type>
+			<DefaultBuilding>BUILDING_LEUGI_JERUSALEM_TEMPLE</DefaultBuilding>
+			<Description>TXT_KEY_LEUGI_JERUSALEM_TEMPLED</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Replace>
+	</BuildingClasses>
+	<Buildings>
+		<Replace>
+			<Type>BUILDING_LEUGI_JERUSALEM_TEMPLE</Type>
+			<BuildingClass>BUILDINGCLASS_LEUGI_JERUSALEM_TEMPLE</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_STRATEGY</Strategy>
+			<Quote>TXT_KEY_WONDER_LEUGI_JERUSALEM_TEMPLE_QUOTE</Quote>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<EnhancedYieldTech>TECH_AGRICULTURE</EnhancedYieldTech>
+			<TechEnhancedTourism>4</TechEnhancedTourism>
+			<Happiness>1</Happiness>
+			<GoldenAge>true</GoldenAge>
+			<NukeImmune>true</NukeImmune>
+			<ReligiousPressureModifier>100</ReligiousPressureModifier>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>JERUSALEM_TEMPLE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<WonderSplashImage>TempleofJerusalemSplash.dds</WonderSplashImage>
+			<WonderSplashAudio>AS2D_MINOR_CIV_JERUSALEM</WonderSplashAudio>
+		</Replace>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LEUGI_JERUSALEM_TEMPLE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LEUGI_JERUSALEM_TEMPLE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<!-- ICON -->
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TempleJerusalemIcon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>TempleJerusalemIcon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>TempleJerusalemIcon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TempleJerusalemIcon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>TempleJerusalemIcon48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>TempleJerusalemIcon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>TempleJerusalemIcon32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<!-- TEXT -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE">
+			<Text>Иерусалимский храм</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_HELP">
+			<Text>Может быть построено только через решение построить храм в Иерусалиме 
+			[NEWLINE]Начинает [ICON_GOLDEN_AGE] Золотой век
+[NEWLINE]Увеличивает религиозное давление города на 100%. 
+[NEWLINE]Если город, где построен Иерусалимский храм, захватили, его можно заново построить, приянв решение .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_STRATEGY">
+			<Text>Иерусалимский храм мощное религиозное чудо. Он не только увеличивает религиозное давление, веру и туризм, но и помогает достигнуть культурной победы через религию .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LEUGI_JERUSALEM_TEMPLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Я приведу на святую гору Мою и обрадую их в Моем доме молитвы; всесожжения их и жертвы их будут благоприятны на жертвеннике Моем, ибо дом Мой назовется домом молитвы для всех народов."[NEWLINE][TAB][TAB] - Исаия[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_TEXT">
+			<Text>
+				Иеруслимский храм или Святой храм был центром религиозной, экономической, культурной и юридической жизни Иерусалима и всего еврейского народа. Также он служил единственным разрешенным местом жертвоприношений великому Богу. [NEWLINE][NEWLINE] Еврейская Библия сообщает, что Первый храм был построен в 957 году до н.э. царем Соломоном. Празднование в честь открытия Храма длилось 14 дней и на него были приглашены главы всех колен израилевых. На церемонии открытия царь Соломон (а не первосвященник, как это было принято), произнёс молитву и благословил народ. При последователях Соломона Храм неоднократно разграблялся и восстанавливался, но оставался культовым центром всех израилевых колен. В 586 году до н.э. Иерусалим был захвачен вавилонским царем Навуходоносором, полностью разрушен, а Первый Иерусалимский Храм сожжен в день 9 ава. Часть жителей была уничтожена, а часть угнана в вавилонский плен. Первый Иерусалимский Храм просуществовал около 400 лет.[NEWLINE]С приходом к власти персидского царя Кира, евреям разрешается вернуться в Израиль и приступить к восстановлению Храма. (538 год до н.э.) Расходы по строительству казна берет на себя. Евреи возвращаются, расчищают территорию Храма от обломков и устанавливают там алтарь, таким образом возобновив культ жертвоприношений еще до строительства Храма. Работами руководят потомок царя Давида - Зоровавель и Первосвященник Иехошуа. Но из-за распрей между евреями и самаритянами (самаритяне, считавшие себя потомками израильского колена Иосифа, всячески препятствуют восстановлению Храма, так как не были допущены к его строительству), возведение Второго Храма было преостановлено на 15 лет. Но строительство продолжили и уже в 516 году до н.э. (через 70 лет после разрушения Первого Храма) Второй Иерусалимский Храм был освящен. Он был более скромен в размерах и не так богато украшен, как Первый Храм. После вавилонского пленения Ковчег Завета был безвозвратно утерян и на его месте находилась лишь мраморная плита. Но когда к власти пришел Антиох IV Епифан, он начал проводить жесткую политику насаждения греческого языка и культуры еврейскому населению. Недовольство в стране росло и, когда Антиох разграбил Храм, а в 167 году до н.э. осквернил Храм, установив на жертвеннике алтарь Зевса, в стране вспыхнуло вооруженное восстание под предводительством Иуды Макковея. Восстание победило, Храм был очищен и освящен. С тех пор празднуется праздник Хануки в честь обновления Храма. После завоевания Иерусалима Ирод Великий решил перестроить и реконструировать Второй Храм.  Работы по расширению и перестройке Храма начались около 20 года до н.э. и были полностью завершены только к 64 году н.э. уже при Агриппе II и Храм был освящен во второй раз. Хотя Храм был почти полностью перестроен, его не стали называть Третьим, а по прежнему он носил название Второй Иерусалимский Храм. Вскоре Римский император Клавдий подарил Агриппе II часть земель в Иудее и поручил ему надзор за Иерусалимским Храмом и право назначать Первосвященника. В то время казна Храма находилась в руках Первосвященника, так как через него проходили все пожертвования евреев не только Иудеи, а и всей еврейской диаспоры. Чтобы получить доступ к казне Агриппа старался назначать на эту должность своих ставленников. Родственники Агриппы тоже рвались к власти. В результате между Первосвященниками Агриппой и его родственниками происходили вооруженные стычки.
+В 64 году новым римским прокуратором назначается Флор, который уже открыто пытается грабить храмовую казну. Только что закончено строительство Второго Храма и около 20 тысяч рабочих, учавствовавших в строительстве остаются без работы. В стране появляются вооруженные банды и грабители. В народе начинается недовольство.
+Агриппа убеждал народ повиноваться прокуратору Флору, но толпа потребовала, чтобы они оба убирались из Иерусалима. Первосвященники, опасаясь гнева народа, призвали Агриппу ввести войска в Иерусалим. Началось стихийное восстание, переросшее в Первую иудейскую войну.
+Она распространилась по всей территории Иудеи. Еврейское общество разделилось на несколько партий, которые воевали между собой.
+
+Римский император Нерон понял, что ситуация вышла из под контроля и послал в Иудею своего военноначальника Веспасиана подавить восстание. К 68 году римлянами была захвачена почти вся страна.
+Вскоре Нерон умер и императором был провазглашен Веспасиан. Он отправился в Рим, а продолжать войну оставил своего сына Тита. 
+Весной 70 года Тит со своей армией подошел к Иерусалиму и осадил его. В Иерусалиме продолжалась братоубийственная война и во время одного из таких боев сгорели продовольственные склады. Вскоре в городе начался голод. Это и стало одной из причин падения Иерусалима.
+
+Осада города длилась пять месяцев, но все же римлянам никак не удавалось овладеть Храмом, оставшиеся повстанцы сражались до последнего. Храм пал, когда Тит приказал поджечь ворота. 
+Второй Иерусалимский Храм горел 10 дней. Это произошло 9 ава 70 года нашей эры.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
