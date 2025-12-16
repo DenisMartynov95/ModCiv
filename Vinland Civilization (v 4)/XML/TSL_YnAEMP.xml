@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 11:46:13 PM -->
+<GameData>
+	<!-- Earth Giant Map -->
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VINLAND</Type>
+			<X>164</X>
+			<Y>73</Y>
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	<!-- Earth Huge Map -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VINLAND</Type>
+			<X>36</X>
+			<Y>66</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- Earth Cordiform Map -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VINLAND</Type>
+			<X>20</X>
+			<Y>37</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<!-- Greatest Earth Map -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VINLAND</Type>
+			<X>25</X>
+			<Y>57</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

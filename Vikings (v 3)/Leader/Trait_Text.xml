@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red Gryphon on 10/29/2016 1:26:27 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_DESCENDANT_OF_ODIN_SHORT">
+			<Text>Descendant of Odin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DESCENDANT_OF_ODIN">
+			<Text>Great General spawn rate +50% and +15% combat bonus.+30%[ICON_STRENGTH] when fighting a [ICON_CITY_STATE] or it's units. Embarked units +1[ICON_MOVES] and no penalty to move from sea to land. Melee units pillage for free. Units fight like they were at full [ICON_STRENGTH] when damaged. Receive 3x[ICON_GOLD] from Barbarian encampments and pillaging.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

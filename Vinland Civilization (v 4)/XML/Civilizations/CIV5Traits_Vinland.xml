@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 6:46:17 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_LEGEND_OF_VINLAND</Type>
+			<Description>TXT_KEY_TRAIT_LEGEND_OF_VINLAND</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LEGEND_OF_VINLAND_SHORT</ShortDescription>
+			<EmbarkedAllWater>true</EmbarkedAllWater>
+			<LuxuryHappinessRetention>50</LuxuryHappinessRetention>
+			<NaturalWonderFirstFinderGold>500</NaturalWonderFirstFinderGold>
+			<NaturalWonderSubsequentFinderGold>100</NaturalWonderSubsequentFinderGold>
+			<NaturalWonderYieldModifier>100</NaturalWonderYieldModifier>
+			<NaturalWonderHappinessModifier>100</NaturalWonderHappinessModifier>
+			<GoldenAgeDurationModifier>50</GoldenAgeDurationModifier>
+		</Row>
+	</Traits>
+</GameData>

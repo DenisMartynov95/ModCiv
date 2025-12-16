@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 6:56:44 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_FREYDIS">
+			<Text>Freydís Eiríksdóttir</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_LIVED">
+			<Text>~970 AD - 1020</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_NAME">
+			<Text>Freydís Eiríksdóttir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_SUBTITLE">
+			<Text>Leader of Vinland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_TITLES_1">
+			<Text>Settler of the New World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_TEXT_1">
+			<Text>Freydís Eiríksdóttir was born around 970 to Erik the Red, who was associated with the Norse exploration of North America and the finding of Vinland with his son Leif Erikson. The primary sources we have of Freydís are the two Vinland sagas; the Grœnlendinga saga and the Eiríks saga rauða. In both Freydís appears as a strong-willed woman who would defy the odds of her society.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_HEADING_2">
+			<Text>Eiríks saga rauða</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREYDIS_TEXT_2">
+			<Text>Freydís is described as the half sister to Leif Erikson. Written after the Grœnlendinga saga in the thirteenth century, this story portrays Freydis as a fearless, and protective woman. She joins an expedition to Vinland led by Þorfinnr Karlsefni, but is only mentioned once in the Saga when her camp is attacked by the natives, or the Skrælingjar. The natives snuck up on the Viking camp in the night and shoot what are believed to be catapults at the warriors. Many of the men, having never seen such weaponry, flee. Freydís hears the commotion and comes out to see the men retreating.[NEWLINE][NEWLINE]She calls out, "Why run you away from such worthless creatures, stout men that ye are, when, as seems to me likely, you might slaughter them like so many cattle? Let me but have a weapon; I think I could fight better than any of you." They give no heed to what she says. Freydis is eight months pregnant at the time, but this does not stop her from running out of her tent and grabbing the sword from her fallen brother in arms, Thorbrand, Snorri's son. Then come the Skrælingjar upon her. She lets down her sark so that one breast is exposed, and strikes her breast with the sword, letting out a furious battle cry. At this the Skrælingjar are frightened and rush off to their boats, and flee away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VINLAND_TEXT">
+			<Text>It's the year 1011, and you are Freydís Eiríksdóttir, the daughter of Eric the Red and sister to Lief Erikson. The sagas tell of the time and your role in colonizing Vinland and of how you single-handedly fought off a band of raiding Skrælingjar, but they also tell of how the Skrælingjar drove the majority of Viking settlers back to Greenland, while under your leadership, forcing the Kalmar Union to take Vinland under their authority and to appoint a new queen.[NEWLINE][NEWLINE]Now you have the oppertunity to once again take to the sword and prove to the world that you are fit to lead Vinland, and that you can keep the Skrælingjar at bay while expanding your territory, also keeping other European countries from moving in on the fertile soils. Can you build a Civilization to stand the test of times.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

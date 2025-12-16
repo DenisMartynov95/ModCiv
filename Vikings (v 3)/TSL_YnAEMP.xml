@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/24/2016 -->
+<GameData>
+	<!-- Earth Giant Map -->
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIKINGS</Type>
+			<X>24</X>
+			<Y>81</Y>
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	<!-- Earth Huge Map -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIKINGS</Type>
+			<X>64</X>
+			<Y>67</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- Earth Cordiform Map -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIKINGS</Type>
+			<X>39</X>
+			<Y>38</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<!-- Greatest Earth Map -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIKINGS</Type>
+			<X>52</X>
+			<Y>63</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

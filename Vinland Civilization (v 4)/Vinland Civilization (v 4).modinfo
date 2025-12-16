@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="51125d77-2c86-4b19-8719-3322823f5630" version="4">
+  <Properties>
+    <Name>Vinland Civilization</Name>
+    <Stability>Beta</Stability>
+    <Teaser>This mod adds Vinland with Freydís Eiríksdóttir as the leader.</Teaser>
+    <Description>This mod adds Vinland with Freydís Eiríksdóttir as the leader. It is compatible with YnAEMP</Description>
+    <Authors>Red_Gryphon</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="B3030D39-C0D8-4bc7-91B1-7AD1CAF585AB" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="946ABB546C159D7F9E9787EA52163FFF" import="1">Art/DOM_Vinland.dds</File>
+    <File md5="129C134B4356E70AEE35D7E65E477E6A" import="1">Art/VinlandFreydis_Scene.xml</File>
+    <File md5="6DEEAAF2A6F64D86B67B17E8E7905CC2" import="1">Art/Map_Vinland.dds</File>
+    <File md5="922E9BE5EB9B038DD466D0475FA53F31" import="0">Art/Vinland_ColorAtlas.xml</File>
+    <File md5="E537672FADBFA066F5A2C2C8AF16B178" import="1">Art/Vinland_Color_icons_032.dds</File>
+    <File md5="2F5EAD193B9C34842AF8FA9CAEAF83E9" import="1">Art/Vinland_Color_icons_045.dds</File>
+    <File md5="8AFBF72F85BC8D92C95D8C8B181B5385" import="1">Art/Vinland_Color_icons_064.dds</File>
+    <File md5="6C11DDCCDD2558B7B8421D7AFCC07C59" import="1">Art/Vinland_Color_icons_080.dds</File>
+    <File md5="6CBE58A9A79F26C0E121F5B8A57C52F5" import="1">Art/Vinland_Color_icons_128.dds</File>
+    <File md5="26FB1081E25998DE129C04A986DDF3E5" import="1">Art/Vinland_Color_icons_256.dds</File>
+    <File md5="42D594C5356CC9C43A4C58378CB5F7E1" import="1">Art/Vinland_Freydis_Scene.dds</File>
+    <File md5="0291B84C1289CB6352DCA75BBBC7F27B" import="0">XML/Buildings/CIV5Buildings_VikingLonghouse.xml</File>
+    <File md5="0061D8E533AADE7FC2E0EDAF1FBAB5C6" import="0">XML/Civilizations/CIV5Civilizations_Vinland.xml</File>
+    <File md5="EB9CBF029A8DBC17A1CE45A4B1DF44DB" import="0">XML/Civilizations/CIV5Traits_Vinland.xml</File>
+    <File md5="BBB6A41AFCDEB75005E3A22F8FD2FB94" import="0">XML/Interface/CIV5PlayerColors_Vinland.xml</File>
+    <File md5="49900711B018B2146319B42679214D84" import="0">XML/Leaders/CIV5Leader_Freydis.xml</File>
+    <File md5="AD631744D6AD1ED70183B3C36A9A06E7" import="0">XML/New Text/CIV5Buildings_VikingLonghouse_Text.xml</File>
+    <File md5="C38CFD7F3DA030AEFD79AAEDE2391677" import="0">XML/New Text/Civ5CityNames_Vinland.xml</File>
+    <File md5="6F5AD15D99FDB5AFFB713272811CC7EF" import="0">XML/New Text/CIV5Civilizations_Vinland_Text.xml</File>
+    <File md5="4AB487FD2F916D7D459BE3760A6D95F3" import="0">XML/New Text/CIV5Leader_Freydis_Text.xml</File>
+    <File md5="429C42041CD6B6BA72108DD9C3BC8FE8" import="0">XML/New Text/CIV5Traits_Vinland_Text.xml</File>
+    <File md5="741F4E304F91358C6EB859AEF1ACAE8D" import="0">XML/New Text/CIV5Units_VikingExplorer_Text.xml</File>
+    <File md5="36A47DAE609DCF7F9E9A9B3F5361E864" import="0">XML/TSL_YnAEMP.xml</File>
+    <File md5="5E2F948E84A7E7B2E9B88D1D191199FF" import="0">XML/Units/CIV5Units_VikingExplorer.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/VinlandFreydis_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Vinland_ColorAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/CIV5Buildings_VikingLonghouse.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Civilizations_Vinland.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Traits_Vinland.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/CIV5Leader_Freydis.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/CIV5Buildings_VikingLonghouse_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/Civ5CityNames_Vinland.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/CIV5Civilizations_Vinland_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/CIV5Leader_Freydis_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/CIV5Traits_Vinland_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/CIV5Units_VikingExplorer_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/CIV5Units_VikingExplorer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TSL_YnAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/CIV5PlayerColors_Vinland.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

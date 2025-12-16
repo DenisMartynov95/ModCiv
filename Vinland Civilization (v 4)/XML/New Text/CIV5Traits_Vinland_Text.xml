@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 6:49:11 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_LEGEND_OF_VINLAND_SHORT">
+			<Text>Legend of Vinland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEGEND_OF_VINLAND">
+			<Text>All units can move over oceans immediately. Retains 50% of the [ICON_HAPPINESS_1] benefits from a Luxury Resource if your last copy of it is traded away. 100 [ICON_GOLD] for discovering a Natural Wonder and a 400 [ICON_GOLD] bonus if first to discover it. Natural Wonders double the [COLOR_POSITIVE_TEXT]yield[ENDCOLOR] and [ICON_HAPPINESS_1] happiness. [ICON_GOLDEN_AGE] Golden Ages last 50% longer.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

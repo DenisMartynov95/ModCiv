@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/31/2016 10:42:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_TRADING_PORT_HELP">
+			<Text>The Viking Trading Post helps the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADING_PORT">
+			<Text>A Viking Trading Post</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADING_PORT_PEDIA">
+			<Text>Although they did seek to extend their empire through piracy and invasion, for much of the time the Vikings were merchants, with a trading network that extended from Greenland, Iceland, and Finland into the British Isles, Western Europe, and the Mediterranean. Viking merchants are known to have traded Russian slaves at Constantinople for silks and spices, and they brought furs and ivory from far-away Greenland to ports throughout Europe, North Africa and the Middle East.[NEWLINE][NEWLINE]The earliest Viking trading posts were quite primitive settlements, consisting of simple dwellings and warehouses constructed of whatever local material was readily available. Over time many of the posts flourished, becoming important cities in their own rights. For example the Irish capitol of Dublin began its existence as a Viking trading post; and after being captured by the Vikings, the English city of York became a thriving trading center, second in importance only to London.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADING_PORT_STRATEGY">
+			<Text>[COLOR_WATER_TEXT]Ocean[ENDCOLOR] plots increase [ICON_FOOD] food and [ICON_GOLD] gold by +1.[NEWLINE][NEWLINE]Ocean Resources add a +1 [ICON_PRODUCTION] production and [ICON_GOLD] gold.[NEWLINE][NEWLINE][ICON_RES_FISH] fish add 1 extra [ICON_FOOD] food.[NEWLINE][NEWLINE][COLOR_WATER_TEXT]Water units[ENDCOLOR] +15% [ICON_PRODUCTION].[NEWLINE][NEWLINE]+1 [ICON_MOVES] movement and +1 sight.[NEWLINE][NEWLINE]+15% [ICON_STRENGTH][NEWLINE][NEWLINE][ICON_BULLET][COLOR_CULTURE_STORED]Merchant Navy[ENDCOLOR] +1[ICON_GOLD][NEWLINE][NEWLINE][ICON_BULLET][COLOR_CULTURE_STORED]Naval Tradition[ENDCOLOR] +1[ICON_HAPPINESS_1]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Bathsheba -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA">
+			<Text>Вирсавия</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_DESC">
+			<Text>Жена Урии Хеттеянина, Вирсавия, была красива, как никто в вашем царстве, и теперь она беременна от вас. Для того, чтобы измена не стала известной, вы послали Урию в битву, где он нашел свою смерть и сделали Вирсавию своей женой. Тем не менее, этого было недостаточно, пророк Натан, которого послал сам Господь, пришел судить вас, упрекая за ваши грехи и неправедные поступки. [NEWLINE]
+			</Text>
+		</Row>
+		<!-- Bathseba: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_1">
+			<Text>Признайте свои грехи и покайтесь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Потеряна вся ваша[ICON_FAITH] вера[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Потеряны все ваши [ICON_GOLDEN_AGE] очки Золотого века и [ICON_GOLDEN_AGE] Золотой век останавливается, если он начнется[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Получение бесплатного Великого Пророка[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Вы исповедовались пророку Натану</Text>
+		</Row>
+		<!-- Bathseba: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_2">
+			<Text>Натан погиб</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]вызывает {1_iUnhappiness} [ICON_HAPPINESS_1] недовольство[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Вы убили пророка Натана</Text>
+		</Row>
+		<!-- Bathseba: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_3">
+			<Text>Взятка пророку Натану</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]потеряно {1_iGold} [ICON_GOLD] золото[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]25% вероятности получения Великого пророка, и 75%  чтобы потерять всю вашу [ICON_FAITH] веру[ENDCOLOR]
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Вы подкупили пророка Натана</Text>
+		</Row>
+		
+		
+		<!-- Bathsheba: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_BATHSEBA_OTHERS_ALERT">
+			<Text>Пророк Натан осуждает царя Давида за его грехи.</Text>
+		</Row>
+
+
+		
+		<!-- ============================================================================================== -->
+
+		<!-- Battle of Jericho -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_JERICHO">
+			<Text>Битва при Иерихоне</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_JERICHO_DESC">
+			<Text> Эта битва была тяжелой и наши шпионы вернулись домой. Наши войска идут сквозь Иорданию, сам Господь ведет их! Звука наших священных труб хватит, чтобы стены города пали.  [NEWLINE]
+			</Text>
+		</Row>
+		<!-- Jericho: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_JERICHO_OUTCOME_1">
+			<Text>Звук рога!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_JERICHO_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Все ваши живие Великие пророки получили оссобенность, благодаря которой все соседние юниты получают бонус.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_JERICHO_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Наши священнкики используют трубы, против стен города.</Text>
+		</Row>
+		
+		
+
+
+		<!-- Jericho: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_JERICHO_OTHERS_ALERT">
+			<Text>Наши войска научились новой тактике. </Text>
+		</Row>
+
+
+		<!-- ============================================================================================== -->
+		<!-- ============================================================================================== -->
+
+		<!-- Heir Problems -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR">
+			<Text>Проблема наследования</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_DESC">
+			<Text>Прошло много времени с того момента, как умер ваш старший сын Аммон, и теперь вы должны выбрать своего наследника. Авессалом, ваш второй, но теперь старший, сын, имеющий задатки лидера и харизму, ждет вашего решения, потому что он законный наследник. Тем не менее, ваши пророки советуют выбрать Соломона, которого, по их словам, благославил сам Господь. Кто будет вашим преемником?[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Heir: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_OUTCOME_1">
+			<Text>Выберите Авессалома, ведь он законный наследник</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Вы получите {1_NumMagistrates} [ICON_RES_MAGISTRATES] судей[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Авессалом теперь наследник трона израильского!</Text>
+		</Row>
+		<!-- Heir: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_OUTCOME_2">
+			<Text>Выберите Соломона, ведь он выбран самим Богом</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Начнется восстание под руководством Авессалома и {1_cityname} сдатся варварам.
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Начинается [ICON_GOLDEN_AGE] Золотой век и {2_NumFaith} [ICON_PEACE] вера [ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Соломон наследник трона израильского!</Text>
+		</Row>
+
+
+
+		<!-- Heir: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_ISRAEL_HEIR_OTHERS_ALERT">
+			<Text>Царь Давид выбрал наследника трона!</Text>
+		</Row>
+
+
+		<!-- ============================================================================================== -->
+		<!-- ============================================================================================== -->
+
+	</Language_en_US>
+
+	<Civilizations>
+		<Update>
+			<Set ArtStyleType="ARTSTYLE_MIDDLE_EAST"/>
+			<Where Type="CIVILIZATION_BARBARIAN"/>
+		</Update>
+	</Civilizations>
+	<Leaders>
+		<Update>
+			<Set ArtDefineTag="Huns_Attila_Scene.xml"/>
+			<Where Type="LEADER_BARBARIAN"/>
+		</Update>
+	</Leaders>
+</GameData>

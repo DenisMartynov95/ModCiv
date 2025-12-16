@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 5:22:54 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIVILIZATION_VINLAND">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_TEXT_1">
+			<Text>Vinland was discovered by the Greenlandic explorer Leif Ericsson in 1003 following tales from other Norse sailors. He spent the winter on the northern tip of Vinland island before returning home. It would be his family who would turn the island into a fully fledged colony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_HEADING_2">
+			<Text>Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_TEXT_2">
+			<Text>The Vinlandnamabok is the main source for the early years of Vinland and it describes in detail the settlement of Vinland during the 11th century. Modelled on the Icelandic Landnamabok it details some 500 settlers, their original homes, place of settlement and their descendants. The history is not linear and the overall events and political growth of the colony need to be teased from various settler histories. The earliest versions were probably written in Iceland in the 1070s from testimony at the Althing, but the earliest surviving version dates from 1284 and was written in the monastery of St. Peter and St. Michael just off the South Vinlandic coast. Many modern Vinlanders can trace their ancestry back to those mentioned in the Vinlandnamabok.[NEWLINE][NEWLINE]the original settlers were Greenlandic. Leif Ericsson's brothers Thorvald and Thorstein established the first real settlement at Thorshavn in 1007. Thorstein's widow Gudrid would remarry in Iceland and opened the way for the overpopulation of Iceland to begin moving westwards. Meanwhile Leif's sister Freydis did much the same, starting a settlement at Groenvik in 1011 and trading with Iceland spreading the news. By 1015 a steady stream of Icelanders were appearing, either aligned to Gudrid or Freydis, and the village of Isafjordhur had been founded. In 1016 Vinland had its first Althing. Modelled on Iceland's Althing, it was intended to bring the settlers together and discuss issues without resorting to the petty feuding of their homelands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_HEADING_3">
+			<Text>Native Relations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_TEXT_3">
+			<Text>The first few encounters between Norse and Skraelings were violent. The Skraelings, surprised by settlers on their seasonal hunting grounds, attacked them as they would any other native tribe who intruded on their territory.[NEWLINE][NEWLINE]Different bands of Skraeling had different attitudes to the newcomers. Those on the East coast soon accepted the Norse. Those on the West stayed much more antagonistic. However once it became clear that the Norse were not about to leave, and that they had foodstuffs and domesticated animals that were new and interesting, relations became much calmer. It was only when disease unwittingly spread by the Norse began to disrupt the old tribal systems that clashes once again started. The 1030s saw a wave of violence up and down the coasts as Snorri Thorfinnsson restricted livestock to his supporters, and trade to the Skraelings were prohibited.[NEWLINE][NEWLINE]By the 1040s however the Skraeling bands had been laid low by disease. Their remaining chiefs met with the Althing to discuss peace in 1040. The Norse were confirmed as rulers of the island and the Skraelings began to develop their own villages and farms. Comprehensive marriage between the Skraelings and the newcomers meant they ceased to be a recognisably separate people by the 1300s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_HEADING_4">
+			<Text>The Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VINLAND_TEXT_4">
+			<Text>The very earliest settlers of Vinland were Odinist, that is they still followed the old Norse religion with its multiple gods. As Christianity came to Iceland and Greenland so many Odinists travelled to Vinland to be free to follow their old beliefs. Iceland had received its first bishop in 1019 who immediately sent emissaries to Greenland and Vinland. Freydis quickly recognised that the future of the colony depended on good relations with Iceland, Scandinavia and the papacy, and accepted baptism from one of these emissaries in 1020. Thorshavn accepted Christianity alongside her and a small church was built there. However there was no pressure from the Althing to convert and whilst the priests and Freydis and Hafdis certainly helped convert many, they never insisted on religious unity.[NEWLINE][NEWLINE]The exploits of Hafdis were collected in the Encomium Hafdisae, a history of the colony and Hafdis, that was probably intended to advertise the colony and its good ordered government. It read however like a Hagiography, deliberately set out to get Hadfis canonised by the pope. Whether intended or not, this worked. Pope Gregory VII canonised her in 1081. He ordered a bishop to be sent to the colony with a crown. He intended to raise Hafdis's heirs to royalty. Though heavily debated by the Althing Thorey I was subsequently crowned Queen of Vinland in 1082 by the new bishop. Thorey's brothers and close male kin were styled Earls and granted land. Vinland's first wooden stave church would be built in Isafjordhur in 1087. The rule of the Eiriksson family, or more correctly (following the Vinlandic naming system) the Eiriksdottírs, has continued until the present day.[NEWLINE][NEWLINE]By 1100 Cluniac monks had begun to set up isolated monasteries, often funded by various European nobles, and in 1104 the monastery of St. Peter and St. Michael on the islands to the south on Vinland was established. These monks began experimenting with native crops eventually allowing maize, squash and potatoes to be grown by the Vinlanders.[NEWLINE][NEWLINE]Elsewhere, priests continued their quest to Christianise the native Leifians often with little success. Indeed they seem to have been more interested in the Leifians than the Vinlanders and Álengsk, as Christianity seems to have lapsed to a large degree during the mid-1100s[NEWLINE][NEWLINE]The frequent plague epidemics, culminating in the Black Death, entrenched beliefs and encouraged many of the more frontier churches to begin to share their space with pagan religions. As long as the churches helped the settlement of the surrounding region the practice was largely overlooked. Representations of Odinist gods, especially Thor, Odin and Hel were commonplace throughout Vinland often forming side altars along the wings of the churches. Native Leifian gods, or totems representing them, often featured in the churches of Hafsvaedaland. Mexic gods appeared in the larger city churches once a significant trade had arisen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_VINLAND_SHORT">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_VINLAND_ADJECTIVE">
+			<Text>Vinlandic</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

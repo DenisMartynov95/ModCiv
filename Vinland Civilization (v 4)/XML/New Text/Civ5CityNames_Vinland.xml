@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Red_Gryphon on 12/27/2018 9:57:55 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_ISAFJORDHUR">
+			<Text>Isafjordhur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SJOEYJOR">
+			<Text>Sjóeyjor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRATTAHLID">
+			<Text>Brattahlíd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VESTURISHOVN">
+			<Text>Vesturíshóvn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALFDANBAE">
+			<Text>Halfdanbae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAEFURINNVIK">
+			<Text>Raefurinnvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HVILIRABEY">
+			<Text>Hvilirábey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FJALLASAY">
+			<Text>Fjallasay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARANTOBORG">
+			<Text>Karantóborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EYFINNA">
+			<Text>Eyfinna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GUDNYBORG">
+			<Text>Gudnýborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOGAYFIR">
+			<Text>Logáyfir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAGINAW">
+			<Text>Saginaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KASTALINNUR">
+			<Text>Kastalinnur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_KATRINS">
+			<Text>St. Katrins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BARINNIVESTURLATT">
+			<Text>Bárinnívesturlátt</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

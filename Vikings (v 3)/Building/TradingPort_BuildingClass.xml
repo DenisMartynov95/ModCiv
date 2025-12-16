@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/31/2016 10:01:34 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_LIGHTHOUSE</Type>
+			<DefaultBuilding>BUILDING_TRADING_PORT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TRADING_PORT</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>
