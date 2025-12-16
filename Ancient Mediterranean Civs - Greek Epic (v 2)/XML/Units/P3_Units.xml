@@ -36,7 +36,7 @@
 			<PrereqTech>TECH_ARCHERY</PrereqTech>
 			<Combat>6</Combat>
 			<RangedCombat>10</RangedCombat>
-			<Cost>68</Cost>
+			<Cost>55</Cost>
 			<Moves>3</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>

@@ -31,7 +31,7 @@
 			<Cost>45</Cost>
 			<FaithCost>80</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
-			<Moves>4</Moves>
+			<Moves>2</Moves>
 			<PrereqTech>TECH_MINING</PrereqTech>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -119,7 +119,7 @@
 			<RangedCombat>8</RangedCombat>
 			<Range>1</Range>
 			<Cost>50</Cost>
-			<Moves>4</Moves>
+			<Moves>3</Moves>
 			<PrereqTech>TECH_TRAPPING</PrereqTech>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>

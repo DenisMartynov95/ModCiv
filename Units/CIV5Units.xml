@@ -2477,7 +2477,7 @@
 			<Cost>56</Cost>
 			<FaithCost>112</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
-			<Moves>4</Moves>
+			<Moves>3</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -2509,7 +2509,7 @@
 			<Cost>56</Cost>
 			<FaithCost>112</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
-			<Moves>5</Moves>
+			<Moves>4</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
