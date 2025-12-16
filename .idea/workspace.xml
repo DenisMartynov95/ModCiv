@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Начинаю Античность">
+    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Продолжаю Античность">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ancient Mediterranean Civs - Greek Epic (v 2)/XML/Units/P3_Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ancient Mediterranean Civs - Greek Epic (v 2)/XML/Units/P3_Units.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/GreekHippeis/GreekHippeis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/GreekHippeis/GreekHippeis.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/CIV5Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Units/CIV5Units.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765880511181</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Продолжаю Античность">
+      <option name="closed" value="true" />
+      <created>1765893978620</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765893978620</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +161,8 @@
     <MESSAGE value="Колесницы начал" />
     <MESSAGE value="ФЛОТ" />
     <MESSAGE value="Начинаю Античность" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начинаю Античность" />
+    <MESSAGE value="Продолжаю Античность" />
+    <option name="LAST_COMMIT_MESSAGE" value="Продолжаю Античность" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

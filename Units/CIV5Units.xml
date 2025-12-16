@@ -6391,65 +6391,97 @@
 
 		<!--МЕТКИЕ ЛУЧНИКИ -->
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-
-		<!-- -->
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-
-		<!-- -->
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-
-		<!-- -->
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-
-		<!-- -->
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
-			<Cost>1</Cost>
-		</Row>
-		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType></ResourceType>
+			<UnitType>UNIT_COMPOSITE_BOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
 
+		<!--МЕЧНИКИ -->
+		<Row>
+			<UnitType>UNIT_SWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--BERSERKER -->
+		<Row>
+			<UnitType>UNIT_BERSERKER</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BERSERKER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--MINOTAUROS -->
+		<Row>
+			<UnitType>UNIT_MINOAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MINOAN</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ВОИНЫ-МОГАВКИ -->
+		<Row>
+			<UnitType>UNIT_IROQUOIAN_MOHAWKWARRIOR</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_IROQUOIAN_MOHAWKWARRIOR</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЛЕГИОН -->
+		<Row>
+			<UnitType>UNIT_ROMAN_LEGION</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_LEGION</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_LEGION</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МАККАВЕЙ-->
+		<Row>
+			<UnitType>UNIT_ISRAEL_MACCABEE</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ISRAEL_MACCABEE</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МЕЧНИКИ С КРИСОМ-->
+		<Row>
+			<UnitType>UNIT_KRIS_SWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KRIS_SWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--Средневековье-->
 
 
 
