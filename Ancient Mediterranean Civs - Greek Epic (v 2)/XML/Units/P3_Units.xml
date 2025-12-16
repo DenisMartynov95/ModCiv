@@ -153,7 +153,7 @@
 			<Class>UNITCLASS_HORSEMAN</Class>
 			<Type>UNIT_TROJAN</Type>
 			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
-			<Combat>12</Combat>
+			<Combat>13</Combat>
 			<Cost>87</Cost>
 			<Moves>4</Moves>
 			<HurryCostModifier>20</HurryCostModifier>

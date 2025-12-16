@@ -6288,23 +6288,164 @@
 		</Row>
 		<!--SPARTAN HIPPEIS-->
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<UnitType>UNIT_EXOTIC_UNIT_GREEK_HIPPEIS</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<UnitType>UNIT_EXOTIC_UNIT_GREEK_HIPPEIS</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--ВСАДНИКИ -->
+		<Row>
+			<UnitType>UNIT_HORSEMAN</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ARES EQUESTRIAN -->
+		<Row>
+			<UnitType>UNIT_TROJAN</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TROJAN</UnitType>
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+
+
+		<!--ГЕТАЙРЫ -->
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<UnitType>UNIT_GREEK_COMPANIONCAVALRY</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREEK_COMPANIONCAVALRY</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- КАТАФРАКТЫ-->
+		<Row>
+			<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- ЛЕСНЫЕ СЛОНЫ-->
+		<Row>
+			<UnitType>UNIT_CARTHAGINIAN_FOREST_ELEPHANT</UnitType>
 			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
+			<UnitType>UNIT_CARTHAGINIAN_FOREST_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КАТАПУЛЬТЫ -->
+		<Row>
+			<UnitType>UNIT_CATAPULT</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CATAPULT</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--БАЛЛИСТЫ -->
+		<Row>
+			<UnitType>UNIT_ROMAN_BALLISTA</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_BALLISTA</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- ОСАДНАЯ БАШНЯ-->
+		<Row>
+			<UnitType>UNIT_ASSYRIAN_SIEGE_TOWER</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ASSYRIAN_SIEGE_TOWER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МЕТКИЕ ЛУЧНИКИ -->
+		<Row>
 			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- -->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- -->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- -->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- -->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType></ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
