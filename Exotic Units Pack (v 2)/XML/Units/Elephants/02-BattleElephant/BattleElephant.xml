@@ -15,8 +15,8 @@
 		<Row>
 			<Class>UNITCLASS_SMAN_EU_BATTLE_ELEPHANT</Class>
 			<Type>UNIT_SMAN_EU_BATTLE_ELEPHANT</Type>
-			<Combat>14</Combat>
-			<Cost>100</Cost>
+			<Combat>18</Combat>
+			<Cost>130</Cost>
 			<FaithCost>200</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>

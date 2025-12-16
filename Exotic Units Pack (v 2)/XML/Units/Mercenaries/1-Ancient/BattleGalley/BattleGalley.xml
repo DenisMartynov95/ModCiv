@@ -19,7 +19,7 @@
 			<RangedCombat>9</RangedCombat>
 			<Range>2</Range>
 			<Moves>3</Moves>
-			<Cost>40</Cost>			
+			<Cost>65</Cost>
 			<!--<FaithCost>120</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
 			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>

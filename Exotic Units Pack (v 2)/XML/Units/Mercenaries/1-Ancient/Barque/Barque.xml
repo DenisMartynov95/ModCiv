@@ -17,7 +17,7 @@
 			<ObsoleteTech>TECH_COMPASS</ObsoleteTech>
 			<Combat>7</Combat>
 			<Moves>3</Moves>
-			<Cost>40</Cost>			
+			<Cost>55</Cost>
 			<!--<FaithCost>120</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
 			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>

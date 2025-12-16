@@ -16,7 +16,7 @@
 			<Type>UNIT_EXOTIC_UNIT_GHAZI</Type>
 			<Combat>14</Combat>
 			<Moves>2</Moves>
-			<Cost>75</Cost>
+			<Cost>90</Cost>
 			<!--<FaithCost>40</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
 			<PrereqTech>TECH_CURRENCY</PrereqTech>

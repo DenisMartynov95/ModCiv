@@ -15,13 +15,13 @@
 		<Row>
 			<Class>UNITCLASS_SMAN_EU_CAMEL_RAIDING_PARTY</Class>
 			<Type>UNIT_SMAN_EU_CAMEL_RAIDING_PARTY</Type>
-			<Combat>4</Combat>
+			<Combat>7</Combat>
 			<!--<RangedCombat>11</RangedCombat>
 			<Range>2</Range>-->
 			<Cost>45</Cost>
 			<FaithCost>90</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
-			<Moves>2</Moves>
+			<Moves>3</Moves>
 			<BaseSightRange>2</BaseSightRange>
 			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
 			<ObsoleteTech>TECH_GUNPOWDER</ObsoleteTech>

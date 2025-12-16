@@ -6174,9 +6174,143 @@
 			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<!-- Barque-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_BARQUE</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Battle Galley-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_BATTLE_GALLEY</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_BATTLE_GALLEY</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 
 		<!-- Античность -->
+		<!-- Battle Elephant-->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_BATTLE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_BATTLE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Camel bowman -->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_BOWMAN</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_BOWMAN</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_BOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- CAMEL RAIDING PARTY -->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_RAIDING_PARTY</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_RAIDING_PARTY</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- GHAZI -->
+		<!-- HORSE BOWMASTER -->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_SCYTHIAN_HORSE_ARCHER</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_SCYTHIAN_HORSE_ARCHER</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_SCYTHIAN_HORSE_ARCHER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--MADYAN ARCHER -->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_MADYAN_ARCHER</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_MADYAN_ARCHER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_MADYAN_ARCHER</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--SIEGE ELEPHANT-->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--SPARTAN HIPPEIS-->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+
+
+
 
 
 
