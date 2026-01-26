@@ -16,7 +16,7 @@
 			<Type>UNIT_EXOTIC_UNIT_GREEK_HIPPEIS</Type>
 			<Combat>14</Combat>
 			<Moves>4</Moves>
-			<Cost>75</Cost>
+			<Cost>88</Cost>
 			<!--<FaithCost>160</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
 			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>

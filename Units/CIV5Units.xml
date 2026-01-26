@@ -6288,27 +6288,515 @@
 		</Row>
 		<!--SPARTAN HIPPEIS-->
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<UnitType>UNIT_EXOTIC_UNIT_GREEK_HIPPEIS</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<UnitType>UNIT_EXOTIC_UNIT_GREEK_HIPPEIS</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--ВСАДНИКИ -->
+		<Row>
+			<UnitType>UNIT_HORSEMAN</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ARES EQUESTRIAN -->
+		<Row>
+			<UnitType>UNIT_TROJAN</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TROJAN</UnitType>
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+
+
+		<!--ГЕТАЙРЫ -->
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<UnitType>UNIT_GREEK_COMPANIONCAVALRY</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREEK_COMPANIONCAVALRY</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- КАТАФРАКТЫ-->
+		<Row>
+			<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- ЛЕСНЫЕ СЛОНЫ-->
+		<Row>
+			<UnitType>UNIT_CARTHAGINIAN_FOREST_ELEPHANT</UnitType>
 			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
-			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
-			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<UnitType>UNIT_CARTHAGINIAN_FOREST_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КАТАПУЛЬТЫ -->
+		<Row>
+			<UnitType>UNIT_CATAPULT</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CATAPULT</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--БАЛЛИСТЫ -->
+		<Row>
+			<UnitType>UNIT_ROMAN_BALLISTA</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_BALLISTA</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- ОСАДНАЯ БАШНЯ-->
+		<Row>
+			<UnitType>UNIT_ASSYRIAN_SIEGE_TOWER</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ASSYRIAN_SIEGE_TOWER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МЕТКИЕ ЛУЧНИКИ -->
+		<Row>
+			<UnitType>UNIT_COMPOSITE_BOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
 
+		<!--МЕЧНИКИ -->
+		<Row>
+			<UnitType>UNIT_SWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--BERSERKER -->
+		<Row>
+			<UnitType>UNIT_BERSERKER</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BERSERKER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--MINOTAUROS -->
+		<Row>
+			<UnitType>UNIT_MINOAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MINOAN</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ВОИНЫ-МОГАВКИ -->
+		<Row>
+			<UnitType>UNIT_IROQUOIAN_MOHAWKWARRIOR</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_IROQUOIAN_MOHAWKWARRIOR</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЛЕГИОН -->
+		<Row>
+			<UnitType>UNIT_ROMAN_LEGION</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_LEGION</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_LEGION</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МАККАВЕЙ-->
+		<Row>
+			<UnitType>UNIT_ISRAEL_MACCABEE</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ISRAEL_MACCABEE</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МЕЧНИКИ С КРИСОМ-->
+		<Row>
+			<UnitType>UNIT_KRIS_SWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KRIS_SWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--Средневековье-->
+		<!--CONDOTTIERI-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CONDOTTIERI</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CONDOTTIERI</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--DHOW-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_DHOW</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_DHOW</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--FIRE SHIP-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_FIRE_SHIP</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_FIRE_SHIP</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--GENOESE CROSSBOWMAN-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_GENOESE_CROSSBOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_GENOESE_CROSSBOWMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--HOWDAH-->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_TURRETED_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_TURRETED_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--MOUNTED CROSSBOWMAN-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_FRANKISH_CROSSBOWMAN</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_FRANKISH_CROSSBOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--АРБАЛЕТЧИКИ-->
+		<Row>
+			<UnitType>UNIT_CROSSBOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CROSSBOWMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЙОМЕНЫ-->
+		<Row>
+			<UnitType>UNIT_ENGLISH_LONGBOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENGLISH_LONGBOWMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЧЖУГЭНУ-->
+		<Row>
+			<UnitType>UNIT_CHINESE_CHUKONU</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CHINESE_CHUKONU</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ГАЛЕАС-->
+		<Row>
+			<UnitType>UNIT_GALLEASS</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GALLEASS</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ВЕЛИКИЙ ГАЛЕАС-->
+		<Row>
+			<UnitType>UNIT_VENETIAN_GALLEASS</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_VENETIAN_GALLEASS</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КОРОЛЕВСКИЙ ЧЕМПИОН-->
+		<Row>
+			<UnitType>UNIT_JFD_CHAMPION_KINGS</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_JFD_CHAMPION_KINGS</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЛАНДСНЕХТЫ-->
+		<Row>
+			<UnitType>UNIT_GERMAN_LANDSKNECHT</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GERMAN_LANDSKNECHT</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МЕЧНИКИ-->
+		<Row>
+			<UnitType>UNIT_LONGSWORDMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LONGSWORDMAN</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--БЕРЕСЕРКИ-->
+		<Row>
+			<UnitType>UNIT_DANISH_BERSERKER</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DANISH_BERSERKER</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--САМУРАИ-->
+		<Row>
+			<UnitType>UNIT_JAPANESE_SAMURAI</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_JAPANESE_SAMURAI</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ПИКИНЕРЫ-->
+
+		<!--ИМПИ-->
+
+		<!--РЫЦАРИ-->
+		<Row>
+			<UnitType>UNIT_KNIGHT</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KNIGHT</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--BLOODRIDER-->
+		<Row>
+			<UnitType>UNIT_BLOODRIDER</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BLOODRIDER</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ВСАДНИКИ МАНДЕКАЛУ-->
+		<Row>
+			<UnitType>UNIT_SONGHAI_MUSLIMCAVALRY</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SONGHAI_MUSLIMCAVALRY</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КЕШИКТЕНЫ-->
+		<Row>
+			<UnitType>UNIT_MONGOLIAN_KESHIK</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MONGOLIAN_KESHIK</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КОНКИСТАДОРЫ-->
+		<Row>
+			<UnitType>UNIT_SPANISH_CONQUISTADOR</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPANISH_CONQUISTADOR</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЛУЧНИКИ НА ВЕРБЛЮДАХ-->
+		<Row>
+			<UnitType>UNIT_ARABIAN_CAMELARCHER</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARABIAN_CAMELARCHER</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--СЛОНЫ НАРЕСУАНА-->
+		<Row>
+			<UnitType>UNIT_SIAMESE_WARELEPHANT</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SIAMESE_WARELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЧЕМПИОН-->
+		<Row>
+			<UnitType>UNIT_JFD_CHAMPION</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_JFD_CHAMPION</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ТРЕБУШЕТЫ-->
+		<Row>
+			<UnitType>UNIT_TREBUCHET</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TREBUCHET</UnitType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ХВАЧКА-->
+		<Row>
+			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 
 
