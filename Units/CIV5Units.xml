@@ -6797,7 +6797,326 @@
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<!--Средневековье-->
 
+
+		<!--Новое время-->
+		<!--CAMEL RIFLEMAN-->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_RIFLEMAN</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_RIFLEMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--CAMEL WAR PARTY-->
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_WAR_PARTY</UnitType>
+			<ResourceType>RESOURCE_SMAN_EU_CAMELS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_CAMEL_WAR_PARTY</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--CAVALIER-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CAVALIER</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CAVALIER</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--CORAZZIERI-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CORAZZIERI</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CORAZZIERI</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--CORSAIR-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CORSAIR</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_CORSAIR</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--GREAT BOMBARD-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_GREAT_BOMBARD</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_GREAT_BOMBARD</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--LIL BOMBARD-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_LIL_BOMBARD</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_LIL_BOMBARD</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--WAR JUNK-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_WAR_JUNK</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_WAR_JUNK</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--WILD GEESE-->
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_WILD_GEESE</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXOTIC_UNIT_WILD_GEESE</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--АРКЕБУЗИРЫ-->
+		<Row>
+			<UnitType>UNIT_MUSKETMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSKETMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МИНИТМЕНЫ-->
+		<Row>
+			<UnitType>UNIT_AMERICAN_MINUTEMAN</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AMERICAN_MINUTEMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МУШКЕТЕРЫ-->
+		<Row>
+			<UnitType>UNIT_FRENCH_MUSKETEER</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FRENCH_MUSKETEER</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ТЕРЦИЯ-->
+		<Row>
+			<UnitType>UNIT_SPANISH_TERCIO</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPANISH_TERCIO</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЯНЫЧАРЫ-->
+		<Row>
+			<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КАПЕР-->
+		<Row>
+			<UnitType>UNIT_PRIVATEER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_PRIVATEER</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--МОРСКИЕ ГЕЗЫ-->
+		<Row>
+			<UnitType>UNIT_DUTCH_SEA_BEGGAR</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DUTCH_SEA_BEGGAR</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КАРАВЕЛЛА-->
+		<Row>
+			<UnitType>UNIT_CARAVEL</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CARAVEL</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КОБУКСОН-->
+		<Row>
+			<UnitType>UNIT_KOREA_TURTLE_SHIP</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KOREA_TURTLE_SHIP</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--НАУ-->
+		<Row>
+			<UnitType>UNIT_PORTUGUESE_NAU</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_PORTUGUESE_NAU</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ПУШКИ-->
+		<Row>
+			<UnitType>UNIT_CANNON</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANNON</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--УЛАНЫ-->
+		<Row>
+			<UnitType>UNIT_LANCER</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LANCER</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--КРЫЛАТЫЕ ГУСАРЫ-->
+		<Row>
+			<UnitType>UNIT_POLISH_WINGED_HUSSAR</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_POLISH_WINGED_HUSSAR</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--СИПАХИ-->
+		<Row>
+			<UnitType>UNIT_OTTOMAN_SIPAHI</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_OTTOMAN_SIPAHI</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ХАККАПЕЛИТЫ-->
+		<Row>
+			<UnitType>UNIT_SWEDISH_HAKKAPELIITTA</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SWEDISH_HAKKAPELIITTA</UnitType>
+			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ФРЕГАТ-->
+		<Row>
+			<UnitType>UNIT_FRIGATE</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FRIGATE</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!--ЛИНЕЙНЫЙ КОРАБЛЬ-->
+		<Row>
+			<UnitType>UNIT_ENGLISH_SHIPOFTHELINE</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENGLISH_SHIPOFTHELINE</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--Новое время-->
+
+		<!--Новое время-->
+
+		<!--Новое время-->
 
 
 
