@@ -1878,7 +1878,7 @@
 			<Type>UNIT_LONGSWORDSMAN</Type>
 			<PrereqTech>TECH_STEEL</PrereqTech>
 			<Combat>21</Combat>
-			<Cost>144</Cost>
+			<Cost>245</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -1940,7 +1940,7 @@
 			<PrereqTech>TECH_PHYSICS</PrereqTech>
 			<Combat>12</Combat>
 			<RangedCombat>14</RangedCombat>
-			<Cost>144</Cost>
+			<Cost>195</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -1972,7 +1972,7 @@
 			<Type>UNIT_KNIGHT</Type>
 			<PrereqTech>TECH_CHIVALRY</PrereqTech>
 			<Combat>20</Combat>
-			<Cost>144</Cost>
+			<Cost>235</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>4</Moves>
@@ -2003,7 +2003,7 @@
 			<PrereqTech>TECH_CHIVALRY</PrereqTech>
 			<Combat>17</Combat>
 			<RangedCombat>21</RangedCombat>
-			<Cost>144</Cost>
+			<Cost>230</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>4</Moves>
@@ -2064,7 +2064,7 @@
 			<Type>UNIT_SONGHAI_MUSLIMCAVALRY</Type>
 			<PrereqTech>TECH_CHIVALRY</PrereqTech>
 			<Combat>20</Combat>
-			<Cost>132</Cost>
+			<Cost>235</Cost>
 			<FaithCost>220</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>4</Moves>
@@ -2095,7 +2095,7 @@
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
 			<Combat>13</Combat>
 			<RangedCombat>18</RangedCombat>
-			<Cost>144</Cost>
+			<Cost>200</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2126,7 +2126,7 @@
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
 			<Combat>13</Combat>
 			<RangedCombat>14</RangedCombat>
-			<Cost>144</Cost>
+			<Cost>200</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2157,7 +2157,7 @@
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
 			<Combat>13</Combat>
 			<RangedCombat>18</RangedCombat>
-			<Cost>144</Cost>
+			<Cost>200</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2187,7 +2187,7 @@
 			<Type>UNIT_PIKEMAN</Type>
 			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
 			<Combat>16</Combat>
-			<Cost>108</Cost>
+			<Cost>225</Cost>
 			<FaithCost>180</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2217,7 +2217,7 @@
 			<Type>UNIT_GERMAN_LANDSKNECHT</Type>
 			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
 			<Combat>16</Combat>
-			<Cost>54</Cost>
+			<Cost>220</Cost>
 			<Moves>2</Moves>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -2248,7 +2248,7 @@
 			<PrereqTech>TECH_MATHEMATICS</PrereqTech>
 			<Combat>7</Combat>
 			<RangedCombat>8</RangedCombat>
-			<Cost>83</Cost>
+			<Cost>95</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2282,7 +2282,7 @@
 			<PrereqTech>TECH_MATHEMATICS</PrereqTech>
 			<Combat>8</Combat>
 			<RangedCombat>10</RangedCombat>
-			<Cost>83</Cost>
+			<Cost>110</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2315,7 +2315,7 @@
 			<Type>UNIT_HORSEMAN</Type>
 			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
 			<Combat>12</Combat>
-			<Cost>83</Cost>
+			<Cost>115</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>4</Moves>
@@ -2346,7 +2346,7 @@
 			<Type>UNIT_GREEK_COMPANIONCAVALRY</Type>
 			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
 			<Combat>14</Combat>
-			<Cost>83</Cost>
+			<Cost>180</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>5</Moves>
@@ -2377,7 +2377,7 @@
 			<Type>UNIT_SWORDSMAN</Type>
 			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			<Combat>14</Combat>
-			<Cost>83</Cost>
+			<Cost>180</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2409,7 +2409,7 @@
 			<Type>UNIT_IROQUOIAN_MOHAWKWARRIOR</Type>
 			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			<Combat>14</Combat>
-			<Cost>83</Cost>
+			<Cost>180</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -2440,7 +2440,7 @@
 			<Type>UNIT_ROMAN_LEGION</Type>
 			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			<Combat>17</Combat>
-			<Cost>83</Cost>
+			<Cost>190</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -5880,14 +5880,7 @@
 			<UnitType>UNIT_SONGHAI_MUSLIMCAVALRY</UnitType>
 			<ResourceType>RESOURCE_HORSE</ResourceType>
 		</Row>
-		<Row>
-			<UnitType>UNIT_LONGSWORDSMAN</UnitType>
-			<ResourceType>RESOURCE_IRON</ResourceType>
-		</Row>
-		<Row>
-			<UnitType>UNIT_JAPANESE_SAMURAI</UnitType>
-			<ResourceType>RESOURCE_IRON</ResourceType>
-		</Row>
+
 		<Row>
 			<UnitType>UNIT_LANCER</UnitType>
 			<ResourceType>RESOURCE_HORSE</ResourceType>
@@ -6613,7 +6606,7 @@
 		</Row>
 		<Row>
 			<UnitType>UNIT_EXOTIC_UNIT_GENOESE_CROSSBOWMAN</UnitType>
-			<ResourceType>RESOURCE_IRON</ResourceType>
+			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6626,6 +6619,11 @@
 		<Row>
 			<UnitType>UNIT_SMAN_EU_TURRETED_ELEPHANT</UnitType>
 			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_TURRETED_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6700,6 +6698,11 @@
 			<ResourceType>RESOURCE_STONE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_VENETIAN_GALLEASS</UnitType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 		<!--КОРОЛЕВСКИЙ ЧЕМПИОН-->
 		<Row>
@@ -6712,11 +6715,21 @@
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_JFD_CHAMPION_KINGS</UnitType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_JFD_CHAMPION_KINGS</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 		<!--ЛАНДСНЕХТЫ-->
 		<Row>
 			<UnitType>UNIT_GERMAN_LANDSKNECHT</UnitType>
-			<ResourceType>RESOURCE_IRON</ResourceType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
@@ -6727,37 +6740,37 @@
 
 		<!--МЕЧНИКИ-->
 		<Row>
-			<UnitType>UNIT_LONGSWORDMAN</UnitType>
-			<ResourceType>RESOURCE_IRON</ResourceType>
+			<UnitType>UNIT_LONGSWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
-			<UnitType>UNIT_LONGSWORDMAN</UnitType>
-			<ResourceType>RESOURCE_STONE</ResourceType>
+			<UnitType>UNIT_LONGSWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
 		<!--БЕРЕСЕРКИ-->
 		<Row>
 			<UnitType>UNIT_DANISH_BERSERKER</UnitType>
-			<ResourceType>RESOURCE_IRON</ResourceType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
 			<UnitType>UNIT_DANISH_BERSERKER</UnitType>
-			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
 		<!--САМУРАИ-->
 		<Row>
 			<UnitType>UNIT_JAPANESE_SAMURAI</UnitType>
-			<ResourceType>RESOURCE_IRON</ResourceType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
 			<UnitType>UNIT_JAPANESE_SAMURAI</UnitType>
-			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6776,6 +6789,11 @@
 			<ResourceType>RESOURCE_IRON</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_KNIGHT</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 		<!--BLOODRIDER-->
 		<Row>
@@ -6786,6 +6804,11 @@
 		<Row>
 			<UnitType>UNIT_BLOODRIDER</UnitType>
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BLOODRIDER</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6800,6 +6823,11 @@
 			<ResourceType>RESOURCE_IRON</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_SONGHAI_MUSLIMCAVALRY</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 		<!--КЕШИКТЕНЫ-->
 		<Row>
@@ -6812,7 +6840,11 @@
 			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
 			<Cost>1</Cost>
 		</Row>
-
+		<Row>
+			<UnitType>UNIT_MONGOLIAN_KESHIK</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 		<!--КОНКИСТАДОРЫ-->
 		<Row>
 			<UnitType>UNIT_SPANISH_CONQUISTADOR</UnitType>
@@ -6822,6 +6854,11 @@
 		<Row>
 			<UnitType>UNIT_SPANISH_CONQUISTADOR</UnitType>
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPANISH_CONQUISTADOR</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6836,7 +6873,11 @@
 			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
 			<Cost>1</Cost>
 		</Row>
-
+		<Row>
+			<UnitType>UNIT_ARABIAN_CAMELARCHER</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 		<!--СЛОНЫ НАРЕСУАНА-->
 		<Row>
 			<UnitType>UNIT_SIAMESE_WARELEPHANT</UnitType>
@@ -6846,6 +6887,16 @@
 		<Row>
 			<UnitType>UNIT_SIAMESE_WARELEPHANT</UnitType>
 			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SIAMESE_WARELEPHANT</UnitType>
+			<ResourceType>RESOURCE_GAIA_JADE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SIAMESE_WARELEPHANT</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6873,6 +6924,7 @@
 			<Cost>1</Cost>
 		</Row>
 
+
 		<!--ХВАЧКА-->
 		<Row>
 			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
@@ -6887,6 +6939,11 @@
 		<Row>
 			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
 			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
+			<ResourceType>RESOURCE_CLAY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!--Средневековье-->

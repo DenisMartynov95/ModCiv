@@ -7,7 +7,7 @@
 			<Type>UNIT_BERSERKER</Type>
 			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			<Combat>17</Combat>
-			<Cost>120</Cost>
+			<Cost>200</Cost>
 			<Moves>3</Moves>
 			<HurryCostModifier>20</HurryCostModifier>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>

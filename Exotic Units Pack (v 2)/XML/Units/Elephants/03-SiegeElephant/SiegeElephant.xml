@@ -18,7 +18,7 @@
 			<Combat>10</Combat>
 			<RangedCombat>14</RangedCombat>
 			<Range>2</Range>
-			<Cost>120</Cost>
+			<Cost>170</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>

@@ -61,7 +61,7 @@
 			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
 			<Combat>7</Combat>
 			<RangedCombat>11</RangedCombat>
-			<Cost>83</Cost>
+			<Cost>97</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -93,7 +93,7 @@
 			<PrereqTech>TECH_COMPASS</PrereqTech>
 			<Combat>16</Combat>
 			<RangedCombat>17</RangedCombat>
-			<Cost>120</Cost>
+			<Cost>215</Cost>
 			<Moves>3</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>

@@ -18,7 +18,7 @@
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
 			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
 			<Combat>20</Combat>
-			<Cost>60</Cost>
+			<Cost>1150</Cost>
 			<Moves>2</Moves>
 			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
 			<Domain>DOMAIN_SEA</Domain>
@@ -38,7 +38,7 @@
 			
 			<Mechanized>true</Mechanized>
 			<HurryCostModifier>10</HurryCostModifier>
-			<AdvancedStartCost>10</AdvancedStartCost>
+			<AdvancedStartCost>20</AdvancedStartCost>
 			<MinAreaSize>10</MinAreaSize>
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>

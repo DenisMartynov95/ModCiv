@@ -16,7 +16,7 @@
 			<Class>UNITCLASS_SMAN_EU_BATTLE_ELEPHANT</Class>
 			<Type>UNIT_SMAN_EU_BATTLE_ELEPHANT</Type>
 			<Combat>18</Combat>
-			<Cost>130</Cost>
+			<Cost>140</Cost>
 			<FaithCost>200</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>

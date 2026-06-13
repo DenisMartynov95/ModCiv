@@ -18,7 +18,7 @@
 			<RangedCombat>18</RangedCombat>
 			<Range>2</Range>
 			<Moves>2</Moves>
-			<Cost>144</Cost>
+			<Cost>980</Cost>
 			<!--<FaithCost>190</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
 			<PrereqTech>TECH_MACHINERY</PrereqTech>

@@ -17,7 +17,7 @@
 			<ObsoleteTech>TECH_NAVIGATION</ObsoleteTech>
 			<Combat>16</Combat>
 			<Moves>3</Moves>
-			<Cost>100</Cost>			
+			<Cost>1030</Cost>
 			<!--<FaithCost>220</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
 			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
@@ -37,7 +37,7 @@
 			<Pillage>true</Pillage>
 			
 			<Mechanized>true</Mechanized>			
-			<AdvancedStartCost>10</AdvancedStartCost>
+			<AdvancedStartCost>20</AdvancedStartCost>
 			<MinAreaSize>10</MinAreaSize>
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>

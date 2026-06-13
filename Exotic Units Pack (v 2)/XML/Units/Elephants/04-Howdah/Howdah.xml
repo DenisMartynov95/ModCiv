@@ -16,7 +16,7 @@
 			<Class>UNITCLASS_SMAN_EU_TURRETED_ELEPHANT</Class>
 			<Type>UNIT_SMAN_EU_TURRETED_ELEPHANT</Type>
 			<Combat>24</Combat>
-			<Cost>140</Cost>
+			<Cost>245</Cost>
 			<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>4</Moves>

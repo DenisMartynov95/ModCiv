@@ -16,7 +16,7 @@
 			<Type>UNIT_EXOTIC_UNIT_CONDOTTIERI</Type>
 			<Combat>22</Combat>
 			<Moves>2</Moves>
-			<Cost>120</Cost>
+			<Cost>1200</Cost>
 			<!--<FaithCost>240</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
 			<PrereqTech>TECH_STEEL</PrereqTech>
@@ -37,7 +37,7 @@
 			<NoMaintenance>true</NoMaintenance>
 			<Pillage>true</Pillage>
 
-			<AdvancedStartCost>10</AdvancedStartCost>
+			<AdvancedStartCost>20</AdvancedStartCost>
 			<HurryCostModifier>10</HurryCostModifier>
 			<MinAreaSize>-1</MinAreaSize>
 			<XPValueAttack>3</XPValueAttack>

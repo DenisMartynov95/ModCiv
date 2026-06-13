@@ -123,7 +123,7 @@
 			<Type>UNIT_MINOAN</Type>
 			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			<Combat>17</Combat>
-			<Cost>104</Cost>
+			<Cost>174</Cost>
 			<Moves>2</Moves>
 			<HurryCostModifier>20</HurryCostModifier>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
@@ -154,7 +154,7 @@
 			<Type>UNIT_TROJAN</Type>
 			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
 			<Combat>13</Combat>
-			<Cost>87</Cost>
+			<Cost>120</Cost>
 			<Moves>4</Moves>
 			<HurryCostModifier>20</HurryCostModifier>
 			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>

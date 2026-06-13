@@ -7,7 +7,7 @@
 			<Type>UNIT_ISRAEL_MACCABEE</Type>
 			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			<Combat>14</Combat>
-			<Cost>75</Cost>
+			<Cost>177</Cost>
 			<FaithCost>200</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>

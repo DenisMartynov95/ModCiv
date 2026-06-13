@@ -4,13 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Новое время">
-      <change beforePath="$PROJECT_DIR$/+Resource Compendium+ (v 600)/Resources/TEXT/Resources_RU_RU.xml" beforeDir="false" afterPath="$PROJECT_DIR$/+Resource Compendium+ (v 600)/Resources/TEXT/Resources_RU_RU.xml" afterDir="false" />
+    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Закончил Античное время и Древнее вермя">
+      <change beforePath="$PROJECT_DIR$/+Resource Compendium+ (v 600)/Resources/DB/Resources_New.sql" beforeDir="false" afterPath="$PROJECT_DIR$/+Resource Compendium+ (v 600)/Resources/DB/Resources_New.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/Units.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/01-AkkadianHorseArcher/AkkadianHA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/01-AkkadianHorseArcher/AkkadianHA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ancient Mediterranean Civs - Greek Epic (v 2)/XML/Units/P3_Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ancient Mediterranean Civs - Greek Epic (v 2)/XML/Units/P3_Units.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Camels/01-Bowman/CamelBowman.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Camels/01-Bowman/CamelBowman.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Camels/02-RaidingParty/CamelRaidingParty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Camels/02-RaidingParty/CamelRaidingParty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Elephants/02-BattleElephant/BattleElephant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Elephants/02-BattleElephant/BattleElephant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Elephants/03-SiegeElephant/SiegeElephant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Elephants/03-SiegeElephant/SiegeElephant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Elephants/04-Howdah/Howdah.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Elephants/04-Howdah/Howdah.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/02-ScythianHorseArcher/ScythianHA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/02-ScythianHorseArcher/ScythianHA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/03-FrankishCrossbowman/FrankishCrossbowman.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/03-FrankishCrossbowman/FrankishCrossbowman.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/Ghazi/Ghazi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/Ghazi/Ghazi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/GreekHippeis/GreekHippeis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/GreekHippeis/GreekHippeis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/MadyanArchers/MadyanArchers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/2-Classical/MadyanArchers/MadyanArchers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/Dhow/Dhow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/Dhow/Dhow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/FireShip/FireShip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/FireShip/FireShip.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/GenoeseCrossbowman/GenoeseCrossbowman.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/GenoeseCrossbowman/GenoeseCrossbowman.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/4-Renaissance/Condottieri/Condottieri.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/4-Renaissance/Condottieri/Condottieri.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leugi's Israel Civilization (v 7)/XML/Units/NewUnitsIsrael.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leugi's Israel Civilization (v 7)/XML/Units/NewUnitsIsrael.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/CIV5Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Units/CIV5Units.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/CIV5Units_Expansion2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Units/CIV5Units_Expansion2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/CIV5Units_Inherited_Expansion2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Units/CIV5Units_Inherited_Expansion2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikings (v 3)/Units/Berserker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Vikings (v 3)/Units/Berserker.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769636817044</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Закончил Античное время и Древнее вермя">
+      <option name="closed" value="true" />
+      <created>1781371868901</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1781371868901</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +218,8 @@
     <MESSAGE value="Продолжаю Античность" />
     <MESSAGE value="Продолжаю Средневековье" />
     <MESSAGE value="Новое время" />
-    <option name="LAST_COMMIT_MESSAGE" value="Новое время" />
+    <MESSAGE value="Закончил Античное время и Древнее вермя" />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончил Античное время и Древнее вермя" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

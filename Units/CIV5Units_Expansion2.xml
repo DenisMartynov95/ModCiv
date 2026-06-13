@@ -8,7 +8,7 @@
 			<Type>UNIT_ZULU_IMPI</Type>
 			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
 			<Combat>16</Combat>
-			<Cost>108</Cost>
+			<Cost>225</Cost>
 			<FaithCost>180</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -238,7 +238,7 @@
 			<Type>UNIT_ASSYRIAN_SIEGE_TOWER</Type>
 			<PrereqTech>TECH_MATHEMATICS</PrereqTech>
 			<Combat>12</Combat>
-			<Cost>83</Cost>
+			<Cost>127</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -369,7 +369,7 @@
 			<PrereqTech>TECH_COMPASS</PrereqTech>
 			<Combat>18</Combat>
 			<RangedCombat>20</RangedCombat>
-			<Cost>132</Cost>
+			<Cost>235</Cost>
 			<Moves>3</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
@@ -493,7 +493,7 @@
 			<Type>UNIT_KRIS_SWORDSMAN</Type>
 			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			<Combat>14</Combat>
-			<Cost>83</Cost>
+			<Cost>180</Cost>
 			<FaithCost>150</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
