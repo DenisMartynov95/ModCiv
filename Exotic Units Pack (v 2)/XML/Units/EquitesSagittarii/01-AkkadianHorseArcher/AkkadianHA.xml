@@ -15,7 +15,7 @@
 			<Class>UNITCLASS_EXOTIC_UNIT_AKKADIAN_HORSE_ARCHER</Class>
 			<Type>UNIT_EXOTIC_UNIT_AKKADIAN_HORSE_ARCHER</Type>
 			<Combat>7</Combat>
-			<RangedCombat>10</RangedCombat>
+			<RangedCombat>8</RangedCombat>
 			<Range>2</Range>
 			<Moves>3</Moves>
 			<Cost>56</Cost>

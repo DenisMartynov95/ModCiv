@@ -39,7 +39,7 @@
 			<NoMaintenance>true</NoMaintenance>
 			<Pillage>true</Pillage>
 
-			<AdvancedStartCost>10</AdvancedStartCost>
+			<AdvancedStartCost>20</AdvancedStartCost>
 			<HurryCostModifier>10</HurryCostModifier>
 			<MinAreaSize>-1</MinAreaSize>
 			<XPValueAttack>3</XPValueAttack>

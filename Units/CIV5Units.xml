@@ -2538,7 +2538,7 @@
 			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
 			<Combat>9</Combat>
 			<RangedCombat>11</RangedCombat>
-			<Cost>75</Cost>
+			<Cost>70</Cost>
 			<FaithCost>140</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>3</Moves>
@@ -6004,10 +6004,16 @@
 			<ResourceType>RESOURCE_CLAY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+
 		<!-- Heqetai-->
 		<Row>
 			<UnitType>UNIT_HEQETAI</UnitType>
 			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HEQETAI</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!-- Phalax-->
@@ -6027,6 +6033,11 @@
 			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_SPARTAN</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 		<!-- Бессмертные-->
 		<Row>
 			<UnitType>UNIT_PERSIAN_IMMORTAL</UnitType>
@@ -6043,6 +6054,11 @@
 		<Row>
 			<UnitType>UNIT_GREEK_HOPLITE</UnitType>
 			<ResourceType>RESOURCE_CLAY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREEK_HOPLITE</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!-- ЭЛИТНЫЕ ГОПЛИТЫ-->
@@ -6069,6 +6085,17 @@
 			<ResourceType>RESOURCE_CLAY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_BRONZESWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BRONZESWORDSMAN</UnitType>
+			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
 		<!-- Horse bowman (lite)-->
 		<Row>
 			<UnitType>UNIT_GREATZERO</UnitType>
@@ -6097,6 +6124,11 @@
 			<ResourceType>RESOURCE_HORSE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_CHARIOT_ARCHER</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 		<!-- Боевые колесницы-->
 		<Row>
 			<UnitType>UNIT_EGYPTIAN_WARCHARIOT</UnitType>
@@ -6108,6 +6140,7 @@
 			<ResourceType>RESOURCE_HORSE</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+
 		<!-- Боевые слоны-->
 		<Row>
 			<UnitType>UNIT_INDIAN_WARELEPHANT</UnitType>
@@ -6117,6 +6150,11 @@
 		<Row>
 			<UnitType>UNIT_INDIAN_WARELEPHANT</UnitType>
 			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INDIAN_WARELEPHANT</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!-- Конные лучники-->
@@ -6139,6 +6177,11 @@
 		<Row>
 			<UnitType>UNIT_SMAN_EU_TAMED_MAMMOTH</UnitType>
 			<ResourceType>RESOURCE_SMAN_EU_ELEPHANTS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_TAMED_MAMMOTH</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!-- Трирема-->
@@ -6286,6 +6329,12 @@
 			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_SMAN_EU_SIEGE_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
 		<!--SPARTAN HIPPEIS-->
 		<Row>
 			<UnitType>UNIT_EXOTIC_UNIT_GREEK_HIPPEIS</UnitType>
@@ -6352,6 +6401,11 @@
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_CARTHAGINIAN_FOREST_ELEPHANT</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 		<!--КАТАПУЛЬТЫ -->
 		<Row>
@@ -6364,6 +6418,11 @@
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_CATAPULT</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 		<!--БАЛЛИСТЫ -->
 		<Row>
@@ -6373,9 +6432,16 @@
 		</Row>
 		<Row>
 			<UnitType>UNIT_ROMAN_BALLISTA</UnitType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_BALLISTA</UnitType>
 			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+
+
 
 		<!-- ОСАДНАЯ БАШНЯ-->
 		<Row>
@@ -6385,9 +6451,15 @@
 		</Row>
 		<Row>
 			<UnitType>UNIT_ASSYRIAN_SIEGE_TOWER</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_ASSYRIAN_SIEGE_TOWER</UnitType>
+			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
 
 		<!--МЕТКИЕ ЛУЧНИКИ -->
 		<Row>
@@ -6415,6 +6487,11 @@
 			<ResourceType>RESOURCE_GAIA_TIN</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_BERSERKER</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 		<!--MINOTAUROS -->
 		<Row>
@@ -6425,6 +6502,11 @@
 		<Row>
 			<UnitType>UNIT_MINOAN</UnitType>
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MINOAN</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6454,6 +6536,11 @@
 		<Row>
 			<UnitType>UNIT_ROMAN_LEGION</UnitType>
 			<ResourceType>RESOURCE_GAIA_FLAX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROMAN_LEGION</UnitType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 
@@ -6789,12 +6876,17 @@
 		<!--ХВАЧКА-->
 		<Row>
 			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
-			<ResourceType>RESOURCE_GAIA_TIMBER</ResourceType>
+			<ResourceType>RESOURCE_GAIA_AMBER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>
 			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
 			<ResourceType>RESOURCE_OBSIDIAN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<!--Средневековье-->

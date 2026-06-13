@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Продолжаю Средневековье">
+    <list default="true" id="88c24d6b-9dd6-4984-bd3a-cc233fa6f74c" name="Changes" comment="Новое время">
+      <change beforePath="$PROJECT_DIR$/+Resource Compendium+ (v 600)/Resources/TEXT/Resources_RU_RU.xml" beforeDir="false" afterPath="$PROJECT_DIR$/+Resource Compendium+ (v 600)/Resources/TEXT/Resources_RU_RU.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bronze Age Units (v 5)/Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze Age Units (v 5)/Units.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/01-AkkadianHorseArcher/AkkadianHA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/EquitesSagittarii/01-AkkadianHorseArcher/AkkadianHA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/GenoeseCrossbowman/GenoeseCrossbowman.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exotic Units Pack (v 2)/XML/Units/Mercenaries/3-Medieval/GenoeseCrossbowman/GenoeseCrossbowman.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/CIV5Units.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Units/CIV5Units.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769427132802</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Новое время">
+      <option name="closed" value="true" />
+      <created>1769636817044</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1769636817044</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +193,8 @@
     <MESSAGE value="Начинаю Античность" />
     <MESSAGE value="Продолжаю Античность" />
     <MESSAGE value="Продолжаю Средневековье" />
-    <option name="LAST_COMMIT_MESSAGE" value="Продолжаю Средневековье" />
+    <MESSAGE value="Новое время" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новое время" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
